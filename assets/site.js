@@ -8,7 +8,7 @@
         If your project is in the EU region, change api_host to
         https://eu.i.posthog.com
      ============================================================ */
-  var POSTHOG_KEY = 'phc_PASTE_YOUR_KEY_HERE';
+  var POSTHOG_KEY = 'phc_pSMS9UwJ6WknXf3iMRQ9P83mrELnUNqJeyHXwHGPqHMG';
   var POSTHOG_HOST = 'https://us.i.posthog.com';
 
   var LANG = document.documentElement.lang || 'en';
