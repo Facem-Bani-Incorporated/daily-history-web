@@ -23,6 +23,34 @@
     else if (sessionStorage.getItem('dh_' + k)) { utm[k] = sessionStorage.getItem('dh_' + k); }
   });
 
+  /* ---------- Play Store install referrer ----------
+     The browser does not forward "came from TikTok" through the store
+     link, so Play logs the install with no referrer and Firebase files it
+     under organic. We rebuild the referrer from the UTMs on the URL (or
+     the ones kept in sessionStorage from the landing hit) and hand it to
+     Play, which passes it to the app on first open.
+     iOS has no equivalent — Apple drops referrers — so there the only
+     signal is the store_click event below. */
+  function playReferrer() {
+    var r = {
+      utm_source: utm.utm_source || 'website',
+      utm_medium: utm.utm_medium || 'website',
+      utm_campaign: utm.utm_campaign || 'direct'
+    };
+    if (utm.utm_content) { r.utm_content = utm.utm_content; }
+    if (utm.utm_term) { r.utm_term = utm.utm_term; }
+    return Object.keys(r).map(function (k) {
+      return k + '=' + encodeURIComponent(r[k]);
+    }).join('&');
+  }
+
+  function tagPlayLinks() {
+    var ref = encodeURIComponent(playReferrer());
+    document.querySelectorAll('a[href*="play.google.com"]').forEach(function (a) {
+      a.href = a.href.split('&referrer=')[0] + '&referrer=' + ref;
+    });
+  }
+
   /* ---------- PostHog loader (official snippet, minified) ---------- */
   !function (t, e) { var o, n, p, r; e.__SV || (window.posthog = e, e._i = [], e.init = function (i, s, a) { function g(t, e) { var o = e.split("."); 2 == o.length && (t = t[o[0]], e = o[1]), t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))) } } (p = t.createElement("script")).type = "text/javascript", p.crossOrigin = "anonymous", p.async = !0, p.src = s.api_host.replace(".i.posthog.com", "-assets.i.posthog.com") + "/static/array.js", (r = t.getElementsByTagName("script")[0]).parentNode.insertBefore(p, r); var u = e; for (void 0 !== a ? u = e[a] = [] : a = "posthog", u.people = u.people || [], u.toString = function (t) { var e = "posthog"; return "posthog" !== a && (e += "." + a), t || (e += " (stub)"), e }, u.people.toString = function () { return u.toString(1) + ".people (stub)" }, o = "init capture register register_once register_for_session unregister unregister_for_session getFeatureFlag getFeatureFlagPayload isFeatureEnabled reloadFeatureFlags updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures on onFeatureFlags onSessionId getSurveys getActiveMatchingSurveys renderSurvey canRenderSurvey identify setPersonProperties group resetGroups setPersonPropertiesForFlags resetPersonPropertiesForFlags setGroupPropertiesForFlags resetGroupPropertiesForFlags reset get_distinct_id getGroups get_session_id get_session_replay_url alias set_config startSessionRecording stopSessionRecording sessionRecordingStarted captureException loadToolbar get_property getSessionProperty createPersonProfile opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing clear_opt_in_out_capturing debug getPageViewId captureTraceFeedback captureTraceMetric".split(" "), n = 0; n < o.length; n++)g(u, o[n]); e._i.push([i, s, a]) }, e.__SV = 1) }(document, window.posthog || []);
 
@@ -55,6 +83,8 @@
       } catch (e) { /* keep static fallback text */ }
     }
 
+    tagPlayLinks();
+
     /* ---------- Platform detection: Android sees Google Play first ---------- */
     var isAndroid = /android/i.test(navigator.userAgent);
     var stores = document.querySelector('.stores');
@@ -74,7 +104,8 @@
         track('store_click', {
           store: btn.getAttribute('data-store'),
           device_platform: isAndroid ? 'android' : (/iphone|ipad|ipod/i.test(navigator.userAgent) ? 'ios' : 'desktop'),
-          placement: btn.getAttribute('data-placement') || 'hero'
+          placement: btn.getAttribute('data-placement') || 'hero',
+          play_referrer: btn.getAttribute('data-store') === 'android' ? playReferrer() : null
         });
       });
     });
