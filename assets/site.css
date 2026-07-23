@@ -377,3 +377,190 @@ footer {
 /* Focus visibility survives the restyle. */
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 
+/* ============================================================================
+   MOTION
+   ----------------------------------------------------------------------------
+   Everything below is native CSS: view transitions, scroll-driven timelines and
+   @property interpolation. No animation library, no requestAnimationFrame loop,
+   nothing that can block the main thread or delay the largest paint. All of it
+   is progressive — a browser without support gets the static page — and all of
+   it is off under prefers-reduced-motion.
+   ========================================================================== */
+
+/* ---- Cross-document view transitions --------------------------------------
+   Navigating landing -> story morphs the shared elements instead of repainting
+   a new page. A view-transition-name must be unique within a document, so only
+   one element may carry a given name at a time. */
+@view-transition { navigation: auto; }
+
+::view-transition-group(*) {
+  animation-duration: 0.5s;
+  animation-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+::view-transition-old(root) { animation: vt-out 0.32s cubic-bezier(0.4, 0, 1, 1) both; }
+::view-transition-new(root) { animation: vt-in 0.42s cubic-bezier(0, 0, 0.2, 1) 0.06s both; }
+@keyframes vt-out { to { opacity: 0; transform: translateY(-8px); } }
+@keyframes vt-in { from { opacity: 0; transform: translateY(10px); } }
+
+/* The masthead is the same object on every page — holding it still while the
+   rest moves is what makes navigation read as one continuous surface. */
+.masthead { view-transition-name: masthead; }
+::view-transition-group(masthead) { animation-duration: 0.01s; }
+.app-bar { view-transition-name: appbar; }
+
+/* The lead image and headline carry the same names on both pages, so the
+   browser tweens them from one layout into the other. */
+.vt-hero-img { view-transition-name: hero-image; }
+.vt-hero-title { view-transition-name: hero-title; }
+::view-transition-group(hero-image),
+::view-transition-group(hero-title) { animation-duration: 0.62s; }
+::view-transition-old(hero-title), ::view-transition-new(hero-title) { height: 100%; }
+
+/* ---- Reading progress ------------------------------------------------------
+   A hairline that fills with scroll position rather than with a scroll
+   listener, so it costs nothing on the main thread. */
+.progress {
+  position: fixed; inset-inline: 0; top: 0; height: 2px; z-index: 60;
+  transform-origin: 0 50%; transform: scaleX(0);
+  background: linear-gradient(90deg, var(--accent-lo), var(--accent), var(--paper));
+}
+@supports (animation-timeline: scroll()) {
+  .progress { animation: prog linear both; animation-timeline: scroll(root block); }
+}
+@keyframes prog { to { transform: scaleX(1); } }
+
+/* ---- Headline, revealed a word at a time -----------------------------------
+   The generator wraps each word so the delay can cascade. The words are still
+   ordinary text in the DOM — selectable, and read normally by a crawler; this
+   is only a mask over them. */
+/* The padding/negative-margin pair gives the mask room for descenders — without
+   it `overflow: hidden` shaves the tails off g, y and p. */
+.w {
+  display: inline-block; overflow: hidden; vertical-align: top;
+  padding-bottom: 0.14em; margin-bottom: -0.14em;
+}
+.w > i {
+  display: inline-block; font-style: inherit;
+  transform: translateY(102%); opacity: 0;
+  animation: word 0.72s cubic-bezier(0.16, 0.84, 0.32, 1) both;
+  animation-delay: calc(var(--i) * 42ms + 0.08s);
+}
+@keyframes word { to { transform: none; opacity: 1; } }
+
+/* Headlines further down the page wait until they are actually in view. */
+@supports (animation-timeline: view()) {
+  .w-scroll > i {
+    animation-timeline: view();
+    animation-range: entry 8% cover 26%;
+    animation-delay: 0s;
+  }
+}
+
+/* ---- Hero image: a slow drift as the page scrolls ------------------------- */
+@supports (animation-timeline: view()) {
+  .lead-figure img {
+    animation: drift linear both;
+    animation-timeline: view();
+    animation-range: entry 0% exit 100%;
+  }
+}
+@keyframes drift {
+  from { transform: scale(1.06) translateY(-1.2%); }
+  to   { transform: scale(1) translateY(1.2%); }
+}
+
+/* ---- Counters that run up ---------------------------------------------------
+   @property makes an integer interpolable, so the count is a real animation the
+   compositor owns rather than a JavaScript timer. */
+@property --n { syntax: '<integer>'; initial-value: 0; inherits: false; }
+.stat b { font-variant-numeric: tabular-nums; }
+.stat .val { counter-reset: nv var(--n); }
+.stat .val::after { content: counter(nv); }
+@supports (animation-timeline: view()) {
+  .stat .val {
+    animation: countup 1.6s cubic-bezier(0.16, 0.84, 0.32, 1) both;
+    animation-timeline: view();
+    animation-range: entry 10% cover 34%;
+  }
+}
+@keyframes countup { from { --n: 0; } to { --n: var(--to); } }
+/* Without scroll-driven support the number must still be right, not zero. */
+@supports not (animation-timeline: view()) { .stat .val { --n: var(--to); } }
+
+/* ---- Pointer glow -----------------------------------------------------------
+   One fixed layer positioned from custom properties the pointer handler writes.
+   Compositor-only; it never triggers layout. */
+.glow {
+  position: fixed; z-index: 0; pointer-events: none;
+  width: 46rem; height: 46rem; border-radius: 50%;
+  left: var(--mx, 50%); top: var(--my, 30%);
+  translate: -50% -50%;
+  background: radial-gradient(circle, rgba(201, 162, 75, 0.075), transparent 62%);
+  opacity: 0; transition: opacity 0.6s var(--ease);
+}
+body.has-pointer .glow { opacity: 1; }
+@media (hover: none) { .glow { display: none; } }
+
+/* ---- Magnetic call to action ----------------------------------------------- */
+.btn-app {
+  translate: var(--dx, 0) var(--dy, 0);
+  transition: translate 0.25s var(--ease), transform 0.3s var(--ease), background 0.3s var(--ease);
+}
+
+/* ---- Archive: month rail ----------------------------------------------------- */
+.month-head {
+  position: sticky; top: 3.4rem; z-index: 5;
+  display: flex; align-items: baseline; gap: 0.8rem;
+  padding: 1.5rem 0 0.6rem;
+  background: linear-gradient(var(--ink) 62%, transparent);
+  font-family: var(--serif); font-size: 1.1rem; color: var(--accent);
+  scroll-margin-top: 5rem;
+}
+.month-head span {
+  font-family: var(--sans); font-size: 0.63rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--paper-faint);
+}
+
+.month-jump { display: flex; flex-wrap: wrap; gap: 0.45rem; margin: 1.5rem 0 0.4rem; }
+.month-jump a {
+  font-size: 0.67rem; letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 0.42rem 0.82rem; border: 1px solid var(--line); border-radius: 100px;
+  color: var(--paper-dim); text-decoration: none;
+  transition: color 0.3s var(--ease), border-color 0.3s var(--ease), background 0.3s var(--ease);
+}
+.month-jump a:hover { color: var(--ink); background: var(--paper); border-color: var(--paper); }
+
+/* ---- Keyboard hint ---------------------------------------------------------- */
+.kbd-hint {
+  margin-top: 1.2rem; font-size: 0.65rem; letter-spacing: 0.08em;
+  color: var(--paper-faint); display: none;
+}
+@media (hover: hover) and (min-width: 760px) { .kbd-hint { display: block; } }
+.kbd-hint kbd {
+  font-family: var(--sans); font-size: 0.62rem; padding: 0.15rem 0.42rem;
+  border: 1px solid var(--line); border-radius: 4px; margin: 0 0.15rem;
+}
+
+/* ---- Archive rows, dealt in one at a time ------------------------------------ */
+@supports (animation-timeline: view()) {
+  .arch-item {
+    animation: deal 0.7s cubic-bezier(0.16, 0.84, 0.32, 1) both;
+    animation-timeline: view();
+    animation-range: entry 2% cover 18%;
+  }
+}
+@keyframes deal { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+
+/* ---- Everything above, off ---------------------------------------------------
+   Kept in one block so there is a single place to verify that reduced motion is
+   honoured. */
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+  .w > i { animation: none; transform: none; opacity: 1; }
+  .lead-figure img { animation: none; }
+  .arch-item { animation: none; opacity: 1; transform: none; }
+  .progress { display: none; }
+  .glow { display: none; }
+  .btn-app { translate: none; }
+  .stat .val { animation: none; --n: var(--to); }
+}

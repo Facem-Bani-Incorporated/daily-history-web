@@ -167,6 +167,54 @@
       });
     }
 
+    var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    /* ---------- Pointer glow and magnetic button ----------
+       Both write custom properties and let CSS do the compositing, so no frame
+       here ever reads layout. Pointer-coarse devices and reduced-motion skip it
+       entirely rather than paying for a listener they cannot see the result of. */
+    if (!reduceMotion && window.matchMedia && window.matchMedia('(hover: hover)').matches) {
+      var glowQueued = false, lastX = 0, lastY = 0;
+      var appBtn = document.querySelector('.btn-app');
+
+      document.addEventListener('pointermove', function (e) {
+        lastX = e.clientX; lastY = e.clientY;
+        if (glowQueued) return;
+        glowQueued = true;
+        requestAnimationFrame(function () {
+          glowQueued = false;
+          document.body.classList.add('has-pointer');
+          document.documentElement.style.setProperty('--mx', lastX + 'px');
+          document.documentElement.style.setProperty('--my', lastY + 'px');
+
+          if (appBtn) {
+            // getBoundingClientRect is cheap here because it runs at most once
+            // per frame and only while the pointer is near the button.
+            var r = appBtn.getBoundingClientRect();
+            var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+            var dx = lastX - cx, dy = lastY - cy;
+            var near = Math.abs(dx) < r.width * 1.6 && Math.abs(dy) < r.height * 3;
+            appBtn.style.setProperty('--dx', near ? (dx * 0.18).toFixed(1) + 'px' : '0px');
+            appBtn.style.setProperty('--dy', near ? (dy * 0.22).toFixed(1) + 'px' : '0px');
+          }
+        });
+      }, { passive: true });
+    }
+
+    /* ---------- Keyboard: move through the archive by day ----------
+       Ignored while typing, so the email field still behaves. */
+    var prevLink = document.querySelector('.day-nav-item.prev');
+    var nextLink = document.querySelector('.day-nav-item.next');
+    if (prevLink || nextLink) {
+      document.addEventListener('keydown', function (e) {
+        if (e.metaKey || e.ctrlKey || e.altKey) return;
+        var el = document.activeElement;
+        if (el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable)) return;
+        if (e.key === 'ArrowLeft' && prevLink && prevLink.href) { window.location = prevLink.href; }
+        if (e.key === 'ArrowRight' && nextLink && nextLink.href) { window.location = nextLink.href; }
+      });
+    }
+
     /* ---------- Masthead: hairline appears once the page has moved ---------- */
     var mast = document.getElementById('masthead');
     if (mast) {

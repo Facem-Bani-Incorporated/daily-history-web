@@ -35,6 +35,8 @@ function shell({ lang, headTags, bodyClass = '', content, extraCss = true }) {
   <script src="/assets/site.js" defer></script>
 </head>
 <body class="${bodyClass}">
+  <div class="progress" aria-hidden="true"></div>
+  <div class="glow" aria-hidden="true"></div>
 ${content}
 </body>
 </html>
@@ -108,9 +110,51 @@ function stickyBar(lang) {
   </div>`;
 }
 
+/* ---------------------------------- motion ---------------------------------- */
+
+/**
+ * Wrap each word so the reveal can cascade across a headline.
+ *
+ * The words stay ordinary text in the DOM: a crawler reads the headline exactly
+ * as before, and it can still be selected and copied. Only the wrapper is new.
+ * Escaping happens per word, so the markup is safe for any headline.
+ */
+function splitWords(text, { scroll = false } = {}) {
+  const words = String(text).split(/\s+/).filter(Boolean);
+  return `<span class="words${scroll ? ' w-scroll' : ''}">` + words.map((word, i) =>
+    `<span class="w"${scroll ? '' : ` style="--i:${i}"`}><i>${esc(word)}</i></span>`,
+  ).join(' ') + '</span>';
+}
+
+/**
+ * Split "200+" into the number that counts up and the part that does not, so
+ * the counter animates to a real value and the suffix stays put.
+ */
+function statParts(value) {
+  const m = String(value).match(/^(\D*)(\d[\d\s.,]*)(.*)$/);
+  if (!m) return { prefix: esc(value), n: null, suffix: '' };
+  const n = parseInt(m[2].replace(/[\s.,]/g, ''), 10);
+  if (!Number.isFinite(n)) return { prefix: esc(value), n: null, suffix: '' };
+  return { prefix: esc(m[1]), n, suffix: esc(m[3]) };
+}
+
+function statMarkup(value) {
+  const { prefix, n, suffix } = statParts(value);
+  if (n === null) return prefix + suffix;
+  return `${prefix}<span class="val" style="--to:${n}"></span>${suffix}`;
+}
+
+/** "July 2026" in the page's own language, for the archive rails. */
+function monthLabel(lang, isoDate) {
+  const [y, m] = isoDate.split('-').map(Number);
+  return new Intl.DateTimeFormat(INTL_LOCALE[lang], { month: 'long', year: 'numeric', timeZone: 'UTC' })
+    .format(new Date(Date.UTC(y, m - 1, 1)));
+}
+
 /* ---------------------------------- figures --------------------------------- */
 
-function imgTag(image, alt, { eager = false, sizes, className = '' }) {
+function imgTag(image, alt, { eager = false, sizes, className = '', vt = false }) {
+  if (vt) className = (className ? className + ' ' : '') + 'vt-hero-img';
   const sorted = [...image.sources].sort((a, b) => a.width - b.width);
   const largest = sorted[sorted.length - 1];
   const srcset = sorted.map((s) => `${s.src} ${s.width}w`).join(', ');
@@ -176,7 +220,7 @@ function renderLanding({ lang, day, stories, langAvailable, recent, archiveCount
   }).replace(/</g, '\\u003c')}</script>`;
 
   const leadFig = lead.images[0] ? `      <figure class="fig lead-figure">
-        ${imgTag(lead.images[0], lead.alt, { eager: true, sizes: '(min-width: 900px) 42vw, 100vw' })}
+        ${imgTag(lead.images[0], lead.alt, { eager: true, vt: true, sizes: '(min-width: 900px) 42vw, 100vw' })}
         <figcaption>${creditLine(lang, lead.images[0].credit)}</figcaption>
       </figure>` : '';
 
@@ -204,7 +248,7 @@ function renderLanding({ lang, day, stories, langAvailable, recent, archiveCount
           <p class="offer-p">${esc(f.p)}</p>
         </div>`).join('\n');
 
-  const stats = c.stats.map((s) => `        <div class="stat rv"><b>${esc(s.n)}</b><span>${esc(s.l)}</span></div>`).join('\n');
+  const stats = c.stats.map((s) => `        <div class="stat rv"><b>${statMarkup(s.n)}</b><span>${esc(s.l)}</span></div>`).join('\n');
 
   const strip = recent.map((e) => `        <a class="strip-row rv" href="${storyPath(lang, e.date)}">
           <span class="strip-date">${esc(formatDateShort(lang, e.date))}</span>
@@ -229,7 +273,7 @@ function renderLanding({ lang, day, stories, langAvailable, recent, archiveCount
         <div class="lead-text">
           ${lead.categoryLabel ? `<span class="lead-cat enter enter-2">${esc(lead.categoryLabel)}</span>` : ''}
           <h1 class="lead-title enter enter-2">
-            <a class="link-draw" href="${storyPath(lang, day.date)}">${esc(lead.title)}</a>
+            <a class="link-draw vt-hero-title" href="${storyPath(lang, day.date)}">${splitWords(lead.title)}</a>
           </h1>
           <p class="lead-hook enter enter-3">${esc(lead.description)}</p>
           <p class="lead-meta enter enter-3">
@@ -392,7 +436,13 @@ function renderStoryPage({ lang, date, stories, available, prev, next }) {
     const H = idx === 0 ? 'h1' : 'h2';
 
     const figs = s.images.map((img, i) => `        <figure class="fig story-fig${i % 2 ? ' story-fig--right' : ''}${idx === 0 && i === 0 ? '' : ' rv-wipe'}">
-          ${imgTag(img, s.alt, { eager: idx === 0 && i === 0, sizes: '(min-width: 1000px) 780px, 100vw' })}
+          ${imgTag(img, s.alt, {
+            eager: idx === 0 && i === 0,
+            // Only the lead story's first image may carry the shared name: a
+            // view-transition-name must be unique in the document.
+            vt: idx === 0 && i === 0,
+            sizes: '(min-width: 1000px) 780px, 100vw',
+          })}
           <figcaption class="fig-credit">${creditLine(lang, img.credit)}</figcaption>
         </figure>`);
 
@@ -412,7 +462,9 @@ function renderStoryPage({ lang, date, stories, available, prev, next }) {
 
     return `      <article class="story" id="story-${s.id}">
         ${s.categoryLabel ? `<span class="story-cat">${esc(s.categoryLabel)}</span>` : ''}
-        <${H} class="story-title">${esc(s.title)}</${H}>
+        <${H} class="story-title${idx === 0 ? ' vt-hero-title' : ''}">${
+          idx === 0 ? splitWords(s.title) : splitWords(s.title, { scroll: true })
+        }</${H}>
         <p class="story-when">
           <time datetime="${esc(s.eventDate)}">${esc(formatDate(lang, s.eventDate))}</time>
           ${s.location ? `<span class="sep"></span><span class="story-where">${esc(s.location)}</span>` : ''}
@@ -438,7 +490,8 @@ ${hero}
           <span class="day-nav-label">${esc(t(lang, 'nextDay'))} →</span>
           <span class="day-nav-date">${esc(formatDateShort(lang, next))}</span>
         </a>` : '<span class="day-nav-item empty"></span>'}
-      </nav>`;
+      </nav>
+      <p class="kbd-hint">${esc(t(lang, 'kbdHint'))} <kbd>←</kbd><kbd>→</kbd></p>`;
 
   const content = `${masthead(lang)}
   <main>
@@ -501,9 +554,27 @@ function renderIndexPage({ lang, page, totalPages, entries, langAvailable }) {
     + (page < totalPages ? `\n  <link rel="next" href="${SITE_URL}${indexPath(lang, page + 1)}" />` : '')
     + '\n\n  ' + jsonLdIndex({ lang, canonical, entries, breadcrumb });
 
-  const items = entries.map((e) => {
+  // Group by month so a 60-entry page reads as a timeline rather than a list,
+  // and so the jump rail above it has something to land on.
+  const months = [];
+  for (const e of entries) {
+    const key = e.date.slice(0, 7);
+    if (!months.length || months[months.length - 1].key !== key) {
+      months.push({ key, label: monthLabel(lang, e.date), entries: [] });
+    }
+    months[months.length - 1].entries.push(e);
+  }
+
+  const jump = months.length > 1 ? `      <nav class="month-jump" aria-label="${esc(t(lang, 'pageLabel'))}">
+${months.map((m) => `        <a href="#m-${m.key}">${esc(m.label)}</a>`).join('\n')}
+      </nav>` : '';
+
+  const items = months.map((m) => `        <li class="month-head" id="m-${m.key}" role="presentation">
+          ${esc(m.label)} <span>${esc(t(lang, 'storiesCount')(m.entries.length))}</span>
+        </li>
+${m.entries.map((e) => {
     const thumb = e.image ? e.image.sources[0] : null;
-    return `        <li class="arch-item rv">
+    return `        <li class="arch-item">
           <a class="arch-link" href="${storyPath(lang, e.date)}">
             ${thumb ? `<img class="arch-thumb" src="${esc(thumb.src)}" width="${thumb.width}" height="${thumb.height}" alt="" loading="lazy" decoding="async" />`
                     : '<span class="arch-thumb arch-thumb--empty" aria-hidden="true"></span>'}
@@ -515,7 +586,7 @@ function renderIndexPage({ lang, page, totalPages, entries, langAvailable }) {
             <span class="arch-go" aria-hidden="true">→</span>
           </a>
         </li>`;
-  }).join('\n');
+  }).join('\n')}`).join('\n');
 
   const pager = totalPages > 1 ? `      <nav class="pager" aria-label="${esc(t(lang, 'pageLabel'))}">
         ${page > 1 ? `<a class="pager-btn" href="${indexPath(lang, page - 1)}" rel="prev">← ${esc(t(lang, 'newerStories'))}</a>` : '<span class="pager-btn disabled"></span>'}
@@ -531,6 +602,8 @@ function renderIndexPage({ lang, page, totalPages, entries, langAvailable }) {
         <h1 class="dateline-date">${esc(t(lang, 'archiveTitle'))}</h1>
         <p class="dateline-count">${esc(t(lang, 'archiveIntro'))}</p>
       </div>
+
+${jump}
 
       <ol class="arch-list">
 ${items}
