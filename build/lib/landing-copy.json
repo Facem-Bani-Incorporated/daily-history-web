@@ -1,0 +1,247 @@
+{
+  "en": {
+    "metaTitle": "Daily History — On This Day",
+    "metaDesc": "One true story from history every day. The kind school never told you. Stories, maps, quizzes and streaks — free on iOS and Android.",
+    "keywords": "history app, daily history, on this day, historical events, today in history",
+    "ogDesc": "One true story from history every day. The kind school never told you.",
+    "heroH1": "One history story a day. <span class=\"em\">The kind school never told you.</span>",
+    "tagline": "True, surprising, two minutes long. A new one lands every single day.",
+    "heroProof": "<b>200+</b> curious minds · <b>5</b> languages · Free to start",
+    "featEyebrow": "What you get",
+    "features": [
+      {
+        "h": "The story of the day",
+        "p": "One true, surprising story every day — and the exact spot where it happened, on the map."
+      },
+      {
+        "h": "Quizzes",
+        "p": "Prove you were paying attention. Quick quizzes after every story earn you XP."
+      },
+      {
+        "h": "Streaks & XP",
+        "p": "Come back daily, keep the flame alive, and watch your knowledge stack up."
+      }
+    ],
+    "stats": [
+      {
+        "n": "200+",
+        "l": "curious minds"
+      },
+      {
+        "n": "5",
+        "l": "languages"
+      },
+      {
+        "n": "365",
+        "l": "stories a year"
+      }
+    ],
+    "captureH2": "Get the story of the day by email",
+    "captureP": "Not ready to install? One story, once a day, in your inbox.",
+    "emailPlaceholder": "you@email.com",
+    "emailBtn": "Send me history",
+    "emailDone": "&#10003; You're in. First story coming soon.",
+    "emailNote": "No spam. Unsubscribe anytime.",
+    "iosSmall": "Download on the",
+    "androidSmall": "Get it on",
+    "schemaDesc": "One true story from history, every single day. Build a streak, learn something new, and see the past come alive.",
+    "currency": "USD",
+    "featTitle": "History that actually sticks"
+  },
+  "ro": {
+    "metaTitle": "Daily History — Astăzi în Istorie",
+    "metaDesc": "O poveste adevărată din istorie în fiecare zi. Din alea pe care nu ți le-a spus nimeni la școală. Povești, hărți, quiz-uri și serii — gratuit pe iOS și Android.",
+    "keywords": "istorie, aplicatie istorie, astazi in istorie, evenimente istorice",
+    "ogDesc": "O poveste adevărată din istorie în fiecare zi. Din alea pe care nu ți le-a spus nimeni la școală.",
+    "heroH1": "O poveste de istorie pe zi. <span class=\"em\">Din alea pe care nu ți le-a spus nimeni la școală.</span>",
+    "tagline": "Adevărată, surprinzătoare, de două minute. Una nouă în fiecare zi.",
+    "heroProof": "<b>200+</b> minți curioase · <b>5</b> limbi · Gratuit",
+    "featEyebrow": "Ce primești",
+    "features": [
+      {
+        "h": "Povestea zilei",
+        "p": "O poveste adevărată și surprinzătoare în fiecare zi — plus locul exact unde s-a întâmplat, pe hartă."
+      },
+      {
+        "h": "Quiz-uri",
+        "p": "Demonstrează că ai fost atent. Quiz-uri rapide după fiecare poveste îți aduc XP."
+      },
+      {
+        "h": "Serii & XP",
+        "p": "Revino zilnic, ține flacăra aprinsă și vezi cum se adună cunoștințele."
+      }
+    ],
+    "stats": [
+      {
+        "n": "200+",
+        "l": "minți curioase"
+      },
+      {
+        "n": "5",
+        "l": "limbi"
+      },
+      {
+        "n": "365",
+        "l": "povești pe an"
+      }
+    ],
+    "captureH2": "Primește povestea zilei pe email",
+    "captureP": "Nu instalezi acum? O poveste, o dată pe zi, în inbox.",
+    "emailPlaceholder": "tu@email.com",
+    "emailBtn": "Trimite-mi istorie",
+    "emailDone": "&#10003; Gata. Prima poveste vine curând.",
+    "emailNote": "Fără spam. Te dezabonezi oricând.",
+    "iosSmall": "Descarcă din",
+    "androidSmall": "Descarcă din",
+    "schemaDesc": "O poveste reală din istorie, în fiecare zi. Menține-ți seria, învață ceva nou și adu trecutul la viață.",
+    "currency": "RON",
+    "featTitle": "Istorie care chiar rămâne cu tine"
+  },
+  "de": {
+    "metaTitle": "Daily History — Heute in der Geschichte",
+    "metaDesc": "Jeden Tag eine wahre Geschichte aus der Vergangenheit — eine, die dir in der Schule niemand erzählt hat. Karten, Quizze und Serien, kostenlos.",
+    "keywords": "geschichte, geschichts app, an diesem tag, historische ereignisse",
+    "ogDesc": "Jeden Tag eine wahre Geschichte aus der Vergangenheit. Eine, die dir in der Schule niemand erzählt hat.",
+    "heroH1": "Jeden Tag eine wahre Geschichte. <span class=\"em\">Eine, die dir in der Schule niemand erzählt hat.</span>",
+    "tagline": "Wahr, überraschend, in zwei Minuten gelesen. Jeden Tag eine neue.",
+    "heroProof": "<b>200+</b> neugierige Köpfe · <b>5</b> Sprachen · Kostenlos",
+    "featEyebrow": "Was du bekommst",
+    "features": [
+      {
+        "h": "Die Geschichte des Tages",
+        "p": "Jeden Tag eine wahre, überraschende Geschichte — und der genaue Ort auf der Karte, wo sie passiert ist."
+      },
+      {
+        "h": "Quizze",
+        "p": "Zeig, dass du aufgepasst hast. Schnelle Quizze nach jeder Geschichte bringen dir XP."
+      },
+      {
+        "h": "Serien & XP",
+        "p": "Komm täglich zurück, halte die Flamme am Leben und sieh zu, wie dein Wissen wächst."
+      }
+    ],
+    "stats": [
+      {
+        "n": "200+",
+        "l": "neugierige Köpfe"
+      },
+      {
+        "n": "5",
+        "l": "Sprachen"
+      },
+      {
+        "n": "365",
+        "l": "Geschichten im Jahr"
+      }
+    ],
+    "captureH2": "Die Geschichte des Tages per E-Mail",
+    "captureP": "Noch nicht installiert? Eine Geschichte, einmal am Tag, in deinem Posteingang.",
+    "emailPlaceholder": "du@email.com",
+    "emailBtn": "Schick mir Geschichte",
+    "emailDone": "&#10003; Fertig. Die erste Geschichte kommt bald.",
+    "emailNote": "Kein Spam. Jederzeit abbestellbar.",
+    "iosSmall": "Laden im",
+    "androidSmall": "Jetzt bei",
+    "schemaDesc": "Jeden Tag eine wahre Geschichte aus der Vergangenheit. Halte deine Serie, lerne etwas Neues und erwecke die Vergangenheit zum Leben.",
+    "currency": "EUR",
+    "featTitle": "Geschichte, die hängen bleibt"
+  },
+  "es": {
+    "metaTitle": "Daily History — Un día como hoy",
+    "metaDesc": "Una historia real cada día. De las que nunca te contaron en la escuela. Historias, mapas, cuestionarios y rachas — gratis en iOS y Android.",
+    "keywords": "historia, app de historia, un dia como hoy, eventos historicos",
+    "ogDesc": "Una historia real cada día. De las que nunca te contaron en la escuela.",
+    "heroH1": "Una historia real cada día. <span class=\"em\">De las que nunca te contaron en la escuela.</span>",
+    "tagline": "Verdadera, sorprendente, de dos minutos. Una nueva cada día.",
+    "heroProof": "<b>200+</b> mentes curiosas · <b>5</b> idiomas · Gratis",
+    "featEyebrow": "Qué recibes",
+    "features": [
+      {
+        "h": "La historia del día",
+        "p": "Una historia real y sorprendente cada día — y el lugar exacto donde ocurrió, en el mapa."
+      },
+      {
+        "h": "Cuestionarios",
+        "p": "Demuestra que prestaste atención. Cuestionarios rápidos tras cada historia te dan XP."
+      },
+      {
+        "h": "Rachas y XP",
+        "p": "Vuelve cada día, mantén viva la llama y mira cómo crece tu conocimiento."
+      }
+    ],
+    "stats": [
+      {
+        "n": "200+",
+        "l": "mentes curiosas"
+      },
+      {
+        "n": "5",
+        "l": "idiomas"
+      },
+      {
+        "n": "365",
+        "l": "historias al año"
+      }
+    ],
+    "captureH2": "Recibe la historia del día por email",
+    "captureP": "¿No instalas ahora? Una historia, una vez al día, en tu correo.",
+    "emailPlaceholder": "tu@email.com",
+    "emailBtn": "Envíame historia",
+    "emailDone": "&#10003; Listo. La primera historia llega pronto.",
+    "emailNote": "Sin spam. Cancela cuando quieras.",
+    "iosSmall": "Descargar en",
+    "androidSmall": "Disponible en",
+    "schemaDesc": "Una historia real del pasado, cada día. Mantén tu racha, aprende algo nuevo y haz que el pasado cobre vida.",
+    "currency": "EUR",
+    "featTitle": "Historia que de verdad se queda"
+  },
+  "fr": {
+    "metaTitle": "Daily History — Ce jour-là dans l'Histoire",
+    "metaDesc": "Une histoire vraie chaque jour. De celles qu'on ne t'a jamais racontées à l'école. Histoires, cartes, quiz et séries — gratuit sur iOS et Android.",
+    "keywords": "histoire, application histoire, ce jour dans l'histoire, événements historiques",
+    "ogDesc": "Une histoire vraie chaque jour. De celles qu'on ne t'a jamais racontées à l'école.",
+    "heroH1": "Une histoire vraie chaque jour. <span class=\"em\">De celles qu'on ne t'a jamais racontées à l'école.</span>",
+    "tagline": "Vraie, surprenante, lue en deux minutes. Une nouvelle chaque jour.",
+    "heroProof": "<b>200+</b> esprits curieux · <b>5</b> langues · Gratuit",
+    "featEyebrow": "Ce que tu reçois",
+    "features": [
+      {
+        "h": "L'histoire du jour",
+        "p": "Une histoire vraie et surprenante chaque jour — et l'endroit exact où elle s'est passée, sur la carte."
+      },
+      {
+        "h": "Des quiz",
+        "p": "Prouve que tu as bien suivi. Des quiz rapides après chaque histoire te rapportent de l'XP."
+      },
+      {
+        "h": "Séries et XP",
+        "p": "Reviens chaque jour, garde la flamme allumée et regarde tes connaissances grandir."
+      }
+    ],
+    "stats": [
+      {
+        "n": "200+",
+        "l": "esprits curieux"
+      },
+      {
+        "n": "5",
+        "l": "langues"
+      },
+      {
+        "n": "365",
+        "l": "histoires par an"
+      }
+    ],
+    "captureH2": "Reçois l'histoire du jour par e-mail",
+    "captureP": "Pas prêt à installer ? Une histoire, une fois par jour, dans ta boîte mail.",
+    "emailPlaceholder": "toi@email.com",
+    "emailBtn": "Envoyez-moi l'histoire",
+    "emailDone": "&#10003; C'est noté. La première histoire arrive bientôt.",
+    "emailNote": "Pas de spam. Désinscription à tout moment.",
+    "iosSmall": "Télécharger sur",
+    "androidSmall": "Disponible sur",
+    "schemaDesc": "Une histoire vraie du passé, chaque jour. Garde ta série, apprends quelque chose de nouveau et fais revivre le passé.",
+    "currency": "EUR",
+    "featTitle": "De l'histoire qui reste vraiment"
+  }
+}

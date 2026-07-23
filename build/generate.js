@@ -16,7 +16,7 @@ const api = require('./lib/api');
 const { loadManifest, saveManifest, processImage } = require('./lib/images');
 const { t, categoryLabel } = require('./lib/i18n');
 const { clamp, storyPath, indexPath } = require('./lib/seo');
-const { renderStoryPage, renderIndexPage } = require('./lib/render');
+const { renderLanding, renderStoryPage, renderIndexPage } = require('./lib/render');
 
 const args = process.argv.slice(2);
 const OPTS = {
@@ -129,6 +129,14 @@ async function main() {
 
   // Pass 3 — index pages, paginated.
   const langsWithContent = LANGS.filter((l) => days.some((d) => d.langs.includes(l)));
+
+  // Languages do not always have the same number of days, so they do not always
+  // have the same number of index pages. hreflang on page N may only name the
+  // languages that actually have a page N.
+  const pageCount = Object.fromEntries(langsWithContent.map((l) => [
+    l, Math.max(1, Math.ceil(days.filter((d) => d.langs.includes(l)).length / STORIES_PER_INDEX_PAGE)),
+  ]));
+
   for (const lang of langsWithContent) {
     const inLang = days.filter((d) => d.langs.includes(lang));
     const entries = inLang.map((day) => {
@@ -147,7 +155,7 @@ async function main() {
       const slice = entries.slice((page - 1) * STORIES_PER_INDEX_PAGE, page * STORIES_PER_INDEX_PAGE);
       const html = renderIndexPage({
         lang, page, totalPages, entries: slice,
-        langAvailable: langsWithContent,
+        langAvailable: langsWithContent.filter((l) => pageCount[l] >= page),
       });
       writePage(page === 1
         ? path.join(lang, ARCHIVE_SLUG)
@@ -156,7 +164,7 @@ async function main() {
     }
   }
 
-  injectTodayIntoLandings(days, langsWithContent);
+  writeLandings(days, langsWithContent);
   writeSitemap(days, langsWithContent);
   writeRobots();
 
@@ -188,64 +196,43 @@ function buildStory(event, lang, images) {
   };
 }
 
-/* --------------------- today's story on the landing pages ---------------------
- * Rewrites only the region between the DH:TODAY markers, so the hand-written
- * landing pages stay hand-written and this stays re-runnable. It also gives a
- * crawler a path from "/" into the archive: home → today → index → every day.
+/* -------------------------------- landing pages --------------------------------
+ * The five landing pages are generated, not hand-maintained: they share one
+ * layout and differ only in translated copy, which lives in landing-copy.json
+ * (extracted from the pages they replace). The day's lead story is the top of
+ * the page, which also gives a crawler the shortest path into the archive:
+ * home -> today -> index -> every day.
  */
-function injectTodayIntoLandings(days, langsWithContent) {
-  const START = '<!-- DH:TODAY:START -->';
-  const END = '<!-- DH:TODAY:END -->';
-
+function writeLandings(days, langsWithContent) {
   for (const lang of LANGS) {
-    const file = path.join(ROOT, lang === DEFAULT_LANG ? 'index.html' : path.join(lang, 'index.html'));
-    if (!fs.existsSync(file)) continue;
-
-    const html = fs.readFileSync(file, 'utf8');
-    const from = html.indexOf(START);
-    const to = html.indexOf(END);
-    if (from === -1 || to === -1 || to < from) {
-      console.warn(`  ! ${path.relative(ROOT, file)}: no DH:TODAY markers — landing left untouched`);
-      continue;
-    }
-
     // Newest day this language actually has, which need not be today: a day
     // missing this translation must not put another language's story here.
     const day = days.find((d) => d.langs.includes(lang));
-    const block = day ? renderTodayBlock(lang, day, langsWithContent) : '';
+    if (!day) {
+      console.warn(`  ! ${lang}: no complete day — landing left as it was`);
+      continue;
+    }
+    const stories = day.events.map((event, ei) => buildStory(event, lang, day.images[ei] || []));
+    const recent = days.filter((d) => d.langs.includes(lang)).slice(0, 6).map((d) => ({
+      date: d.date,
+      headline: api.textFor(d.events[0].titleTranslations, lang),
+    }));
 
-    const next = html.slice(0, from + START.length) + '\n' + block + '\n    ' + html.slice(to);
-    if (next !== html) fs.writeFileSync(file, next);
+    const html = renderLanding({
+      lang, day, stories,
+      langAvailable: LANGS,
+      recent,
+      // Stories, not days — the label says "stories", and each day carries two.
+      archiveCount: days.filter((d) => d.langs.includes(lang))
+        .reduce((total, d) => total + d.events.length, 0),
+    });
+
+    const file = lang === DEFAULT_LANG
+      ? path.join(ROOT, 'index.html')
+      : path.join(ROOT, lang, 'index.html');
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    fs.writeFileSync(file, html);
   }
-}
-
-function renderTodayBlock(lang, day, langsWithContent) {
-  const { esc } = require('./lib/seo');
-  const { formatDate } = require('./lib/i18n');
-  const lead = day.events[0];
-  const headline = api.textFor(lead.titleTranslations, lang);
-  const hook = api.textFor(lead.notificationBodyTranslations, lang)
-    || clamp(api.textFor(lead.narrativeTranslations, lang), 180);
-  const img = (day.images[0] || [])[0];
-  const thumb = img ? img.sources[img.sources.length - 1] : null;
-
-  return `    <section class="wrap" aria-labelledby="today-h">
-      <div class="sec-head rv">
-        <span class="sec-eyebrow">${esc(t(lang, 'todayEyebrow'))}</span>
-        <h2 class="sec-title" id="today-h">${esc(formatDate(lang, day.date))}</h2>
-        <div class="rule"></div>
-      </div>
-      <a class="today-card rv" href="${storyPath(lang, day.date)}">
-        ${thumb ? `<img src="${esc(thumb.src)}" width="${thumb.width}" height="${thumb.height}" alt="" loading="lazy" decoding="async" />` : ''}
-        <span class="today-card-body">
-          <span class="t-date">${esc(t(lang, 'storyEyebrow'))}</span>
-          <h3>${esc(headline)}</h3>
-          <p>${esc(hook)}</p>
-          <span class="t-more">${esc(t(lang, 'readMore'))} →</span>
-        </span>
-      </a>
-      <p class="archive-back"><a href="${indexPath(lang)}">${esc(t(lang, 'backToArchive'))} →</a></p>
-    </section>`;
 }
 
 /* ------------------------------- sitemap ------------------------------- */
@@ -275,13 +262,25 @@ function writeSitemap(days, langsWithContent) {
     }));
   }
 
-  // Archive indexes
-  const indexAlts = langsWithContent.map((l) => ({ lang: l, href: SITE_URL + indexPath(l) }));
-  if (langsWithContent.includes(DEFAULT_LANG)) indexAlts.push({ lang: 'x-default', href: SITE_URL + indexPath(DEFAULT_LANG) });
+  // Archive indexes, including every paginated page. Listing only page 1 leaves
+  // the rest reachable by crawling alone, which is slower and easily missed.
   for (const lang of langsWithContent) {
-    urls.push(urlEntry(SITE_URL + indexPath(lang), {
-      lastmod: today, changefreq: 'daily', priority: '0.8', alternates: indexAlts,
-    }));
+    const pages = Math.max(1, Math.ceil(
+      days.filter((d) => d.langs.includes(lang)).length / STORIES_PER_INDEX_PAGE));
+    for (let page = 1; page <= pages; page++) {
+      // Alternates are per page number: /es/…/page/2/ belongs with /de/…/page/2/,
+      // not with everyone's page 1. A language with fewer pages simply drops out.
+      const alts = langsWithContent.filter((l) => Math.ceil(
+        days.filter((d) => d.langs.includes(l)).length / STORIES_PER_INDEX_PAGE) >= page,
+      ).map((l) => ({ lang: l, href: SITE_URL + indexPath(l, page) }));
+      if (alts.some((a) => a.lang === DEFAULT_LANG)) {
+        alts.push({ lang: 'x-default', href: SITE_URL + indexPath(DEFAULT_LANG, page) });
+      }
+      urls.push(urlEntry(SITE_URL + indexPath(lang, page), {
+        lastmod: today, changefreq: page === 1 ? 'daily' : 'weekly',
+        priority: page === 1 ? '0.8' : '0.5', alternates: alts,
+      }));
+    }
   }
 
   // Story pages — alternates list only the languages that day actually has.

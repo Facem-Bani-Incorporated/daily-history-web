@@ -94,10 +94,17 @@ for (const p of pages) {
 ok('every page has exactly one <h1>');
 
 /* ---- 4. title and description present, sane length, unique per language ---- */
+// Lengths must be measured on the decoded text, not the escaped HTML: one
+// French apostrophe is five characters as &#39; but one character to a reader
+// and to a search engine.
+const decode = (s) => String(s || '')
+  .replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+
 const titles = new Map();
 for (const p of pages) {
-  const title = (p.html.match(/<title>([\s\S]*?)<\/title>/) || [])[1];
-  const desc = (p.html.match(/<meta name="description" content="([^"]*)"/) || [])[1];
+  const title = decode((p.html.match(/<title>([\s\S]*?)<\/title>/) || [])[1]);
+  const desc = decode((p.html.match(/<meta name="description" content="([^"]*)"/) || [])[1]);
   if (!title) fail(`${rel(p.file)}: no <title>`);
   if (!desc) fail(`${rel(p.file)}: no meta description`);
   if (desc && desc.length > 170) fail(`${rel(p.file)}: meta description ${desc.length} chars (>170)`);

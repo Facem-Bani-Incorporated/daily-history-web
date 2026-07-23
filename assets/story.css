@@ -1,212 +1,186 @@
-/* Daily History — story & archive pages.
-   Layered on top of site.css: the palette, background and store buttons are
-   inherited, everything here is about long-form reading. */
+/* Daily History — reading view (story pages and the archive index).
+   Loaded on top of site.css, which owns the tokens, masthead and footer. */
 
-.doc-page { --measure: 34rem; }
+/* ------------------------------------------------------------- story page -- */
+.article-shell { width: 100%; max-width: 46rem; margin-inline: auto; padding-inline: var(--gutter); }
 
-/* ---------------- header ---------------- */
-.doc-head {
-  display: flex; align-items: center; justify-content: space-between; gap: 16px;
-  max-width: 60rem; margin: 0 auto; padding: 18px 24px 6px; width: 100%;
+.dateline {
+  padding: clamp(2.2rem, 6vw, 4rem) 0 clamp(1.4rem, 3vw, 2rem);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: clamp(1.8rem, 4vw, 2.8rem);
 }
-.doc-brand { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; }
-.doc-brand-logo { border-radius: 8px; box-shadow: 0 0 0 1px rgba(201,162,75,0.45); }
-.doc-brand-name {
-  font-size: 0.68rem; letter-spacing: 0.34em; text-transform: uppercase;
-  color: var(--gold); font-weight: 600;
+.dateline .eyebrow { display: block; margin-bottom: 0.8rem; }
+.dateline-date {
+  font-family: var(--serif); font-weight: 600;
+  font-size: clamp(1.8rem, 4.6vw, 2.8rem); line-height: 1;
+  letter-spacing: -0.02em;
 }
-.doc-archive-link {
-  font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase;
-  color: rgba(216,208,194,0.7); text-decoration: none; font-weight: 500;
-  padding: 7px 14px; border: 1px solid rgba(201,162,75,0.28); border-radius: 999px;
-  transition: color 0.18s ease, border-color 0.18s ease, background 0.18s ease;
-}
-.doc-archive-link:hover { color: var(--gold-bright); border-color: rgba(201,162,75,0.65); background: rgba(201,162,75,0.08); }
+.dateline-count { margin-top: 0.7rem; font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--paper-faint); }
 
-/* ---------------- page frame ---------------- */
-.doc { width: 100%; max-width: 60rem; margin: 0 auto; padding: 0 24px 10px; }
-.doc > * { max-width: var(--measure); margin-left: auto; margin-right: auto; }
+.story { padding-bottom: clamp(1.5rem, 4vw, 2.5rem); }
+.story + .story { margin-top: clamp(2.5rem, 6vw, 4rem); padding-top: clamp(2.5rem, 6vw, 4rem); border-top: 1px solid var(--line); }
 
-/* ---------------- hero ---------------- */
-.story-hero { text-align: center; padding: 30px 0 6px; }
-.story-hero h1 {
-  font-family: 'Cormorant Garamond', serif; font-weight: 600;
-  font-size: clamp(2.1rem, 6.4vw, 3.4rem); line-height: 1.06;
-  color: var(--marble); max-width: none; margin: 0 auto;
-  opacity: 1; animation: none;
-}
-.story-hero h1 time { color: inherit; }
-.story-hero-sub {
-  margin-top: 12px; font-size: 0.93rem; line-height: 1.6;
-  color: var(--marble-dim); max-width: 44ch; margin-left: auto; margin-right: auto;
-}
-.story-hero .rule { margin-top: 22px; }
-
-/* ---------------- one story ---------------- */
-.story { padding: 26px 0 6px; }
-.story + .story { margin-top: 18px; padding-top: 40px; border-top: 1px solid rgba(201,162,75,0.16); }
-.story-head { margin-bottom: 20px; }
 .story-cat {
-  display: inline-block; font-size: 0.62rem; letter-spacing: 0.22em;
-  text-transform: uppercase; font-weight: 600; color: var(--gold);
-  background: rgba(201,162,75,0.1); border: 1px solid rgba(201,162,75,0.3);
-  padding: 5px 11px; border-radius: 999px; margin-bottom: 14px;
+  display: inline-flex; align-items: center; gap: 0.5rem; margin-bottom: 0.9rem;
+  font-size: 0.66rem; font-weight: 600; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--accent);
 }
-/* h1 on the lead story, h2 on the rest — same look, the level carries meaning
-   for the outline, not for the eye. */
-h1.story-title, h2.story-title, .story-title {
-  font-family: 'Cormorant Garamond', serif; font-weight: 600;
-  font-size: clamp(1.65rem, 4.6vw, 2.35rem); line-height: 1.14;
-  color: var(--marble); letter-spacing: 0.004em;
-  max-width: none; margin: 0; opacity: 1; animation: none;
-}
-h1.story-title { font-size: clamp(1.85rem, 5.2vw, 2.6rem); }
+.story-cat::before { content: ''; width: 20px; height: 1px; background: var(--accent); }
 
-/* The publication date sits above the headline as a dateline. */
-.hero-date {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: clamp(1.9rem, 5.6vw, 2.9rem); line-height: 1.08;
-  color: var(--marble); font-weight: 600;
+.story-title {
+  font-family: var(--serif); font-weight: 600;
+  font-size: clamp(1.7rem, 4.3vw, 2.7rem); line-height: 1.06;
+  letter-spacing: -0.018em; text-wrap: balance; margin: 0;
 }
+h1.story-title { font-size: clamp(1.95rem, 5vw, 3.1rem); }
+
 .story-when {
-  margin-top: 11px; font-size: 0.76rem; letter-spacing: 0.09em;
-  text-transform: uppercase; color: rgba(216,208,194,0.62); font-weight: 500;
+  margin-top: 0.95rem; display: flex; align-items: center; gap: 0.65rem; flex-wrap: wrap;
+  font-size: 0.71rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--paper-faint);
 }
-.story-when .dot { color: rgba(201,162,75,0.6); margin: 0 4px; }
-.story-where { color: var(--gold); }
+.story-when .sep { width: 3px; height: 3px; border-radius: 50%; background: var(--accent-lo); }
+.story-where { color: var(--accent); }
 
-/* ---------------- body copy ---------------- */
-.story-body { font-size: 1.045rem; line-height: 1.78; color: #e8e0d2; }
-.story-body p { margin-bottom: 1.25em; }
-.story-body p.lede { font-size: 1.16rem; line-height: 1.68; color: var(--marble); }
-/* Drop cap on the day's opening paragraph — an editorial signal that this is
-   something to read, not a feed item. Suppressed on narrow screens where it
-   would eat a third of the line. */
-@media (min-width: 480px) {
+/* -------------------------------------------------------------- body copy -- */
+.story-body {
+  margin-top: clamp(1.8rem, 4vw, 2.6rem);
+  font-size: 1.075rem; line-height: 1.78; color: #e6ded2;
+  hanging-punctuation: first last;
+}
+.story-body p { margin-bottom: 1.35em; max-width: var(--measure); }
+.story-body p.lede { font-size: 1.22rem; line-height: 1.62; color: var(--paper); }
+
+@media (min-width: 460px) {
   .story-body p.lede::first-letter {
-    float: left; font-family: 'Cormorant Garamond', serif; font-weight: 600;
-    font-size: 3.5em; line-height: 0.78; padding: 0.06em 0.1em 0 0;
-    color: var(--gold-bright);
+    float: left; font-family: var(--serif); font-weight: 600;
+    font-size: 3.4em; line-height: 0.76; padding: 0.05em 0.09em 0 0;
+    color: var(--accent);
   }
 }
-.story-body p.lede::first-line { letter-spacing: 0.005em; }
 
-.story-source {
-  margin-top: 22px; font-size: 0.76rem; color: rgba(216,208,194,0.5);
-  letter-spacing: 0.03em;
-}
-.story-source a { color: rgba(201,162,75,0.85); text-decoration: none; border-bottom: 1px solid rgba(201,162,75,0.3); }
-.story-source a:hover { color: var(--gold-bright); border-bottom-color: var(--gold-bright); }
+.story-source { margin-top: 1.8rem; font-size: 0.73rem; color: var(--paper-faint); letter-spacing: 0.02em; }
+.story-source a { color: var(--paper-dim); text-decoration: none; border-bottom: 1px solid var(--line); }
+.story-source a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
-/* ---------------- figures ---------------- */
-.story-fig { margin: 30px 0 32px; }
-.story-fig img {
-  display: block; width: 100%; height: auto; border-radius: 14px;
-  border: 1px solid rgba(201,162,75,0.22);
-  box-shadow: 0 26px 60px -30px rgba(0,0,0,0.9);
-  background: rgba(244,239,230,0.03);
-}
-.fig-credit {
-  margin-top: 9px; font-size: 0.68rem; letter-spacing: 0.05em;
-  color: rgba(216,208,194,0.42); text-align: right;
-}
-.fig-credit a { color: rgba(216,208,194,0.6); text-decoration: none; }
-.fig-credit a:hover { color: var(--gold); }
+/* ---------------------------------------------------------------- figures -- */
+.story-fig { margin: clamp(2rem, 5vw, 3rem) 0; }
+.story-fig img { display: block; width: 100%; height: auto; background: var(--ink-2); }
+.fig-credit { margin-top: 0.7rem; font-size: 0.65rem; letter-spacing: 0.05em; color: var(--paper-faint); }
+.fig-credit a { color: var(--paper-dim); text-decoration: none; }
+.fig-credit a:hover { color: var(--accent); }
 
-/* Let figures breathe wider than the text column on roomy screens. */
-@media (min-width: 900px) {
-  .story-fig { width: calc(var(--measure) + 8rem); margin-left: -4rem; }
+/* Let figures break the measure on wide screens — the asymmetry the layout is
+   built on, applied to the reading column. */
+@media (min-width: 1000px) {
+  .story-fig { width: calc(100% + 9rem); margin-left: -4.5rem; }
+  .story-fig--right { margin-left: 0; margin-right: -4.5rem; }
 }
 
-/* ---------------- install CTA ---------------- */
-.story-cta { margin: 46px auto 10px; }
-.cta-inner {
-  border-radius: 22px; padding: 32px 24px 28px; text-align: center;
-  background: linear-gradient(170deg, rgba(201,162,75,0.12), rgba(201,162,75,0.03));
-  border: 1px solid rgba(201,162,75,0.3);
+/* ------------------------------------------------------------- app offers -- */
+.quiz-card {
+  display: grid; gap: 1rem; margin: clamp(2.2rem, 5vw, 3rem) 0;
+  padding: 1.6rem 0; border-top: 1px solid var(--accent-lo); border-bottom: 1px solid var(--line);
 }
-.cta-inner h2 {
-  font-family: 'Cormorant Garamond', serif; font-weight: 600;
-  font-size: clamp(1.45rem, 5vw, 2rem); line-height: 1.16; margin-bottom: 9px;
+.quiz-card-title { font-family: var(--serif); font-size: 1.35rem; line-height: 1.15; color: var(--paper); }
+.quiz-card p { font-size: 0.9rem; line-height: 1.6; color: var(--paper-dim); max-width: 46ch; }
+.quiz-card-cta {
+  justify-self: start; text-decoration: none; font-size: 0.82rem; font-weight: 600;
+  padding: 0.7rem 1.3rem; border-radius: 100px; background: var(--paper); color: var(--ink);
+  transition: transform 0.3s var(--ease), background 0.3s var(--ease);
 }
-.cta-inner p {
-  font-size: 0.9rem; line-height: 1.62; color: var(--marble-dim);
-  max-width: 42ch; margin: 0 auto 20px;
-}
-.cta-inner .stores { margin: 0 auto; }
+.quiz-card-cta:hover { transform: translateY(-2px); background: #fff; }
 
-/* ---------------- prev / next ---------------- */
-.day-nav { display: flex; gap: 12px; margin: 34px auto 8px; }
+.story-cta { margin: clamp(2.8rem, 6vw, 4.5rem) 0 1rem; padding-top: clamp(2rem, 4vw, 3rem); border-top: 1px solid var(--line); }
+.story-cta h2 { font-size: clamp(1.6rem, 3.6vw, 2.3rem); margin: 0.8rem 0 0.7rem; }
+.story-cta p { font-size: 0.95rem; line-height: 1.6; color: var(--paper-dim); max-width: 44ch; margin-bottom: 1.6rem; }
+
+.stores { display: flex; flex-wrap: wrap; gap: 0.7rem; }
+.store-btn {
+  display: inline-flex; align-items: center; gap: 0.7rem; text-decoration: none;
+  padding: 0.8rem 1.3rem; border-radius: 100px; font-weight: 600;
+  transition: transform 0.3s var(--ease), background 0.3s var(--ease), border-color 0.3s var(--ease);
+}
+.store-btn .lbl { display: flex; flex-direction: column; align-items: flex-start; line-height: 1.12; }
+.store-btn .lbl small { font-size: 0.6rem; font-weight: 500; opacity: 0.7; letter-spacing: 0.07em; text-transform: uppercase; }
+.store-btn .lbl span { font-size: 0.96rem; }
+.store-btn.primary { background: var(--paper); color: var(--ink); }
+.store-btn.primary:hover { background: #fff; transform: translateY(-2px); }
+.store-btn.secondary { border: 1px solid var(--line); color: var(--paper); }
+.store-btn.secondary:hover { border-color: var(--accent); transform: translateY(-2px); }
+
+/* --------------------------------------------------------------- day nav -- */
+.day-nav { display: grid; gap: 0.6rem; margin: clamp(2rem, 5vw, 3rem) 0 1rem; }
+@media (min-width: 640px) { .day-nav { grid-template-columns: 1fr 1fr; gap: 1rem; } }
 .day-nav-item {
-  flex: 1; display: flex; flex-direction: column; gap: 5px; min-width: 0;
-  padding: 15px 18px; border-radius: 15px; text-decoration: none;
-  background: rgba(244,239,230,0.04); border: 1px solid rgba(201,162,75,0.2);
-  transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+  display: flex; flex-direction: column; gap: 0.35rem; text-decoration: none;
+  padding: 1.1rem 0; border-top: 1px solid var(--line);
+  transition: padding-inline 0.4s var(--ease);
 }
-a.day-nav-item:hover { background: rgba(244,239,230,0.08); border-color: rgba(201,162,75,0.5); transform: translateY(-2px); }
-.day-nav-item.empty { background: none; border-color: transparent; pointer-events: none; }
+a.day-nav-item:hover { padding-inline: 0.5rem; }
+.day-nav-item.empty { border-top-color: transparent; pointer-events: none; }
 .day-nav-item.next { text-align: right; }
-.day-nav-label { font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
-.day-nav-date { font-family: 'Cormorant Garamond', serif; font-size: 1.16rem; color: var(--marble); }
+.day-nav-label { font-size: 0.66rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+.day-nav-date { font-family: var(--serif); font-size: 1.15rem; color: var(--paper); }
 
-.archive-back { text-align: center; margin: 26px auto 8px; }
-.archive-back a { color: var(--gold); text-decoration: none; font-size: 0.86rem; letter-spacing: 0.04em; }
-.archive-back a:hover { color: var(--gold-bright); }
+.archive-back { margin: 1.6rem 0 0; font-size: 0.85rem; }
+.archive-back a { color: var(--accent); text-decoration: none; }
 
-/* ---------------- archive index ---------------- */
-.arch-list { list-style: none; margin: 8px auto 0; padding: 0; }
-.arch-item + .arch-item { margin-top: 10px; }
+/* ---------------------------------------------------------- archive index -- */
+.arch-list { list-style: none; margin: 0; padding: 0; }
+.arch-item + .arch-item { margin-top: 0; }
 .arch-link {
-  display: flex; align-items: center; gap: 15px; padding: 12px; border-radius: 15px;
-  text-decoration: none; border: 1px solid rgba(201,162,75,0.16);
-  background: rgba(244,239,230,0.035);
-  transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
+  display: grid; grid-template-columns: auto 1fr auto; gap: 1.1rem; align-items: center;
+  padding: 1.1rem 0; border-top: 1px solid var(--line-soft); text-decoration: none;
+  transition: padding-inline 0.4s var(--ease), background 0.4s var(--ease);
 }
-.arch-link:hover { background: rgba(244,239,230,0.075); border-color: rgba(201,162,75,0.45); transform: translateY(-2px); }
-.arch-thumb {
-  width: 74px; height: 74px; flex-shrink: 0; object-fit: cover;
-  border-radius: 11px; border: 1px solid rgba(201,162,75,0.22);
-}
-.arch-thumb--empty { background: linear-gradient(140deg, rgba(201,162,75,0.16), rgba(201,162,75,0.04)); }
-.arch-text { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
-.arch-date { font-size: 0.66rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
-.arch-title {
-  font-family: 'Cormorant Garamond', serif; font-size: 1.18rem; line-height: 1.28;
-  color: var(--marble); font-weight: 600;
-}
-.arch-cat { font-size: 0.68rem; letter-spacing: 0.06em; color: rgba(216,208,194,0.5); }
+.arch-item:last-child .arch-link { border-bottom: 1px solid var(--line-soft); }
+.arch-link:hover { padding-inline: 0.6rem; background: rgba(244,239,231,0.022); }
+.arch-thumb { width: 56px; height: 56px; object-fit: cover; flex-shrink: 0; }
+.arch-thumb--empty { background: var(--ink-3); display: block; }
+.arch-text { display: flex; flex-direction: column; gap: 0.28rem; min-width: 0; }
+.arch-date { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); font-variant-numeric: tabular-nums; }
+.arch-title { font-family: var(--serif); font-size: clamp(1rem, 2vw, 1.2rem); line-height: 1.25; color: var(--paper); }
+.arch-cat { font-size: 0.66rem; letter-spacing: 0.06em; color: var(--paper-faint); }
+.arch-go { color: var(--paper-faint); transition: transform 0.4s var(--ease), color 0.4s var(--ease); }
+.arch-link:hover .arch-go { transform: translateX(5px); color: var(--accent); }
+@media (max-width: 560px) { .arch-thumb { width: 44px; height: 44px; } .arch-go { display: none; } }
 
-.pager { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 30px auto 6px; }
-.pager-btn {
-  font-size: 0.78rem; letter-spacing: 0.06em; color: var(--gold); text-decoration: none;
-  padding: 9px 16px; border: 1px solid rgba(201,162,75,0.3); border-radius: 999px;
-  transition: background 0.18s ease, border-color 0.18s ease, color 0.18s ease;
-}
-a.pager-btn:hover { color: var(--gold-bright); border-color: rgba(201,162,75,0.7); background: rgba(201,162,75,0.08); }
+.pager { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 2.2rem; }
+.pager-btn { font-size: 0.78rem; color: var(--accent); text-decoration: none; }
 .pager-btn.disabled { visibility: hidden; }
-.pager-status { font-size: 0.72rem; letter-spacing: 0.1em; color: rgba(216,208,194,0.45); text-transform: uppercase; }
+.pager-status { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--paper-faint); }
 
-/* The "today" card also appears on the landing pages, which do not load this
-   file — its styles live in site.css. */
+/* -------------------------------------------------------------- app bar -- */
+.app-bar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
+  display: flex; align-items: center; gap: 0.8rem;
+  padding: 0.6rem var(--gutter) calc(0.6rem + env(safe-area-inset-bottom, 0px));
+  background: color-mix(in srgb, var(--ink) 92%, transparent);
+  backdrop-filter: blur(14px);
+  border-top: 1px solid var(--line);
+  animation: rise 0.6s var(--ease) both; animation-delay: 1.2s;
+}
+.app-bar[hidden] { display: none; }
+.app-bar-logo { width: 32px; height: 32px; border-radius: 8px; flex-shrink: 0; }
+.app-bar-text { display: flex; flex-direction: column; min-width: 0; flex: 1; line-height: 1.25; }
+.app-bar-text strong { font-size: 0.8rem; font-weight: 600; }
+.app-bar-text small { font-size: 0.68rem; color: var(--paper-faint); }
+.app-bar-cta {
+  flex-shrink: 0; text-decoration: none; font-size: 0.76rem; font-weight: 600;
+  padding: 0.55rem 1.1rem; border-radius: 100px; background: var(--paper); color: var(--ink);
+}
+.app-bar-close {
+  flex-shrink: 0; background: none; border: none; cursor: pointer; font-family: inherit;
+  color: var(--paper-faint); font-size: 1.3rem; line-height: 1; padding: 0 0.2rem;
+}
+.app-bar-close:hover { color: var(--paper); }
+body.has-app-bar footer { padding-bottom: 5.5rem; }
+@media (min-width: 760px) {
+  .app-bar { left: auto; right: 1.4rem; bottom: 1.4rem; max-width: 24rem; border: 1px solid var(--line); border-radius: 14px; }
+  body.has-app-bar footer { padding-bottom: clamp(2rem, 4vw, 3rem); }
+}
 
-/* ---------------- ad slots (empty on purpose) ----------------
-   No reserved height: an empty box with a fixed height is a visible gap.
-   When an ad unit lands here, give it a min-height then. */
+/* --------------------------------------------------------------- ad slots -- */
+/* Empty by design. No reserved height: a fixed-height empty box is a visible
+   gap. Give it a min-height when a unit actually lands here. */
 .ad-slot { display: block; }
-.ad-slot:empty { margin: 0; }
-
-/* ---------------- footer language row ---------------- */
-.langs--wide a { margin: 0 8px; }
-
-@media (max-width: 560px) {
-  .doc { padding-left: 20px; padding-right: 20px; }
-  .day-nav { flex-direction: column; }
-  .day-nav-item.next { text-align: left; }
-  .arch-thumb { width: 60px; height: 60px; }
-  .story-body { font-size: 1.005rem; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .arch-link, .day-nav-item, .today-card { transition: none; }
-  a.day-nav-item:hover, .arch-link:hover, .today-card:hover { transform: none; }
-}

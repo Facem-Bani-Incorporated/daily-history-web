@@ -153,6 +153,67 @@ const STRINGS = {
   },
 };
 
+// Strings for the app-promotion surfaces. Kept in their own table because they
+// share one job — the web page tells the story, the app is where the quiz, the
+// map and the streak live — and that promise has to read the same in every
+// language. Merged into STRINGS below so t() reaches them normally.
+const APP_STRINGS = {
+  en: {
+    openApp: 'Get the app',
+    stickyTitle: 'Read tomorrow’s story first',
+    stickyBody: 'Quiz, map and streak',
+    stickyCta: 'Get it',
+    stickyDismiss: 'Dismiss',
+    quizCardTitle: 'This story has a quiz waiting',
+    quizCardBody: 'Answer three questions in the app, earn XP, and keep your streak alive.',
+    quizCardCta: 'Open in Daily History',
+  },
+  es: {
+    openApp: 'Descargar la app',
+    stickyTitle: 'Lee antes la historia de mañana',
+    stickyBody: 'Test, mapa y racha',
+    stickyCta: 'Descargar',
+    stickyDismiss: 'Cerrar',
+    quizCardTitle: 'Esta historia tiene un test esperándote',
+    quizCardBody: 'Responde tres preguntas en la app, gana XP y mantén viva tu racha.',
+    quizCardCta: 'Abrir en Daily History',
+  },
+  de: {
+    openApp: 'App holen',
+    stickyTitle: 'Lies die Geschichte von morgen zuerst',
+    stickyBody: 'Quiz, Karte und Serie',
+    stickyCta: 'Holen',
+    stickyDismiss: 'Schließen',
+    quizCardTitle: 'Zu dieser Geschichte wartet ein Quiz',
+    quizCardBody: 'Beantworte drei Fragen in der App, sammle XP und halte deine Serie am Leben.',
+    quizCardCta: 'In Daily History öffnen',
+  },
+  fr: {
+    openApp: "Obtenir l'app",
+    stickyTitle: "Lisez l'histoire de demain en avant-première",
+    stickyBody: 'Quiz, carte et série',
+    stickyCta: 'Obtenir',
+    stickyDismiss: 'Fermer',
+    quizCardTitle: 'Un quiz vous attend sur cette histoire',
+    quizCardBody: "Répondez à trois questions dans l'app, gagnez de l'XP et gardez votre série.",
+    quizCardCta: 'Ouvrir dans Daily History',
+  },
+  ro: {
+    openApp: 'Ia aplicația',
+    stickyTitle: 'Citește prima povestea de mâine',
+    stickyBody: 'Test, hartă și serie',
+    stickyCta: 'Descarcă',
+    stickyDismiss: 'Închide',
+    quizCardTitle: 'Povestea asta are un test care te așteaptă',
+    quizCardBody: 'Răspunde la trei întrebări în aplicație, câștigi XP și îți ții seria.',
+    quizCardCta: 'Deschide în Daily History',
+  },
+};
+
+for (const lang of Object.keys(APP_STRINGS)) {
+  Object.assign(STRINGS[lang], APP_STRINGS[lang]);
+}
+
 // The API's ECategory enum, spelled out per language. Used as a visible label and
 // as the Article's articleSection, so it has to read naturally, not like an enum.
 const CATEGORIES = {

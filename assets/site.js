@@ -83,10 +83,47 @@
       } catch (e) { /* keep static fallback text */ }
     }
 
+    var isAndroid = /android/i.test(navigator.userAgent);
+    var isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+
+    /* ---------- Single-button store links ----------
+       The header, the inline quiz card and the sticky bar each show one button
+       rather than two. They ship pointing at Play, and on iOS the href is
+       swapped here. This must run BEFORE tagPlayLinks(), otherwise a link
+       rewritten afterwards would lose the install referrer. */
+    document.querySelectorAll('[data-smart-store]').forEach(function (a) {
+      if (!isIOS) return;
+      a.href = 'https://apps.apple.com/us/app/daily-history-on-this-day/id6768552706';
+      a.setAttribute('data-store', 'ios');
+    });
+
     tagPlayLinks();
 
+    /* ---------- Sticky app bar ----------
+       Hidden in the markup and revealed here, so a reader with JavaScript off
+       never gets a bar they cannot dismiss. Dismissal is remembered. */
+    var appBar = document.getElementById('app-bar');
+    if (appBar) {
+      var DISMISS_KEY = 'dh_app_bar_dismissed';
+      var dismissed;
+      try { dismissed = localStorage.getItem(DISMISS_KEY); } catch (e) { dismissed = null; }
+      if (!dismissed) {
+        appBar.hidden = false;
+        document.body.classList.add('has-app-bar');
+        track('app_bar_shown', {});
+      }
+      var closeBtn = appBar.querySelector('.app-bar-close');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', function () {
+          appBar.hidden = true;
+          document.body.classList.remove('has-app-bar');
+          try { localStorage.setItem(DISMISS_KEY, '1'); } catch (e) { /* private mode */ }
+          track('app_bar_dismissed', {});
+        });
+      }
+    }
+
     /* ---------- Platform detection: Android sees Google Play first ---------- */
-    var isAndroid = /android/i.test(navigator.userAgent);
     var stores = document.querySelector('.stores');
     if (isAndroid && stores) {
       var ios = stores.querySelector('[data-store="ios"]');
@@ -99,7 +136,9 @@
     }
 
     /* ---------- Store click tracking ---------- */
-    document.querySelectorAll('.store-btn').forEach(function (btn) {
+    // Includes the single-button links in the header, quiz card and sticky bar,
+    // so every route to a store shows up in the funnel, not just the big pair.
+    document.querySelectorAll('.store-btn, [data-smart-store]').forEach(function (btn) {
       btn.addEventListener('click', function () {
         track('store_click', {
           store: btn.getAttribute('data-store'),
@@ -128,16 +167,33 @@
       });
     }
 
-    /* ---------- Reveal on scroll ---------- */
-    if ('IntersectionObserver' in window) {
+    /* ---------- Masthead: hairline appears once the page has moved ---------- */
+    var mast = document.getElementById('masthead');
+    if (mast) {
+      var onScroll = function () {
+        mast.classList.toggle('is-stuck', window.scrollY > 12);
+      };
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+    }
+
+    /* ---------- Reveal on scroll ----------
+       Browsers with scroll-driven CSS animations do this natively (see the
+       @supports block in site.css) and must be left alone, or the elements
+       would animate twice. This is only the fallback path. */
+    var nativeScrollAnim = window.CSS && CSS.supports && CSS.supports('animation-timeline: view()');
+    var revealSel = '.rv, .rv-wipe';
+    if (nativeScrollAnim) {
+      /* nothing to do — CSS owns it */
+    } else if ('IntersectionObserver' in window) {
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (en) {
           if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
         });
       }, { threshold: 0.12 });
-      document.querySelectorAll('.rv').forEach(function (el) { io.observe(el); });
+      document.querySelectorAll(revealSel).forEach(function (el) { io.observe(el); });
     } else {
-      document.querySelectorAll('.rv').forEach(function (el) { el.classList.add('in'); });
+      document.querySelectorAll(revealSel).forEach(function (el) { el.classList.add('in'); });
     }
   });
 })();
