@@ -1,0 +1,135 @@
+{
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Nasser_in_1969_%283x4_close_cropped%29.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nasser_in_1969_%283x4_close_cropped%29.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 854,
+        "src": "/assets/img/2026-07-23/2506-1-640.webp"
+      },
+      {
+        "width": 1016,
+        "height": 1355,
+        "src": "/assets/img/2026-07-23/2506-1-1016.webp"
+      }
+    ],
+    "width": 1016,
+    "height": 1355,
+    "credit": {
+      "artist": "Not credited",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANasser_in_1969_(3x4_close_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/Sarajevo_trial%2C_accused.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sarajevo_trial%2C_accused.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 450,
+        "src": "/assets/img/2026-07-23/2505-2-640.webp"
+      },
+      {
+        "width": 785,
+        "height": 552,
+        "src": "/assets/img/2026-07-23/2505-2-785.webp"
+      }
+    ],
+    "width": 785,
+    "height": 552,
+    "credit": {
+      "artist": "Unknown photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASarajevo_trial%2C_accused.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nasser_and_Naguib%2C_1954.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nasser_and_Naguib%2C_1954.jpg",
+    "sources": [
+      {
+        "width": 489,
+        "height": 456,
+        "src": "/assets/img/2026-07-23/2506-0-489.webp"
+      }
+    ],
+    "width": 489,
+    "height": 456,
+    "credit": {
+      "artist": "Not credited",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANasser_and_Naguib%2C_1954.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 775,
+        "src": "/assets/img/2026-07-23/2505-1-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1092,
+        "src": "/assets/img/2026-07-23/2505-1-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1092,
+    "credit": {
+      "artist": "Achille Beltrame",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADC-1914-27-d-Sarajevo-cropped.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Der_St%C3%A4nker.png": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Der_St%C3%A4nker.png",
+    "sources": [
+      {
+        "width": 525,
+        "height": 755,
+        "src": "/assets/img/2026-07-23/2505-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1297,
+        "src": "/assets/img/2026-07-23/2505-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1297,
+    "credit": {
+      "artist": "Willibald Krain (1886–1945)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADer_St%C3%A4nker.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/3840px-All_Gizah_Pyramids.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/3840px-All_Gizah_Pyramids.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 425,
+        "src": "/assets/img/2026-07-23/2506-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 731,
+        "src": "/assets/img/2026-07-23/2506-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 731,
+    "credit": {
+      "artist": "Ricardo Liberato",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAll_Gizah_Pyramids.jpg"
+    }
+  }
+}

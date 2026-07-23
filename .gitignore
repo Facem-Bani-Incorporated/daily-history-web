@@ -1,0 +1,9 @@
+node_modules/
+
+# Local tooling
+.DS_Store
+Thumbs.db
+*.log
+
+# Claude Code workspace settings
+.claude/

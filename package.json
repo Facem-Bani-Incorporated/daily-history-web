@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "Daily History landing page",
   "scripts": {
-    "start": "serve . -l ${PORT:-3000}"
+    "start": "serve . -l ${PORT:-3000}",
+    "build": "node build/generate.js",
+    "build:offline": "node build/generate.js --offline",
+    "validate": "node build/validate.js"
   },
   "dependencies": {
-    "serve": "^14.2.1"
+    "serve": "^14.2.1",
+    "sharp": "^0.35.3"
   }
 }
