@@ -3416,6 +3416,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGordon_Granger_-_Brady-Handy.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jethro_Tull_%28agriculturist%29_gravestone.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jethro_Tull_%28agriculturist%29_gravestone.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 852,
+        "src": "/assets/img/2026-07-24/2498-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1464,
+        "src": "/assets/img/2026-07-24/2498-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1464,
+    "credit": {
+      "artist": "MalcolmGould",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJethro_Tull_(agriculturist)_gravestone.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/JudgeJMHarlan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/JudgeJMHarlan.jpg",
     "sources": [
@@ -4151,6 +4174,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADe_Gaulle-OWI.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Jethro_Tull_seed_drill_%281762%29.png": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jethro_Tull_seed_drill_%281762%29.png",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1044,
+        "src": "/assets/img/2026-07-24/2498-2-640.webp"
+      },
+      {
+        "width": 774,
+        "height": 1262,
+        "src": "/assets/img/2026-07-24/2498-2-774.webp"
+      }
+    ],
+    "width": 774,
+    "height": 1262,
+    "credit": {
+      "artist": "Jethro Tull",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJethro_Tull_seed_drill_(1762).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg": {
@@ -5057,6 +5103,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_Birthplace.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_%28agr%C3%B3nomo%29.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_%28agr%C3%B3nomo%29.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 883,
+        "src": "/assets/img/2026-07-24/2498-0-640.webp"
+      },
+      {
+        "width": 768,
+        "height": 1060,
+        "src": "/assets/img/2026-07-24/2498-0-768.webp"
+      }
+    ],
+    "width": 768,
+    "height": 1060,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJethro_Tull_(agr%C3%B3nomo).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/Starved_girl.jpg": {
@@ -10709,6 +10778,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarriage_rally_(18997214650).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/3840px-Apollo_11_insignia.png": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/3840px-Apollo_11_insignia.png",
+    "sources": [
+      {
+        "width": 640,
+        "height": 646,
+        "src": "/assets/img/2026-07-24/2497-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1111,
+        "src": "/assets/img/2026-07-24/2497-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1111,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AApollo_11_insignia.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AIP-Sakurai-best.JPG/3840px-AIP-Sakurai-best.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AIP-Sakurai-best.JPG/3840px-AIP-Sakurai-best.JPG",
     "sources": [
@@ -10776,6 +10868,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABrooklyn_Banks_(4094206902).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Apollo_11_Crew.jpg/3840px-Apollo_11_Crew.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Apollo_11_Crew.jpg/3840px-Apollo_11_Crew.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 503,
+        "src": "/assets/img/2026-07-24/2497-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 864,
+        "src": "/assets/img/2026-07-24/2497-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 864,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AApollo_11_Crew.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/3840px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg": {
