@@ -3623,6 +3623,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreatyOfGuadalupeHidalgoCover.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 854,
+        "src": "/assets/img/2026-07-25/2515-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-07-25/2515-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenito_Mussolini_(3x4_close_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_Lindbergh_1925.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_Lindbergh_1925.JPG",
     "sources": [
@@ -7371,6 +7394,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarcel-roswell-debris_0.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 866,
+        "src": "/assets/img/2026-07-25/2515-0-640.webp"
+      },
+      {
+        "width": 958,
+        "height": 1297,
+        "src": "/assets/img/2026-07-25/2515-0-958.webp"
+      }
+    ],
+    "width": 958,
+    "height": 1297,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMussolini_mezzobusto.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8b/KyotoTaxiRide.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/KyotoTaxiRide.jpg",
     "sources": [
@@ -7438,6 +7484,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrysler_Imperial_car-1955.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 468,
+        "src": "/assets/img/2026-07-26/2536-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 805,
+        "src": "/assets/img/2026-07-26/2536-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 805,
+    "credit": {
+      "artist": "NASA astronaut",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASuez_Canal%2C_Port_Said_-_ISS_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Trinity_shot_color.jpg": {
@@ -7837,6 +7906,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMars-express-volcanoes-sm.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Predappio_house.JPG": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Predappio_house.JPG",
+    "sources": [
+      {
+        "width": 640,
+        "height": 469,
+        "src": "/assets/img/2026-07-25/2515-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 807,
+        "src": "/assets/img/2026-07-25/2515-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 807,
+    "credit": {
+      "artist": "Srecan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APredappio_house.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ramey-dubose-debris.jpg": {
@@ -8525,6 +8617,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Palace_of_Art_and_Industry%2C_exhibition_of_1862%3B_the_inte_Wellcome_V0013592.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Canal_de_Suez.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 608,
+        "src": "/assets/img/2026-07-26/2536-1-640.webp"
+      },
+      {
+        "width": 836,
+        "height": 794,
+        "src": "/assets/img/2026-07-26/2536-1-836.webp"
+      }
+    ],
+    "width": 836,
+    "height": 794,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACanal_de_Suez.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasilia_aerea_estadio_nacional.jpg": {
@@ -9405,6 +9520,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarines_and_King_Kong_on_Saipan.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d0/Port_Said_from_air.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Port_Said_from_air.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 471,
+        "src": "/assets/img/2026-07-26/2536-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 809,
+        "src": "/assets/img/2026-07-26/2536-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 809,
+    "credit": {
+      "artist": "Fleet Air Arm official photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APort_Said_from_air.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg": {
