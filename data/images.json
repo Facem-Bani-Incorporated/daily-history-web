@@ -5811,6 +5811,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGustave_Dor%C3%A9-_Battle_of_Hattin.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Impeach_Nixon_retouched.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Impeach_Nixon_retouched.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 959,
+        "src": "/assets/img/2026-07-27/2562-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1648,
+        "src": "/assets/img/2026-07-27/2562-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1648,
+    "credit": {
+      "artist": "Marion S. Trikosko or Thomas J. O'Halloran, photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AImpeach_Nixon_retouched.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Iziko_sang_Holiday_Time_in_Cape_Town.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Iziko_sang_Holiday_Time_in_Cape_Town.jpg",
     "sources": [
@@ -9893,6 +9916,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHittin.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 279,
+        "src": "/assets/img/2026-07-27/2562-0-640.webp"
+      },
+      {
+        "width": 1024,
+        "height": 446,
+        "src": "/assets/img/2026-07-27/2562-0-1024.webp"
+      }
+    ],
+    "width": 1024,
+    "height": 446,
+    "credit": {
+      "artist": "Creator: Trikosko, Marion S., photographer; Related Name: O'Halloran, Thomas J. , photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOpening_day_of_the_Nixon_impeachment_inquiry.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zacarias_Moussaoui.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zacarias_Moussaoui.jpg",
     "sources": [
@@ -10001,6 +10047,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALusitania's_bow_before_launch.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Richard_Nixon_presidential_portrait_crop.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Richard_Nixon_presidential_portrait_crop.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 771,
+        "src": "/assets/img/2026-07-27/2562-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1325,
+        "src": "/assets/img/2026-07-27/2562-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1325,
+    "credit": {
+      "artist": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_Nixon_presidential_portrait_crop.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e7/DUMBO_%2896047423%29.jpg": {
