@@ -6985,6 +6985,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUS_Army_Infantrymen%2C_2nd_Infantry_Division%2C_Battle_of_Belleau_Wood%2C_June_1918.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7b/14th_Amendment_Pg1of2_AC.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/14th_Amendment_Pg1of2_AC.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 838,
+        "src": "/assets/img/2026-07-28/2579-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1440,
+        "src": "/assets/img/2026-07-28/2579-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1440,
+    "credit": {
+      "artist": "National Archives of the United States",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A14th_Amendment_Pg1of2_AC.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7b/AkagiDeckApril42.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/AkagiDeckApril42.jpg",
     "sources": [
@@ -7553,6 +7576,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrinity_shot_color.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8e/14th_Amendment_Pg2of2_AC.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/14th_Amendment_Pg2of2_AC.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 830,
+        "src": "/assets/img/2026-07-28/2579-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1427,
+        "src": "/assets/img/2026-07-28/2579-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1427,
+    "credit": {
+      "artist": "National Archives of the United States",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A14th_Amendment_Pg2of2_AC.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8e/South_Vietnam_-_The_final_days_1975.jpg": {
@@ -10180,6 +10226,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADC-1914-27-d-Sarajevo-cropped.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jacob_M._Howard_-_Brady-Handy.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jacob_M._Howard_-_Brady-Handy.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 736,
+        "src": "/assets/img/2026-07-28/2579-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1266,
+        "src": "/assets/img/2026-07-28/2579-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1266,
+    "credit": {
+      "artist": "Mathew Benjamin Brady",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacob_M._Howard_-_Brady-Handy.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Elizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg": {
