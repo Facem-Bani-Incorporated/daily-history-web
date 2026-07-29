@@ -4012,6 +4012,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWounded_Swedish_ONUC_soldier.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-07-29/2603-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-07-29/2603-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "USAF",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABell_X-1A_in_flight.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/US_equipped_Chinese_Army_in_India_marching.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/US_equipped_Chinese_Army_in_India_marching.jpg",
     "sources": [
@@ -7190,6 +7213,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJavaUniverse.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Launch_of_Jupiter_C_with_Explorer_1.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Launch_of_Jupiter_C_with_Explorer_1.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 880,
+        "src": "/assets/img/2026-07-29/2603-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1512,
+        "src": "/assets/img/2026-07-29/2603-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1512,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALaunch_of_Jupiter_C_with_Explorer_1.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaney%2C_Goodman%2C_Schwerner_station_wagon%2C_1964.jpg": {
@@ -10387,6 +10433,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWimbledon_Championship_1877.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/NASA_HQ_Building.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NASA_HQ_Building.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 494,
+        "src": "/assets/img/2026-07-29/2603-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 850,
+        "src": "/assets/img/2026-07-29/2603-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 850,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANASA_HQ_Building.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f2/BanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg": {
