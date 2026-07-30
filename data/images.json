@@ -5698,6 +5698,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouisiana_Purchase.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 833,
+        "src": "/assets/img/2026-07-30/2595-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1431,
+        "src": "/assets/img/2026-07-30/2595-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1431,
+    "credit": {
+      "artist": "Oliver F. Atkins",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANixon_30-0316a_(cropped)(b).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thomas_Jefferson_1805_Portrait_3x4_Crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thomas_Jefferson_1805_Portrait_3x4_Crop.jpg",
     "sources": [
@@ -9914,6 +9937,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJFK_speech_Ich_bin_ein_berliner_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Richard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Richard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 421,
+        "src": "/assets/img/2026-07-30/2595-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 723,
+        "src": "/assets/img/2026-07-30/2595-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 723,
+    "credit": {
+      "artist": "Karl Schumacher",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg": {
