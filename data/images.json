@@ -4327,6 +4327,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArmadaroute.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/BarragemAssu%C3%A3o.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/BarragemAssu%C3%A3o.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 530,
+        "src": "/assets/img/2026-07-31/2613-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 910,
+        "src": "/assets/img/2026-07-31/2613-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 910,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABarragemAssu%C3%A3o.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2e/Battle_of_Berlin_1945-b.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Battle_of_Berlin_1945-b.png",
     "sources": [
@@ -4348,6 +4371,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Berlin_1945-b.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 869,
+        "src": "/assets/img/2026-07-31/2612-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1495,
+        "src": "/assets/img/2026-07-31/2612-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1495,
+    "credit": {
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIgnoto_portoghese%2C_ritratto_di_un_cavaliere_dell'ordine_di_cristo%2C_1525-50_ca._02.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phelpsmill_ottertailcounty.jpg": {
@@ -7169,6 +7215,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APresident_Kennedy_addresses_nation_on_Civil_Rights%2C_11_June_1963.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png",
+    "sources": [
+      {
+        "width": 640,
+        "height": 296,
+        "src": "/assets/img/2026-07-31/2612-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 509,
+        "src": "/assets/img/2026-07-31/2612-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 509,
+    "credit": {
+      "artist": "Descobrimentos_e_explorações_portugueses.png: *Portuguese_discoveries_and_explorations.png: *Portuguese_Empire_map.jpg: ",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADescobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg",
     "sources": [
@@ -7852,6 +7921,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_de_Gaulle%2C_1890-1970_(during_1900s).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Gamal-002.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gamal-002.jpg",
+    "sources": [
+      {
+        "width": 450,
+        "height": 554,
+        "src": "/assets/img/2026-07-31/2613-1-450.webp"
+      }
+    ],
+    "width": 450,
+    "height": 554,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGamal-002.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg": {
@@ -9284,6 +9371,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreen_Laser.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-07-31/2612-1-640.webp"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "src": "/assets/img/2026-07-31/2612-1-960.webp"
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "credit": {
+      "artist": "Georges Jansoone",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASines06_edit1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Western_front_1918_allied.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Western_front_1918_allied.jpg",
     "sources": [
@@ -10433,6 +10543,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Berlin_1945-a.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nasser_observing_Aswan_Dam_construction.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nasser_observing_Aswan_Dam_construction.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 435,
+        "src": "/assets/img/2026-07-31/2613-2-640.webp"
+      },
+      {
+        "width": 665,
+        "height": 452,
+        "src": "/assets/img/2026-07-31/2613-2-665.webp"
+      }
+    ],
+    "width": 665,
+    "height": 452,
+    "credit": {
+      "artist": "Not credited",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANasser_observing_Aswan_Dam_construction.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tel_Aviv-Yafo_%28997008136796005171%29.jpg": {
