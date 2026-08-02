@@ -3214,6 +3214,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFalkirk1298(1).JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Battle_of_the_Nile.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Battle_of_the_Nile.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 449,
+        "src": "/assets/img/2026-08-02/2659-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 773,
+        "src": "/assets/img/2026-08-02/2659-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 773,
+    "credit": {
+      "artist": "George Arnald",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_the_Nile.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0b/RMS_Lusitania_boat.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RMS_Lusitania_boat.jpg",
     "sources": [
@@ -6678,6 +6701,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHectorPietersonMemorial1030632.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/HoratioNelson1.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/HoratioNelson1.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 771,
+        "src": "/assets/img/2026-08-02/2659-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1326,
+        "src": "/assets/img/2026-08-02/2659-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1326,
+    "credit": {
+      "artist": "Lemuel Francis Abbott",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoratioNelson1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/73/AlbertMathieuFavierPlanOfCoachServiceThroughtTheChanneltunnel.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/AlbertMathieuFavierPlanOfCoachServiceThroughtTheChanneltunnel.png",
     "sources": [
@@ -7875,6 +7921,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AC-54_landing_at_Tempelhof.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 430,
+        "src": "/assets/img/2026-08-02/2658-0-640.webp"
+      },
+      {
+        "width": 744,
+        "height": 500,
+        "src": "/assets/img/2026-08-02/2658-0-744.webp"
+      }
+    ],
+    "width": 744,
+    "height": 500,
+    "credit": {
+      "artist": "Zymogen92",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATankskuwait.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
@@ -9174,6 +9243,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFieldOfGettysburg1863.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Iraqi_irredentism.png": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Iraqi_irredentism.png",
+    "sources": [
+      {
+        "width": 640,
+        "height": 616,
+        "src": "/assets/img/2026-08-02/2658-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1058,
+        "src": "/assets/img/2026-08-02/2658-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1058,
+    "credit": {
+      "artist": "Sakiv",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIraqi_irredentism.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Karol_Wojtyla-1st_comunnion.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Karol_Wojtyla-1st_comunnion.jpg",
     "sources": [
@@ -9699,6 +9791,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Cogswell_(DD-651)_underway_in_1945.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 838,
+        "src": "/assets/img/2026-08-02/2659-2-640.webp"
+      },
+      {
+        "width": 680,
+        "height": 890,
+        "src": "/assets/img/2026-08-02/2659-2-680.webp"
+      }
+    ],
+    "width": 680,
+    "height": 890,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois-Paul_Brueys_d'Aigalliers.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d0/Falkirk1298%282%29.JPG": {
@@ -11144,6 +11259,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWar_of_1812_Montage.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saddam_Hussein_at_trial%2C_July_2004.JPEG": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saddam_Hussein_at_trial%2C_July_2004.JPEG",
+    "sources": [
+      {
+        "width": 640,
+        "height": 982,
+        "src": "/assets/img/2026-08-02/2658-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1688,
+        "src": "/assets/img/2026-08-02/2658-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1688,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaddam_Hussein_at_trial%2C_July_2004.JPEG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg": {
