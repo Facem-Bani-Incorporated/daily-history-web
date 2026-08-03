@@ -6517,6 +6517,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANihon_Kenpo03.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6e/USS_Nautilus_SSN571.JPG": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/USS_Nautilus_SSN571.JPG",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-08-03/2684-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-08-03/2684-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Victor-ny",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Nautilus_SSN571.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg",
     "sources": [
@@ -9243,6 +9266,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFieldOfGettysburg1863.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 828,
+        "src": "/assets/img/2026-08-03/2684-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1422,
+        "src": "/assets/img/2026-08-03/2684-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1422,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHyman_Rickover_inspecting_USS_Nautilus.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Iraqi_irredentism.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Iraqi_irredentism.png",
     "sources": [
@@ -10704,6 +10750,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATel_Aviv-Yafo_(997008136796005171).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/USS_Nautilus_SSN-571_-underway.jpg": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/USS_Nautilus_SSN-571_-underway.jpg",
+    "sources": [
+      {
+        "width": 640,
+        "height": 507,
+        "src": "/assets/img/2026-08-03/2684-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 872,
+        "src": "/assets/img/2026-08-03/2684-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 872,
+    "credit": {
+      "artist": "USN official photo # 199068",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Nautilus_SSN-571_-underway.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Wimbledon_Championship_1877.jpg": {
