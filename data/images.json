@@ -5220,6 +5220,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_Birthplace.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 470,
+        "src": "/assets/img/2026-08-04/2707-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 808,
+        "src": "/assets/img/2026-08-04/2707-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 808,
+    "credit": {
+      "artist": "John Warwick Brooke",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABritish_39th_Siege_Battery_RGA_Somme_1916.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_%28agr%C3%B3nomo%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_%28agr%C3%B3nomo%29.jpg",
     "sources": [
@@ -10018,6 +10041,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADe_slag_aan_de_Boyne_(Ierland)_tussen_Jacobus_II_en_Willem_III%2C_12_juli_1690_Rijksmuseum_SK-A-605.jpeg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-08-04/2708-2-640.webp"
+      },
+      {
+        "width": 953,
+        "height": 715,
+        "src": "/assets/img/2026-08-04/2708-2-953.webp"
+      }
+    ],
+    "width": 953,
+    "height": 715,
+    "credit": {
+      "artist": "Rodrigo Galindez",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Levi_Strauss_1.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Levi_Strauss_1.jpg",
     "sources": [
@@ -10302,6 +10348,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Orville_Wright.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/%27ANNE%27_stage_set.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/%27ANNE%27_stage_set.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 386,
+        "src": "/assets/img/2026-08-04/2708-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 664,
+        "src": "/assets/img/2026-08-04/2708-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 664,
+    "credit": {
+      "artist": "Martin Gray89",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A'ANNE'_stage_set.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hittin.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hittin.jpg",
     "sources": [
@@ -10481,6 +10550,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_Nixon_presidential_portrait_crop.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 479,
+        "src": "/assets/img/2026-08-04/2707-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 823,
+        "src": "/assets/img/2026-08-04/2707-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 823,
+    "credit": {
+      "artist": "Collection DocAnciens/docpix.fr",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille_de_Verdun_1916.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e7/DUMBO_%2896047423%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/DUMBO_%2896047423%29.jpg",
     "sources": [
@@ -10502,6 +10594,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADUMBO_(96047423).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/Germanmachineguncrew1918.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Germanmachineguncrew1918.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 443,
+        "src": "/assets/img/2026-08-04/2707-2-640.webp"
+      },
+      {
+        "width": 700,
+        "height": 485,
+        "src": "/assets/img/2026-08-04/2707-2-700.webp"
+      }
+    ],
+    "width": 700,
+    "height": 485,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermanmachineguncrew1918.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
@@ -12862,6 +12977,19 @@
     ],
     "width": 421,
     "height": 236,
+    "credit": null
+  },
+  "https://upload.wikimedia.org/wikipedia/en/4/47/Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/47/Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 250,
+        "height": 383,
+        "src": "/assets/img/2026-08-04/2708-0-250.webp"
+      }
+    ],
+    "width": 250,
+    "height": 383,
     "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/en/5/53/Alexander_Duncan_Turnbull_1901%2C_Boer_War.jpg": {
