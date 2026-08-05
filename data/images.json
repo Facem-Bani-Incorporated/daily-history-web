@@ -6320,6 +6320,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarcel_Bezen%C3%A7on_(1980).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Enola_Gay_%28plane%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Enola_Gay_%28plane%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 273,
+        "src": "/assets/img/2026-08-05/2731-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 469,
+        "src": "/assets/img/2026-08-05/2731-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 469,
+    "credit": {
+      "artist": "The original uploader was Veinsworld at German Wikipedia. (Original text: US Air Force)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEnola_Gay_(plane).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/BerlinerBlockadeLuftwege.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/BerlinerBlockadeLuftwege.png",
     "sources": [
@@ -7877,6 +7900,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASrebrenica_2005_burial.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-08-05/2732-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-08-05/2732-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": "IDF Spokesperson's Unit photographer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg",
     "sources": [
@@ -7990,6 +8036,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATankskuwait.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/Tibbets-wave.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tibbets-wave.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 791,
+        "src": "/assets/img/2026-08-05/2731-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1360,
+        "src": "/assets/img/2026-08-05/2731-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1360,
+    "credit": {
+      "artist": "Photo taken by 509th photographer Pfc. Armen Shamlian.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATibbets-wave.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
@@ -8200,6 +8269,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACH-53_landing_at_Defense_Attach%C3%A9_Office_compound%2C_Operation_Frequent_Wind.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kenya_bombing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kenya_bombing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 286,
+        "height": 188,
+        "src": "/assets/img/2026-08-05/2732-2-286.webp"
+      }
+    ],
+    "width": 286,
+    "height": 188,
+    "credit": {
+      "artist": "US gov",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKenya_bombing_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9d/%22Daredevil_Lindbergh%22.jpg": {
@@ -9289,6 +9376,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFieldOfGettysburg1863.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/be/Nissan_Atlas_F22_001.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nissan_Atlas_F22_001.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 440,
+        "src": "/assets/img/2026-08-05/2732-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 756,
+        "src": "/assets/img/2026-08-05/2732-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 756,
+    "credit": {
+      "artist": "天然ガス",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANissan_Atlas_F22_001.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg",
     "sources": [
@@ -10369,6 +10479,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A'ANNE'_stage_set.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atombombe_Little_Boy_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atombombe_Little_Boy_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 712,
+        "src": "/assets/img/2026-08-05/2731-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1223,
+        "src": "/assets/img/2026-08-05/2731-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1223,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAtombombe_Little_Boy_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hittin.jpg": {
