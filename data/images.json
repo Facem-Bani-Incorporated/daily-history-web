@@ -6471,6 +6471,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagellan_GPS_Blazer12.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/1945-08-01JapWW2BattlefrontAtlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/1945-08-01JapWW2BattlefrontAtlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 611,
+        "src": "/assets/img/2026-08-06/2754-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1050,
+        "src": "/assets/img/2026-08-06/2754-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1050,
+    "credit": {
+      "artist": "Army Map Service",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1945-08-01JapWW2BattlefrontAtlas.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg",
     "sources": [
@@ -8425,6 +8448,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Japan_Sea_(Route_of_Baltic_Fleet)_NT.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 502,
+        "src": "/assets/img/2026-08-06/2754-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 863,
+        "src": "/assets/img/2026-08-06/2754-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 863,
+    "credit": {
+      "artist": "ENERGY.GOV",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHD.30.507_(10444069294).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tommy_McKearney_%28cropped%29.jpg": {
@@ -11757,6 +11803,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarriage_rally_(18997214650).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fueling_of_the_MSL_MMRTG_001.jpg/3840px-Fueling_of_the_MSL_MMRTG_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fueling_of_the_MSL_MMRTG_001.jpg/3840px-Fueling_of_the_MSL_MMRTG_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 428,
+        "src": "/assets/img/2026-08-06/2755-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 736,
+        "src": "/assets/img/2026-08-06/2755-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 736,
+    "credit": {
+      "artist": "Idaho National Laboratory",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFueling_of_the_MSL_MMRTG_001.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/3840px-Apollo_11_insignia.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/3840px-Apollo_11_insignia.png",
     "sources": [
@@ -11918,6 +11987,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeace_Treaty_of_Vereeniging%2C_South_Africa%2C_31_May_1902.pdf"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PIA15279_3rovers-stand_D2011_1215_D521.jpg/3840px-PIA15279_3rovers-stand_D2011_1215_D521.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PIA15279_3rovers-stand_D2011_1215_D521.jpg/3840px-PIA15279_3rovers-stand_D2011_1215_D521.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 323,
+        "src": "/assets/img/2026-08-06/2755-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 555,
+        "src": "/assets/img/2026-08-06/2755-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 555,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APIA15279_3rovers-stand_D2011_1215_D521.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/3840px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/3840px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg",
     "sources": [
@@ -11962,6 +12054,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALe_ferry_de_croisi%C3%A8re_Gruziya_(2).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/3840px-Atomic_bombing_of_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/3840px-Atomic_bombing_of_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 379,
+        "src": "/assets/img/2026-08-06/2754-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 653,
+        "src": "/assets/img/2026-08-06/2754-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 653,
+    "credit": {
+      "artist": "George R. Caron / Charles Levy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAtomic_bombing_of_Japan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/3840px-Intel_C4004.jpg": {
@@ -13043,6 +13158,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 882,
+        "src": "/assets/img/2026-08-06/2755-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1517,
+        "src": "/assets/img/2026-08-06/2755-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1517,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACuriosity_Self-Portrait_at_'Big_Sky'_Drilling_Site.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/3840px-Dow_Jones_Industrial_Average.webp.png": {
