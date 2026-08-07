@@ -3485,6 +3485,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJudgeJMHarlan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Solomon_Islands_Campaign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Solomon_Islands_Campaign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 433,
+        "src": "/assets/img/2026-08-07/2779-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 745,
+        "src": "/assets/img/2026-08-07/2779-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 745,
+    "credit": {
+      "artist": "United States Marine Corps",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASolomon_Islands_Campaign.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/VStauffenberg_vQuirnheim.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/VStauffenberg_vQuirnheim.jpg",
     "sources": [
@@ -4266,6 +4289,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJethro_Tull_seed_drill_(1762).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Marine_Officers%2C_Tulagi%2C_circa_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Marine_Officers%2C_Tulagi%2C_circa_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 487,
+        "src": "/assets/img/2026-08-07/2779-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 837,
+        "src": "/assets/img/2026-08-07/2779-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 837,
+    "credit": {
+      "artist": "Archives Branch, USMC History Division",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarine_Officers%2C_Tulagi%2C_circa_1942.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg": {
@@ -9328,6 +9374,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABerlin_Wall_at_the_Reagan_Library.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marines_Leaving_Guadalcanal%2C_circa_1942_-_36548845402.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marines_Leaving_Guadalcanal%2C_circa_1942_-_36548845402.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 466,
+        "src": "/assets/img/2026-08-07/2779-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 801,
+        "src": "/assets/img/2026-08-07/2779-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 801,
+    "credit": {
+      "artist": "Archives Branch, USMC History Division",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarines_Leaving_Guadalcanal%2C_circa_1942_-_36548845402.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/USS_Indianapolis_%28CA-35%29_underway_at_sea%2C_in_1943-1944_%28NH_124466%29.jpg": {
