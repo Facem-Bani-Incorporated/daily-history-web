@@ -5138,6 +5138,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AParis_Peace_Conference.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 660,
+        "src": "/assets/img/2026-08-08/2771-2-640.webp"
+      },
+      {
+        "width": 776,
+        "height": 800,
+        "src": "/assets/img/2026-08-08/2771-2-776.webp"
+      }
+    ],
+    "width": 776,
+    "height": 800,
+    "credit": {
+      "artist": "Koard, Peter",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/41/Horagolla_Walauwa%2C_Atthanagalla%2C_Sri_Lanka.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Horagolla_Walauwa%2C_Atthanagalla%2C_Sri_Lanka.jpg",
     "sources": [
@@ -6540,6 +6563,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1945-08-01JapWW2BattlefrontAtlas.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 421,
+        "src": "/assets/img/2026-08-08/2771-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 724,
+        "src": "/assets/img/2026-08-08/2771-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 724,
+    "credit": {
+      "artist": "Главцентроархив",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInvasion_of_Czechoslovakia_collage.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg",
     "sources": [
@@ -7351,6 +7397,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACollier's_1921_World_War_-_Marines_in_Belleau_Wood_by_Georges_Scott.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7b/Manchuria_1945-A.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Manchuria_1945-A.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 607,
+        "height": 727,
+        "src": "/assets/img/2026-08-08/2770-0-607.webp"
+      }
+    ],
+    "width": 607,
+    "height": 727,
+    "credit": {
+      "artist": "Dove",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AManchuria_1945-A.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7c/Galveston_Juneteenth_Parade_and_Celebration_6-19-25_-_103.jpg": {
@@ -10087,6 +10151,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Cogswell_(DD-651)_underway_in_1945.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 448,
+        "src": "/assets/img/2026-08-08/2771-1-640.webp"
+      },
+      {
+        "width": 786,
+        "height": 550,
+        "src": "/assets/img/2026-08-08/2771-1-786.webp"
+      }
+    ],
+    "width": 786,
+    "height": 550,
+    "credit": {
+      "artist": "Ulrich Kohls",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg",
     "sources": [
@@ -10729,6 +10816,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANews._V.E._Day_BAnQ_P48S1P12270.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 550,
+        "height": 390,
+        "src": "/assets/img/2026-08-08/2770-2-550.webp"
+      }
+    ],
+    "width": 550,
+    "height": 390,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASoviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg",
     "sources": [
@@ -10865,6 +10970,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermanmachineguncrew1918.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/IJA_Type_95_Ha-Go_Manchuria_model_rear-side_view.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/IJA_Type_95_Ha-Go_Manchuria_model_rear-side_view.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 342,
+        "height": 278,
+        "src": "/assets/img/2026-08-08/2770-1-342.webp"
+      }
+    ],
+    "width": 342,
+    "height": 278,
+    "credit": {
+      "artist": "Imperial Japanese Army",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIJA_Type_95_Ha-Go_Manchuria_model_rear-side_view.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
