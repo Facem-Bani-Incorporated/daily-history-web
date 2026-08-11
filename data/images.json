@@ -3260,6 +3260,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARMS_Lusitania_boat.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Europe_in_1328.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Europe_in_1328.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 695,
+        "src": "/assets/img/2026-08-11/2813-1-640.webp"
+      },
+      {
+        "width": 1075,
+        "height": 1168,
+        "src": "/assets/img/2026-08-11/2813-1-1075.webp"
+      }
+    ],
+    "width": 1075,
+    "height": 1168,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEurope_in_1328.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0c/Large_explosion_aboard_USS_Lexington_%28CV-2%29%2C_8_May_1942_%2880-G-16651%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Large_explosion_aboard_USS_Lexington_%28CV-2%29%2C_8_May_1942_%2880-G-16651%29.jpg",
     "sources": [
@@ -4058,6 +4081,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWounded_Swedish_ONUC_soldier.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fern%C3%A3o_de_Magalh%C3%A3es_-_Padr%C3%A3o_dos_Descobrimentos.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fern%C3%A3o_de_Magalh%C3%A3es_-_Padr%C3%A3o_dos_Descobrimentos.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1016,
+        "src": "/assets/img/2026-08-10/2787-2-640.webp"
+      },
+      {
+        "width": 674,
+        "height": 1070,
+        "src": "/assets/img/2026-08-10/2787-2-674.webp"
+      }
+    ],
+    "width": 674,
+    "height": 1070,
+    "credit": {
+      "artist": "christopher_brown",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFern%C3%A3o_de_Magalh%C3%A3es_-_Padr%C3%A3o_dos_Descobrimentos.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg",
     "sources": [
@@ -4120,6 +4166,29 @@
       "license": "OGL v1.0",
       "licenseUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADavid_Cameron_official.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 388,
+        "src": "/assets/img/2026-08-11/2814-0-640.webp"
+      },
+      {
+        "width": 777,
+        "height": 471,
+        "src": "/assets/img/2026-08-11/2814-0-777.webp"
+      }
+    ],
+    "width": 777,
+    "height": 471,
+    "credit": {
+      "artist": "en:User:Wiglaf, en:User:Dbachmann",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChernyakhov.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Foto_van_oorlog.jpg": {
@@ -8258,6 +8327,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGamal-002.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalandozasok.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalandozasok.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 438,
+        "src": "/assets/img/2026-08-10/2788-1-640.webp"
+      },
+      {
+        "width": 724,
+        "height": 496,
+        "src": "/assets/img/2026-08-10/2788-1-724.webp"
+      }
+    ],
+    "width": 724,
+    "height": 496,
+    "credit": {
+      "artist": "hu:User:Csanády",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKalandozasok.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg",
     "sources": [
@@ -8402,6 +8494,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACH-53_landing_at_Defense_Attach%C3%A9_Office_compound%2C_Operation_Frequent_Wind.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ferdinand_Magellan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 562,
+        "height": 693,
+        "src": "/assets/img/2026-08-10/2787-0-562.webp"
+      }
+    ],
+    "width": 562,
+    "height": 693,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_Magellan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kenya_bombing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8732,6 +8842,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermany_occupation_zones_with_border.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a9/Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 930,
+        "src": "/assets/img/2026-08-11/2813-0-640.webp"
+      },
+      {
+        "width": 1060,
+        "height": 1540,
+        "src": "/assets/img/2026-08-11/2813-0-1060.webp"
+      }
+    ],
+    "width": 1060,
+    "height": 1540,
+    "credit": {
+      "artist": "Scanned (by me) from the cover of The Great Famine (1996) by William Chester Jordan. Original cover art from a photograp",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_famine.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a9/USS_Indianapolis_%28CA-35%29_underway_at_sea_on_27_September_1939_%2880-G-425615%29.jpg": {
@@ -9131,6 +9264,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALucretia_and_James_Mott.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wesiory.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wesiory.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 565,
+        "height": 399,
+        "src": "/assets/img/2026-08-11/2814-1-565.webp"
+      }
+    ],
+    "width": 565,
+    "height": 399,
+    "credit": {
+      "artist": "Maria Golińska",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWesiory.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/16May-21May_Battle_of_Belgium.PNG": {
@@ -10087,6 +10238,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APiper_connections.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Hungarian_campaign_in_Europe_of_954.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Hungarian_campaign_in_Europe_of_954.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 364,
+        "src": "/assets/img/2026-08-10/2788-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 626,
+        "src": "/assets/img/2026-08-10/2788-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 626,
+    "credit": {
+      "artist": "Sylvain1975",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Hungarian_campaign_in_Europe_of_954.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cd/Medal_issued_during_the_reign_of_Louis_XVI%3B_%22The_National_Assembly_Abolishes_Feudalism%22%2C_dated_4_August_1789.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Medal_issued_during_the_reign_of_Louis_XVI%3B_%22The_National_Assembly_Abolishes_Feudalism%22%2C_dated_4_August_1789.jpg",
     "sources": [
@@ -10589,6 +10763,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 652,
+        "src": "/assets/img/2026-08-10/2788-0-640.webp"
+      },
+      {
+        "width": 1009,
+        "height": 1512,
+        "src": "/assets/img/2026-08-10/2788-0-1009.webp"
+      }
+    ],
+    "width": 1009,
+    "height": 1512,
+    "credit": {
+      "artist": "Hektor Mülich[1] (d. 1490)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALechfeld1457.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg": {
@@ -12913,6 +13110,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAll_Gizah_Pyramids.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg/3840px-Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg/3840px-Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-08-10/2787-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 734,
+        "src": "/assets/img/2026-08-10/2787-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 734,
+    "credit": {
+      "artist": "Zeferros",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg/3840px-Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg": {
