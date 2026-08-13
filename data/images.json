@@ -3948,6 +3948,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_(3x4_close_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 811,
+        "src": "/assets/img/2026-08-13/2855-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1394,
+        "src": "/assets/img/2026-08-13/2855-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1394,
+    "credit": {
+      "artist": "Philippe de Champaigne",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALuis_XIII%2C_rey_de_Francia_(Philippe_de_Champaigne).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg",
     "sources": [
@@ -7317,6 +7340,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGettysburg_Campaign.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/77/Louis-Auguste_de_France%2C_duc_de_Berry.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Louis-Auguste_de_France%2C_duc_de_Berry.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 458,
+        "height": 550,
+        "src": "/assets/img/2026-08-13/2854-1-458.webp"
+      }
+    ],
+    "width": 458,
+    "height": 550,
+    "credit": {
+      "artist": "Jean-Martial Frédou",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis-Auguste_de_France%2C_duc_de_Berry.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
     "sources": [
@@ -7783,6 +7824,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AProtests_in_Lom%C3%A9%2C_Togo%2C_18_octobre_2017_04.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/Fran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Fran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 478,
+        "src": "/assets/img/2026-08-13/2854-0-640.webp"
+      },
+      {
+        "width": 761,
+        "height": 568,
+        "src": "/assets/img/2026-08-13/2854-0-761.webp"
+      }
+    ],
+    "width": 761,
+    "height": 568,
+    "credit": {
+      "artist": "François-Hubert Drouais",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesarchiv_Bild_183-R67561%2C_Potsdamer_Konferenz%2C_Konferenztisch.jpg": {
@@ -8417,6 +8481,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKalandozasok.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Louis_Dreizehn_France.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Louis_Dreizehn_France.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 849,
+        "src": "/assets/img/2026-08-13/2855-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1459,
+        "src": "/assets/img/2026-08-13/2855-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1459,
+    "credit": {
+      "artist": "Frans Pourbus the Younger",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Dreizehn_France.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg": {
@@ -9274,6 +9361,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMariner_4_Launch_Preparations.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 838,
+        "src": "/assets/img/2026-08-13/2854-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1440,
+        "src": "/assets/img/2026-08-13/2854-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1440,
+    "credit": {
+      "artist": "Élisabeth Louise Vigée Le Brun",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/Russell_square_ambulances.jpg": {
@@ -12305,6 +12415,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarriage_rally_(18997214650).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/France_1643-A_Half_Louis_d%27Or.jpg/3840px-France_1643-A_Half_Louis_d%27Or.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/France_1643-A_Half_Louis_d%27Or.jpg/3840px-France_1643-A_Half_Louis_d%27Or.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 324,
+        "src": "/assets/img/2026-08-13/2855-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 557,
+        "src": "/assets/img/2026-08-13/2855-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 557,
+    "credit": {
+      "artist": "Jean Varin / National Museum of American History",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrance_1643-A_Half_Louis_d'Or.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fueling_of_the_MSL_MMRTG_001.jpg/3840px-Fueling_of_the_MSL_MMRTG_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
