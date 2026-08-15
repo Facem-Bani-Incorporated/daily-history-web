@@ -2930,6 +2930,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANasser_in_1969_(3x4_close_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 264,
+        "src": "/assets/img/2026-08-15/2906-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 453,
+        "src": "/assets/img/2026-08-15/2906-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 453,
+    "credit": {
+      "artist": "Rumomo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArte_Alhambra_I_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Juan_de_la_Cierva%2C_aer%C3%B3dromo_de_Lasarte%2C_1930.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Juan_de_la_Cierva%2C_aer%C3%B3dromo_de_Lasarte%2C_1930.jpg",
     "sources": [
@@ -7230,6 +7253,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARowell_memo_1946.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Umayyad_Caliphate._temp._Mu%27awiya_I_ibn_Abi_Sufyan._AH_41-60_AD_661-680.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Umayyad_Caliphate._temp._Mu%27awiya_I_ibn_Abi_Sufyan._AH_41-60_AD_661-680.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 314,
+        "src": "/assets/img/2026-08-15/2906-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 392,
+        "src": "/assets/img/2026-08-15/2906-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 392,
+    "credit": {
+      "artist": "CNG Coins",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUmayyad_Caliphate._temp._Mu'awiya_I_ibn_Abi_Sufyan._AH_41-60_AD_661-680.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/75/Conjoined_X-ray.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Conjoined_X-ray.jpg",
     "sources": [
@@ -8187,6 +8233,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrysler_Imperial_car-1955.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greek_Muawiya_inscription_of_Hammat_Gader%2C_663_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greek_Muawiya_inscription_of_Hammat_Gader%2C_663_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 530,
+        "height": 326,
+        "src": "/assets/img/2026-08-15/2906-1-530.webp"
+      }
+    ],
+    "width": 530,
+    "height": 326,
+    "credit": {
+      "artist": "Author of inscription not credited. Authorities mentioned in inscription include Caliph Mu'awiya I (d. 680), Abd Allah i",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreek_Muawiya_inscription_of_Hammat_Gader%2C_663_AD.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
@@ -9251,6 +9315,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVienna_Allied_sectors_(1945-1955).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Constans_II_tremissis_81089.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Constans_II_tremissis_81089.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 325,
+        "height": 159,
+        "src": "/assets/img/2026-08-15/2905-1-325.webp"
+      }
+    ],
+    "width": 325,
+    "height": 159,
+    "credit": {
+      "artist": "CNG",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConstans_II_tremissis_81089.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/Strategic_Situation_of_Western_Europe_1815.jpg": {
@@ -11330,6 +11412,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANews._V.E._Day_BAnQ_P48S1P12270.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e2/Solidus-Justinian_II-Christ_b-sb1413.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Solidus-Justinian_II-Christ_b-sb1413.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 245,
+        "src": "/assets/img/2026-08-15/2905-2-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 245,
+    "credit": {
+      "artist": "Panairjdde",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASolidus-Justinian_II-Christ_b-sb1413.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12039,6 +12139,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATranscontinental_railroad_route.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Greekfire-madridskylitzes1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Greekfire-madridskylitzes1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 328,
+        "src": "/assets/img/2026-08-15/2905-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 563,
+        "src": "/assets/img/2026-08-15/2905-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 563,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreekfire-madridskylitzes1.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f7/NH_state_emblem.jpg": {
