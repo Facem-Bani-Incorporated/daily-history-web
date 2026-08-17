@@ -7161,6 +7161,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Waterloo_1815.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Dirck_van_Delen_-_Beeldenstorm_in_een_kerk.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Dirck_van_Delen_-_Beeldenstorm_in_een_kerk.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 478,
+        "src": "/assets/img/2026-08-17/2958-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 822,
+        "src": "/assets/img/2026-08-17/2958-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 822,
+    "credit": {
+      "artist": "Dirck van Delen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADirck_van_Delen_-_Beeldenstorm_in_een_kerk.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/72/HectorPietersonMemorial1030632.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/HectorPietersonMemorial1030632.JPG",
     "sources": [
@@ -7205,6 +7228,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoratioNelson1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Raleigh%27s_first_pipe_in_England.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Raleigh%27s_first_pipe_in_England.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-08-17/2959-2-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 645,
+        "src": "/assets/img/2026-08-17/2959-2-900.webp"
+      }
+    ],
+    "width": 900,
+    "height": 645,
+    "credit": {
+      "artist": "Frederick William Fairholt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARaleigh's_first_pipe_in_England.jpeg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/73/AlbertMathieuFavierPlanOfCoachServiceThroughtTheChanneltunnel.png": {
@@ -10399,6 +10445,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABirch_bayh.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c2/Capture_of_Den_Briel_1572.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Capture_of_Den_Briel_1572.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 349,
+        "src": "/assets/img/2026-08-17/2958-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 600,
+        "src": "/assets/img/2026-08-17/2958-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 600,
+    "credit": {
+      "artist": "Anthonie Waldorp",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACapture_of_Den_Briel_1572.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_Mumtaz_Mahal_on_Ivory_%28cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_Mumtaz_Mahal_on_Ivory_%28cropped%29.jpg",
     "sources": [
@@ -12013,6 +12082,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWimbledon_Championship_1877.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/John_Everett_Millais_%281829-1896%29_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/John_Everett_Millais_%281829-1896%29_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 545,
+        "src": "/assets/img/2026-08-17/2959-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 936,
+        "src": "/assets/img/2026-08-17/2959-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 936,
+    "credit": {
+      "artist": "John Everett Millais",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Everett_Millais_(1829-1896)_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f0/NASA_HQ_Building.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/NASA_HQ_Building.jpg",
     "sources": [
@@ -12057,6 +12149,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 788,
+        "src": "/assets/img/2026-08-17/2959-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1355,
+        "src": "/assets/img/2026-08-17/2959-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1355,
+    "credit": {
+      "artist": "anonymous",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_Walter_Ralegh_by_'H'_monogrammist.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f3/1939_German_Diplomatic_passport_used_in_the_USSR.jpg": {
@@ -13803,6 +13918,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreaty_of_Versailles%2C_English_version.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/3840px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/3840px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 463,
+        "src": "/assets/img/2026-08-17/2958-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 796,
+        "src": "/assets/img/2026-08-17/2958-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 796,
+    "credit": {
+      "artist": "Cornelis Claesz van Wieringen / Formerly attributed to Hendrick Cornelisz Vroom",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Gibraltar_1607.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/3840px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg": {
