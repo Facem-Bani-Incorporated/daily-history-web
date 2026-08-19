@@ -3306,6 +3306,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_the_Nile.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0b/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 925,
+        "src": "/assets/img/2026-08-19/3003-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1589,
+        "src": "/assets/img/2026-08-19/3003-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1589,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAugustus_Bevilacqua_Glyptothek_Munich_317.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0b/RMS_Lusitania_boat.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RMS_Lusitania_boat.jpg",
     "sources": [
@@ -5460,6 +5483,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AParis_Peace_Conference.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/40/Scottish_22_shillings_coin_1553.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Scottish_22_shillings_coin_1553.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 237,
+        "src": "/assets/img/2026-08-19/3004-2-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 237,
+    "credit": {
+      "artist": "CNG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScottish_22_shillings_coin_1553.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6650,6 +6691,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalabar_1968.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 869,
+        "src": "/assets/img/2026-08-19/3003-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1494,
+        "src": "/assets/img/2026-08-19/3003-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1494,
+    "credit": {
+      "artist": "Ángel M. Felicísimo from Mérida, España",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARetrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/63/Bernhard_Strigel_003b.jpg": {
@@ -10371,6 +10435,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIrishConfederacySignatures8May1593.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 399,
+        "height": 354,
+        "src": "/assets/img/2026-08-19/3003-1-399.webp"
+      }
+    ],
+    "width": 399,
+    "height": 354,
+    "credit": {
+      "artist": "CNG",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AQ._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_(Sulla_only).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hyman_Rickover_inspecting_USS_Nautilus.jpg",
     "sources": [
@@ -11939,6 +12021,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADachau_Death_Train.jpeg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 989,
+        "src": "/assets/img/2026-08-19/3004-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1699,
+        "src": "/assets/img/2026-08-19/3004-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1699,
+    "credit": {
+      "artist": "François Clouet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_(1542-87)_-_Google_Art_Project.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Piper_%28west%29.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Piper_%28west%29.png",
     "sources": [
@@ -12855,6 +12960,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaddam_Hussein_at_trial%2C_July_2004.JPEG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 338,
+        "src": "/assets/img/2026-08-19/3004-1-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 476,
+        "src": "/assets/img/2026-08-19/3004-1-900.webp"
+      }
+    ],
+    "width": 900,
+    "height": 476,
+    "credit": {
+      "artist": "Alex Sanz",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALinlithgow_Palace_NW_03.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg": {
