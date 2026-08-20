@@ -5974,6 +5974,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKZDachau1945.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Prayer_in_Cairo_1865.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Prayer_in_Cairo_1865.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 388,
+        "src": "/assets/img/2026-08-20/3030-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 667,
+        "src": "/assets/img/2026-08-20/3030-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 667,
+    "credit": {
+      "artist": "Jean-Léon Gérôme",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrayer_in_Cairo_1865.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
     "sources": [
@@ -9184,6 +9207,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arolsen_Klebeband_02_227.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arolsen_Klebeband_02_227.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 782,
+        "src": "/assets/img/2026-08-20/3031-1-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1114,
+        "src": "/assets/img/2026-08-20/3031-1-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1114,
+    "credit": {
+      "artist": "Franciscus van der Steen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArolsen_Klebeband_02_227.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valdivia_after_earthquake%2C_1960.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valdivia_after_earthquake%2C_1960.jpg",
     "sources": [
@@ -9251,6 +9297,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHD.30.507_(10444069294).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pierre_Franque_-_Bataille_de_Lens_-_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pierre_Franque_-_Bataille_de_Lens_-_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 464,
+        "src": "/assets/img/2026-08-20/3031-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 799,
+        "src": "/assets/img/2026-08-20/3031-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 799,
+    "credit": {
+      "artist": "Giogo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APierre_Franque_-_Bataille_de_Lens_-_1648.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tommy_McKearney_%28cropped%29.jpg": {
@@ -10740,6 +10809,29 @@
       "license": "CC BY 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASines06_edit1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Antoine_III_de_Gramont_-_Basque_Museum_in_Bayonne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Antoine_III_de_Gramont_-_Basque_Museum_in_Bayonne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 816,
+        "src": "/assets/img/2026-08-20/3031-2-640.webp"
+      },
+      {
+        "width": 682,
+        "height": 870,
+        "src": "/assets/img/2026-08-20/3031-2-682.webp"
+      }
+    ],
+    "width": 682,
+    "height": 870,
+    "credit": {
+      "artist": "Unidentified painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAntoine_III_de_Gramont_-_Basque_Museum_in_Bayonne.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Western_front_1918_allied.jpg": {
@@ -14128,6 +14220,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Marion_Russell_-_The_Custer_Fight_(1903).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Kaaba_during_Hajj_-_edited.jpg/3840px-The_Kaaba_during_Hajj_-_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Kaaba_during_Hajj_-_edited.jpg/3840px-The_Kaaba_during_Hajj_-_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 449,
+        "src": "/assets/img/2026-08-20/3030-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 771,
+        "src": "/assets/img/2026-08-20/3030-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 771,
+    "credit": {
+      "artist": "Adli Wahid Minor modifications made by Basile Morin, from the original version.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Kaaba_during_Hajj_-_edited.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte_Reduite_du_Globe_Terrestre_by_Jacques-Nicolas_Bellin_1764.jpg/3840px-Carte_Reduite_du_Globe_Terrestre_by_Jacques-Nicolas_Bellin_1764.jpg": {
