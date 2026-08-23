@@ -4040,6 +4040,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJFK_Ich_bin_ein_Berliner_-_civis_Romanus_sum.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/John_Calvin_-_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/John_Calvin_-_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 789,
+        "src": "/assets/img/2026-08-23/3111-2-640.webp"
+      },
+      {
+        "width": 943,
+        "height": 1162,
+        "src": "/assets/img/2026-08-23/3111-2-943.webp"
+      }
+    ],
+    "width": 943,
+    "height": 1162,
+    "credit": {
+      "artist": "Flemish school (UnknownUnknown )",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Calvin_-_Young.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg",
     "sources": [
@@ -4657,6 +4680,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarine_Officers%2C_Tulagi%2C_circa_1942.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/29/Petersfriedhof-Kat-Martyrer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Petersfriedhof-Kat-Martyrer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 430,
+        "src": "/assets/img/2026-08-23/3110-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 738,
+        "src": "/assets/img/2026-08-23/3110-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 738,
+    "credit": {
+      "artist": "589holl",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APetersfriedhof-Kat-Martyrer.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg": {
@@ -5465,6 +5511,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_141-1880%2C_Peenem%C3%BCnde%2C_Start_einer_V2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/French_Religious_Wars_Timeline.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/French_Religious_Wars_Timeline.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 409,
+        "src": "/assets/img/2026-08-23/3111-1-640.webp"
+      },
+      {
+        "width": 1041,
+        "height": 665,
+        "src": "/assets/img/2026-08-23/3111-1-1041.webp"
+      }
+    ],
+    "width": 1041,
+    "height": 665,
+    "credit": {
+      "artist": "Timers",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Religious_Wars_Timeline.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
     "sources": [
@@ -5557,6 +5626,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChagaiatomictests.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 448,
+        "src": "/assets/img/2026-08-23/3110-2-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 926,
+        "src": "/assets/img/2026-08-23/3110-2-1097.webp"
+      }
+    ],
+    "width": 900,
+    "height": 926,
+    "credit": {
+      "artist": "Bernhard Mörlins (B. Moerlins)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARomulus_Augustulus_and_Odoacer.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/40/Israeli_soldier_and_Palestinian_prisoners_in_Ramle_1948.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Israeli_soldier_and_Palestinian_prisoners_in_Ramle_1948.jpg",
     "sources": [
@@ -5573,6 +5665,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsraeli_soldier_and_Palestinian_prisoners_in_Ramle_1948.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/La_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 388,
+        "src": "/assets/img/2026-08-23/3111-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 667,
+        "src": "/assets/img/2026-08-23/3111-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 667,
+    "credit": {
+      "artist": "François Dubois 1529-1584",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALa_masacre_de_San_Bartolom%C3%A9%2C_por_Fran%C3%A7ois_Dubois.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/40/Paris_Peace_Conference.jpg": {
@@ -6627,6 +6742,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARock_climbing_practice_wall.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 697,
+        "src": "/assets/img/2026-08-23/3110-0-640.webp"
+      },
+      {
+        "width": 1095,
+        "height": 1192,
+        "src": "/assets/img/2026-08-23/3110-0-1095.webp"
+      }
+    ],
+    "width": 1095,
+    "height": 1192,
+    "credit": {
+      "artist": "British Museum (photo)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoin_of_Odoacer_at_the_British_Museum_(obverse).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5e/General_Zachary_Taylor_at_the_Battle_of_Resaca_de_la_Palma_%281854%29%2C_by_Currier_and_Ives.png": {
