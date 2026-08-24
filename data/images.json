@@ -4155,6 +4155,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALuis_XIII%2C_rey_de_Francia_(Philippe_de_Champaigne).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/OttomanEmpire1481.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/OttomanEmpire1481.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 460,
+        "src": "/assets/img/2026-08-24/3137-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 790,
+        "src": "/assets/img/2026-08-24/3137-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 790,
+    "credit": {
+      "artist": "Chamboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpire1481.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg",
     "sources": [
@@ -4744,6 +4767,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Bannockburn.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/OttomanEmpireMain.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/OttomanEmpireMain.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-08-24/3137-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 789,
+        "src": "/assets/img/2026-08-24/3137-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 789,
+    "credit": {
+      "artist": "Chamboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpireMain.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bundesarchiv_Bild_146-1976-143-21%2C_Hasso_von_Manteuffel.jpg": {
@@ -6493,6 +6539,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANixon_30-0316a_(cropped)(b).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Roman_empire_395.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Roman_empire_395.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 514,
+        "src": "/assets/img/2026-08-24/3136-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 884,
+        "src": "/assets/img/2026-08-24/3136-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 884,
+    "credit": {
+      "artist": "Shepherd, William R.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoman_empire_395.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thomas_Jefferson_1805_Portrait_3x4_Crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Thomas_Jefferson_1805_Portrait_3x4_Crop.jpg",
     "sources": [
@@ -6939,6 +7008,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADow_jones_daily_close_logged.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/Visigoths_sack_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Visigoths_sack_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 985,
+        "src": "/assets/img/2026-08-24/3136-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1694,
+        "src": "/assets/img/2026-08-24/3136-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1694,
+    "credit": {
+      "artist": "Joseph-Noël Sylvestre",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVisigoths_sack_Rome.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/62/Calabar_1968.png": {
@@ -8343,6 +8435,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASecretary_Deb_Haaland%2C_official_headshot.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Stilicho.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Stilicho.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 620,
+        "src": "/assets/img/2026-08-24/3136-2-640.webp"
+      },
+      {
+        "width": 672,
+        "height": 651,
+        "src": "/assets/img/2026-08-24/3136-2-672.webp"
+      }
+    ],
+    "width": 672,
+    "height": 651,
+    "credit": {
+      "artist": "Photographed by User:Bullenwächter",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStilicho.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7f/JavaUniverse.png": {
@@ -11149,6 +11264,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreen_Laser.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/OttomanEmpire1566.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/OttomanEmpire1566.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-08-24/3137-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 790,
+        "src": "/assets/img/2026-08-24/3137-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 790,
+    "credit": {
+      "artist": "Chamboz (talk · contribs)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpire1566.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg": {
