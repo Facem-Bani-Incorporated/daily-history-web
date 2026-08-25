@@ -4022,6 +4022,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_soldiers_on_Maginot_Line.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Hokusai_1817_First_Guns_in_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hokusai_1817_First_Guns_in_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 775,
+        "src": "/assets/img/2026-08-25/3164-0-640.webp"
+      },
+      {
+        "width": 659,
+        "height": 973,
+        "src": "/assets/img/2026-08-25/3164-0-969.webp"
+      }
+    ],
+    "width": 659,
+    "height": 973,
+    "credit": {
+      "artist": "Hokusai",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHokusai_1817_First_Guns_in_Japan.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/19/JFK_Ich_bin_ein_Berliner_-_civis_Romanus_sum.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/JFK_Ich_bin_ein_Berliner_-_civis_Romanus_sum.png",
     "sources": [
@@ -5010,6 +5033,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEurope_before_Operation_Barbarossa%2C_1941_(in_German).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/31/A_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 890,
+        "src": "/assets/img/2026-08-25/3163-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1528,
+        "src": "/assets/img/2026-08-25/3163-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1528,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12000,6 +12046,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_France_Infobox.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galileo_galilei%2C_telescopi_del_1609-10_ca..JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galileo_galilei%2C_telescopi_del_1609-10_ca..JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 306,
+        "src": "/assets/img/2026-08-25/3163-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 526,
+        "src": "/assets/img/2026-08-25/3163-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 526,
+    "credit": {
+      "artist": "Sailko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGalileo_galilei%2C_telescopi_del_1609-10_ca..JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_Birthplace_2.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_Birthplace_2.JPG",
     "sources": [
@@ -15291,6 +15360,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADow_Jones_Industrial_Average.webp"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-1920px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-1920px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 813,
+        "src": "/assets/img/2026-08-25/3163-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1397,
+        "src": "/assets/img/2026-08-25/3163-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1397,
+    "credit": {
+      "artist": "Justus Sustermans",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGalileo_Galilei_(1564-1642)_RMG_BHC2700.tiff"
     }
   },
   "https://upload.wikimedia.org/wikipedia/en/0/07/Mahawalatenna.JPG": {
