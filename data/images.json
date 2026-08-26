@@ -3761,6 +3761,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1099_Ascalon_2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Male_royal_figure%2C_12-13th_century%2C_from_Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Male_royal_figure%2C_12-13th_century%2C_from_Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 532,
+        "height": 773,
+        "src": "/assets/img/2026-08-26/3190-1-532.webp"
+      }
+    ],
+    "width": 532,
+    "height": 773,
+    "credit": {
+      "artist": "Zereshk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMale_royal_figure%2C_12-13th_century%2C_from_Iran.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG",
     "sources": [
@@ -3805,6 +3823,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_I_(Prince_of_Wales).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/11/Patay.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Patay.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 660,
+        "src": "/assets/img/2026-08-26/3191-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1134,
+        "src": "/assets/img/2026-08-26/3191-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1134,
+    "credit": {
+      "artist": "Attributed to Philippe de Mazerolles",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APatay.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg": {
@@ -5058,6 +5099,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/31/Ince_minare_sculpture_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ince_minare_sculpture_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 517,
+        "src": "/assets/img/2026-08-26/3190-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 889,
+        "src": "/assets/img/2026-08-26/3190-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 889,
+    "credit": {
+      "artist": "Fabienkhan modified by Ewan ar Born",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInce_minare_sculpture_1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5885,6 +5949,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Lakota_Wars_(1854-1890)._The_battlefields_and_the_Lakota_treaty_territory_of_1851_(circa.).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/43/Borj-toghrul.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Borj-toghrul.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 502,
+        "src": "/assets/img/2026-08-26/3190-2-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 502,
+    "credit": {
+      "artist": "User Zereshk on en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABorj-toghrul.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg": {
@@ -8552,6 +8634,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALaunch_of_Jupiter_C_with_Explorer_1.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/Bataille_de_la_Rochelle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bataille_de_la_Rochelle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 606,
+        "src": "/assets/img/2026-08-26/3191-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1042,
+        "src": "/assets/img/2026-08-26/3191-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1042,
+    "credit": {
+      "artist": "Jean Froissart",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille_de_la_Rochelle.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaney%2C_Goodman%2C_Schwerner_station_wagon%2C_1964.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chaney%2C_Goodman%2C_Schwerner_station_wagon%2C_1964.jpg",
     "sources": [
@@ -11003,6 +11108,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANissan_Atlas_F22_001.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-08-26/3191-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-08-26/3191-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASchlacht_von_Azincourt.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bf/IrishConfederacySignatures8May1593.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
