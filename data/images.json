@@ -11862,6 +11862,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-NE-2571.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-NE-2571.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-08-27/3245-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-08-27/3245-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Jean Baptiste Bourguignon d'Anville",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-NE-2571.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fran%C3%A7ois-Paul_Brueys_d%27Aigalliers.jpg",
     "sources": [
@@ -13947,6 +13970,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGerman_instrument_of_surrender2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg/3840px-MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg/3840px-MANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 489,
+        "src": "/assets/img/2026-08-27/3245-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 840,
+        "src": "/assets/img/2026-08-27/3245-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 840,
+    "credit": {
+      "artist": "CIA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMANCHURIA-U.S.S.R_BOUNDARY_Ct002999.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Marriage_rally_%2818997214650%29.jpg/3840px-Marriage_rally_%2818997214650%29.jpg": {
