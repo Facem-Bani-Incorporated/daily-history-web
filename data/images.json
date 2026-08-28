@@ -2930,6 +2930,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANasser_in_1969_(3x4_close_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Roman_Empire_Trajan_117AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Roman_Empire_Trajan_117AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 408,
+        "src": "/assets/img/2026-08-28/3332-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 701,
+        "src": "/assets/img/2026-08-28/3332-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 701,
+    "credit": {
+      "artist": "Tataryn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoman_Empire_Trajan_117AD.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -3015,6 +3038,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANelson_Mandela_1994.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/03/Casa_natal_pedro_menendez.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Casa_natal_pedro_menendez.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-08-28/3333-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-08-28/3333-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": null,
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACasa_natal_pedro_menendez.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/03/Nihon_Kenpo01.jpg": {
@@ -4063,6 +4109,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_soldiers_on_Maginot_Line.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Graz_1626-1657_Kupferstich.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Graz_1626-1657_Kupferstich.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 352,
+        "src": "/assets/img/2026-08-28/3331-2-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 604,
+        "src": "/assets/img/2026-08-28/3331-2-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 604,
+    "credit": {
+      "artist": "Laurenz van de Sype / Wenzel Hollar",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGraz_1626-1657_Kupferstich.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/19/Hokusai_1817_First_Guns_in_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hokusai_1817_First_Guns_in_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4721,6 +4790,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADe_Gaulle-OWI.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 881,
+        "src": "/assets/img/2026-08-28/3331-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1514,
+        "src": "/assets/img/2026-08-28/3331-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1514,
+    "credit": {
+      "artist": "Unidentified painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_(Kunsthistorisches_Museum%2C_Wien).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/28/Jethro_Tull_seed_drill_%281762%29.png": {
@@ -6051,6 +6143,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_Birthplace.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Asia_minor_1140.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Asia_minor_1140.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 567,
+        "src": "/assets/img/2026-08-28/3329-1-640.webp"
+      },
+      {
+        "width": 1078,
+        "height": 1164,
+        "src": "/assets/img/2026-08-28/3329-1-1078.webp"
+      }
+    ],
+    "width": 1078,
+    "height": 1164,
+    "credit": {
+      "artist": "William Robert Shepherd",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAsia_minor_1140.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6187,6 +6302,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGPS_Block_IIIA.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 788,
+        "src": "/assets/img/2026-08-28/3333-2-640.webp"
+      },
+      {
+        "width": 840,
+        "height": 1260,
+        "src": "/assets/img/2026-08-28/3333-2-1024.webp"
+      }
+    ],
+    "width": 840,
+    "height": 1260,
+    "credit": {
+      "artist": "Ana Morán",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Size_comparison_of_iPhone_5C_5S_4S.jpg": {
@@ -6941,6 +7079,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARock_climbing_practice_wall.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1024,
+        "src": "/assets/img/2026-08-28/3332-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1760,
+        "src": "/assets/img/2026-08-28/3332-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1760,
+    "credit": {
+      "artist": "Joel Bellviure",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAugustus_of_Prima_Porta_(inv._2290).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7330,6 +7491,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmilia_and_Karol_Wojtyla_wedding_portrait.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 453,
+        "src": "/assets/img/2026-08-28/3329-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 778,
+        "src": "/assets/img/2026-08-28/3329-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 778,
+    "credit": {
+      "artist": "Kandi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Third_Crusade_(1189-1192).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/68/Alcockandbrown_mail.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alcockandbrown_mail.jpg",
     "sources": [
@@ -7415,6 +7599,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagellan_GPS_Blazer12.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 483,
+        "height": 641,
+        "src": "/assets/img/2026-08-28/3331-1-483.webp"
+      }
+    ],
+    "width": 483,
+    "height": 641,
+    "credit": {
+      "artist": "Attributed to Pietro de Pomis (C. 1569-70 – 1633)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6a/1945-08-01JapWW2BattlefrontAtlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8836,6 +9038,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APueblo01.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 424,
+        "src": "/assets/img/2026-08-28/3330-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 728,
+        "src": "/assets/img/2026-08-28/3330-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 728,
+    "credit": {
+      "artist": "Frans Geffels",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVienna_Battle_1683.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png",
     "sources": [
@@ -9381,6 +9606,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATibbets-wave.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/Pedro_menendez_de_Aviles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pedro_menendez_de_Aviles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 408,
+        "height": 523,
+        "src": "/assets/img/2026-08-28/3333-0-600.webp"
+      },
+      {
+        "width": 600,
+        "height": 769,
+        "src": "/assets/img/2026-08-28/3333-0-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 769,
+    "credit": {
+      "artist": "José Camarón y Boronat (1730-1803), published by Fran(cis)co de Paula Marti in 1791",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_menendez_de_Aviles.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Tribal_Council_Building%2C_Isleta_Pueblo_NM.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10496,6 +10744,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMariner_4_Launch_Preparations.jpeg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 834,
+        "src": "/assets/img/2026-08-28/3332-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1433,
+        "src": "/assets/img/2026-08-28/3332-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1433,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATraianus_Glyptothek_Munich_72.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10732,6 +11003,29 @@
       "license": "CC BY 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACanal_de_Suez.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 868,
+        "src": "/assets/img/2026-08-28/3330-1-640.webp"
+      },
+      {
+        "width": 903,
+        "height": 1224,
+        "src": "/assets/img/2026-08-28/3330-1-903.webp"
+      }
+    ],
+    "width": 903,
+    "height": 1224,
+    "credit": {
+      "artist": "Fausto Zonaro",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZonaro_GatesofConst.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasilia_aerea_estadio_nacional.jpg": {
@@ -12637,6 +12931,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASolidus-Justinian_II-Christ_b-sb1413.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ayyubid.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ayyubid.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 596,
+        "src": "/assets/img/2026-08-28/3329-2-640.webp"
+      },
+      {
+        "width": 667,
+        "height": 621,
+        "src": "/assets/img/2026-08-28/3329-2-667.webp"
+      }
+    ],
+    "width": 667,
+    "height": 621,
+    "credit": {
+      "artist": "No machine-readable author provided. Electionworld assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAyyubid.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Infante_D._Henrique_signed_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Infante_D._Henrique_signed_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12653,6 +12970,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInfante_D._Henrique_signed_(2).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/NikopolisSchlacht.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/NikopolisSchlacht.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 910,
+        "src": "/assets/img/2026-08-28/3330-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1563,
+        "src": "/assets/img/2026-08-28/3330-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1563,
+    "credit": {
+      "artist": "Sébastien Mamerot",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANikopolisSchlacht.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/North_carolina_algonkin-rituale02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
