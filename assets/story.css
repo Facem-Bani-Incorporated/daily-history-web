@@ -184,3 +184,54 @@ body.has-app-bar footer { padding-bottom: 5.5rem; }
 /* Empty by design. No reserved height: a fixed-height empty box is a visible
    gap. Give it a min-height when a unit actually lands here. */
 .ad-slot { display: block; }
+
+/* ── The Long Read ──────────────────────────────────────────────────────────
+   The chapter list of the app's long-form article. Set apart from the story
+   body with a rule and a tint rather than a hard box: it is a continuation of
+   the piece, not an advert bolted onto the end of it. */
+.long-read {
+  margin: 2.6rem 0 0;
+  padding: 1.5rem 1.6rem 1.4rem;
+  border-top: 2px solid var(--gold, #C77E08);
+  background: color-mix(in srgb, var(--gold, #C77E08) 6%, transparent);
+  border-radius: 0 0 6px 6px;
+}
+.lr-kicker {
+  margin: 0 0 0.4rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  color: var(--gold, #C77E08);
+}
+.lr-meta {
+  margin: 0 0 0.9rem;
+  font-size: 0.75rem;
+  color: var(--paper-faint);
+  font-variant-numeric: tabular-nums;
+}
+.lr-teaser {
+  margin: 0 0 1.1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--paper-dim, inherit);
+}
+.lr-chapters { margin: 0 0 1.1rem; padding: 0; list-style: none; }
+.lr-chapters li {
+  display: flex;
+  gap: 0.7rem;
+  align-items: baseline;
+  padding: 0.42rem 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  border-bottom: 1px solid color-mix(in srgb, currentColor 10%, transparent);
+}
+.lr-chapters li:last-child { border-bottom: none; }
+.lr-num {
+  flex: none;
+  width: 1.7rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--gold, #C77E08);
+}
+.lr-cta { margin: 0; font-size: 0.82rem; line-height: 1.5; color: var(--paper-faint); }

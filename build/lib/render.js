@@ -366,6 +366,38 @@ ${stickyBar(lang)}`;
 
 /* ================================= STORY =================================== */
 
+/**
+ * "The Long Read" panel: the chapter list of the app's long-form article.
+ *
+ * Deliberately the table of contents and not the prose. Two reasons, and they point
+ * the same way: the API never sends a guest the body text, and giving the long read
+ * away on the web would remove the reason to subscribe in the app. A visible list of
+ * six real chapter titles is a stronger install argument than any "download for more"
+ * button — the reader can see precisely what they are not getting.
+ *
+ * For search it is the difference between another thin "on this day" page and one
+ * that demonstrably sits on top of a 2,000-word researched article.
+ */
+function longReadBlock(lang, lr) {
+  if (!lr) return '';
+  const items = lr.chapters
+    .map((c, i) => `            <li><span class="lr-num">${roman(i + 1)}</span>${esc(c)}</li>`)
+    .join('\n');
+  const meta = t(lang, 'longReadMeta')(lr.wordCount, lr.chapters.length, lr.minutes, lr.sourceCount);
+  return `        <aside class="long-read" aria-labelledby="lr-${lr.chapters.length}-${lang}">
+          <p class="lr-kicker" id="lr-${lr.chapters.length}-${lang}">${esc(t(lang, 'longReadLabel'))}</p>
+          <p class="lr-meta">${esc(meta)}</p>
+          ${lr.teaser ? `<p class="lr-teaser">${esc(lr.teaser)}</p>` : ''}
+          <ol class="lr-chapters">
+${items}
+          </ol>
+          <p class="lr-cta">${esc(t(lang, 'longReadCta'))}</p>
+        </aside>`;
+}
+
+const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII'];
+const roman = (n) => ROMAN[n - 1] || String(n);
+
 function paragraphs(narrative) {
   return String(narrative).split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
 }
@@ -473,6 +505,7 @@ ${hero}
         <div class="story-body">
           ${woven.join('\n          ')}
         </div>
+${longReadBlock(lang, s.longRead)}
         ${s.sourceUrl ? `<p class="story-source">${esc(t(lang, 'sourceLabel'))}: <a href="${esc(s.sourceUrl)}" rel="noopener nofollow" target="_blank">${esc(prettyUrl(s.sourceUrl))}</a></p>` : ''}
       </article>`;
   });

@@ -193,7 +193,38 @@ function buildStory(event, lang, images) {
     sourceUrl: event.sourceUrl || null,
     images,
     alt: t(lang, 'altText')(title, location),
+    longRead: longReadFor(event, lang),
   };
+}
+
+/**
+ * The chapter list of the app's long-form article, for this language.
+ *
+ * The API only ever sends the teaser to an unauthenticated caller — the body text of
+ * a long read never leaves the server for a guest — so this is the whole of what the
+ * public site can show, and that is the intent. The chapter titles are the pitch:
+ * a reader who can see "The Emperor Who Loved Chickens More Than Rome" knows exactly
+ * what is in the app, which is a far better install argument than "download for more".
+ *
+ * It also happens to be what separates this site from every other "on this day" page,
+ * which is thin content by construction.
+ */
+function longReadFor(event, lang) {
+  if (!event.deepDiveTeaser) return null;
+  try {
+    const parsed = JSON.parse(event.deepDiveTeaser);
+    const d = parsed[lang] || parsed.en;
+    if (!d || !Array.isArray(d.chapters) || d.chapters.length === 0) return null;
+    return {
+      teaser: d.teaser || '',
+      chapters: d.chapters,
+      wordCount: d.wordCount || 0,
+      sourceCount: d.sourceCount || 0,
+      minutes: Math.max(1, Math.round((d.wordCount || 0) / 200)),
+    };
+  } catch {
+    return null;
+  }
 }
 
 /* -------------------------------- landing pages --------------------------------
