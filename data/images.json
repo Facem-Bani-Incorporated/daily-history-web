@@ -2953,6 +2953,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoman_Empire_Trajan_117AD.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Timur_reconstruction03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 590,
+        "height": 892,
+        "src": "/assets/img/2026-08-29/3386-0-590.webp"
+      }
+    ],
+    "width": 590,
+    "height": 892,
+    "credit": {
+      "artist": "user:shakko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATimur_reconstruction03.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -3350,6 +3368,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFalkirk1298(1).JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lajos_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lajos_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 611,
+        "height": 768,
+        "src": "/assets/img/2026-08-29/3383-2-611.webp"
+      }
+    ],
+    "width": 611,
+    "height": 768,
+    "credit": {
+      "artist": "After Titian",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALajos_II.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nine_Years_War_January1600.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5093,6 +5129,29 @@
         "width": 1100,
         "height": 1495,
         "src": "/assets/img/2026-07-31/2612-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1495,
+    "credit": {
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIgnoto_portoghese%2C_ritratto_di_un_cavaliere_dell'ordine_di_cristo%2C_1525-50_ca._02.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 869,
+        "src": "/assets/img/2026-08-29/3384-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1495,
+        "src": "/assets/img/2026-08-29/3384-0-1100.webp"
       }
     ],
     "width": 1100,
@@ -7491,6 +7550,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmilia_and_Karol_Wojtyla_wedding_portrait.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Genealogical_Relationship_between_Timur_and_Genghis_Khan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Genealogical_Relationship_between_Timur_and_Genghis_Khan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 620,
+        "height": 930,
+        "src": "/assets/img/2026-08-29/3386-1-620.webp"
+      }
+    ],
+    "width": 620,
+    "height": 930,
+    "credit": {
+      "artist": "Alivardi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGenealogical_Relationship_between_Timur_and_Genghis_Khan.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8698,6 +8775,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADescobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 296,
+        "src": "/assets/img/2026-08-29/3384-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 509,
+        "src": "/assets/img/2026-08-29/3384-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 509,
+    "credit": {
+      "artist": "Descobrimentos_e_explorações_portugueses.png: *Portuguese_discoveries_and_explorations.png: *Portuguese_Empire_map.jpg: ",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADescobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg",
     "sources": [
@@ -8719,6 +8819,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALastsunsetjapan.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Original_location_of_the_Mongol_Barlas_tribe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Original_location_of_the_Mongol_Barlas_tribe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 368,
+        "src": "/assets/img/2026-08-29/3386-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 633,
+        "src": "/assets/img/2026-08-29/3386-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 633,
+    "credit": {
+      "artist": "naturalearthdata.com, offered to the Public Domain per Terms of Use",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOriginal_location_of_the_Mongol_Barlas_tribe.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7e/16_Princes_Gate.jpg": {
@@ -10936,6 +11059,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A16May-21May_Battle_of_Belgium.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Battle_of_Mohacs_1526.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Battle_of_Mohacs_1526.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 386,
+        "src": "/assets/img/2026-08-29/3383-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 663,
+        "src": "/assets/img/2026-08-29/3383-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 663,
+    "credit": {
+      "artist": "Bertalan Székely",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Mohacs_1526.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/British_Generals_1939-1945_O177.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/British_Generals_1939-1945_O177.jpg",
     "sources": [
@@ -10957,6 +11103,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABritish_Generals_1939-1945_O177.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Edward_III_noble.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Edward_III_noble.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 248,
+        "src": "/assets/img/2026-08-29/3387-1-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 248,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdward_III_noble.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Palace_of_Art_and_Industry%2C_exhibition_of_1862%3B_the_inte_Wellcome_V0013592.jpg": {
@@ -11427,6 +11591,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASchlacht_von_Azincourt.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/BattleofSluys.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BattleofSluys.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 600,
+        "src": "/assets/img/2026-08-29/3387-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1031,
+        "src": "/assets/img/2026-08-29/3387-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1031,
+    "credit": {
+      "artist": "Loyset Liédet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattleofSluys.jpeg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bf/IrishConfederacySignatures8May1593.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/IrishConfederacySignatures8May1593.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11769,6 +11956,29 @@
         "width": 960,
         "height": 1280,
         "src": "/assets/img/2026-07-31/2612-1-960.webp"
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "credit": {
+      "artist": "Georges Jansoone",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASines06_edit1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sines06_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-08-29/3384-1-640.webp"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "src": "/assets/img/2026-08-29/3384-1-960.webp"
       }
     ],
     "width": 960,
@@ -14494,6 +14704,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABrooklyn_Banks_(4094206902).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Battle_of_Moh%C3%A1cs_1526.png/3840px-Battle_of_Moh%C3%A1cs_1526.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Battle_of_Moh%C3%A1cs_1526.png/3840px-Battle_of_Moh%C3%A1cs_1526.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 434,
+        "src": "/assets/img/2026-08-29/3383-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 746,
+        "src": "/assets/img/2026-08-29/3383-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 746,
+    "credit": {
+      "artist": "Johann Schreier, EHRENSPIEGEL DES HAUSES ÖSTERREICH (A chronicle written for Johann Jakob Fugger around 1555)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Moh%C3%A1cs_1526.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Apollo_11_Crew.jpg/3840px-Apollo_11_Crew.jpg": {
