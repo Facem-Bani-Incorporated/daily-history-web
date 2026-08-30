@@ -4659,6 +4659,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADavid_Cameron_official.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/Hayohko.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hayohko.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 348,
+        "height": 368,
+        "src": "/assets/img/2026-08-30/3413-0-348.webp"
+      }
+    ],
+    "width": 348,
+    "height": 368,
+    "credit": {
+      "artist": "Freetrashbox at Japanese Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHayohko.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6363,6 +6381,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGPS_Block_IIIA.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Great_Northern_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Great_Northern_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 728,
+        "src": "/assets/img/2026-08-30/3410-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1252,
+        "src": "/assets/img/2026-08-30/3410-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1252,
+    "credit": {
+      "artist": "Imonoz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Northern_War_Collage.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6772,6 +6813,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElizabeth_Cady_Stanton_and_Susan_B_Anthony.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Stanislaw_I_Leszczynski_of_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Stanislaw_I_Leszczynski_of_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 790,
+        "src": "/assets/img/2026-08-30/3410-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1357,
+        "src": "/assets/img/2026-08-30/3410-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1357,
+    "credit": {
+      "artist": "David von Krafft",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanislaw_I_Leszczynski_of_Poland.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG",
     "sources": [
@@ -7003,6 +7067,24 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABoris_Yeltsin_(3x4_close_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/BullExurgeDomine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BullExurgeDomine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 357,
+        "height": 480,
+        "src": "/assets/img/2026-08-30/3411-2-357.webp"
+      }
+    ],
+    "width": 357,
+    "height": 480,
+    "credit": {
+      "artist": "Leo X",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABullExurgeDomine.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg": {
@@ -10450,6 +10532,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANASA-Apollo8-Dec24-Earthrise.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a9/AMA.0006229_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/AMA.0006229_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 964,
+        "src": "/assets/img/2026-08-30/3410-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1657,
+        "src": "/assets/img/2026-08-30/3410-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1657,
+    "credit": {
+      "artist": "Einar von Strokirch, 1879-1932",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAMA.0006229_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a9/Germany_occupation_zones_with_border.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Germany_occupation_zones_with_border.jpg",
     "sources": [
@@ -12215,6 +12320,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1966-08_1966%E5%B9%B4%E6%A8%AA%E6%89%AB%E4%B8%80%E5%88%87%E7%89%9B%E9%AC%BC%E8%9B%87%E7%A5%9E.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Magni_aestimamus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Magni_aestimamus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 446,
+        "src": "/assets/img/2026-08-30/3411-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 446,
+    "credit": {
+      "artist": "The Catholic news agency of the Bishops' Conference of Bosnia and Herzegovina",
+      "license": "Attribution",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagni_aestimamus.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cc/FBI_Poster_of_Missing_Civil_Rights_Workers.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/FBI_Poster_of_Missing_Civil_Rights_Workers.jpg",
     "sources": [
@@ -12520,6 +12643,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABunce_Island_1805.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Papal.bull.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Papal.bull.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 475,
+        "src": "/assets/img/2026-08-30/3411-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 816,
+        "src": "/assets/img/2026-08-30/3411-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 816,
+    "credit": {
+      "artist": "Urban VIII",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APapal.bull.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Taking_of_Jerusalem_by_the_Crusaders%2C_15th_July_1099.jpg": {
