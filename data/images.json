@@ -3127,6 +3127,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACastello_d'Albertis-DSCF5494.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/Destruccion_del_fuerte_Sancti_Spiritu.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Destruccion_del_fuerte_Sancti_Spiritu.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 422,
+        "src": "/assets/img/2026-09-01/3465-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 528,
+        "src": "/assets/img/2026-09-01/3465-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 528,
+    "credit": {
+      "artist": "Ulrich Schmidl (1510 - 1579",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADestruccion_del_fuerte_Sancti_Spiritu.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/04/Earl_Warren.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Earl_Warren.jpg",
     "sources": [
@@ -4846,6 +4869,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Triangle_Hill_Chinese_Infantrymen.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/26/MongolArcher.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/MongolArcher.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 539,
+        "height": 480,
+        "src": "/assets/img/2026-09-01/3464-1-539.webp"
+      }
+    ],
+    "width": 539,
+    "height": 480,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMongolArcher.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg",
     "sources": [
@@ -5667,6 +5708,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACasa_di_Colombo_Genova_foto_2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/38/Folio_from_the_Jalandhar_recension_of_the_Goindwal_Pothi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Folio_from_the_Jalandhar_recension_of_the_Goindwal_Pothi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 383,
+        "height": 500,
+        "src": "/assets/img/2026-09-01/3463-2-383.webp"
+      }
+    ],
+    "width": 383,
+    "height": 500,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFolio_from_the_Jalandhar_recension_of_the_Goindwal_Pothi.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/38/Wilbur_Wright-crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wilbur_Wright-crop.jpg",
     "sources": [
@@ -5875,6 +5934,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_141-1880%2C_Peenem%C3%BCnde%2C_Start_einer_V2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Descubrimiento_del_R%C3%ADo_de_la_Plata.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Descubrimiento_del_R%C3%ADo_de_la_Plata.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 399,
+        "src": "/assets/img/2026-09-01/3465-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 686,
+        "src": "/assets/img/2026-09-01/3465-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 686,
+    "credit": {
+      "artist": "Ulpiano Checa",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADescubrimiento_del_R%C3%ADo_de_la_Plata.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/French_Religious_Wars_Timeline.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6392,6 +6474,24 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AApple_IIc_with_monitor.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Manuscript_copy_of_Guru_Granth_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Manuscript_copy_of_Guru_Granth_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 470,
+        "height": 596,
+        "src": "/assets/img/2026-09-01/3463-1-470.webp"
+      }
+    ],
+    "width": 470,
+    "height": 596,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AManuscript_copy_of_Guru_Granth_Sahib.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Trinity_Test_Site.jpg": {
@@ -7878,6 +7978,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1945-08-01JapWW2BattlefrontAtlas.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lucius-III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lucius-III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 276,
+        "height": 381,
+        "src": "/assets/img/2026-09-01/3466-0-276.webp"
+      }
+    ],
+    "width": 276,
+    "height": 381,
+    "credit": {
+      "artist": "Probably Peter of Eboli",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALucius-III.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8538,6 +8656,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APackage_of_Lutera_Birth_Control_Pills.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Papstbullen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Papstbullen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 166,
+        "src": "/assets/img/2026-09-01/3466-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 285,
+        "src": "/assets/img/2026-09-01/3466-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 285,
+    "credit": {
+      "artist": "Enzian44",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APapstbullen.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/77/Bundesarchiv_Bild_146-1972-025-10%2C_Hitler-Attentat%2C_20._Juli_1944.jpg": {
@@ -9775,6 +9916,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMeeting_of_Henry_VIII_and_Maximilian.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1178,
+        "src": "/assets/img/2026-09-01/3464-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2025,
+        "src": "/assets/img/2026-09-01/3464-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2025,
+    "credit": {
+      "artist": "魏煥 魏燕貽",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg",
     "sources": [
@@ -10456,6 +10620,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Japan_Sea_(Route_of_Baltic_Fleet)_NT.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Guru_Granth_Sahib_Nishan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Guru_Granth_Sahib_Nishan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 749,
+        "src": "/assets/img/2026-09-01/3463-0-640.webp"
+      },
+      {
+        "width": 868,
+        "height": 1238,
+        "src": "/assets/img/2026-09-01/3463-0-1059.webp"
+      }
+    ],
+    "width": 868,
+    "height": 1238,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASri_Guru_Granth_Sahib_Nishan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14009,6 +14196,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANASA_HQ_Building.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 438,
+        "src": "/assets/img/2026-09-01/3464-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 753,
+        "src": "/assets/img/2026-09-01/3464-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 753,
+    "credit": {
+      "artist": "SY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATumu_Crisis.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f2/BanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg": {
