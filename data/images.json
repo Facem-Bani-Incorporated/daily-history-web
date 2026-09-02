@@ -3393,6 +3393,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFalkirk1298(1).JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0a/Juan_del_Aguila_y_Arellano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Juan_del_Aguila_y_Arellano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 325,
+        "height": 371,
+        "src": "/assets/img/2026-09-02/3472-1-325.webp"
+      }
+    ],
+    "width": 325,
+    "height": 371,
+    "credit": {
+      "artist": "Otto van Veen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJuan_del_Aguila_y_Arellano.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lajos_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lajos_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4278,6 +4296,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConcentration_camp_dachau_aerial_view.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1a/Houghton_Hall_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Houghton_Hall_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 429,
+        "src": "/assets/img/2026-09-02/3469-2-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 429,
+    "credit": {
+      "artist": "dennis smith",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoughton_Hall_01.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1a/Statue_of_Deified_Empress_Livia_-_Altes_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Statue_of_Deified_Empress_Livia_-_Altes_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4595,6 +4631,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFern%C3%A3o_de_Magalh%C3%A3es_-_Padr%C3%A3o_dos_Descobrimentos.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/Georges_Rouget_%281783-1869%29_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_%28879-929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Georges_Rouget_%281783-1869%29_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_%28879-929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 527,
+        "height": 650,
+        "src": "/assets/img/2026-09-02/3473-0-527.webp"
+      }
+    ],
+    "width": 527,
+    "height": 650,
+    "credit": {
+      "artist": "Georges Rouget",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorges_Rouget_(1783-1869)_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_(879-929).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg",
     "sources": [
@@ -4721,6 +4775,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHayohko.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/Treasury_department_official_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Treasury_department_official_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 813,
+        "src": "/assets/img/2026-09-02/3471-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1398,
+        "src": "/assets/img/2026-09-02/3471-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1398,
+    "credit": {
+      "artist": "Unnamed Federal Works Agency photographer.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_department_official_1907.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5527,6 +5604,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_New_Orleans.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/Panorama_of_London_by_Claes_Van_Visscher%2C_1616_no_angels.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Panorama_of_London_by_Claes_Van_Visscher%2C_1616_no_angels.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 73,
+        "src": "/assets/img/2026-09-02/3470-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 125,
+        "src": "/assets/img/2026-09-02/3470-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 125,
+    "credit": {
+      "artist": "Claes Van Visscher",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_of_London_by_Claes_Van_Visscher%2C_1616_no_angels.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/35/Sarajevo_trial%2C_accused.jpg": {
@@ -6816,6 +6916,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 816,
+        "src": "/assets/img/2026-09-02/3470-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1403,
+        "src": "/assets/img/2026-09-02/3470-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1403,
+    "credit": {
+      "artist": "John Michael Wright",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKing_Charles_II_by_John_Michael_Wright_or_studio.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/52/Battle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Battle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg",
     "sources": [
@@ -6901,6 +7024,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATogoland.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Queen_Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Queen_Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 518,
+        "height": 694,
+        "src": "/assets/img/2026-09-02/3469-0-518.webp"
+      }
+    ],
+    "width": 518,
+    "height": 694,
+    "credit": {
+      "artist": "Unidentified engraver",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AQueen_Anne.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/53/Saladin_Guy.jpg": {
@@ -8270,6 +8411,24 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A7_7_Hyde_Park_090712.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Seal_of_the_United_States_Department_of_the_Treasury_%281789-1968%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Seal_of_the_United_States_Department_of_the_Treasury_%281789-1968%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 208,
+        "height": 205,
+        "src": "/assets/img/2026-09-02/3471-0-208.webp"
+      }
+    ],
+    "width": 208,
+    "height": 205,
+    "credit": {
+      "artist": "This image includes elements that have been taken or adapted from this file:",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASeal_of_the_United_States_Department_of_the_Treasury_(1789-1968).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/72/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small_%28cropped%29.jpg": {
@@ -11236,6 +11395,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOfficial_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale%2C_1800)(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pourbus%2C_Frans_II_workshop_-_Philipp_III_of_Spain_-_The_Phoebus_Foundation.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pourbus%2C_Frans_II_workshop_-_Philipp_III_of_Spain_-_The_Phoebus_Foundation.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 473,
+        "height": 619,
+        "src": "/assets/img/2026-09-02/3472-0-473.webp"
+      }
+    ],
+    "width": 473,
+    "height": 619,
+    "credit": {
+      "artist": "Workshop of Frans Pourbus the Younger",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APourbus%2C_Frans_II_workshop_-_Philipp_III_of_Spain_-_The_Phoebus_Foundation.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mariner_4_Launch_Preparations.jpeg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mariner_4_Launch_Preparations.jpeg",
     "sources": [
@@ -12822,6 +12999,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois-Paul_Brueys_d'Aigalliers.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Treasury_departement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Treasury_departement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-09-02/3471-1-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 667,
+        "src": "/assets/img/2026-09-02/3471-1-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 667,
+    "credit": {
+      "artist": "Florian Hirzinger - www.fh-ap.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_departement.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d0/Falkirk1298%282%29.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Falkirk1298%282%29.JPG",
     "sources": [
@@ -13989,6 +14189,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 815,
+        "src": "/assets/img/2026-09-02/3469-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1402,
+        "src": "/assets/img/2026-09-02/3469-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1402,
+    "credit": {
+      "artist": "Arthur Pond",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARobert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ed/South_Africa_topo_continent.png": {
@@ -16105,6 +16328,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarte_Reduite_du_Globe_Terrestre_by_Jacques-Nicolas_Bellin_1764.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/3840px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/3840px-Great_Fire_London.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 373,
+        "src": "/assets/img/2026-09-02/3470-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 641,
+        "src": "/assets/img/2026-09-02/3470-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 641,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Fire_London.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/3840px-Treaty_of_Versailles%2C_English_version.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/3840px-Treaty_of_Versailles%2C_English_version.jpg",
     "sources": [
@@ -16149,6 +16395,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Gibraltar_1607.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kinsale_Blick_auf_den_River_Bandon_3.jpg/3840px-Kinsale_Blick_auf_den_River_Bandon_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kinsale_Blick_auf_den_River_Bandon_3.jpg/3840px-Kinsale_Blick_auf_den_River_Bandon_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 424,
+        "src": "/assets/img/2026-09-02/3472-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 729,
+        "src": "/assets/img/2026-09-02/3472-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 729,
+    "credit": {
+      "artist": "Zairon",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKinsale_Blick_auf_den_River_Bandon_3.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/3840px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg": {
