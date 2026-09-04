@@ -2994,6 +2994,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArte_Alhambra_I_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/02/Bermudo_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bermudo_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 731,
+        "src": "/assets/img/2026-09-04/3518-0-640.webp"
+      },
+      {
+        "width": 840,
+        "height": 1170,
+        "src": "/assets/img/2026-09-04/3518-0-840.webp"
+      }
+    ],
+    "width": 840,
+    "height": 1170,
+    "credit": {
+      "artist": "Jose Luis Lamigueiro",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABermudo_III.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Henry_the_Navigator1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Henry_the_Navigator1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8178,6 +8201,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagellan_GPS_Blazer12.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Young_Folks%27_History_of_Rome_illus420.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Young_Folks%27_History_of_Rome_illus420.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 347,
+        "height": 376,
+        "src": "/assets/img/2026-09-04/3516-2-347.webp"
+      }
+    ],
+    "width": 347,
+    "height": 376,
+    "credit": {
+      "artist": "Yonge, Charlotte Mary, (1823-1901)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Folks'_History_of_Rome_illus420.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ferdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10306,6 +10347,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_III%2C_when_Prince_of_Orange_-_Wissing_1685.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/AzerbazkanBiruni.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/AzerbazkanBiruni.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-04/3517-2-640.webp"
+      },
+      {
+        "width": 1072,
+        "height": 804,
+        "src": "/assets/img/2026-09-04/3517-2-1072.webp"
+      }
+    ],
+    "width": 1072,
+    "height": 804,
+    "credit": {
+      "artist": "Al-Biruni",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAzerbazkanBiruni.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/92/C-54_landing_at_Tempelhof.jpg": {
@@ -13424,6 +13488,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Henry_I_the_Fowler.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Henry_I_the_Fowler.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 394,
+        "height": 466,
+        "src": "/assets/img/2026-09-04/3519-0-394.webp"
+      }
+    ],
+    "width": 394,
+    "height": 466,
+    "credit": {
+      "artist": "Anonymous plate",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenry_I_the_Fowler.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13706,6 +13788,52 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVarqa_fighting_on_horseback.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 438,
+        "src": "/assets/img/2026-09-04/3516-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 548,
+        "src": "/assets/img/2026-09-04/3516-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 548,
+    "credit": {
+      "artist": "Thomas Pusch",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APannonia_SPQR.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sepulcro_de_Bermudo_III_de_Le%C3%B3n._Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_N%C3%A1jera.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sepulcro_de_Bermudo_III_de_Le%C3%B3n._Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_N%C3%A1jera.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-04/3518-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-04/3518-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Lancastermerrin88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASepulcro_de_Bermudo_III_de_Le%C3%B3n._Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_N%C3%A1jera.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14414,6 +14542,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 622,
+        "src": "/assets/img/2026-09-04/3516-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1069,
+        "src": "/assets/img/2026-09-04/3516-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1069,
+    "credit": {
+      "artist": "ANS",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_Solidus_of_Romulus_Augustulus.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14910,6 +15061,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_de_Lesseps_by_Nadar.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lunar_phases_al-Biruni.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lunar_phases_al-Biruni.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 451,
+        "src": "/assets/img/2026-09-04/3517-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 775,
+        "src": "/assets/img/2026-09-04/3517-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 775,
+    "credit": {
+      "artist": "Al-Biruni",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALunar_phases_al-Biruni.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg",
     "sources": [
@@ -15312,6 +15486,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaddam_Hussein_at_trial%2C_July_2004.JPEG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Biruni-russian.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Biruni-russian.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 880,
+        "src": "/assets/img/2026-09-04/3517-0-640.webp"
+      },
+      {
+        "width": 728,
+        "height": 1001,
+        "src": "/assets/img/2026-09-04/3517-0-728.webp"
+      }
+    ],
+    "width": 728,
+    "height": 1001,
+    "credit": {
+      "artist": "The original uploader was Romanm at Slovenian Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABiruni-russian.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
