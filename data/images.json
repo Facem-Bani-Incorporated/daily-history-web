@@ -3764,6 +3764,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATaira_no_Munemori_Portrait_by_Fujiwara_Tamenobu_and_Takenobu.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Fan_Zhongyan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Fan_Zhongyan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 506,
+        "src": "/assets/img/2026-09-05/3535-1-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 506,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFan_Zhongyan.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png",
     "sources": [
@@ -4202,6 +4220,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenry_ford_1919.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Louis8.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Louis8.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 346,
+        "height": 325,
+        "src": "/assets/img/2026-09-05/3534-0-346.webp"
+      }
+    ],
+    "width": 346,
+    "height": 325,
+    "credit": {
+      "artist": "Natalis de Wailly",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis8.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Peers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_%28c.1320-1330%29%2C_f.40_-_BL_Add_MS_47682.jpg": {
@@ -5972,6 +6008,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAmeliachild.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/39/Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 542,
+        "src": "/assets/img/2026-09-05/3533-0-640.webp"
+      },
+      {
+        "width": 1012,
+        "height": 857,
+        "src": "/assets/img/2026-09-05/3533-0-1012.webp"
+      }
+    ],
+    "width": 1012,
+    "height": 857,
+    "credit": {
+      "artist": "Johann Weikhard von Valvasor",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJanez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg",
     "sources": [
@@ -6541,6 +6600,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_Birthplace.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/46/Partition_of_the_Roman_Empire_in_395_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Partition_of_the_Roman_Empire_in_395_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 441,
+        "src": "/assets/img/2026-09-05/3533-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 758,
+        "src": "/assets/img/2026-09-05/3533-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 758,
+    "credit": {
+      "artist": "Mandrak",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APartition_of_the_Roman_Empire_in_395_AD.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/Asia_minor_1140.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9738,6 +9820,47 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHeinkel_He_111_during_the_Battle_of_Britain.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/82/Sacre_Louis8_France_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sacre_Louis8_France_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 618,
+        "height": 285,
+        "src": "/assets/img/2026-09-05/3534-2-618.webp"
+      }
+    ],
+    "width": 618,
+    "height": 285,
+    "credit": {
+      "artist": "Chronique de Saint-Denis (ou de France)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASacre_Louis8_France_01.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/Arrival_of_Louis_of_France_in_England_%281216%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Arrival_of_Louis_of_France_in_England_%281216%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 351,
+        "src": "/assets/img/2026-09-05/3534-1-640.webp"
+      },
+      {
+        "width": 799,
+        "height": 438,
+        "src": "/assets/img/2026-09-05/3534-1-799.webp"
+      }
+    ],
+    "width": 799,
+    "height": 438,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArrival_of_Louis_of_France_in_England_(1216).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/83/Mercury_3_-_Patch.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mercury_3_-_Patch.png",
     "sources": [
@@ -11140,6 +11263,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMandela_e_Evelyn_1944.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Regio_X.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Regio_X.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 418,
+        "height": 225,
+        "src": "/assets/img/2026-09-05/3533-2-418.webp"
+      }
+    ],
+    "width": 418,
+    "height": 225,
+    "credit": {
+      "artist": "The original uploader was Giovanni at Venetian Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARegio_X.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shah_Jahan_and_Mumtaz_Mahal.jpg": {
@@ -13128,6 +13269,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Hungarian_campaign_in_Europe_of_954.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Emperor_Nij%C5%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Emperor_Nij%C5%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 804,
+        "src": "/assets/img/2026-09-05/3537-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1382,
+        "src": "/assets/img/2026-09-05/3537-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1382,
+    "credit": {
+      "artist": "Fujiwara no Tamenobu",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Nij%C5%8D.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/cd/Medal_issued_during_the_reign_of_Louis_XVI%3B_%22The_National_Assembly_Abolishes_Feudalism%22%2C_dated_4_August_1789.jpg": {
@@ -15309,6 +15473,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADennis_Tito.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Fan_Zhongyan_scth.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Fan_Zhongyan_scth.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 753,
+        "src": "/assets/img/2026-09-05/3535-0-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 753,
+    "credit": {
+      "artist": "Wang Qi (王圻) and Wang Siyi (王思義) (Life time: Wang Qi died in 1612, Wang Siyi is his son and highly unlikely to have live",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFan_Zhongyan_scth.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/fb/1991_Bangladesh_cyclone_track.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1991_Bangladesh_cyclone_track.png",
     "sources": [
@@ -17206,6 +17388,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques_Cartier_1851-1852.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fan_Zhongyan_statue_in_Yichuan.jpg/3840px-Fan_Zhongyan_statue_in_Yichuan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fan_Zhongyan_statue_in_Yichuan.jpg/3840px-Fan_Zhongyan_statue_in_Yichuan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 360,
+        "src": "/assets/img/2026-09-05/3535-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 619,
+        "src": "/assets/img/2026-09-05/3535-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 619,
+    "credit": {
+      "artist": "Alan Islas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFan_Zhongyan_statue_in_Yichuan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/From_Mount_Tapochau.jpg/3840px-From_Mount_Tapochau.jpg": {
