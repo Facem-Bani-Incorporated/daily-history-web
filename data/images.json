@@ -3324,6 +3324,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1960_Valdivia_earthquake.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/07/Eugenius_coin_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Eugenius_coin_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 609,
+        "src": "/assets/img/2026-09-06/3545-0-640.webp"
+      },
+      {
+        "width": 770,
+        "height": 733,
+        "src": "/assets/img/2026-09-06/3545-0-770.webp"
+      }
+    ],
+    "width": 770,
+    "height": 733,
+    "credit": {
+      "artist": "Classical Numismatic Group",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEugenius_coin_(transparent).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/07/Kapaleeswarar_Temple%2C_Mylapore%2C_Chennai.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kapaleeswarar_Temple%2C_Mylapore%2C_Chennai.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6336,6 +6359,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARomulus_Augustulus_and_Odoacer.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/40/Huaixiangrenren.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Huaixiangrenren.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-06/3543-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-09-06/3543-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": {
+      "artist": "如沐西风",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHuaixiangrenren.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/40/Israeli_soldier_and_Palestinian_prisoners_in_Ramle_1948.jpg": {
@@ -14440,6 +14486,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_Nixon_presidential_portrait_crop.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Rivista_italiana_di_numismatica_1890_p_092_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Rivista_italiana_di_numismatica_1890_p_092_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 795,
+        "src": "/assets/img/2026-09-06/3544-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1366,
+        "src": "/assets/img/2026-09-06/3544-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1366,
+    "credit": {
+      "artist": "Rivista_italiana_di_numismatica_1890.djvu: many derivative work: Carlomorino (talk)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARivista_italiana_di_numismatica_1890_p_092_(cropped).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15755,6 +15824,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_Winston_Churchill_-_19086236948_(restored).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bulle_Jean_XIII_6980.jpg/3840px-Bulle_Jean_XIII_6980.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bulle_Jean_XIII_6980.jpg/3840px-Bulle_Jean_XIII_6980.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 179,
+        "src": "/assets/img/2026-09-06/3544-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 309,
+        "src": "/assets/img/2026-09-06/3544-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 309,
+    "credit": {
+      "artist": "Tassin et Toustain. G.Garitan pour le versement et les modifications .",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABulle_Jean_XIII_6980.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg": {
