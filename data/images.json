@@ -6031,6 +6031,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAmeliachild.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/39/Defeat_of_Meng_Da.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Defeat_of_Meng_Da.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 496,
+        "height": 398,
+        "src": "/assets/img/2026-09-07/3551-2-496.webp"
+      }
+    ],
+    "width": 496,
+    "height": 398,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADefeat_of_Meng_Da.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/39/Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Janez_Vajkard_Valvasor_-_Bitka_med_Teodozijem_in_Evgenijem.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8682,6 +8700,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A7_7_Hyde_Park_090712.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Emperor_Suzaku.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Emperor_Suzaku.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-07/3555-0-640.webp"
+      },
+      {
+        "width": 828,
+        "height": 1242,
+        "src": "/assets/img/2026-09-07/3555-0-828.webp"
+      }
+    ],
+    "width": 828,
+    "height": 1242,
+    "credit": {
+      "artist": "明治天皇聖徳奉讃会",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Suzaku.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/71/Seal_of_the_United_States_Department_of_the_Treasury_%281789-1968%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Seal_of_the_United_States_Department_of_the_Treasury_%281789-1968%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9703,6 +9744,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALaunch_of_Jupiter_C_with_Explorer_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 796,
+        "src": "/assets/img/2026-09-07/3551-0-640.webp"
+      },
+      {
+        "width": 988,
+        "height": 1229,
+        "src": "/assets/img/2026-09-07/3551-0-988.webp"
+      }
+    ],
+    "width": 988,
+    "height": 1229,
+    "credit": {
+      "artist": "Ming Zhu Tianran",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/80/Bataille_de_la_Rochelle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11670,6 +11734,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStrategic_Situation_of_Western_Europe_1815.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 319,
+        "src": "/assets/img/2026-09-07/3553-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 547,
+        "src": "/assets/img/2026-09-07/3553-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 547,
+    "credit": {
+      "artist": "cgb.fr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADenier_sous_Louis_II_dit_le_B%C3%A8gue.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg": {
@@ -14865,6 +14952,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-R96361%2C_Dachau%2C_Konzentrationslager.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E5%8F%B8%E9%A6%AC%E6%87%BF_%28Sima_Yi%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E5%8F%B8%E9%A6%AC%E6%87%BF_%28Sima_Yi%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 731,
+        "src": "/assets/img/2026-09-07/3551-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1257,
+        "src": "/assets/img/2026-09-07/3551-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1257,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E5%8F%B8%E9%A6%AC%E6%87%BF_(Sima_Yi).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Battle_of_Berlin_1945-a.png": {
