@@ -3984,6 +3984,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMale_royal_figure%2C_12-13th_century%2C_from_Iran.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 713,
+        "src": "/assets/img/2026-09-08/3564-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1226,
+        "src": "/assets/img/2026-09-08/3564-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1226,
+    "credit": {
+      "artist": "Workshop of Rogier van der Weyden (Netherlandish, 1399/1400 - 1464) (1399 - 1464) – artist (Netherlandish) Details on Go",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Rogier_van_der_Weyden_(Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG",
     "sources": [
@@ -6620,6 +6643,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMecanismo_de_Higgs_PH.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Tang_Xuanzong_signature_%28huaya%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tang_Xuanzong_signature_%28huaya%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 215,
+        "height": 314,
+        "src": "/assets/img/2026-09-08/3563-1-215.webp"
+      }
+    ],
+    "width": 215,
+    "height": 314,
+    "credit": {
+      "artist": "Emperor Xuanzong of Tang",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATang_Xuanzong_signature_(huaya).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/45/Marcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Marcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg",
     "sources": [
@@ -7190,6 +7231,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 460,
+        "height": 1050,
+        "src": "/assets/img/2026-09-08/3562-0-460.webp"
+      }
+    ],
+    "width": 460,
+    "height": 1050,
+    "credit": {
+      "artist": "Siegfried Detlev Bendixen / After Hans Bornemann",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABendixen_Ansgar.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/52/Scots_Wha_Hae_-_geograph.org.uk_-_1278254.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Scots_Wha_Hae_-_geograph.org.uk_-_1278254.jpg",
     "sources": [
@@ -7472,6 +7531,52 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANixon_30-0316a_(cropped)(b).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Peiffer_-_St._Ansgar_-_Trostbr%C3%BCcke_Hamburg_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Peiffer_-_St._Ansgar_-_Trostbr%C3%BCcke_Hamburg_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1517,
+        "src": "/assets/img/2026-09-08/3562-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2608,
+        "src": "/assets/img/2026-09-08/3562-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2608,
+    "credit": {
+      "artist": "Oursana",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeiffer_-_St._Ansgar_-_Trostbr%C3%BCcke_Hamburg_cropped.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 712,
+        "src": "/assets/img/2026-09-08/3563-0-640.webp"
+      },
+      {
+        "width": 1080,
+        "height": 1202,
+        "src": "/assets/img/2026-09-08/3563-0-1080.webp"
+      }
+    ],
+    "width": 1080,
+    "height": 1202,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12189,6 +12294,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdward_III_noble.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 977,
+        "src": "/assets/img/2026-09-08/3563-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1678,
+        "src": "/assets/img/2026-09-08/3563-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1678,
+    "credit": {
+      "artist": "Guo Zhongshu",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGuo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Palace_of_Art_and_Industry%2C_exhibition_of_1862%3B_the_inte_Wellcome_V0013592.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Palace_of_Art_and_Industry%2C_exhibition_of_1862%3B_the_inte_Wellcome_V0013592.jpg",
     "sources": [
@@ -14064,6 +14192,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Solidus_of_Eugenius_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Solidus_of_Eugenius_%28obverse%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 496,
+        "height": 472,
+        "src": "/assets/img/2026-09-08/3561-0-496.webp"
+      }
+    ],
+    "width": 496,
+    "height": 472,
+    "credit": {
+      "artist": "Maison Palombo (photo)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASolidus_of_Eugenius_(obverse).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Varqa_fighting_on_horseback.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Varqa_fighting_on_horseback.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14269,6 +14415,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAtombombe_Little_Boy_2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Establishment_of_Tang_Dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Establishment_of_Tang_Dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 447,
+        "src": "/assets/img/2026-09-08/3560-0-640.webp"
+      },
+      {
+        "width": 1064,
+        "height": 743,
+        "src": "/assets/img/2026-09-08/3560-0-1064.webp"
+      }
+    ],
+    "width": 1064,
+    "height": 743,
+    "credit": {
+      "artist": "SY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEstablishment_of_Tang_Dynasty.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hittin.jpg": {
@@ -16371,6 +16540,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/3840px-TangGaozu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/3840px-TangGaozu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1317,
+        "src": "/assets/img/2026-09-08/3560-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2264,
+        "src": "/assets/img/2026-09-08/3560-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2264,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATangGaozu.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Le_ferry_de_croisi%C3%A8re_Gruziya_%282%29.jpg/3840px-Le_ferry_de_croisi%C3%A8re_Gruziya_%282%29.jpg": {
