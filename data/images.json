@@ -2861,6 +2861,24 @@
     "height": 619,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-09-09/3624-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 734,
+        "src": "/assets/img/2026-09-09/3624-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 734,
+    "credit": null
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg",
     "sources": [
@@ -3698,6 +3716,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoscow_State_University_Tunguska_event_2014-01_1389528710.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stono_Rebellion_site_-_Jan_23_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stono_Rebellion_site_-_Jan_23_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-09/3623-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-09/3623-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "ProfReader",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStono_Rebellion_site_-_Jan_23_2013.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg": {
@@ -4790,6 +4831,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorges_Rouget_(1783-1869)_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_(879-929).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/North_Pacific_Subtropical_Convergence_Zone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/North_Pacific_Subtropical_Convergence_Zone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 290,
+        "src": "/assets/img/2026-09-09/3622-1-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 290,
+    "credit": {
+      "artist": "NOAA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Pacific_Subtropical_Convergence_Zone.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg",
     "sources": [
@@ -5502,6 +5561,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIgnoto_portoghese%2C_ritratto_di_un_cavaliere_dell'ordine_di_cristo%2C_1525-50_ca._02.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Panorama_dentro.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Panorama_dentro.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-09/3624-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-09/3624-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Valentin Ramirez",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_dentro.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phelpsmill_ottertailcounty.jpg": {
@@ -7579,6 +7661,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Thomas_Cavendish.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Thomas_Cavendish.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 651,
+        "src": "/assets/img/2026-09-09/3622-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1363,
+        "src": "/assets/img/2026-09-09/3622-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1363,
+    "credit": {
+      "artist": "Willem and Magdalena van de Passe; original uploader was The Man in Question at en.wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThomas_Cavendish.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8511,6 +8616,52 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1945-08-01JapWW2BattlefrontAtlas.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Disa_cornuta00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Disa_cornuta00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 974,
+        "src": "/assets/img/2026-09-09/3621-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1675,
+        "src": "/assets/img/2026-09-09/3621-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1675,
+    "credit": {
+      "artist": "by Margaret Herschel (1810-1864) &amp; John Herschel (1792-1871)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADisa_cornuta00.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 818,
+        "src": "/assets/img/2026-09-09/3621-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1406,
+        "src": "/assets/img/2026-09-09/3621-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1406,
+    "credit": {
+      "artist": "W. Ward",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_(cropped)-34-(brightness).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lucius-III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lucius-III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9074,6 +9225,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1910Ford-T.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 761,
+        "src": "/assets/img/2026-09-09/3621-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1308,
+        "src": "/assets/img/2026-09-09/3621-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1308,
+    "credit": {
+      "artist": "Alfred Edward Chalon",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Herschel00.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/74/Rowell_memo_1946.jpg": {
@@ -11949,6 +12123,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOrville_Wright_1905-crop.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/Siege_of_Sevastopol_by_George_Baxter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Siege_of_Sevastopol_by_George_Baxter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 437,
+        "src": "/assets/img/2026-09-09/3624-1-640.webp"
+      },
+      {
+        "width": 806,
+        "height": 550,
+        "src": "/assets/img/2026-09-09/3624-1-806.webp"
+      }
+    ],
+    "width": 806,
+    "height": 550,
+    "credit": {
+      "artist": "Original uploader was Jägarn at sv.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASiege_of_Sevastopol_by_George_Baxter.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b1/Admiralty_Chart_No_657_Isthmus_of_Panama_Showing_The_Proposed_Panama_Canal_and_the_Railway_._._._%2C_Published_1885.jpg": {
