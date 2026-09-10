@@ -2861,6 +2861,24 @@
     "height": 619,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-09-10/3633-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1466,
+        "src": "/assets/img/2026-09-10/3633-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1466,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3647,6 +3665,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALarge_explosion_aboard_USS_Lexington_(CV-2)%2C_8_May_1942_(80-G-16651).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Wpdms_battleoflakeerie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Wpdms_battleoflakeerie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 377,
+        "src": "/assets/img/2026-09-10/3630-1-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 377,
+    "credit": {
+      "artist": "Matthew Trump (talk) (Uploads) Uploaded by Decumanus at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWpdms_battleoflakeerie.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0d/1944-07-15GerWW2BattlefrontAtlas.jpg": {
@@ -5297,6 +5333,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarine_Officers%2C_Tulagi%2C_circa_1942.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/29/Houghton_STC_22790_-_Generall_Historie_of_Virginia%2C_New_England%2C_and_the_Summer_Isles%2C_John_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Houghton_STC_22790_-_Generall_Historie_of_Virginia%2C_New_England%2C_and_the_Summer_Isles%2C_John_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 689,
+        "src": "/assets/img/2026-09-10/3632-0-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1185,
+        "src": "/assets/img/2026-09-10/3632-0-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1185,
+    "credit": {
+      "artist": "Book by Capt. John Smith, engraver uncertain",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoughton_STC_22790_-_Generall_Historie_of_Virginia%2C_New_England%2C_and_the_Summer_Isles%2C_John_Smith.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/29/Petersfriedhof-Kat-Martyrer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Petersfriedhof-Kat-Martyrer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5359,6 +5418,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Bannockburn.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/John_the_Fearless_assassination.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/John_the_Fearless_assassination.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 542,
+        "height": 740,
+        "src": "/assets/img/2026-09-10/3631-0-542.webp"
+      }
+    ],
+    "width": 542,
+    "height": 740,
+    "credit": {
+      "artist": "Enguerrand de Monstrelet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_the_Fearless_assassination.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2b/OttomanEmpireMain.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8324,6 +8401,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABernhard_Strigel_003b.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/Elias_Howe_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Elias_Howe_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 383,
+        "height": 426,
+        "src": "/assets/img/2026-09-10/3629-0-383.webp"
+      }
+    ],
+    "width": 383,
+    "height": 426,
+    "credit": {
+      "artist": "Elias_Howe-Southworth_&amp;_Hawes.jpg: Southwarth and Hawes derivative work: TheCuriousGnome (talk)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe_portrait.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/64/Hartwell_Carver_1847_Pacific_Railroad_Proposal_Title_Page.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hartwell_Carver_1847_Pacific_Railroad_Proposal_Title_Page.jpg",
     "sources": [
@@ -10953,6 +11048,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATibbets-wave.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/Assassinat_de_Jean_sans_Peur.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Assassinat_de_Jean_sans_Peur.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 668,
+        "src": "/assets/img/2026-09-10/3631-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1147,
+        "src": "/assets/img/2026-09-10/3631-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1147,
+    "credit": {
+      "artist": "Louis de Gruuthuse",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAssassinat_de_Jean_sans_Peur.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Pedro_menendez_de_Aviles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pedro_menendez_de_Aviles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10997,6 +11115,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATribal_Council_Building%2C_Isleta_Pueblo_NM.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/%22Portrait_d%27Elsa_Schiaparelli%22_de_J._Dunand_%28mus%C3%A9e_des_arts_d%C3%A9coratifs%2C_Paris%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/%22Portrait_d%27Elsa_Schiaparelli%22_de_J._Dunand_%28mus%C3%A9e_des_arts_d%C3%A9coratifs%2C_Paris%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1000,
+        "src": "/assets/img/2026-09-10/3633-0-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 1562,
+        "src": "/assets/img/2026-09-10/3633-0-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 1562,
+    "credit": {
+      "artist": "Jean Dunand",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%22Portrait_d'Elsa_Schiaparelli%22_de_J._Dunand_(mus%C3%A9e_des_arts_d%C3%A9coratifs%2C_Paris).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
@@ -12102,6 +12243,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADragonrouge2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/Fran%C3%A7ais_5054%2C_fol._20_recto.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fran%C3%A7ais_5054%2C_fol._20_recto.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 508,
+        "src": "/assets/img/2026-09-10/3631-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 873,
+        "src": "/assets/img/2026-09-10/3631-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 873,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ais_5054%2C_fol._20_recto.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg",
     "sources": [
@@ -12560,6 +12724,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACanal_de_Suez.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Elias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Elias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 701,
+        "src": "/assets/img/2026-09-10/3629-2-640.webp"
+      },
+      {
+        "width": 713,
+        "height": 781,
+        "src": "/assets/img/2026-09-10/3629-2-713.webp"
+      }
+    ],
+    "width": 713,
+    "height": 781,
+    "credit": {
+      "artist": "USPS.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12911,6 +13098,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUN_Palestine_Partition_Versions_1947.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/US4750A_Sewing_Machine.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/US4750A_Sewing_Machine.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 592,
+        "src": "/assets/img/2026-09-10/3629-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1018,
+        "src": "/assets/img/2026-09-10/3629-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1018,
+    "credit": {
+      "artist": "Elias Howe",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUS4750A_Sewing_Machine.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/be/FieldOfGettysburg1863.PNG": {
@@ -13885,6 +14095,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois-Paul_Brueys_d'Aigalliers.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/John-smith-in-europe.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/John-smith-in-europe.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 271,
+        "height": 216,
+        "src": "/assets/img/2026-09-10/3632-2-271.webp"
+      }
+    ],
+    "width": 271,
+    "height": 216,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn-smith-in-europe.webp"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Treasury_departement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Treasury_departement.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14297,6 +14525,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHelicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Battle_of_Lake_Erie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Battle_of_Lake_Erie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 384,
+        "src": "/assets/img/2026-09-10/3630-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 660,
+        "src": "/assets/img/2026-09-10/3630-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 660,
+    "credit": {
+      "artist": "William Henry Powell",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Lake_Erie.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/da/Bridge_during_the_Retreat_from_Manassas%2C_First_Battle_of_Bull_Run_%28First_Manassas%29%2C_Virginia_1861.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bridge_during_the_Retreat_from_Manassas%2C_First_Battle_of_Bull_Run_%28First_Manassas%29%2C_Virginia_1861.jpg",
     "sources": [
@@ -14699,6 +14950,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZacarias_Moussaoui.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 905,
+        "src": "/assets/img/2026-09-10/3633-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1556,
+        "src": "/assets/img/2026-09-10/3633-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1556,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABow-knot_sweater_Schiaparelli.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e1/MLK_and_Malcolm_X_USNWR_cropped.jpg": {
@@ -16167,6 +16441,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarino_als_steinhauer.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Signature_of_Captain_John_Smith.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Signature_of_Captain_John_Smith.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 155,
+        "height": 65,
+        "src": "/assets/img/2026-09-10/3632-1-155.webp"
+      }
+    ],
+    "width": 155,
+    "height": 65,
+    "credit": {
+      "artist": "John Smith",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASignature_of_Captain_John_Smith.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/War_of_1812_Montage.jpg": {
