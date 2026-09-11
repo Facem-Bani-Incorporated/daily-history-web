@@ -3621,6 +3621,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARMS_Lusitania_boat.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Swami_Vivekananda-1893-09-signed.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 878,
+        "src": "/assets/img/2026-09-11/3639-0-640.webp"
+      },
+      {
+        "width": 933,
+        "height": 1280,
+        "src": "/assets/img/2026-09-11/3639-0-933.webp"
+      }
+    ],
+    "width": 933,
+    "height": 1280,
+    "credit": {
+      "artist": "The original uploader was Dziewa at English Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASwami_Vivekananda-1893-09-signed.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0c/Europe_in_1328.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Europe_in_1328.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4243,6 +4266,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreatyOfGuadalupeHidalgoCover.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Hope_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hope_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 647,
+        "src": "/assets/img/2026-09-11/3640-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1113,
+        "src": "/assets/img/2026-09-11/3640-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1113,
+    "credit": {
+      "artist": "David Bjorgen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHope_Diamond.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg": {
@@ -5402,6 +5448,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAttlee%2C_Truman_and_Stalin_at_Potsdam.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Hope_Diamond_-_SIA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Hope_Diamond_-_SIA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 593,
+        "src": "/assets/img/2026-09-11/3640-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1019,
+        "src": "/assets/img/2026-09-11/3640-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1019,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Hope_Diamond_-_SIA.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2b/Battle_of_Bannockburn.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Battle_of_Bannockburn.jpg",
     "sources": [
@@ -5750,6 +5819,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/31/Bhuvaneshwari-Devi-1841-1911.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bhuvaneshwari-Devi-1841-1911.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 458,
+        "height": 557,
+        "src": "/assets/img/2026-09-11/3639-1-458.webp"
+      }
+    ],
+    "width": 458,
+    "height": 557,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABhuvaneshwari-Devi-1841-1911.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/31/Ince_minare_sculpture_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ince_minare_sculpture_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6083,6 +6170,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMassacre_of_the_Vaudois_of_Merindol.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/37/Germania_Enobarbo_e_Tiberio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Germania_Enobarbo_e_Tiberio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 509,
+        "src": "/assets/img/2026-09-11/3636-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 875,
+        "src": "/assets/img/2026-09-11/3636-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 875,
+    "credit": {
+      "artist": "Cristiano64",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermania_Enobarbo_e_Tiberio.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/37/Israeli_soldiers_in_battle_with_the_Arab_village_of_Sassa_%28cropped%29.jpg": {
@@ -7229,6 +7339,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASamuel_Finley_Breese_Morse_-_Samuel_F._B._Morse_Self-Portrait_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4c/Landing_of_Henry_Hudson%2C_1609%2C_at_Verplanck_Point%2C_New_York%2C_by_Robert_Walter_Weir.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Landing_of_Henry_Hudson%2C_1609%2C_at_Verplanck_Point%2C_New_York%2C_by_Robert_Walter_Weir.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 439,
+        "src": "/assets/img/2026-09-11/3637-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 755,
+        "src": "/assets/img/2026-09-11/3637-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 755,
+    "credit": {
+      "artist": "Robert Walter Weir",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALanding_of_Henry_Hudson%2C_1609%2C_at_Verplanck_Point%2C_New_York%2C_by_Robert_Walter_Weir.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/4d/NASA_Apollo_17_Lunar_Roving_Vehicle.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/NASA_Apollo_17_Lunar_Roving_Vehicle.jpg",
     "sources": [
@@ -8186,6 +8319,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGregory_the_Great_with_the_Holy_Spirit.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vivekananda_Image_August_1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vivekananda_Image_August_1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 359,
+        "height": 450,
+        "src": "/assets/img/2026-09-11/3639-2-359.webp"
+      }
+    ],
+    "width": 359,
+    "height": 450,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVivekananda_Image_August_1894.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/60/Battle_of_Churubusco3_%28cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Battle_of_Churubusco3_%28cropped%29.jpg",
     "sources": [
@@ -8540,6 +8691,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGenealogical_Relationship_between_Timur_and_Genghis_Khan.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Halve_Maen_front.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Halve_Maen_front.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 768,
+        "src": "/assets/img/2026-09-11/3637-1-640.webp"
+      },
+      {
+        "width": 755,
+        "height": 906,
+        "src": "/assets/img/2026-09-11/3637-1-755.webp"
+      }
+    ],
+    "width": 755,
+    "height": 906,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHalve_Maen_front.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8957,6 +9131,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_(1500%E2%80%931558)%2C_formerly_attributed_to_Titian_(Alte_Pinakothek%2C_Munich).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6f/Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-11/3638-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-11/3638-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Davidmeisner at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStirling_Bridge.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tear_Down_This_Wall_p10.jpg": {
@@ -9913,6 +10110,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APresident_Kennedy_addresses_nation_on_Civil_Rights%2C_11_June_1963.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Goosecraft_Friar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Goosecraft_Friar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 498,
+        "src": "/assets/img/2026-09-11/3638-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 856,
+        "src": "/assets/img/2026-09-11/3638-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 856,
+    "credit": {
+      "artist": "Stirlingdigger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Goosecraft_Friar.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Descobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png",
     "sources": [
@@ -9957,6 +10177,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADescobrimentos_e_explora%C3%A7%C3%B5es_portuguesesV2.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Epitaph_des_Marcus_Caelius.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Epitaph_des_Marcus_Caelius.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 803,
+        "src": "/assets/img/2026-09-11/3636-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1380,
+        "src": "/assets/img/2026-09-11/3636-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1380,
+    "credit": {
+      "artist": "Agnete",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEpitaph_des_Marcus_Caelius.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg": {
@@ -13875,6 +14118,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaint_Gregorius_Cefalu.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Druso_in_Germania_per_Wikipedia.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Druso_in_Germania_per_Wikipedia.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 572,
+        "src": "/assets/img/2026-09-11/3636-1-640.webp"
+      },
+      {
+        "width": 822,
+        "height": 735,
+        "src": "/assets/img/2026-09-11/3636-1-822.webp"
+      }
+    ],
+    "width": 822,
+    "height": 735,
+    "credit": {
+      "artist": "Cristiano64",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADruso_in_Germania_per_Wikipedia.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cc/FBI_Poster_of_Missing_Civil_Rights_Workers.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/FBI_Poster_of_Missing_Civil_Rights_Workers.jpg",
     "sources": [
@@ -14244,6 +14510,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABunce_Island_1805.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/HenryHudson.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/HenryHudson.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 691,
+        "src": "/assets/img/2026-09-11/3637-0-640.webp"
+      },
+      {
+        "width": 987,
+        "height": 1065,
+        "src": "/assets/img/2026-09-11/3637-0-987.webp"
+      }
+    ],
+    "width": 987,
+    "height": 1065,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenryHudson.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Papal.bull.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15144,6 +15433,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASoviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_of_Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_of_Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 425,
+        "src": "/assets/img/2026-09-11/3638-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 599,
+        "src": "/assets/img/2026-09-11/3638-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 599,
+    "credit": {
+      "artist": "Matthew White Ridley",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Stirling_Bridge.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg",
     "sources": [
@@ -15592,6 +15904,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-R96361%2C_Dachau%2C_Konzentrationslager.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hope_Diamond_Closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hope_Diamond_Closeup.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-09-11/3640-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-09-11/3640-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "Mbalotia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHope_Diamond_Closeup.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E5%8F%B8%E9%A6%AC%E6%87%BF_%28Sima_Yi%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
