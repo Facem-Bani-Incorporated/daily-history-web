@@ -2879,6 +2879,24 @@
     "height": 1466,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 381,
+        "src": "/assets/img/2026-09-12/3645-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 655,
+        "src": "/assets/img/2026-09-12/3645-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 655,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3468,6 +3486,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5516.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0a/Darius_detail_on_the_Darius_vase.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Darius_detail_on_the_Darius_vase.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-09-12/3646-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-09-12/3646-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Carlo Raso",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADarius_detail_on_the_Darius_vase.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0a/Falkirk1298%281%29.JPG": {
@@ -4197,6 +4238,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Mandela.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/Peter_II_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Peter_II_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 427,
+        "height": 430,
+        "src": "/assets/img/2026-09-12/3649-1-427.webp"
+      }
+    ],
+    "width": 427,
+    "height": 430,
+    "credit": {
+      "artist": "Louis Blancard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeter_II_of_Aragon.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg": {
@@ -5377,6 +5436,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarine_Officers%2C_Tulagi%2C_circa_1942.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/OttomanEmpire1683.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/OttomanEmpire1683.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 460,
+        "src": "/assets/img/2026-09-12/3645-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 790,
+        "src": "/assets/img/2026-09-12/3645-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 790,
+    "credit": {
+      "artist": "Chamboz / The original uploader was Chamboz at English Wikipedia.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpire1683.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/29/Houghton_STC_22790_-_Generall_Historie_of_Virginia%2C_New_England%2C_and_the_Summer_Isles%2C_John_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8739,6 +8821,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Third_Crusade_(1189-1192).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/1857_North_Carolina_hurricane_track.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/1857_North_Carolina_hurricane_track.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 396,
+        "src": "/assets/img/2026-09-12/3648-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 680,
+        "src": "/assets/img/2026-09-12/3648-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 680,
+    "credit": {
+      "artist": "Jdorje",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1857_North_Carolina_hurricane_track.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/68/Alcockandbrown_mail.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Alcockandbrown_mail.jpg",
     "sources": [
@@ -10767,6 +10872,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APitcairn_Autogiro_NASA_GPN-2000-001990.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 360,
+        "src": "/assets/img/2026-09-12/3646-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 619,
+        "src": "/assets/img/2026-09-12/3646-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 619,
+    "credit": {
+      "artist": "annysuomo",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Marcel-roswell-debris_0.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Marcel-roswell-debris_0.jpg",
     "sources": [
@@ -11493,6 +11621,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Dreizehn_France.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 420,
+        "src": "/assets/img/2026-09-12/3646-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 721,
+        "src": "/assets/img/2026-09-12/3646-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 721,
+    "credit": {
+      "artist": "John Steeple Davis",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScene_of_the_Battle_of_Marathon.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tasawir_10.jpg",
     "sources": [
@@ -11555,6 +11706,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APassages_d'outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pedro_II_de_Arag%C3%B3n_entero.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pedro_II_de_Arag%C3%B3n_entero.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 501,
+        "height": 762,
+        "src": "/assets/img/2026-09-12/3649-0-501.webp"
+      }
+    ],
+    "width": 501,
+    "height": 762,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_II_de_Arag%C3%B3n_entero.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9a/President_Harry_S._Truman_and_Joseph_Stalin_at_Potsdam.jpg": {
@@ -14077,6 +14246,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagni_aestimamus.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 398,
+        "src": "/assets/img/2026-09-12/3645-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 685,
+        "src": "/assets/img/2026-09-12/3645-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 685,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oliver_Cromwell_House_Ely.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oliver_Cromwell_House_Ely.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15456,6 +15648,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Stirling_Bridge.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/SSCentralAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/SSCentralAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 342,
+        "src": "/assets/img/2026-09-12/3648-0-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 342,
+    "credit": {
+      "artist": "Frank Leslie's Illustrated Newspaper",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASSCentralAmerica.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Conjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg",
     "sources": [
@@ -15789,6 +15999,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacob_M._Howard_-_Brady-Handy.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wreck_of_the_Central_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wreck_of_the_Central_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 407,
+        "src": "/assets/img/2026-09-12/3648-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 700,
+        "src": "/assets/img/2026-09-12/3648-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 700,
+    "credit": {
+      "artist": "J. Childs (engraver &amp; publisher)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWreck_of_the_Central_America.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Elizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg": {
