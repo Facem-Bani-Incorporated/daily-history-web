@@ -4258,6 +4258,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeter_II_of_Aragon.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/CoronationOfOgodei1229.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/CoronationOfOgodei1229.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 615,
+        "src": "/assets/img/2026-09-13/3653-1-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1274,
+        "src": "/assets/img/2026-09-13/3653-1-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1274,
+    "credit": {
+      "artist": "Rashid al-Din",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronationOfOgodei1229.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg",
     "sources": [
@@ -6485,6 +6508,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMiranda_justice_brennan.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Geor_tamro_aandersen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Geor_tamro_aandersen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 571,
+        "src": "/assets/img/2026-09-13/3653-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 982,
+        "src": "/assets/img/2026-09-13/3653-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 982,
+    "credit": {
+      "artist": "User:Andrew Andersen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeor_tamro_aandersen.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3a/Retrato_de_Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a.jpg": {
@@ -9739,6 +9785,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APresident_Ronald_Reagan_and_Nancy_Reagan_During_His_Trip_to_West_Berlin_and_His_Remarks_at_The_Berlin_Wall%2C_Brandenburg_Gate_with_Eberhard_Diepgen_-_DPLA_-_1fab90c4bd51284803dceaa594c2caa4.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Cabral_family_coat_of_arms.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cabral_family_coat_of_arms.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 820,
+        "src": "/assets/img/2026-09-13/3654-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1409,
+        "src": "/assets/img/2026-09-13/3654-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1409,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACabral_family_coat_of_arms.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/76/Hoftenwalle.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hoftenwalle.JPG",
     "sources": [
@@ -11373,6 +11442,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AC-54_landing_at_Tempelhof.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/East_Numidia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/East_Numidia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 471,
+        "src": "/assets/img/2026-09-13/3655-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 809,
+        "src": "/assets/img/2026-09-13/3655-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 809,
+    "credit": {
+      "artist": "Heinrich Kiepert (July 31, 1818 – April 21, 1899)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEast_Numidia.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg",
     "sources": [
@@ -11980,6 +12072,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 814,
+        "src": "/assets/img/2026-09-13/3653-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1399,
+        "src": "/assets/img/2026-09-13/3653-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1399,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYuanEmperorAlbumOgedeiPortrait.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arolsen_Klebeband_02_227.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16635,6 +16750,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALunar_phases_al-Biruni.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pedro_%C3%81lvares_Cabral.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pedro_%C3%81lvares_Cabral.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 947,
+        "src": "/assets/img/2026-09-13/3654-0-640.webp"
+      },
+      {
+        "width": 972,
+        "height": 1438,
+        "src": "/assets/img/2026-09-13/3654-0-972.webp"
+      }
+    ],
+    "width": 972,
+    "height": 1438,
+    "credit": {
+      "artist": "Aurélio de Figueiredo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_%C3%81lvares_Cabral.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg",
     "sources": [
@@ -17050,6 +17188,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWar_of_1812_Montage.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fe/50_Escudos_c%C3%A9l%C3%A9brant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/50_Escudos_c%C3%A9l%C3%A9brant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 315,
+        "src": "/assets/img/2026-09-13/3654-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 542,
+        "src": "/assets/img/2026-09-13/3654-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 542,
+    "credit": {
+      "artist": "cgb",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A50_Escudos_c%C3%A9l%C3%A9brant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral%2C_1968.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fe/Saddam_Hussein_at_trial%2C_July_2004.JPEG": {
