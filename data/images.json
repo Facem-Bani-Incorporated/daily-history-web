@@ -2879,6 +2879,24 @@
     "height": 1466,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 318,
+        "src": "/assets/img/2026-09-14/3662-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 546,
+        "src": "/assets/img/2026-09-14/3662-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 546,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4414,6 +4432,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Lindbergh_1925.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/17/Inter-grav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Inter-grav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 405,
+        "height": 621,
+        "src": "/assets/img/2026-09-14/3664-1-596.webp"
+      },
+      {
+        "width": 596,
+        "height": 914,
+        "src": "/assets/img/2026-09-14/3664-1-596.webp"
+      }
+    ],
+    "width": 596,
+    "height": 914,
+    "credit": {
+      "artist": "Gregory XIII",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInter-grav.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/2ndBattleOfTheMarne.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/2ndBattleOfTheMarne.jpg",
     "sources": [
@@ -5653,6 +5694,47 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1976-143-21%2C_Hasso_von_Manteuffel.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Dirham_of_Harun_al-Rashid%2C_Madinat_al-Salam%2C_170AH.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Dirham_of_Harun_al-Rashid%2C_Madinat_al-Salam%2C_170AH.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 324,
+        "src": "/assets/img/2026-09-14/3662-2-640.webp"
+      },
+      {
+        "width": 670,
+        "height": 339,
+        "src": "/assets/img/2026-09-14/3662-2-670.webp"
+      }
+    ],
+    "width": 670,
+    "height": 339,
+    "credit": {
+      "artist": "Yevlem",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADirham_of_Harun_al-Rashid%2C_Madinat_al-Salam%2C_170AH.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gold_dinar_of_Harun_al-Rashid%2C_AH_170-193.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gold_dinar_of_Harun_al-Rashid%2C_AH_170-193.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 325,
+        "height": 163,
+        "src": "/assets/img/2026-09-14/3662-0-325.webp"
+      }
+    ],
+    "width": 325,
+    "height": 163,
+    "credit": {
+      "artist": "8/9th-century master(s)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_dinar_of_Harun_al-Rashid%2C_AH_170-193.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tabula_hungariae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tabula_hungariae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6602,6 +6684,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMbuyisa_Makhubu_carries_Hector_Pieterson_at_Soweto_Uprising.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Memorial_to_John_Etty_%2818373251064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Memorial_to_John_Etty_%2818373251064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 967,
+        "src": "/assets/img/2026-09-14/3664-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1662,
+        "src": "/assets/img/2026-09-14/3664-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1662,
+    "credit": {
+      "artist": "Tim Green from Bradford",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMemorial_to_John_Etty_(18373251064).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3b/Warren_Court_1953.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Warren_Court_1953.jpg",
     "sources": [
@@ -7534,6 +7639,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_141-0864%2C_Kreta%2C_Landung_von_Fallschirmj%C3%A4gern.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Harvard_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Harvard_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 714,
+        "src": "/assets/img/2026-09-14/3665-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1227,
+        "src": "/assets/img/2026-09-14/3665-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1227,
+    "credit": {
+      "artist": "alainedouard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Harvard_statue.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/KZDachau1945.jpg": {
@@ -9668,6 +9796,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1910Ford-T.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Casa_di_dante_01.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Casa_di_dante_01.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-14/3663-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-14/3663-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "sailko",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACasa_di_dante_01.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12074,6 +12225,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARamey-dubose-debris.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Retreat_of_Napoleon_Army_from_Moscow_1812.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Retreat_of_Napoleon_Army_from_Moscow_1812.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 442,
+        "src": "/assets/img/2026-09-14/3661-2-640.webp"
+      },
+      {
+        "width": 860,
+        "height": 594,
+        "src": "/assets/img/2026-09-14/3661-2-860.webp"
+      }
+    ],
+    "width": 860,
+    "height": 594,
+    "credit": {
+      "artist": "artists: del. Atkinson, John Augustus (1775-1831 or 1833) sc. Dubourg, M. (19th century)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARetreat_of_Napoleon_Army_from_Moscow_1812.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12642,6 +12816,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConstans_II_tremissis_81089.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/JohnHarvard_Signature.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/JohnHarvard_Signature.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 455,
+        "height": 116,
+        "src": "/assets/img/2026-09-14/3665-1-455.webp"
+      }
+    ],
+    "width": 455,
+    "height": 116,
+    "credit": {
+      "artist": "John Harvard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohnHarvard_Signature.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12814,6 +13006,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOrville_Wright_1905-crop.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/af/Philip_Dormer_Stanhope%2C_4th_Earl_of_Chesterfield_by_Allan_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Philip_Dormer_Stanhope%2C_4th_Earl_of_Chesterfield_by_Allan_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 764,
+        "src": "/assets/img/2026-09-14/3664-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1313,
+        "src": "/assets/img/2026-09-14/3664-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1313,
+    "credit": {
+      "artist": "Allan Ramsay",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APhilip_Dormer_Stanhope%2C_4th_Earl_of_Chesterfield_by_Allan_Ramsay.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/af/Siege_of_Sevastopol_by_George_Baxter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14286,6 +14501,29 @@
         "width": 1100,
         "height": 771,
         "src": "/assets/img/2026-06-24/1892-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 771,
+    "credit": {
+      "artist": "Albrecht Adam",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIV_corpo_durante_la_campagna_di_Russia.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 449,
+        "src": "/assets/img/2026-09-14/3661-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 771,
+        "src": "/assets/img/2026-09-14/3661-0-1100.webp"
       }
     ],
     "width": 1100,
@@ -16070,6 +16308,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATranscontinentalPoster.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 361,
+        "height": 542,
+        "src": "/assets/img/2026-09-14/3663-0-361.webp"
+      }
+    ],
+    "width": 361,
+    "height": 542,
+    "credit": {
+      "artist": "Wolfgang Sauber",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABargello_-_Kapelle_Fresko_2a.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/DC-1914-27-d-Sarajevo-cropped.jpg",
     "sources": [
@@ -16321,6 +16577,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Berlin_1945-a.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Harvard_House_Stratford_%285665088336%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Harvard_House_Stratford_%285665088336%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1034,
+        "src": "/assets/img/2026-09-14/3665-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1777,
+        "src": "/assets/img/2026-09-14/3665-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1777,
+    "credit": {
+      "artist": "Tony Hisgett from Birmingham, UK",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarvard_House_Stratford_(5665088336).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nasser_observing_Aswan_Dam_construction.jpg": {
@@ -16588,6 +16867,29 @@
         "width": 800,
         "height": 496,
         "src": "/assets/img/2026-06-24/1892-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 496,
+    "credit": {
+      "artist": "Viktor Mazurovsky (1859–1944)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFireofmoscow.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fireofmoscow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fireofmoscow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 397,
+        "src": "/assets/img/2026-09-14/3661-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 496,
+        "src": "/assets/img/2026-09-14/3661-1-800.webp"
       }
     ],
     "width": 800,
@@ -16881,6 +17183,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANuremberg_chronicles_-_Male_Siamese_twins_(CCXVIIr).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dante_and_beatrice.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dante_and_beatrice.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 440,
+        "src": "/assets/img/2026-09-14/3663-2-640.webp"
+      },
+      {
+        "width": 760,
+        "height": 522,
+        "src": "/assets/img/2026-09-14/3663-2-760.webp"
+      }
+    ],
+    "width": 760,
+    "height": 522,
+    "credit": {
+      "artist": "Henry Holiday",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADante_and_beatrice.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg": {
