@@ -2933,6 +2933,24 @@
     "height": 734,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 455,
+        "src": "/assets/img/2026-09-15/3672-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 781,
+        "src": "/assets/img/2026-09-15/3672-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 781,
+    "credit": null
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg",
     "sources": [
@@ -3302,6 +3320,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInnozenz3.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympe_de_Gouges.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 855,
+        "src": "/assets/img/2026-09-15/3673-1-640.webp"
+      },
+      {
+        "width": 816,
+        "height": 1090,
+        "src": "/assets/img/2026-09-15/3673-1-816.webp"
+      }
+    ],
+    "width": 816,
+    "height": 1090,
+    "credit": {
+      "artist": "Alexander Kucharsky",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOlympe_de_Gouges.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/05/Pacific_War_Japanese_Advances.jpg": {
@@ -5205,6 +5246,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_department_official_1907.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 425,
+        "src": "/assets/img/2026-09-15/3669-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 731,
+        "src": "/assets/img/2026-09-15/3669-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 731,
+    "credit": {
+      "artist": "Conrad Martens (1801 - 21 August 1878)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHMS_Beagle_by_Conrad_Martens.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5983,6 +6047,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEurope_before_Operation_Barbarossa%2C_1941_(in_German).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/30/Replica_Rocket_and_coach.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Replica_Rocket_and_coach.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 470,
+        "src": "/assets/img/2026-09-15/3671-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 587,
+        "src": "/assets/img/2026-09-15/3671-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 587,
+    "credit": {
+      "artist": "jimd2007",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AReplica_Rocket_and_coach.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/31/A_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_nun%2C_traditionally_identified_as_Suor_Maria_Celeste%2C_daugh_Wellcome_L0031890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6157,6 +6244,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreaty_of_Guadalupe_Hidalgo.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 250,
+        "height": 489,
+        "src": "/assets/img/2026-09-15/3673-0-250.webp"
+      }
+    ],
+    "width": 250,
+    "height": 489,
+    "credit": {
+      "artist": "Olympe de Gouges",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADDFC.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/34/Saint_Augustine_by_Philippe_de_Champaigne_%283x4_cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Saint_Augustine_by_Philippe_de_Champaigne_%283x4_cropped%29.jpg",
     "sources": [
@@ -6201,6 +6306,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_New_Orleans.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/HMS_Beagle_1832_longitudinal_section_larger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/HMS_Beagle_1832_longitudinal_section_larger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 256,
+        "src": "/assets/img/2026-09-15/3669-2-640.webp"
+      },
+      {
+        "width": 955,
+        "height": 382,
+        "src": "/assets/img/2026-09-15/3669-2-955.webp"
+      }
+    ],
+    "width": 955,
+    "height": 382,
+    "credit": {
+      "artist": "HMS_Beagle_1832_longitudinal_section.jpg: Original drawing by F. G. King, digital photo by User:Alexei Kouprianov deriva",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHMS_Beagle_1832_longitudinal_section_larger.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/35/Panorama_of_London_by_Claes_Van_Visscher%2C_1616_no_angels.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6881,6 +7009,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChagaiatomictests.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/First_passenger_railway_1830.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/First_passenger_railway_1830.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 511,
+        "src": "/assets/img/2026-09-15/3671-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 879,
+        "src": "/assets/img/2026-09-15/3671-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 879,
+    "credit": {
+      "artist": "Tolnai - korabeli képek alapján",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFirst_passenger_railway_1830.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7089,6 +7240,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Lakota_Wars_(1854-1890)._The_battlefields_and_the_Lakota_treaty_territory_of_1851_(circa.).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 515,
+        "src": "/assets/img/2026-09-15/3670-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 884,
+        "src": "/assets/img/2026-09-15/3670-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 884,
+    "credit": {
+      "artist": "Louis Lejeune",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Borodino.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/43/Borj-toghrul.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7987,6 +8161,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanislaw_I_Leszczynski_of_Poland.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/16126.d.1%2835%29-Japanese_troops_advance_on_Pyongyang_from_all_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/16126.d.1%2835%29-Japanese_troops_advance_on_Pyongyang_from_all_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 344,
+        "src": "/assets/img/2026-09-15/3672-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 592,
+        "src": "/assets/img/2026-09-15/3672-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 592,
+    "credit": {
+      "artist": "Creator:楊洲延保 (?-?) Creator:Yōshū Nobuyasu",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A16126.d.1(35)-Japanese_troops_advance_on_Pyongyang_from_all_sides.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG": {
@@ -9704,6 +9901,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoratioNelson1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Johann_Heinrich_F%C3%BCssli_049.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Johann_Heinrich_F%C3%BCssli_049.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1118,
+        "src": "/assets/img/2026-09-15/3673-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1921,
+        "src": "/assets/img/2026-09-15/3673-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1921,
+    "credit": {
+      "artist": "Henry Fuseli",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohann_Heinrich_F%C3%BCssli_049.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/72/Raleigh%27s_first_pipe_in_England.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11660,6 +11880,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATibbets-wave.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 413,
+        "src": "/assets/img/2026-09-15/3669-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 710,
+        "src": "/assets/img/2026-09-15/3669-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 710,
+    "credit": {
+      "artist": "R. T. Pritchett",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Assassinat_de_Jean_sans_Peur.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14837,6 +15080,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Cogswell_(DD-651)_underway_in_1945.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Battle_of_Pyongyang_by_Mizuno_To.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Battle_of_Pyongyang_by_Mizuno_To.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 326,
+        "src": "/assets/img/2026-09-15/3672-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 561,
+        "src": "/assets/img/2026-09-15/3672-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 561,
+    "credit": {
+      "artist": "Toshikata Mizuno",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Pyongyang_by_Mizuno_To.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_183-F0417-0001-011%2C_Berlin%2C_VII._SED-Parteitag%2C_Er%C3%B6ffnung.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15786,6 +16052,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZacarias_Moussaoui.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/1807%2C_Friedland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/1807%2C_Friedland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 353,
+        "src": "/assets/img/2026-09-15/3670-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 606,
+        "src": "/assets/img/2026-09-15/3670-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 606,
+    "credit": {
+      "artist": "Jean-Louis-Ernest Meissonier",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1807%2C_Friedland.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16219,6 +16508,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoralia_in_Job_MS_dragonslayer.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Iena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Iena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 542,
+        "src": "/assets/img/2026-09-15/3670-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 931,
+        "src": "/assets/img/2026-09-15/3670-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 931,
+    "credit": {
+      "artist": "Horace Vernet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIena.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
@@ -17050,6 +17362,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALunar_phases_al-Biruni.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Opening_Liverpool_and_Manchester_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Opening_Liverpool_and_Manchester_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 517,
+        "src": "/assets/img/2026-09-15/3671-0-640.webp"
+      },
+      {
+        "width": 741,
+        "height": 599,
+        "src": "/assets/img/2026-09-15/3671-0-741.webp"
+      }
+    ],
+    "width": 741,
+    "height": 599,
+    "credit": {
+      "artist": "A.B. Clayton",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOpening_Liverpool_and_Manchester_Railway.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pedro_%C3%81lvares_Cabral.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
