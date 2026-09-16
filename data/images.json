@@ -2997,6 +2997,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermans-airlift-1948.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 675,
+        "src": "/assets/img/2026-09-16/3679-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1160,
+        "src": "/assets/img/2026-09-16/3679-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1160,
+    "credit": {
+      "artist": "TheWxResearcher",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHudson%E2%80%99s_Detroit_Building_2026-01-01.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/00/Nasser_in_1969_%283x4_close_cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nasser_in_1969_%283x4_close_cropped%29.jpg",
     "sources": [
@@ -4409,6 +4432,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreatyOfGuadalupeHidalgoCover.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Father_Miguel_Hidalgo_y_Costilla%2C_Statue_in_Atotonilco%2C_Mexico.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Father_Miguel_Hidalgo_y_Costilla%2C_Statue_in_Atotonilco%2C_Mexico.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-16/3678-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-09-16/3678-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": {
+      "artist": "Peter K Burian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFather_Miguel_Hidalgo_y_Costilla%2C_Statue_in_Atotonilco%2C_Mexico.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/15/Hope_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hope_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5740,6 +5786,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpireMain.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Balc%C3%B3n_principal_del_Palacio_Nacional.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Balc%C3%B3n_principal_del_Palacio_Nacional.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 723,
+        "src": "/assets/img/2026-09-16/3678-2-640.webp"
+      },
+      {
+        "width": 768,
+        "height": 868,
+        "src": "/assets/img/2026-09-16/3678-2-768.webp"
+      }
+    ],
+    "width": 768,
+    "height": 868,
+    "credit": {
+      "artist": "Ivan Rosas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalc%C3%B3n_principal_del_Palacio_Nacional.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bundesarchiv_Bild_146-1976-143-21%2C_Hasso_von_Manteuffel.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bundesarchiv_Bild_146-1976-143-21%2C_Hasso_von_Manteuffel.jpg",
     "sources": [
@@ -6173,6 +6242,24 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChip_layout_from_the_development_phase_of_the_Intel_4004_from_1971%2C_the_first_microprocessor_of_the_world_(cropped_and_edited_image).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 408,
+        "height": 334,
+        "src": "/assets/img/2026-09-16/3681-2-408.webp"
+      }
+    ],
+    "width": 408,
+    "height": 334,
+    "credit": {
+      "artist": "Saregama Carnatic",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM._S._Subbulakshmi_(01).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/1099_Siege_of_Jerusalem.jpg": {
@@ -8772,6 +8859,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGregory_the_Great_with_the_Holy_Spirit.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5e/M._S._Subbulakshmi_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/M._S._Subbulakshmi_%2803%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 601,
+        "height": 722,
+        "src": "/assets/img/2026-09-16/3681-0-601.webp"
+      }
+    ],
+    "width": 601,
+    "height": 722,
+    "credit": {
+      "artist": "Saregama Carnatic",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM._S._Subbulakshmi_(03).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vivekananda_Image_August_1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vivekananda_Image_August_1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9405,6 +9510,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_(cropped)-34-(brightness).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/General_Motors_Company_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/General_Motors_Company_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 418,
+        "src": "/assets/img/2026-09-16/3679-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 718,
+        "src": "/assets/img/2026-09-16/3679-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 718,
+    "credit": {
+      "artist": "Unbekannte Autoren und Grafiker; Scan vom EDHAC e.V.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeneral_Motors_Company_1916.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lucius-III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11997,6 +12125,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%22Portrait_d'Elsa_Schiaparelli%22_de_J._Dunand_(mus%C3%A9e_des_arts_d%C3%A9coratifs%2C_Paris).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-09-16/3678-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-09-16/3678-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Paigemorrison at English Wikipedia",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADolores_hidalgo.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg",
     "sources": [
@@ -12397,6 +12548,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%22Daredevil_Lindbergh%22.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 414,
+        "src": "/assets/img/2026-09-16/3677-0-640.webp"
+      },
+      {
+        "width": 823,
+        "height": 532,
+        "src": "/assets/img/2026-09-16/3677-0-823.webp"
+      }
+    ],
+    "width": 823,
+    "height": 532,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACopyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_(NBY_21340).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mars-express-volcanoes-sm.jpg": {
@@ -12998,6 +13172,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AINTELSAT_I_(Early_Bird).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Nathan_Rothschild.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Nathan_Rothschild.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 600,
+        "src": "/assets/img/2026-09-16/3680-0-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 600,
+    "credit": {
+      "artist": "Moritz Daniel Oppenheim",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANathan_Rothschild.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ab/ReformationsdenkmalGenf1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14947,6 +15139,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFBI_Poster_of_Missing_Civil_Rights_Workers.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nathan_Mayer_Rothschild_British_banker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nathan_Mayer_Rothschild_British_banker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 924,
+        "src": "/assets/img/2026-09-16/3680-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1588,
+        "src": "/assets/img/2026-09-16/3680-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1588,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANathan_Mayer_Rothschild_British_banker.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cc/Piper_connections.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Piper_connections.png",
     "sources": [
@@ -15671,6 +15886,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABridge_during_the_Retreat_from_Manassas%2C_First_Battle_of_Bull_Run_(First_Manassas)%2C_Virginia_1861.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Embarkation_of_the_Pilgrims.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Embarkation_of_the_Pilgrims.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 419,
+        "src": "/assets/img/2026-09-16/3677-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 720,
+        "src": "/assets/img/2026-09-16/3677-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 720,
+    "credit": {
+      "artist": "Robert W. Weir (photograph courtesy Architect of the Capitol)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmbarkation_of_the_Pilgrims.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg",
     "sources": [
@@ -16249,6 +16487,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_carolina_algonkin-rituale02.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sevasadhanam_1938film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sevasadhanam_1938film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 234,
+        "height": 350,
+        "src": "/assets/img/2026-09-16/3681-1-234.webp"
+      }
+    ],
+    "width": 234,
+    "height": 350,
+    "credit": {
+      "artist": "Screenshot from 1938 Tamil film sevasadhanam produced and directed by K. Subramanyam",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASevasadhanam_1938film.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Soviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16400,6 +16656,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARivista_italiana_di_numismatica_1890_p_092_(cropped).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/1926_Pontiac_Two_Door_Coach_-_Automobile_Driving_Museum_-_El_Segundo%2C_CA_-_DSC02106.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/1926_Pontiac_Two_Door_Coach_-_Automobile_Driving_Museum_-_El_Segundo%2C_CA_-_DSC02106.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-16/3679-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-09-16/3679-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": {
+      "artist": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1926_Pontiac_Two_Door_Coach_-_Automobile_Driving_Museum_-_El_Segundo%2C_CA_-_DSC02106.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16531,6 +16810,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIena.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Kaiserreich_Russland_1822.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Kaiserreich_Russland_1822.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 948,
+        "src": "/assets/img/2026-09-16/3680-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1629,
+        "src": "/assets/img/2026-09-16/3680-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1629,
+    "credit": {
+      "artist": "Unbekannte Autoren und Grafiker; Scan vom EDHAC e.V.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKaiserreich_Russland_1822.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
@@ -17848,6 +18150,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWar_of_1812_Montage.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Isaac_Claesz._Van_Swanenburg_Washing_the_Skins_and_Grading_the_Wool.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Isaac_Claesz._Van_Swanenburg_Washing_the_Skins_and_Grading_the_Wool.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 456,
+        "src": "/assets/img/2026-09-16/3677-1-640.webp"
+      },
+      {
+        "width": 1024,
+        "height": 730,
+        "src": "/assets/img/2026-09-16/3677-1-1024.webp"
+      }
+    ],
+    "width": 1024,
+    "height": 730,
+    "credit": {
+      "artist": "Isaac Claesz. van Swanenburg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsaac_Claesz._Van_Swanenburg_Washing_the_Skins_and_Grading_the_Wool.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fe/50_Escudos_c%C3%A9l%C3%A9brant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
