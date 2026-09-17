@@ -2933,6 +2933,24 @@
     "height": 734,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 525,
+        "height": 656,
+        "src": "/assets/img/2026-09-17/3686-1-640.webp"
+      },
+      {
+        "width": 960,
+        "height": 1200,
+        "src": "/assets/img/2026-09-17/3686-1-960.webp"
+      }
+    ],
+    "width": 960,
+    "height": 1200,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -2949,6 +2967,42 @@
     ],
     "width": 1100,
     "height": 781,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 186,
+        "src": "/assets/img/2026-09-17/3689-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 320,
+        "src": "/assets/img/2026-09-17/3689-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 320,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 461,
+        "src": "/assets/img/2026-09-17/3686-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 792,
+        "src": "/assets/img/2026-09-17/3686-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 792,
     "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg": {
@@ -3547,6 +3601,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADupre-Mameluk.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/09/Harriet_Tubman_c1868-69_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Harriet_Tubman_c1868-69_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 794,
+        "src": "/assets/img/2026-09-17/3688-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1365,
+        "src": "/assets/img/2026-09-17/3688-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1365,
+    "credit": {
+      "artist": "Benjamin F. Powelson",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarriet_Tubman_c1868-69_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0a/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5516.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5516.jpg",
     "sources": [
@@ -4049,6 +4126,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Eastman_Signature.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/GGBridge_Old_Coast_Guard_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/GGBridge_Old_Coast_Guard_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 430,
+        "src": "/assets/img/2026-09-17/3690-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 738,
+        "src": "/assets/img/2026-09-17/3690-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 738,
+    "credit": {
+      "artist": "Will Elder",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGGBridge_Old_Coast_Guard_Station.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gordon_Granger_-_Brady-Handy.jpg": {
@@ -4926,6 +5026,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJFK_Tour_of_KSC_-_GPN-2000-000605.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/Leeuwenhoek_Eschenholz.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Leeuwenhoek_Eschenholz.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 868,
+        "src": "/assets/img/2026-09-17/3687-2-640.webp"
+      },
+      {
+        "width": 674,
+        "height": 914,
+        "src": "/assets/img/2026-09-17/3687-2-674.webp"
+      }
+    ],
+    "width": 674,
+    "height": 914,
+    "credit": {
+      "artist": "Antonie van Leeuwenhoek",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeeuwenhoek_Eschenholz.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vianden%2C_panneau_SEO_%28103%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vianden%2C_panneau_SEO_%28103%29.jpg",
     "sources": [
@@ -5080,6 +5203,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWounded_Swedish_ONUC_soldier.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 759,
+        "src": "/assets/img/2026-09-17/3687-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1304,
+        "src": "/assets/img/2026-09-17/3687-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1304,
+    "credit": {
+      "artist": "Jan Verkolje",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAnthonie_van_Leeuwenhoek_(1632-1723)._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fern%C3%A3o_de_Magalh%C3%A3es_-_Padr%C3%A3o_dos_Descobrimentos.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10100,6 +10246,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlbertMathieuFavierPlanOfCoachServiceThroughtTheChanneltunnel.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/73/Harriet_Tubman_Reward_Notice_1849.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Harriet_Tubman_Reward_Notice_1849.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 698,
+        "src": "/assets/img/2026-09-17/3688-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 1064,
+        "src": "/assets/img/2026-09-17/3688-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 1064,
+    "credit": {
+      "artist": "Eliza Ann Brodess, and/or Cambridge Democrat",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarriet_Tubman_Reward_Notice_1849.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/73/Panama-Canal_1880.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Panama-Canal_1880.JPG",
     "sources": [
@@ -11417,6 +11586,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACooks_Karte_von_Neufundland.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/George_B_McClellan_-_retouched%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/George_B_McClellan_-_retouched%2C_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 820,
+        "src": "/assets/img/2026-09-17/3686-2-640.webp"
+      },
+      {
+        "width": 845,
+        "height": 1083,
+        "src": "/assets/img/2026-09-17/3686-2-845.webp"
+      }
+    ],
+    "width": 845,
+    "height": 1083,
+    "credit": {
+      "artist": "Mathew Benjamin Brady",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_B_McClellan_-_retouched%2C_cropped.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/86/Pitcairn_Autogiro_NASA_GPN-2000-001990.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pitcairn_Autogiro_NASA_GPN-2000-001990.jpg",
     "sources": [
@@ -12010,6 +12202,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATibbets-wave.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/94/Boston_-_Old_State_House_%2848718568688%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Boston_-_Old_State_House_%2848718568688%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-09-17/3689-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-09-17/3689-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "Ajay Suresh from New York, NY, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABoston_-_Old_State_House_(48718568688).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12054,6 +12269,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAssassinat_de_Jean_sans_Peur.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/ISH_WC_Boston4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/ISH_WC_Boston4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 417,
+        "src": "/assets/img/2026-09-17/3689-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 717,
+        "src": "/assets/img/2026-09-17/3689-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 717,
+    "credit": {
+      "artist": "Ian Howard",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AISH_WC_Boston4.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Pedro_menendez_de_Aviles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12824,6 +13062,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APierre_Franque_-_Bataille_de_Lens_-_1648.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Presidio_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Presidio_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 482,
+        "src": "/assets/img/2026-09-17/3690-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 828,
+        "src": "/assets/img/2026-09-17/3690-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 828,
+    "credit": {
+      "artist": "Geo. Thomas",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APresidio_1937.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tommy_McKearney_%28cropped%29.jpg": {
@@ -13702,6 +13963,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABomy2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-09-17/3688-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1466,
+        "src": "/assets/img/2026-09-17/3688-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1466,
+    "credit": {
+      "artist": "Powelson, Benjamin F. 1823 - 1885",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lucretia_and_James_Mott.jpg": {
@@ -16904,6 +17188,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APiper_(west).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Geographer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Geographer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 717,
+        "src": "/assets/img/2026-09-17/3687-1-640.webp"
+      },
+      {
+        "width": 878,
+        "height": 984,
+        "src": "/assets/img/2026-09-17/3687-1-878.webp"
+      }
+    ],
+    "width": 878,
+    "height": 984,
+    "credit": {
+      "artist": "Johannes Vermeer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Geographer.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/TranscontinentalPoster.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TranscontinentalPoster.jpg",
     "sources": [
@@ -17168,6 +17475,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E5%8F%B8%E9%A6%AC%E6%87%BF_(Sima_Yi).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aerial_view_-_Presidio-whole.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aerial_view_-_Presidio-whole.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-09-17/3690-0-640.webp"
+      },
+      {
+        "width": 720,
+        "height": 480,
+        "src": "/assets/img/2026-09-17/3690-0-720.webp"
+      }
+    ],
+    "width": 720,
+    "height": 480,
+    "credit": {
+      "artist": "Robert Campbell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAerial_view_-_Presidio-whole.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Battle_of_Berlin_1945-a.png": {
