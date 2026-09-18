@@ -2969,6 +2969,24 @@
     "height": 781,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/3840px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/3840px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 339,
+        "src": "/assets/img/2026-09-18/3699-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 584,
+        "src": "/assets/img/2026-09-18/3699-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 584,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -2985,6 +3003,24 @@
     ],
     "width": 1100,
     "height": 320,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/First_NYTimes_frontpage_%281851-9-18%29.png/3840px-First_NYTimes_frontpage_%281851-9-18%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/First_NYTimes_frontpage_%281851-9-18%29.png/3840px-First_NYTimes_frontpage_%281851-9-18%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 435,
+        "height": 648,
+        "src": "/assets/img/2026-09-18/3696-2-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1114,
+        "src": "/assets/img/2026-09-18/3696-2-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1114,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -4041,6 +4077,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACommonwealth_Unite_1653_692157.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Harold-III-Coin.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Harold-III-Coin.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 621,
+        "src": "/assets/img/2026-09-18/3698-0-640.webp"
+      },
+      {
+        "width": 773,
+        "height": 750,
+        "src": "/assets/img/2026-09-18/3698-0-773.webp"
+      }
+    ],
+    "width": 773,
+    "height": 750,
+    "credit": {
+      "artist": "Zeichner: C. I. Schive, Lithograf Bucher in Bergen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarold-III-Coin.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_the_Hermit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_the_Hermit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4289,6 +4348,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1099_Ascalon_2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/As-Constantine-XR_RIC_vII_019.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/As-Constantine-XR_RIC_vII_019.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 382,
+        "height": 185,
+        "src": "/assets/img/2026-09-18/3695-1-382.webp"
+      }
+    ],
+    "width": 382,
+    "height": 185,
+    "credit": {
+      "artist": "CNG.[1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAs-Constantine-XR_RIC_vII_019.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/10/Male_royal_figure%2C_12-13th_century%2C_from_Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Male_royal_figure%2C_12-13th_century%2C_from_Iran.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4461,6 +4538,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronationOfOgodei1229.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Flickr_-_USCapitol_-_Thornton_Capitol_Winning_Design.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Flickr_-_USCapitol_-_Thornton_Capitol_Winning_Design.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 387,
+        "src": "/assets/img/2026-09-18/3699-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 665,
+        "src": "/assets/img/2026-09-18/3699-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 665,
+    "credit": {
+      "artist": "USCapitol",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlickr_-_USCapitol_-_Thornton_Capitol_Winning_Design.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/14/James_Gosling_2008.jpg": {
@@ -5687,6 +5787,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFederico_III.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/27/Harald_Hardrada_saga_ancestry.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Harald_Hardrada_saga_ancestry.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 168,
+        "height": 214,
+        "src": "/assets/img/2026-09-18/3698-1-168.webp"
+      }
+    ],
+    "width": 168,
+    "height": 214,
+    "credit": {
+      "artist": "Thhist",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarald_Hardrada_saga_ancestry.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/27/Portrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_%28Kunsthistorisches_Museum%2C_Wien%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7731,6 +7849,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStarved_girl.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/The_body_of_Leo_V_is_dragged_to_the_Hippodrome_through_the_Skyla_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_body_of_Leo_V_is_dragged_to_the_Hippodrome_through_the_Skyla_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 351,
+        "src": "/assets/img/2026-09-18/3698-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 603,
+        "src": "/assets/img/2026-09-18/3698-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 603,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_body_of_Leo_V_is_dragged_to_the_Hippodrome_through_the_Skyla_Gate.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_IIc_with_monitor.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_IIc_with_monitor.jpg",
     "sources": [
@@ -8757,6 +8898,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABullExurgeDomine.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Domitian_Denarius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Domitian_Denarius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 501,
+        "height": 447,
+        "src": "/assets/img/2026-09-18/3697-2-501.webp"
+      }
+    ],
+    "width": 501,
+    "height": 447,
+    "credit": {
+      "artist": "Rasiel Suarez",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADomitian_Denarius.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg",
     "sources": [
@@ -9418,6 +9577,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHalve_Maen_front.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Licinius_gold_multiple_CdM_Beistegui_232.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Licinius_gold_multiple_CdM_Beistegui_232.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 635,
+        "src": "/assets/img/2026-09-18/3695-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1091,
+        "src": "/assets/img/2026-09-18/3695-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1091,
+    "credit": {
+      "artist": "Marie-Lan Nguyen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALicinius_gold_multiple_CdM_Beistegui_232.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15318,6 +15500,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagni_aestimamus.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flavian_family_tree.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flavian_family_tree.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 485,
+        "src": "/assets/img/2026-09-18/3697-1-640.webp"
+      },
+      {
+        "width": 739,
+        "height": 560,
+        "src": "/assets/img/2026-09-18/3697-1-739.webp"
+      }
+    ],
+    "width": 739,
+    "height": 560,
+    "credit": {
+      "artist": "en:User:Steerpike",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlavian_family_tree.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15710,6 +15915,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_departement.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d0/18510831_prospectus_of_%22New-York_Daily_Times%22_%28The_New_York_Times%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/18510831_prospectus_of_%22New-York_Daily_Times%22_%28The_New_York_Times%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 643,
+        "src": "/assets/img/2026-09-18/3696-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1348,
+        "src": "/assets/img/2026-09-18/3696-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1348,
+    "credit": {
+      "artist": "Henry J. Raymond",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A18510831_prospectus_of_%22New-York_Daily_Times%22_(The_New_York_Times).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d0/Falkirk1298%282%29.JPG": {
@@ -16372,6 +16600,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALechfeld1457.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dd/USCapitol1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/USCapitol1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 491,
+        "src": "/assets/img/2026-09-18/3699-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 844,
+        "src": "/assets/img/2026-09-18/3699-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 844,
+    "credit": {
+      "artist": "William Russell Birch",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSCapitol1800.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg",
     "sources": [
@@ -16805,6 +17056,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASoviet_infantry_crosses_the_border_of_Manchuria._August_9%2C_1945.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_of_Constantine_and_Licinius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_of_Constantine_and_Licinius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 398,
+        "src": "/assets/img/2026-09-18/3695-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 684,
+        "src": "/assets/img/2026-09-18/3695-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 684,
+    "credit": {
+      "artist": "Peter Paul Rubens",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Constantine_and_Licinius.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Battle_of_Stirling_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18572,6 +18846,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABiruni-russian.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 793,
+        "src": "/assets/img/2026-09-18/3697-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1363,
+        "src": "/assets/img/2026-09-18/3697-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1363,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADomiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20565,6 +20862,19 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrapped_underground.jpg"
     }
+  },
+  "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 234,
+        "height": 426,
+        "src": "/assets/img/2026-09-18/3696-0-234.webp"
+      }
+    ],
+    "width": 234,
+    "height": 426,
+    "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/en/c/c6/Cultural_Revolution_poster.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/en/c/c6/Cultural_Revolution_poster.jpg",
