@@ -3637,6 +3637,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADupre-Mameluk.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/09/FrenchGardeNationale.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/FrenchGardeNationale.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 365,
+        "src": "/assets/img/2026-09-19/3705-1-640.webp"
+      },
+      {
+        "width": 1092,
+        "height": 622,
+        "src": "/assets/img/2026-09-19/3705-1-1092.webp"
+      }
+    ],
+    "width": 1092,
+    "height": 622,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrenchGardeNationale.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/09/Harriet_Tubman_c1868-69_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Harriet_Tubman_c1868-69_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4819,6 +4842,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis8.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Mohammad_adil-Muslims_Invasion_of_Syria.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mohammad_adil-Muslims_Invasion_of_Syria.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 854,
+        "src": "/assets/img/2026-09-19/3707-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1468,
+        "src": "/assets/img/2026-09-19/3707-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1468,
+    "credit": {
+      "artist": "Mohammad Adil (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMohammad_adil-Muslims_Invasion_of_Syria.PNG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Peers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_%28c.1320-1330%29%2C_f.40_-_BL_Add_MS_47682.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Peers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_%28c.1320-1330%29%2C_f.40_-_BL_Add_MS_47682.jpg",
     "sources": [
@@ -5367,6 +5413,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorges_Rouget_(1783-1869)_-_Charles_III%2C_dit_le_simple%2C_roi_de_France_en_896_(879-929).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 811,
+        "src": "/assets/img/2026-09-19/3708-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1395,
+        "src": "/assets/img/2026-09-19/3708-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1395,
+    "credit": {
+      "artist": "Unknown; part of Brady-Handy Photograph Collection.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJames_Abram_Garfield%2C_photo_portrait_seated.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1f/North_Pacific_Subtropical_Convergence_Zone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7936,6 +8005,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrinity_Test_Site.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Codlin%27s_the_friend.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Codlin%27s_the_friend.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 521,
+        "height": 700,
+        "src": "/assets/img/2026-09-19/3704-2-521.webp"
+      }
+    ],
+    "width": 521,
+    "height": 700,
+    "credit": {
+      "artist": "William Blomfield (1866–1938)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACodlin's_the_friend.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/GPS_Block_IIIA.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/GPS_Block_IIIA.jpg",
     "sources": [
@@ -8803,6 +8890,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZz_embassy.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/A_group_of_German_prisoners_captured_during_the_fight_at_Semakh_on_the_Sea_of_Galilee._1918.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/A_group_of_German_prisoners_captured_during_the_fight_at_Semakh_on_the_Sea_of_Galilee._1918.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 629,
+        "height": 362,
+        "src": "/assets/img/2026-09-19/3706-0-629.webp"
+      }
+    ],
+    "width": 629,
+    "height": 362,
+    "credit": {
+      "artist": "Unknown photographerUnknown photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_group_of_German_prisoners_captured_during_the_fight_at_Semakh_on_the_Sea_of_Galilee._1918.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/DJIA_Trading_Volume.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/DJIA_Trading_Volume.png",
     "sources": [
@@ -9495,6 +9600,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEnola_Gay_(plane).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Mohammad_adil_rais-siege_of_damascus.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mohammad_adil_rais-siege_of_damascus.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 520,
+        "src": "/assets/img/2026-09-19/3707-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 894,
+        "src": "/assets/img/2026-09-19/3707-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 894,
+    "credit": {
+      "artist": "الله أكبرMohammad Adil",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMohammad_adil_rais-siege_of_damascus.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/BerlinerBlockadeLuftwege.png": {
@@ -12246,6 +12374,47 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThree_Mamelukes_with_lances_on_horseback.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Braun%2C_Adolphe_%281811-1877%29_-_Paris%2C_1871_-_St_Cloud%2C_La_place.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Braun%2C_Adolphe_%281811-1877%29_-_Paris%2C_1871_-_St_Cloud%2C_La_place.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 527,
+        "src": "/assets/img/2026-09-19/3705-0-640.webp"
+      },
+      {
+        "width": 911,
+        "height": 750,
+        "src": "/assets/img/2026-09-19/3705-0-911.webp"
+      }
+    ],
+    "width": 911,
+    "height": 750,
+    "credit": {
+      "artist": "Adolphe Braun",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABraun%2C_Adolphe_(1811-1877)_-_Paris%2C_1871_-_St_Cloud%2C_La_place.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/91/Garfield-at-16.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Garfield-at-16.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 257,
+        "height": 350,
+        "src": "/assets/img/2026-09-19/3708-2-257.webp"
+      }
+    ],
+    "width": 257,
+    "height": 350,
+    "credit": {
+      "artist": "The original uploader was The Mystery Man at English Wikipedia.. Photographer not known",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGarfield-at-16.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/91/William_III%2C_when_Prince_of_Orange_-_Wissing_1685.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/William_III%2C_when_Prince_of_Orange_-_Wissing_1685.jpg",
     "sources": [
@@ -14193,6 +14362,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALucretia_and_James_Mott.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mrs._K._W._Sheppard_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mrs._K._W._Sheppard_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 735,
+        "src": "/assets/img/2026-09-19/3704-1-640.webp"
+      },
+      {
+        "width": 665,
+        "height": 931,
+        "src": "/assets/img/2026-09-19/3704-1-665.webp"
+      }
+    ],
+    "width": 665,
+    "height": 931,
+    "credit": {
+      "artist": "H. H. Clifford, see https://collection.canterburymuseum.com/objects/243177/glass-plate-negative-kate-w-sheppard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMrs._K._W._Sheppard_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wesiory.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wesiory.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14503,6 +14695,24 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMorseHouseCharlestown.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b8/Palestine-WW1-3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Palestine-WW1-3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 588,
+        "height": 848,
+        "src": "/assets/img/2026-09-19/3706-2-588.webp"
+      }
+    ],
+    "width": 588,
+    "height": 848,
+    "credit": {
+      "artist": "Department of Military Art and Engineering, at the U.S. Military Academy (West Point).",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APalestine-WW1-3.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ted_Stevens_1973_full_%28cropped%29.jpg": {
@@ -16784,6 +16994,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHittin.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/MorelandHillsGarfieldCabin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MorelandHillsGarfieldCabin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 512,
+        "src": "/assets/img/2026-09-19/3708-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 880,
+        "src": "/assets/img/2026-09-19/3708-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 880,
+    "credit": {
+      "artist": "Mayor Pez at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMorelandHillsGarfieldCabin.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg",
     "sources": [
@@ -18137,6 +18370,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJimCrowCar2.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f4/AWMB02113_HandleyPage_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/AWMB02113_HandleyPage_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 458,
+        "src": "/assets/img/2026-09-19/3706-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 458,
+    "credit": {
+      "artist": "Australian Flying Corps",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAWMB02113_HandleyPage_Aircraft.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg",
     "sources": [
@@ -18181,6 +18432,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1812_War_Declaration.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Damascus-Bab_Kisan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Damascus-Bab_Kisan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 478,
+        "src": "/assets/img/2026-09-19/3707-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 821,
+        "src": "/assets/img/2026-09-19/3707-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 821,
+    "credit": {
+      "artist": "Heretiq",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADamascus-Bab_Kisan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f5/Georg_Lemberger%2C_Battle_of_Guinegate_%281513%29%2C_Triumphzug_Kaiser_Maximilians.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18669,6 +18943,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADer_St%C3%A4nker.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_ballons_sortis_pendant_le_Siege_de_Paris%2C_1870-1871.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_ballons_sortis_pendant_le_Siege_de_Paris%2C_1870-1871.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 501,
+        "src": "/assets/img/2026-09-19/3705-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 861,
+        "src": "/assets/img/2026-09-19/3705-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 861,
+    "credit": {
+      "artist": "M.G. Mangin, Aéronaute",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALes_ballons_sortis_pendant_le_Siege_de_Paris%2C_1870-1871.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/Letter_from_Eliahu_Epstein_to_Harry_S._Truman%2C_May_14%2C_1948.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Letter_from_Eliahu_Epstein_to_Harry_S._Truman%2C_May_14%2C_1948.jpg",
     "sources": [
@@ -18777,6 +19074,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsaac_Claesz._Van_Swanenburg_Washing_the_Skins_and_Grading_the_Wool.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tribute_to_the_Suffragettes%2C_Christchurch%2C_NZ_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tribute_to_the_Suffragettes%2C_Christchurch%2C_NZ_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 571,
+        "height": 699,
+        "src": "/assets/img/2026-09-19/3704-0-571.webp"
+      }
+    ],
+    "width": 571,
+    "height": 699,
+    "credit": {
+      "artist": "Robert Cutts",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATribute_to_the_Suffragettes%2C_Christchurch%2C_NZ_-_cropped.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fe/50_Escudos_c%C3%A9l%C3%A9brant_le_500e_anniversaire_de_la_naissance_de_Pedro_Alvares_Cabral%2C_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
