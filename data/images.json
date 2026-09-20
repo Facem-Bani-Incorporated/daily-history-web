@@ -7757,6 +7757,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATang_Xuanzong_signature_(huaya).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 372,
+        "height": 595,
+        "src": "/assets/img/2026-09-20/3716-0-372.webp"
+      }
+    ],
+    "width": 372,
+    "height": 595,
+    "credit": {
+      "artist": "Anglo-Flemish School",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAnglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_(Granard_portrait)_-004_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/45/Marcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Marcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg",
     "sources": [
@@ -8553,6 +8571,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOrestilla%2C_wife_of_Caligula.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/54/Saints_Boyar_Theodore_and_Prince_Michael_of_Chernigov.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Saints_Boyar_Theodore_and_Prince_Michael_of_Chernigov.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 644,
+        "src": "/assets/img/2026-09-20/3717-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1107,
+        "src": "/assets/img/2026-09-20/3717-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1107,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaints_Boyar_Theodore_and_Prince_Michael_of_Chernigov.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/55/Bataille_Yorktown.jpg": {
@@ -9367,6 +9408,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1876_Racket.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/Battle_of_Fulford.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Battle_of_Fulford.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 367,
+        "src": "/assets/img/2026-09-20/3715-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 630,
+        "src": "/assets/img/2026-09-20/3715-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 630,
+    "credit": {
+      "artist": "Matthew Paris",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Fulford.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/61/CharlesLindbergh_PostOfficeOath.jpg": {
@@ -10283,6 +10347,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMK18538_Bannockburn.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/70/Porte_de_la_citadelle_et_mosquee_Mouhammed_Aly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Porte_de_la_citadelle_et_mosquee_Mouhammed_Aly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 482,
+        "src": "/assets/img/2026-09-20/3714-2-640.webp"
+      },
+      {
+        "width": 731,
+        "height": 550,
+        "src": "/assets/img/2026-09-20/3714-2-731.webp"
+      }
+    ],
+    "width": 731,
+    "height": 550,
+    "credit": {
+      "artist": "New York Public Library",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APorte_de_la_citadelle_et_mosquee_Mouhammed_Aly.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/71/7_7_Hyde_Park_090712.jpg": {
@@ -11738,6 +11825,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArrival_of_Louis_of_France_in_England_(1216).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/ChristiansBeforeSaladin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/ChristiansBeforeSaladin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 929,
+        "src": "/assets/img/2026-09-20/3713-0-640.webp"
+      },
+      {
+        "width": 688,
+        "height": 999,
+        "src": "/assets/img/2026-09-20/3713-0-688.webp"
+      }
+    ],
+    "width": 688,
+    "height": 999,
+    "credit": {
+      "artist": "Alphonse de Neuville",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChristiansBeforeSaladin.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/83/Mercury_3_-_Patch.png": {
@@ -15224,6 +15334,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdmund_Hillary_and_Tenzing_Norgay.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ghazan%27s_feast.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ghazan%27s_feast.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 934,
+        "src": "/assets/img/2026-09-20/3714-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 934,
+    "credit": {
+      "artist": "Масуд ибн Осман-и Кухистани",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGhazan's_feast.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c1/New_Hampshire_state_coat_of_arms_%28illustrated%2C_1876%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/New_Hampshire_state_coat_of_arms_%28illustrated%2C_1876%29.jpg",
     "sources": [
@@ -15529,6 +15657,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGodwin_Alabi-Isama1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/BalianofIbelin1490.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/BalianofIbelin1490.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 505,
+        "height": 159,
+        "src": "/assets/img/2026-09-20/3713-2-505.webp"
+      }
+    ],
+    "width": 505,
+    "height": 159,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalianofIbelin1490.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/King_John_from_De_Rege_Johanne.jpg": {
@@ -16242,6 +16388,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APort_Said_from_air.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 878,
+        "src": "/assets/img/2026-09-20/3716-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1508,
+        "src": "/assets/img/2026-09-20/3716-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1508,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFamily-of-Henry-VII.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg",
     "sources": [
@@ -16485,6 +16654,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 400,
+        "src": "/assets/img/2026-09-20/3713-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 688,
+        "src": "/assets/img/2026-09-20/3713-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 688,
+    "credit": {
+      "artist": "AVRAM GRAICER",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_France_Infobox.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_France_Infobox.png",
     "sources": [
@@ -16631,6 +16823,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmbarkation_of_the_Pilgrims.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Kneze-stamp.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Kneze-stamp.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 492,
+        "height": 465,
+        "src": "/assets/img/2026-09-20/3717-1-492.webp"
+      }
+    ],
+    "width": 492,
+    "height": 465,
+    "credit": {
+      "artist": "Д. А. Кубанкин",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKneze-stamp.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg",
     "sources": [
@@ -16739,6 +16949,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVarqa_fighting_on_horseback.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/ArthurCatherine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/ArthurCatherine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 430,
+        "height": 435,
+        "src": "/assets/img/2026-09-20/3716-2-632.webp"
+      },
+      {
+        "width": 632,
+        "height": 640,
+        "src": "/assets/img/2026-09-20/3716-2-632.webp"
+      }
+    ],
+    "width": 632,
+    "height": 640,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArthurCatherine.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18519,6 +18752,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_de_Lesseps_by_Nadar.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flickr_-_%E2%80%A6trialsanderrors_-_Minaret_of_the_Bride%2C_Damascus%2C_Holy_Land%2C_ca._1895.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flickr_-_%E2%80%A6trialsanderrors_-_Minaret_of_the_Bride%2C_Damascus%2C_Holy_Land%2C_ca._1895.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 471,
+        "src": "/assets/img/2026-09-20/3714-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 809,
+        "src": "/assets/img/2026-09-20/3714-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 809,
+    "credit": {
+      "artist": "Not credited",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlickr_-_%E2%80%A6trialsanderrors_-_Minaret_of_the_Bride%2C_Damascus%2C_Holy_Land%2C_ca._1895.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lunar_phases_al-Biruni.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
