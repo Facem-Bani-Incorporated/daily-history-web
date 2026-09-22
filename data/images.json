@@ -2987,6 +2987,24 @@
     "height": 584,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-22/3733-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-22/3733-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Boston_-_panoramio_%2823%29.jpg/3840px-Boston_-_panoramio_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -7383,6 +7401,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMargaret_Thatcher_stock_portrait_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Princess_Victoria_and_Dash_by_George_Hayter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Princess_Victoria_and_Dash_by_George_Hayter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 952,
+        "src": "/assets/img/2026-09-22/3732-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1637,
+        "src": "/assets/img/2026-09-22/3732-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1637,
+    "credit": {
+      "artist": "After George Hayter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrincess_Victoria_and_Dash_by_George_Hayter.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3e/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%28%D0%BB%D0%B5%D1%82%D0%BE_1981%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%28%D0%BB%D0%B5%D1%82%D0%BE_1981%29.jpg",
     "sources": [
@@ -7788,6 +7829,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWoman's_Rights_Convention.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Abraham_Lincoln_O-77_matte_collodion_print_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Abraham_Lincoln_O-77_matte_collodion_print_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 854,
+        "src": "/assets/img/2026-09-22/3729-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-09-22/3729-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Alexander Gardner",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbraham_Lincoln_O-77_matte_collodion_print_(3x4_close_cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/44/Mecanismo_de_Higgs_PH.png": {
@@ -11643,6 +11707,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A16_Princes_Gate.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 846,
+        "src": "/assets/img/2026-09-22/3730-0-640.webp"
+      },
+      {
+        "width": 1095,
+        "height": 1448,
+        "src": "/assets/img/2026-09-22/3730-0-1095.webp"
+      }
+    ],
+    "width": 1095,
+    "height": 1448,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMichael_Faraday_sitting_crop.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Secretary_Deb_Haaland%2C_official_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14436,6 +14523,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAdmiralty_Chart_No_657_Isthmus_of_Panama_Showing_The_Proposed_Panama_Canal_and_the_Railway_._._._%2C_Published_1885.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b1/He_Jin_Qing_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/He_Jin_Qing_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 350,
+        "height": 472,
+        "src": "/assets/img/2026-09-22/3731-0-350.webp"
+      }
+    ],
+    "width": 350,
+    "height": 472,
+    "credit": {
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHe_Jin_Qing_illustration.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg",
     "sources": [
@@ -14910,6 +15015,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nathan-hale-cityhall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nathan-hale-cityhall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 390,
+        "height": 576,
+        "src": "/assets/img/2026-09-22/3733-0-390.webp"
+      }
+    ],
+    "width": 390,
+    "height": 576,
+    "credit": {
+      "artist": "Sculpture by Frederick MacMonnies (1863-1937); photo by poster (User:Americasroof).",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANathan-hale-cityhall.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17767,6 +17890,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_carolina_algonkin-rituale02.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 903,
+        "src": "/assets/img/2026-09-22/3732-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1552,
+        "src": "/assets/img/2026-09-22/3732-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1552,
+    "credit": {
+      "artist": "Alexander Bassano",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AQueen_Victoria_by_Bassano.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sevasadhanam_1938film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sevasadhanam_1938film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17847,6 +17993,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Stirling_Bridge.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Emancipation_Proclamation_WDL2714.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Emancipation_Proclamation_WDL2714.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 991,
+        "src": "/assets/img/2026-09-22/3729-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1701,
+        "src": "/assets/img/2026-09-22/3729-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1701,
+    "credit": {
+      "artist": "Lincoln, Abraham, 1809-1865",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmancipation_Proclamation_WDL2714.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e4/SSCentralAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18026,6 +18195,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille_de_Verdun_1916.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Faraday_Michael_grave.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Faraday_Michael_grave.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 955,
+        "src": "/assets/img/2026-09-22/3730-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1641,
+        "src": "/assets/img/2026-09-22/3730-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1641,
+    "credit": {
+      "artist": "Astrochemist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFaraday_Michael_grave.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e7/DUMBO_%2896047423%29.jpg": {
@@ -18404,6 +18596,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_Solidus_of_Romulus_Augustulus.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 464,
+        "src": "/assets/img/2026-09-22/3729-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 798,
+        "src": "/assets/img/2026-09-22/3729-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 798,
+    "credit": {
+      "artist": "Thomas Nast",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18747,6 +18962,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttoman_Mamluk_horseman_circa_1550.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/Three_Fellows_of_the_Royal_Society_offering_the_presidency_o_Wellcome_L0022806.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Three_Fellows_of_the_Royal_Society_offering_the_presidency_o_Wellcome_L0022806.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 484,
+        "src": "/assets/img/2026-09-22/3730-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 833,
+        "src": "/assets/img/2026-09-22/3730-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 833,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThree_Fellows_of_the_Royal_Society_offering_the_presidency_o_Wellcome_L0022806.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -19371,6 +19609,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACrow_Indian_Reservation%2C_1868_(area_619_and_635)._Yellow_area_517_is_1851_Crow_treaty_land_ceded_to_the_U.S.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fa/Denning%2C_Stephen_Poyntz_-_Princess_Victoria_aged_Four_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Denning%2C_Stephen_Poyntz_-_Princess_Victoria_aged_Four_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 803,
+        "src": "/assets/img/2026-09-22/3732-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1380,
+        "src": "/assets/img/2026-09-22/3732-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1380,
+    "credit": {
+      "artist": "Denning, Stephen Poyntz (c. 1787 - 1864) – Artist Details on Google Art Project",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADenning%2C_Stephen_Poyntz_-_Princess_Victoria_aged_Four_-_Google_Art_Project.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fa/Dennis_Tito.jpg": {
