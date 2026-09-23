@@ -2987,6 +2987,42 @@
     "height": 584,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-23/3738-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-09-23/3738-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/John_Paul_Jones2.jpg/3840px-John_Paul_Jones2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/John_Paul_Jones2.jpg/3840px-John_Paul_Jones2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 435,
+        "height": 545,
+        "src": "/assets/img/2026-09-23/3741-2-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 937,
+        "src": "/assets/img/2026-09-23/3741-2-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 937,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4783,6 +4819,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Lindbergh_1925.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Great_Cameo_of_France-removebg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Great_Cameo_of_France-removebg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 480,
+        "height": 520,
+        "src": "/assets/img/2026-09-23/3738-1-480.webp"
+      }
+    ],
+    "width": 480,
+    "height": 520,
+    "credit": {
+      "artist": "Janmad",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Cameo_of_France-removebg.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/17/Inter-grav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Inter-grav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5190,6 +5244,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpire1481.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 798,
+        "src": "/assets/img/2026-09-23/3739-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1372,
+        "src": "/assets/img/2026-09-23/3739-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1372,
+    "credit": {
+      "artist": "Araniko",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYuanEmperorAlbumKhubilaiPortrait.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/JFK_Tour_of_KSC_-_GPN-2000-000605.jpg",
     "sources": [
@@ -5541,6 +5618,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGabriel_Bethlen.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Mongol_secret_weapon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Mongol_secret_weapon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-23/3739-2-640.webp"
+      },
+      {
+        "width": 716,
+        "height": 537,
+        "src": "/assets/img/2026-09-23/3739-2-716.webp"
+      }
+    ],
+    "width": 716,
+    "height": 537,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMongol_secret_weapon.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/US_equipped_Chinese_Army_in_India_marching.jpg": {
@@ -6618,6 +6718,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChip_layout_from_the_development_phase_of_the_Intel_4004_from_1971%2C_the_first_microprocessor_of_the_world_(cropped_and_edited_image).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/Emperor_Henry_V_cropped.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Emperor_Henry_V_cropped.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 347,
+        "height": 731,
+        "src": "/assets/img/2026-09-23/3740-1-347.webp"
+      }
+    ],
+    "width": 347,
+    "height": 731,
+    "credit": {
+      "artist": "Serial Number 54129",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Henry_V_cropped.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7248,6 +7366,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADakota_War_of_1862-stereo-right.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Frigates_Bonhomme_Richard_and_Alliance_vs_HMS_Serapis%2C_23_September_1779_NH_56464_KN_%2816544179324%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Frigates_Bonhomme_Richard_and_Alliance_vs_HMS_Serapis%2C_23_September_1779_NH_56464_KN_%2816544179324%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 386,
+        "src": "/assets/img/2026-09-23/3741-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 663,
+        "src": "/assets/img/2026-09-23/3741-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 663,
+    "credit": {
+      "artist": "Irwin John David Bevan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrigates_Bonhomme_Richard_and_Alliance_vs_HMS_Serapis%2C_23_September_1779_NH_56464_KN_(16544179324).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mbuyisa_Makhubu_carries_Hector_Pieterson_at_Soweto_Uprising.jpg": {
@@ -8046,6 +8187,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJethro_Tull_(agr%C3%B3nomo).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Le_Verrier_colored.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Le_Verrier_colored.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 257,
+        "height": 326,
+        "src": "/assets/img/2026-09-23/3737-2-257.webp"
+      }
+    ],
+    "width": 257,
+    "height": 326,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALe_Verrier_colored.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/Starved_girl.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Starved_girl.jpg",
     "sources": [
@@ -8402,6 +8561,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANASA_Apollo_17_Lunar_Roving_Vehicle.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4d/Qubilai_Setsen_Khaan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Qubilai_Setsen_Khaan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 335,
+        "height": 473,
+        "src": "/assets/img/2026-09-23/3739-1-335.webp"
+      }
+    ],
+    "width": 335,
+    "height": 473,
+    "credit": {
+      "artist": "Araniko",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AQubilai_Setsen_Khaan.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bundesarchiv_Bild_141-0864%2C_Kreta%2C_Landung_von_Fallschirmj%C3%A4gern.jpg": {
@@ -12451,6 +12628,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreek_Muawiya_inscription_of_Hammat_Gader%2C_663_AD.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jpj-corsair.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jpj-corsair.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 497,
+        "src": "/assets/img/2026-09-23/3741-1-640.webp"
+      },
+      {
+        "width": 700,
+        "height": 800,
+        "src": "/assets/img/2026-09-23/3741-1-700.webp"
+      }
+    ],
+    "width": 700,
+    "height": 800,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJpj-corsair.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg",
     "sources": [
@@ -14925,6 +15125,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdward_III_noble.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/GaiusOctavius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/GaiusOctavius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 836,
+        "src": "/assets/img/2026-09-23/3738-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1436,
+        "src": "/assets/img/2026-09-23/3738-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1436,
+    "credit": {
+      "artist": "Pablo000",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGaiusOctavius.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15212,6 +15435,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_141-0816%2C_Kreta%2C_Lastensegler_DFS_230%2C_Fallschirmj%C3%A4ger.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b9/Neptune_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Neptune_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-09-23/3737-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-09-23/3737-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANeptune_Voyager2_color_calibrated.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/ba/14_Princes_Gate_Photo_47.jpg": {
@@ -16343,6 +16589,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFBI_Poster_of_Missing_Civil_Rights_Workers.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Galileo.arp.300pix.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Galileo.arp.300pix.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 785,
+        "src": "/assets/img/2026-09-23/3737-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1350,
+        "src": "/assets/img/2026-09-23/3737-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1350,
+    "credit": {
+      "artist": "Justus Sustermans",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGalileo.arp.300pix.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nathan_Mayer_Rothschild_British_banker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17496,6 +17765,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASecret_Destination_(6233259813).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/Calixtus_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Calixtus_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 432,
+        "height": 721,
+        "src": "/assets/img/2026-09-23/3740-2-432.webp"
+      }
+    ],
+    "width": 432,
+    "height": 721,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalixtus_II.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/df/Young_Orville_Wright.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Young_Orville_Wright.jpg",
     "sources": [
@@ -18218,6 +18505,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFaraday_Michael_grave.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e6/Urkunde_Wormser_Konkordat-bg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Urkunde_Wormser_Konkordat-bg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 685,
+        "src": "/assets/img/2026-09-23/3740-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1178,
+        "src": "/assets/img/2026-09-23/3740-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1178,
+    "credit": {
+      "artist": "Urkunde_Wormser_Konkordat.jpg: UnknownUnknown Original uploader was DALIBRI at de.wikipedia derivative work: Saibo (Δ)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUrkunde_Wormser_Konkordat-bg.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e7/DUMBO_%2896047423%29.jpg": {
