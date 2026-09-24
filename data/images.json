@@ -3023,6 +3023,24 @@
     "height": 937,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Concile_de_Trente_par_NR_Cochin_%28cropped%29.jpg/3840px-Concile_de_Trente_par_NR_Cochin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Concile_de_Trente_par_NR_Cochin_%28cropped%29.jpg/3840px-Concile_de_Trente_par_NR_Cochin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 464,
+        "src": "/assets/img/2026-09-24/3747-2-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 654,
+        "src": "/assets/img/2026-09-24/3747-2-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 654,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG/3840px-Nathan_Hale_bronze_by_MacMonnies_IMG_3817.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4198,6 +4216,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarold-III-Coin.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_iii.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_iii.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 176,
+        "height": 236,
+        "src": "/assets/img/2026-09-24/3746-0-176.webp"
+      }
+    ],
+    "width": 176,
+    "height": 236,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMichael_iii.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_the_Hermit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6526,6 +6562,47 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APanorama_dentro.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gerolamo_Cardano_%28colour%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gerolamo_Cardano_%28colour%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 541,
+        "height": 698,
+        "src": "/assets/img/2026-09-24/3748-2-541.webp"
+      }
+    ],
+    "width": 541,
+    "height": 698,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGerolamo_Cardano_(colour).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Girolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Girolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 676,
+        "src": "/assets/img/2026-09-24/3748-0-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 964,
+        "src": "/assets/img/2026-09-24/3748-0-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 964,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGirolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phelpsmill_ottertailcounty.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phelpsmill_ottertailcounty.jpg",
     "sources": [
@@ -8650,6 +8727,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKZDachau1945.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Menologion_of_Basil_024.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Menologion_of_Basil_024.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 446,
+        "src": "/assets/img/2026-09-24/3747-0-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 627,
+        "src": "/assets/img/2026-09-24/3747-0-1097.webp"
+      }
+    ],
+    "width": 900,
+    "height": 627,
+    "credit": {
+      "artist": "Authors of Menologion of Basil II (circa 985 AC, Constantinople), Byzantine manuscript illuminators[1]: Pantoleon with G",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMenologion_of_Basil_024.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/Prayer_in_Cairo_1865.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Prayer_in_Cairo_1865.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9257,6 +9357,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_group_of_German_prisoners_captured_during_the_fight_at_Semakh_on_the_Sea_of_Galilee._1918.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christine_de_Pisan_and_Queen_Isabeau_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christine_de_Pisan_and_Queen_Isabeau_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 484,
+        "height": 579,
+        "src": "/assets/img/2026-09-24/3750-0-484.webp"
+      }
+    ],
+    "width": 484,
+    "height": 579,
+    "credit": {
+      "artist": "Master of the Cité des Dames",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChristine_de_Pisan_and_Queen_Isabeau_detail.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/DJIA_Trading_Volume.png": {
@@ -9948,6 +10066,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHartwell_Carver_1847_Pacific_Railroad_Proposal_Title_Page.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/64/PippinImperialChronicleCorpusChristiCollegeMS373Fol14.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/PippinImperialChronicleCorpusChristiCollegeMS373Fol14.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1051,
+        "src": "/assets/img/2026-09-24/3749-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1806,
+        "src": "/assets/img/2026-09-24/3749-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1806,
+    "credit": {
+      "artist": "from the Middle Ages, unknown",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APippinImperialChronicleCorpusChristiCollegeMS373Fol14.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/65/Marcel_Bezen%C3%A7on_%281980%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Marcel_Bezen%C3%A7on_%281980%29.jpg",
     "sources": [
@@ -10445,6 +10586,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInvasion_of_Czechoslovakia_collage.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 460,
+        "src": "/assets/img/2026-09-24/3747-1-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 791,
+        "src": "/assets/img/2026-09-24/3747-1-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 791,
+    "credit": {
+      "artist": "Dianelos Georgoudis",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrist_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg": {
@@ -12449,6 +12613,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APitcairn_Autogiro_NASA_GPN-2000-001990.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Muslim_troops_leaving_Narbonne_to_Pepin_le_Bref_in_759.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Muslim_troops_leaving_Narbonne_to_Pepin_le_Bref_in_759.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 509,
+        "src": "/assets/img/2026-09-24/3749-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 876,
+        "src": "/assets/img/2026-09-24/3749-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 876,
+    "credit": {
+      "artist": "Émile Bayard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMuslim_troops_leaving_Narbonne_to_Pepin_le_Bref_in_759.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13037,6 +13224,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEast_Numidia.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/Isabela_karel6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Isabela_karel6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 724,
+        "src": "/assets/img/2026-09-24/3750-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1244,
+        "src": "/assets/img/2026-09-24/3750-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1244,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsabela_karel6.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tankskuwait.jpg",
     "sources": [
@@ -13311,6 +13521,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_de_Gaulle%2C_1890-1970_(during_1900s).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/98/Coronation_of_Emperor_Michael_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Coronation_of_Emperor_Michael_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 264,
+        "src": "/assets/img/2026-09-24/3746-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 453,
+        "src": "/assets/img/2026-09-24/3746-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 453,
+    "credit": {
+      "artist": "Unknown, 13th-century author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronation_of_Emperor_Michael_III.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Gamal-002.jpg": {
@@ -14849,6 +15082,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pepin_le_Bref.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pepin_le_Bref.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 264,
+        "height": 447,
+        "src": "/assets/img/2026-09-24/3749-1-264.webp"
+      }
+    ],
+    "width": 264,
+    "height": 447,
+    "credit": {
+      "artist": "Jean Fouquet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APepin_le_Bref.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/Russell_square_ambulances.jpg": {
@@ -17696,6 +17947,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSCapitol1800.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Byzanz-_Michael_III.%2C_Theodora_und_Thecla_-_M%C3%BCnzkabinett%2C_Berlin_-_5480493.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Byzanz-_Michael_III.%2C_Theodora_und_Thecla_-_M%C3%BCnzkabinett%2C_Berlin_-_5480493.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 323,
+        "src": "/assets/img/2026-09-24/3746-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 554,
+        "src": "/assets/img/2026-09-24/3746-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 554,
+    "credit": {
+      "artist": "Reinhard Saczewski",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AByzanz-_Michael_III.%2C_Theodora_und_Thecla_-_M%C3%BCnzkabinett%2C_Berlin_-_5480493.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/EdithGreen.jpg",
     "sources": [
@@ -17850,6 +18124,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAtombombe_Little_Boy_2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cardano_-_De_propria_vita%2C_1821_-_698063_F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cardano_-_De_propria_vita%2C_1821_-_698063_F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 550,
+        "height": 837,
+        "src": "/assets/img/2026-09-24/3748-1-550.webp"
+      }
+    ],
+    "width": 550,
+    "height": 837,
+    "credit": {
+      "artist": "Cardano, Girolamo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACardano_-_De_propria_vita%2C_1821_-_698063_F.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Establishment_of_Tang_Dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18615,6 +18907,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoralia_in_Job_MS_dragonslayer.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_VI-Isabeau_de_Bavi%C3%A8re.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_VI-Isabeau_de_Bavi%C3%A8re.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 409,
+        "height": 600,
+        "src": "/assets/img/2026-09-24/3750-1-409.webp"
+      }
+    ],
+    "width": 409,
+    "height": 600,
+    "credit": {
+      "artist": "Maître de Spencer 6",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_VI-Isabeau_de_Bavi%C3%A8re.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e8/Iena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
