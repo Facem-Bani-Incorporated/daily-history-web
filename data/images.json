@@ -2861,6 +2861,24 @@
     "height": 619,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Arbo_-_Battle_of_Stamford_Bridge_%281870%29.jpg/3840px-Arbo_-_Battle_of_Stamford_Bridge_%281870%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Arbo_-_Battle_of_Stamford_Bridge_%281870%29.jpg/3840px-Arbo_-_Battle_of_Stamford_Bridge_%281870%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 425,
+        "src": "/assets/img/2026-09-25/3756-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 731,
+        "src": "/assets/img/2026-09-25/3756-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 731,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3712,6 +3730,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABonifatius_Comes_Africae_422-431CE.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/08/JerezCaballerosVista.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/JerezCaballerosVista.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-25/3754-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-25/3754-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "El Pantera",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJerezCaballerosVista.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/09/Dupre-Mameluk.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5411,6 +5452,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADurban_Sign_1989_(3x4_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Madison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Madison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 779,
+        "src": "/assets/img/2026-09-25/3755-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1339,
+        "src": "/assets/img/2026-09-25/3755-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1339,
+    "credit": {
+      "artist": "John Vanderlyn",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJames_Madison.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1d/Japanese_ambassadors_in_London.jpg": {
@@ -7376,6 +7440,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMiranda_justice_brennan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danube_Crusade_and_Battle_of_Nicopolis_plan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danube_Crusade_and_Battle_of_Nicopolis_plan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 575,
+        "src": "/assets/img/2026-09-25/3757-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 989,
+        "src": "/assets/img/2026-09-25/3757-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 989,
+    "credit": {
+      "artist": "Kandi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADanube_Crusade_and_Battle_of_Nicopolis_plan.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3a/Geor_tamro_aandersen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Geor_tamro_aandersen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7548,6 +7635,29 @@
       "license": "CC BY-SA 3.0 de",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_141-1880%2C_Peenem%C3%BCnde%2C_Start_einer_V2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3c/Harald_Hardraades_saga-Pil_i_strupen-W._Wetlesen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Harald_Hardraades_saga-Pil_i_strupen-W._Wetlesen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 438,
+        "src": "/assets/img/2026-09-25/3756-2-640.webp"
+      },
+      {
+        "width": 798,
+        "height": 546,
+        "src": "/assets/img/2026-09-25/3756-2-798.webp"
+      }
+    ],
+    "width": 798,
+    "height": 546,
+    "credit": {
+      "artist": "Wilhelm Wetlesen (Norway 1871-1925)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarald_Hardraades_saga-Pil_i_strupen-W._Wetlesen.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/Descubrimiento_del_R%C3%ADo_de_la_Plata.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8702,6 +8812,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Harvard_statue.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Battle_of_Stamford_Bridge%2C_full.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Battle_of_Stamford_Bridge%2C_full.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 356,
+        "src": "/assets/img/2026-09-25/3756-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 612,
+        "src": "/assets/img/2026-09-25/3756-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 612,
+    "credit": {
+      "artist": "Matthew Paris",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Stamford_Bridge%2C_full.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/KZDachau1945.jpg": {
@@ -10394,6 +10527,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagellan_GPS_Blazer12.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Retrato_de_Vasco_Nu%C3%B1ez_de_Balboa_%281475-1517%29_-_An%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Retrato_de_Vasco_Nu%C3%B1ez_de_Balboa_%281475-1517%29_-_An%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 857,
+        "src": "/assets/img/2026-09-25/3754-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1473,
+        "src": "/assets/img/2026-09-25/3754-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1473,
+    "credit": {
+      "artist": "Anonymous (Spain)Unknown author after a 18th-century engraving",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARetrato_de_Vasco_Nu%C3%B1ez_de_Balboa_(1475-1517)_-_An%C3%B3nimo.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/68/Young_Folks%27_History_of_Rome_illus420.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12278,6 +12434,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AProtests_in_Lom%C3%A9%2C_Togo%2C_18_octobre_2017_04.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/Battle_of_Nicopolis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Battle_of_Nicopolis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 634,
+        "src": "/assets/img/2026-09-25/3757-1-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1091,
+        "src": "/assets/img/2026-09-25/3757-1-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1091,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Nicopolis.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/81/Fran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Fran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12299,6 +12478,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois_hubert_drouais_-_duque_berry_conde_proven%C3%A7a.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/81/Letter_from_George_Washington_to_Lafayette_28_Apr_1788_photo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Letter_from_George_Washington_to_Lafayette_28_Apr_1788_photo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 991,
+        "src": "/assets/img/2026-09-25/3755-1-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 991,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALetter_from_George_Washington_to_Lafayette_28_Apr_1788_photo.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/82/Bundesarchiv_Bild_183-R67561%2C_Potsdamer_Konferenz%2C_Konferenztisch.jpg": {
@@ -18144,6 +18341,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACardano_-_De_propria_vita%2C_1821_-_698063_F.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-25/3758-0-640.webp"
+      },
+      {
+        "width": 1056,
+        "height": 1584,
+        "src": "/assets/img/2026-09-25/3758-0-1056.webp"
+      }
+    ],
+    "width": 1056,
+    "height": 1584,
+    "credit": {
+      "artist": "User:Michail",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADruck_Augsburger_Reichsfrieden.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Establishment_of_Tang_Dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Establishment_of_Tang_Dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18403,6 +18623,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAyyubid.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e3/Firma_de_Vasco_Nu%C3%B1ez_de_Balboa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Firma_de_Vasco_Nu%C3%B1ez_de_Balboa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 321,
+        "src": "/assets/img/2026-09-25/3754-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 552,
+        "src": "/assets/img/2026-09-25/3754-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 552,
+    "credit": {
+      "artist": "Vasco Nuñez de Balboa",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFirma_de_Vasco_Nu%C3%B1ez_de_Balboa.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e3/Infante_D._Henrique_signed_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -19145,6 +19388,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacob_M._Howard_-_Brady-Handy.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Patrick_henry.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Patrick_henry.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 610,
+        "height": 737,
+        "src": "/assets/img/2026-09-25/3755-0-610.webp"
+      }
+    ],
+    "width": 610,
+    "height": 737,
+    "credit": {
+      "artist": "George Bagby Matthews (1857 - 1943), after Thomas Sully (1783-1872)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APatrick_henry.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wreck_of_the_Central_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
