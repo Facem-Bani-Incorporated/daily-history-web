@@ -2951,6 +2951,24 @@
     "height": 734,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-26/3765-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-26/3765-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3003,6 +3021,24 @@
     ],
     "width": 1100,
     "height": 584,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 815,
+        "src": "/assets/img/2026-09-26/3762-2-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1149,
+        "src": "/assets/img/2026-09-26/3762-2-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1149,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -5720,6 +5756,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGabriel_Bethlen.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Ivan-Pavlov08.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ivan-Pavlov08.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 633,
+        "src": "/assets/img/2026-09-26/3765-2-640.webp"
+      },
+      {
+        "width": 793,
+        "height": 956,
+        "src": "/assets/img/2026-09-26/3765-2-793.webp"
+      }
+    ],
+    "width": 793,
+    "height": 956,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIvan-Pavlov08.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Mongol_secret_weapon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Mongol_secret_weapon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6020,6 +6079,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGustave_dore_crusades_the_discovery_of_the_true_cross.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/Revocation_of_the_Edict_of_Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Revocation_of_the_Edict_of_Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 588,
+        "height": 791,
+        "src": "/assets/img/2026-09-26/3764-2-588.webp"
+      }
+    ],
+    "width": 588,
+    "height": 791,
+    "credit": {
+      "artist": "Louis XIV of France.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARevocation_of_the_Edict_of_Nantes.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/26/Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg": {
@@ -9300,6 +9377,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouisiana_Purchase.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/Sfdrake42.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sfdrake42.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 419,
+        "height": 417,
+        "src": "/assets/img/2026-09-26/3762-1-419.webp"
+      }
+    ],
+    "width": 419,
+    "height": 417,
+    "credit": {
+      "artist": "Nicholas Hilliard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASfdrake42.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg",
     "sources": [
@@ -11759,6 +11854,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis-Auguste_de_France%2C_duc_de_Berry.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/BattleofMaritsa1371.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/BattleofMaritsa1371.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 361,
+        "src": "/assets/img/2026-09-26/3763-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 620,
+        "src": "/assets/img/2026-09-26/3763-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 620,
+    "credit": {
+      "artist": "South Serbian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattleofMaritsa1371.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
     "sources": [
@@ -12133,6 +12251,52 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEpitaph_des_Marcus_Caelius.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gheeraerts_Francis_Drake_1591.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gheeraerts_Francis_Drake_1591.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 828,
+        "src": "/assets/img/2026-09-26/3762-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1423,
+        "src": "/assets/img/2026-09-26/3762-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1423,
+    "credit": {
+      "artist": "Marcus Gheeraerts the Younger",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGheeraerts_Francis_Drake_1591.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 934,
+        "src": "/assets/img/2026-09-26/3765-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1606,
+        "src": "/assets/img/2026-09-26/3765-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1606,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIvan_Pavlov_NLM3.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lastsunsetjapan.jpg": {
@@ -14508,6 +14672,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMandela_e_Evelyn_1944.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Guardian_of_Scotland_Great_Seal_after_the_death_of_King_Alexander_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Guardian_of_Scotland_Great_Seal_after_the_death_of_King_Alexander_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 516,
+        "height": 517,
+        "src": "/assets/img/2026-09-26/3766-0-516.webp"
+      }
+    ],
+    "width": 516,
+    "height": 517,
+    "credit": {
+      "artist": "Birch, Walter de Gray, 1842-1924",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGuardian_of_Scotland_Great_Seal_after_the_death_of_King_Alexander_III.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Regio_X.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Regio_X.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16075,6 +16257,24 @@
       "license": "CC BY 3.0 br",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJoseph_Blatter_-_World_Cup_2014.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Margaret%2C_Maid_of_Norway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Margaret%2C_Maid_of_Norway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 413,
+        "height": 480,
+        "src": "/assets/img/2026-09-26/3766-1-413.webp"
+      }
+    ],
+    "width": 413,
+    "height": 480,
+    "credit": {
+      "artist": "Colin Smith",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMargaret%2C_Maid_of_Norway.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bd/UN_Palestine_Partition_Versions_1947.jpg": {
@@ -18098,6 +18298,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASepulcro_de_Bermudo_III_de_Le%C3%B3n._Monasterio_de_Santa_Mar%C3%ADa_la_Real_de_N%C3%A1jera.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dd/King_James_II_by_Sir_Godfrey_Kneller%2C_Bt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/King_James_II_by_Sir_Godfrey_Kneller%2C_Bt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1057,
+        "src": "/assets/img/2026-09-26/3764-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1816,
+        "src": "/assets/img/2026-09-26/3764-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1816,
+    "credit": {
+      "artist": "Godfrey Kneller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKing_James_II_by_Sir_Godfrey_Kneller%2C_Bt.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lechfeld1457.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19324,6 +19547,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATranscontinentalPoster.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 444,
+        "src": "/assets/img/2026-09-26/3764-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 764,
+        "src": "/assets/img/2026-09-26/3764-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 764,
+    "credit": {
+      "artist": "Johan Herman Isings",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
