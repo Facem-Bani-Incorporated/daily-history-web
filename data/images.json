@@ -2897,6 +2897,42 @@
     "height": 1466,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-27/3770-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-27/3770-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/3840px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/3840px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 785,
+        "src": "/assets/img/2026-09-27/3771-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1350,
+        "src": "/assets/img/2026-09-27/3771-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1350,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -5994,6 +6030,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Henry_Billings_Brown.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 749,
+        "src": "/assets/img/2026-09-27/3771-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1287,
+        "src": "/assets/img/2026-09-27/3771-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1287,
+    "credit": {
+      "artist": "Hans Hillewaert",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARosetta_Stone.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7082,6 +7141,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaint_Augustine_by_Philippe_de_Champaigne_(3x4_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 725,
+        "src": "/assets/img/2026-09-27/3773-0-640.webp"
+      },
+      {
+        "width": 750,
+        "height": 1250,
+        "src": "/assets/img/2026-09-27/3773-0-750.webp"
+      }
+    ],
+    "width": 750,
+    "height": 1250,
+    "credit": {
+      "artist": "Myrabella",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_the_Conqueror_(TFA).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/35/Battle_of_New_Orleans.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Battle_of_New_Orleans.jpg",
     "sources": [
@@ -7630,6 +7712,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrigates_Bonhomme_Richard_and_Alliance_vs_HMS_Serapis%2C_23_September_1779_NH_56464_KN_(16544179324).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Jacques-Joseph_Champollion-Figeac_young.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Jacques-Joseph_Champollion-Figeac_young.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 321,
+        "height": 401,
+        "src": "/assets/img/2026-09-27/3771-1-321.webp"
+      }
+    ],
+    "width": 321,
+    "height": 401,
+    "credit": {
+      "artist": "Victorine-Angélique-Amélie Rumilly",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Joseph_Champollion-Figeac_young.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mbuyisa_Makhubu_carries_Hector_Pieterson_at_Soweto_Uprising.jpg": {
@@ -8334,6 +8434,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/No.1_Locomotion_at_the_Greatest_Gathering%2C_Derby_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/No.1_Locomotion_at_the_Greatest_Gathering%2C_Derby_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-09-27/3774-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-09-27/3774-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": {
+      "artist": "Maxopolitan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANo.1_Locomotion_at_the_Greatest_Gathering%2C_Derby_2025.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/46/Benjamin_Franklin_Birthplace.jpg": {
@@ -9439,6 +9562,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeiffer_-_St._Ansgar_-_Trostbr%C3%BCcke_Hamburg_cropped.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/58/Stephenson-No.1-engine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Stephenson-No.1-engine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 439,
+        "height": 372,
+        "src": "/assets/img/2026-09-27/3774-0-439.webp"
+      }
+    ],
+    "width": 439,
+    "height": 372,
+    "credit": {
+      "artist": "Samuel Smiles",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStephenson-No.1-engine.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10814,6 +10955,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABaptism_of_Virginia_Dare.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6c/Colonne_Vimont.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Colonne_Vimont.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-27/3773-2-640.webp"
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "src": "/assets/img/2026-09-27/3773-2-1024.webp"
+      }
+    ],
+    "width": 1024,
+    "height": 768,
+    "credit": {
+      "artist": "Roi.dagobert",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AColonne_Vimont.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -13020,6 +13184,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Falaise_Chateau_Guillaume_Conquerant_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Falaise_Chateau_Guillaume_Conquerant_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 400,
+        "src": "/assets/img/2026-09-27/3773-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 688,
+        "src": "/assets/img/2026-09-27/3773-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 688,
+    "credit": {
+      "artist": "Ollamh",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFalaise_Chateau_Guillaume_Conquerant_1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Marcel-roswell-debris_0.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Marcel-roswell-debris_0.jpg",
     "sources": [
@@ -14862,6 +15049,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Indianapolis_(CA-35)_underway_at_sea_on_27_September_1939_(80-G-425615).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fordsidevalve.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fordsidevalve.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-27/3770-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-27/3770-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Liftarn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFordsidevalve.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg": {
@@ -17111,6 +17321,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMagni_aestimamus.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/1908_Ford_Model_T.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/1908_Ford_Model_T.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 282,
+        "src": "/assets/img/2026-09-27/3770-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 485,
+        "src": "/assets/img/2026-09-27/3770-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 485,
+    "credit": {
+      "artist": "User Rmhermen on en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1908_Ford_Model_T.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flavian_family_tree.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flavian_family_tree.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17666,6 +17899,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APort_Said_from_air.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d0/StocktonDarlingtonOpening.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/StocktonDarlingtonOpening.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-09-27/3772-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 734,
+        "src": "/assets/img/2026-09-27/3772-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 734,
+    "credit": {
+      "artist": "John Dobbin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStocktonDarlingtonOpening.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18030,6 +18286,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHelicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 584,
+        "src": "/assets/img/2026-09-27/3772-0-640.webp"
+      },
+      {
+        "width": 971,
+        "height": 886,
+        "src": "/assets/img/2026-09-27/3772-0-971.webp"
+      }
+    ],
+    "width": 971,
+    "height": 886,
+    "credit": {
+      "artist": "The Committee of The Stockton and Darlington Railway",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/da/Battle_of_Lake_Erie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -23080,6 +23359,19 @@
     "height": 236,
     "credit": null
   },
+  "https://upload.wikimedia.org/wikipedia/en/4/41/Darlington_FC_%28crest%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/4/41/Darlington_FC_%28crest%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 277,
+        "height": 360,
+        "src": "/assets/img/2026-09-27/3774-1-277.webp"
+      }
+    ],
+    "width": 277,
+    "height": 360,
+    "credit": null
+  },
   "https://upload.wikimedia.org/wikipedia/en/4/47/Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/en/4/47/Het_Achterhuis_%28Diary_of_Anne_Frank%29_-_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -23104,6 +23396,24 @@
     ],
     "width": 352,
     "height": 944,
+    "credit": null
+  },
+  "https://upload.wikimedia.org/wikipedia/en/6/6d/Stockton_and_Darlington_seal_%28en%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/6/6d/Stockton_and_Darlington_seal_%28en%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 649,
+        "src": "/assets/img/2026-09-27/3772-2-640.webp"
+      },
+      {
+        "width": 960,
+        "height": 973,
+        "src": "/assets/img/2026-09-27/3772-2-960.webp"
+      }
+    ],
+    "width": 960,
+    "height": 973,
     "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/en/9/9d/Trapped_underground.jpg": {
