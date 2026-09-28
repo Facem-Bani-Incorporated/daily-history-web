@@ -3579,6 +3579,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/05/Akiva.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Akiva.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 432,
+        "height": 646,
+        "src": "/assets/img/2026-09-28/3781-0-432.webp"
+      }
+    ],
+    "width": 432,
+    "height": 646,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAkiva.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/05/Innozenz3.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Innozenz3.jpg",
     "sources": [
@@ -3641,6 +3659,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APacific_War_Japanese_Advances.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-09-28/3780-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-09-28/3780-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMithridates_VI_Louvre.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/06/RFK_Portrait_3x4_%28rotated%29.jpg": {
@@ -8213,6 +8254,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/Flickr_-_Government_Press_Office_%28GPO%29_-_The_Tomb_of_Rabbi_Akiva.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flickr_-_Government_Press_Office_%28GPO%29_-_The_Tomb_of_Rabbi_Akiva.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-09-28/3781-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-09-28/3781-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": "MOSHE MILNER (https://www.flickr.com/people/69061470@N05)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlickr_-_Government_Press_Office_(GPO)_-_The_Tomb_of_Rabbi_Akiva.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/41/Guillaume_Amontons%2C_wood_cutting.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Guillaume_Amontons%2C_wood_cutting.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12601,6 +12665,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStilicho.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Akivakever.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Akivakever.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-09-28/3781-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-09-28/3781-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Almog",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAkivakever.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/7f/JavaUniverse.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/JavaUniverse.png",
     "sources": [
@@ -13182,6 +13269,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Journey_of_Confucius.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Journey_of_Confucius.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 453,
+        "src": "/assets/img/2026-09-28/3779-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 778,
+        "src": "/assets/img/2026-09-28/3779-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 778,
+    "credit": {
+      "artist": "SY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJourney_of_Confucius.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Falaise_Chateau_Guillaume_Conquerant_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14158,6 +14268,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Dreizehn_France.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/Monumento_a_Jo%C3%A3o_Rodrigues_Cabrilho_-_Montalegre_-_Portugal_%284657838630%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Monumento_a_Jo%C3%A3o_Rodrigues_Cabrilho_-_Montalegre_-_Portugal_%284657838630%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 460,
+        "height": 660,
+        "src": "/assets/img/2026-09-28/3782-1-460.webp"
+      }
+    ],
+    "width": 460,
+    "height": 660,
+    "credit": {
+      "artist": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMonumento_a_Jo%C3%A3o_Rodrigues_Cabrilho_-_Montalegre_-_Portugal_(4657838630)_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14655,6 +14783,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AValdivia_after_earthquake%2C_1960.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Herrera_Decada_VII_Cabrilho_portugues.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Herrera_Decada_VII_Cabrilho_portugues.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 361,
+        "height": 732,
+        "src": "/assets/img/2026-09-28/3782-2-361.webp"
+      }
+    ],
+    "width": 361,
+    "height": 732,
+    "credit": {
+      "artist": "Antonio de Herrera y Tordesillas",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHerrera_Decada_VII_Cabrilho_portugues.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a2/Battle_of_Japan_Sea_%28Route_of_Baltic_Fleet%29_NT.PNG": {
@@ -15689,6 +15835,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APepin_le_Bref.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Roman_Province_of_Africa_in_146_BC.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Roman_Province_of_Africa_in_146_BC.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 460,
+        "src": "/assets/img/2026-09-28/3780-0-640.webp"
+      },
+      {
+        "width": 898,
+        "height": 646,
+        "src": "/assets/img/2026-09-28/3780-0-898.webp"
+      }
+    ],
+    "width": 898,
+    "height": 646,
+    "credit": {
+      "artist": "T8612",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoman_Province_of_Africa_in_146_BC.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/Russell_square_ambulances.jpg": {
@@ -16797,6 +16966,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGhazan's_feast.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 240,
+        "height": 320,
+        "src": "/assets/img/2026-09-28/3782-0-240.webp"
+      }
+    ],
+    "width": 240,
+    "height": 320,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJuan_Rodr%C3%ADguez_Cabrillo.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c1/New_Hampshire_state_coat_of_arms_%28illustrated%2C_1876%29.jpg": {
@@ -18078,6 +18265,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 450,
+        "height": 338,
+        "src": "/assets/img/2026-09-28/3779-0-450.webp"
+      }
+    ],
+    "width": 450,
+    "height": 338,
+    "credit": {
+      "artist": "Anonymous Chinese painter of the Western Han period",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConfucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Henry_I_the_Fowler.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Henry_I_the_Fowler.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18140,6 +18345,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALevi_Strauss_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pompey%2C_aureus%2C_71_BC%2C_RRC_402-1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pompey%2C_aureus%2C_71_BC%2C_RRC_402-1.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 318,
+        "src": "/assets/img/2026-09-28/3780-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 546,
+        "src": "/assets/img/2026-09-28/3780-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 546,
+    "credit": {
+      "artist": "The Trustees of the British Museum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APompey%2C_aureus%2C_71_BC%2C_RRC_402-1.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sierra_leone%2C_sapi%2C_olifante%2C_1490-1510_ca.jpg": {
@@ -19317,6 +19545,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Stirling_Bridge.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Confucius_and_Laozi%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Confucius_and_Laozi%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 450,
+        "height": 304,
+        "src": "/assets/img/2026-09-28/3779-1-450.webp"
+      }
+    ],
+    "width": 450,
+    "height": 304,
+    "credit": {
+      "artist": "Anonymous Chinese painter of the Western Han period",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConfucius_and_Laozi%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e4/Emancipation_Proclamation_WDL2714.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
