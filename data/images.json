@@ -2897,6 +2897,24 @@
     "height": 1466,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 959,
+        "src": "/assets/img/2026-09-30/3792-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1648,
+        "src": "/assets/img/2026-09-30/3792-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1648,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -6514,6 +6532,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Hope_Diamond_-_SIA.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tomb_of_Theodoric_the_Great_Ravenna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tomb_of_Theodoric_the_Great_Ravenna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1067,
+        "src": "/assets/img/2026-09-30/3793-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1833,
+        "src": "/assets/img/2026-09-30/3793-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1833,
+    "credit": {
+      "artist": "commons:User:Eulenjäger derivative work: User:Newsleep",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATomb_of_Theodoric_the_Great_Ravenna_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2b/Battle_of_Bannockburn.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Battle_of_Bannockburn.jpg",
     "sources": [
@@ -6653,6 +6694,24 @@
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_dinar_of_Harun_al-Rashid%2C_AH_170-193.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2c/Illumination_of_Henry_IV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Illumination_of_Henry_IV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 375,
+        "height": 448,
+        "src": "/assets/img/2026-09-30/3791-0-375.webp"
+      }
+    ],
+    "width": 375,
+    "height": 448,
+    "credit": {
+      "artist": "The National Archives UK",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIllumination_of_Henry_IV_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tabula_hungariae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7207,6 +7266,29 @@
         "width": 1100,
         "height": 1463,
         "src": "/assets/img/2026-07-06/2198-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1463,
+    "credit": {
+      "artist": "Philippe de Champaigne",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaint_Augustine_by_Philippe_de_Champaigne_(3x4_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/34/Saint_Augustine_by_Philippe_de_Champaigne_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Saint_Augustine_by_Philippe_de_Champaigne_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 851,
+        "src": "/assets/img/2026-09-30/3792-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1463,
+        "src": "/assets/img/2026-09-30/3792-1-1100.webp"
       }
     ],
     "width": 1100,
@@ -9357,6 +9439,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATogoland.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/GNM_-_Gotische_Fibeln.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/GNM_-_Gotische_Fibeln.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 957,
+        "src": "/assets/img/2026-09-30/3793-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1645,
+        "src": "/assets/img/2026-09-30/3793-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1645,
+    "credit": {
+      "artist": "Wolfgang Sauber",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGNM_-_Gotische_Fibeln.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/53/Queen_Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Queen_Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10223,6 +10328,24 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM._S._Subbulakshmi_(03).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 450,
+        "height": 548,
+        "src": "/assets/img/2026-09-30/3792-0-450.webp"
+      }
+    ],
+    "width": 450,
+    "height": 548,
+    "credit": {
+      "artist": "Matthias Stom",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMatthiasStom-SaintJerome-Nantes.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vivekananda_Image_August_1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12118,6 +12241,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis-Auguste_de_France%2C_duc_de_Berry.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/78/Istanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakka%C5%9F_Osman.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Istanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakka%C5%9F_Osman.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 879,
+        "src": "/assets/img/2026-09-30/3790-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1841,
+        "src": "/assets/img/2026-09-30/3790-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1841,
+    "credit": {
+      "artist": "Nakkaş Osman",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIstanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakka%C5%9F_Osman.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/BattleofMaritsa1371.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/BattleofMaritsa1371.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12995,6 +13141,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHeinkel_He_111_during_the_Battle_of_Britain.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/82/Plate_Boundaries_of_the_Middle_East.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Plate_Boundaries_of_the_Middle_East.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 416,
+        "src": "/assets/img/2026-09-30/3794-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 715,
+        "src": "/assets/img/2026-09-30/3794-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 715,
+    "credit": {
+      "artist": "Bullpenboys19",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlate_Boundaries_of_the_Middle_East.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/82/Sacre_Louis8_France_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sacre_Louis8_France_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13305,6 +13474,24 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Coronation_Henry4_England_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coronation_Henry4_England_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 505,
+        "height": 338,
+        "src": "/assets/img/2026-09-30/3791-2-505.webp"
+      }
+    ],
+    "width": 505,
+    "height": 338,
+    "credit": {
+      "artist": "Jean Froissart (Chroniques, Vol. IV, part 2)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronation_Henry4_England_02.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/89/Journey_of_Confucius.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15185,6 +15372,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_famine.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a9/HenryBolingbrokeClaimsThrone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/HenryBolingbrokeClaimsThrone.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 502,
+        "src": "/assets/img/2026-09-30/3791-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 863,
+        "src": "/assets/img/2026-09-30/3791-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 863,
+    "credit": {
+      "artist": "J.S. History of Parliament, House of Commons 1386-1421",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenryBolingbrokeClaimsThrone.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pintoricchio_002a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17524,6 +17734,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1966-08_1966%E5%B9%B4%E6%A8%AA%E6%89%AB%E4%B8%80%E5%88%87%E7%89%9B%E9%AC%BC%E8%9B%87%E7%A5%9E.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Istanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1517_fol._149r_Suleiman_Siege_of_Rhodes_%281522%29_cropped.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Istanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1517_fol._149r_Suleiman_Siege_of_Rhodes_%281522%29_cropped.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 554,
+        "src": "/assets/img/2026-09-30/3790-2-640.webp"
+      },
+      {
+        "width": 715,
+        "height": 910,
+        "src": "/assets/img/2026-09-30/3790-2-715.webp"
+      }
+    ],
+    "width": 715,
+    "height": 910,
+    "credit": {
+      "artist": "Nakkaş Osman",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIstanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1517_fol._149r_Suleiman_Siege_of_Rhodes_(1522)_cropped.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/ca/Magni_aestimamus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20021,6 +20254,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADachau_Death_Train.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 749,
+        "src": "/assets/img/2026-09-30/3790-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1287,
+        "src": "/assets/img/2026-09-30/3790-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1287,
+    "credit": {
+      "artist": "Circle of Titian",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperorSuleiman.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
