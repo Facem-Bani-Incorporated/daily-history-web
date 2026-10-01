@@ -2987,6 +2987,24 @@
     "height": 655,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Stanford_Family.jpg/3840px-Statue_of_Stanford_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Stanford_Family.jpg/3840px-Statue_of_Stanford_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 423,
+        "src": "/assets/img/2026-10-01/3801-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 728,
+        "src": "/assets/img/2026-10-01/3801-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 728,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3237,6 +3255,24 @@
     ],
     "width": 748,
     "height": 1114,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/3840px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/3840px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 405,
+        "src": "/assets/img/2026-10-01/3799-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 697,
+        "src": "/assets/img/2026-10-01/3799-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 697,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -4930,6 +4966,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJames_Gosling_2008.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Legislative_Assembly_Medal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Legislative_Assembly_Medal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-10-01/3798-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-10-01/3798-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "Bonarov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALegislative_Assembly_Medal.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/14/Philip_II%2C_King_of_Spain_from_NPG.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Philip_II%2C_King_of_Spain_from_NPG.jpg",
     "sources": [
@@ -5079,6 +5138,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Cameo_of_France-removebg.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/17/Congress_of_Vienna.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Congress_of_Vienna.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 476,
+        "src": "/assets/img/2026-10-01/3797-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 818,
+        "src": "/assets/img/2026-10-01/3797-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 818,
+    "credit": {
+      "artist": "After Jean-Baptiste Isabey",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACongress_of_Vienna.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/17/Inter-grav.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6059,6 +6141,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHMS_Beagle_by_Conrad_Martens.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/Lafayette_Bunnell_1880.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lafayette_Bunnell_1880.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 341,
+        "height": 430,
+        "src": "/assets/img/2026-10-01/3799-2-341.webp"
+      }
+    ],
+    "width": 341,
+    "height": 430,
+    "credit": {
+      "artist": "F.H. Revell published the 1880 edition [1]",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALafayette_Bunnell_1880.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7165,6 +7265,24 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM._S._Subbulakshmi_(01).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/Portrait_of_David_Starr_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Portrait_of_David_Starr_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 629,
+        "height": 945,
+        "src": "/assets/img/2026-10-01/3801-2-629.webp"
+      }
+    ],
+    "width": 629,
+    "height": 945,
+    "credit": {
+      "artist": "Moffett Studio",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_David_Starr_Jordan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/1099_Siege_of_Jerusalem.jpg": {
@@ -8971,6 +9089,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Prince_Metternich_by_Lawrence.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Prince_Metternich_by_Lawrence.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 815,
+        "src": "/assets/img/2026-10-01/3797-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1401,
+        "src": "/assets/img/2026-10-01/3797-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1401,
+    "credit": {
+      "artist": "Thomas Lawrence",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrince_Metternich_by_Lawrence.jpeg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Size_comparison_of_iPhone_5C_5S_4S.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Size_comparison_of_iPhone_5C_5S_4S.jpg",
     "sources": [
@@ -9636,6 +9777,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A16126.d.1(35)-Japanese_troops_advance_on_Pyongyang_from_all_sides.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/AduC_132_Pierre_Vergniaud_%28P.V.%2C_1758-1793%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/AduC_132_Pierre_Vergniaud_%28P.V.%2C_1758-1793%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 580,
+        "src": "/assets/img/2026-10-01/3798-1-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1203,
+        "src": "/assets/img/2026-10-01/3798-1-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1203,
+    "credit": {
+      "artist": "H. Rousseau (graphic designer), E.Thomas (engraver)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAduC_132_Pierre_Vergniaud_(P.V.%2C_1758-1793).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG",
     "sources": [
@@ -9808,6 +9972,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5a/Miwok-Paiute_ceremony_in_1872_at_current_site_of_Yosemite_Lodge.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Miwok-Paiute_ceremony_in_1872_at_current_site_of_Yosemite_Lodge.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 663,
+        "src": "/assets/img/2026-10-01/3799-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 829,
+        "src": "/assets/img/2026-10-01/3799-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 829,
+    "credit": {
+      "artist": "Eadweard Muybridge (9 April 1830 – 8 May 1904)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMiwok-Paiute_ceremony_in_1872_at_current_site_of_Yosemite_Lodge.jpeg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5a/Thomas_Cavendish.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15026,6 +15213,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHerrera_Decada_VII_Cabrilho_portugues.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/AduC_196_Lac%C3%A9p%C3%A8de_%28B.G%2CE._de_Laville%2C_comte_de%2C_1756-1825%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/AduC_196_Lac%C3%A9p%C3%A8de_%28B.G%2CE._de_Laville%2C_comte_de%2C_1756-1825%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 700,
+        "src": "/assets/img/2026-10-01/3798-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-01/3798-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "H. Rousseau (graphic designer), E.Thomas (engraver)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAduC_196_Lac%C3%A9p%C3%A8de_(B.G%2CE._de_Laville%2C_comte_de%2C_1756-1825).JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a2/Battle_of_Japan_Sea_%28Route_of_Baltic_Fleet%29_NT.PNG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Battle_of_Japan_Sea_%28Route_of_Baltic_Fleet%29_NT.PNG",
     "sources": [
@@ -15264,6 +15474,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARegio_X.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Charles_Maurice_de_Talleyrand-P%C3%A9rigord_by_Fran%C3%A7ois_G%C3%A9rard%2C_1808.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Charles_Maurice_de_Talleyrand-P%C3%A9rigord_by_Fran%C3%A7ois_G%C3%A9rard%2C_1808.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 935,
+        "src": "/assets/img/2026-10-01/3800-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1607,
+        "src": "/assets/img/2026-10-01/3800-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1607,
+    "credit": {
+      "artist": "François Gérard",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Maurice_de_Talleyrand-P%C3%A9rigord_by_Fran%C3%A7ois_G%C3%A9rard%2C_1808.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shah_Jahan_and_Mumtaz_Mahal.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shah_Jahan_and_Mumtaz_Mahal.jpg",
     "sources": [
@@ -15326,6 +15559,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAMA.0006229_(cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a9/Berlin_.Gendarmenmarkt_.Deutscher_Dom_010.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Berlin_.Gendarmenmarkt_.Deutscher_Dom_010.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 729,
+        "src": "/assets/img/2026-10-01/3797-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1253,
+        "src": "/assets/img/2026-10-01/3797-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1253,
+    "credit": {
+      "artist": "JoJan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABerlin_.Gendarmenmarkt_.Deutscher_Dom_010.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a9/Germany_occupation_zones_with_border.jpg": {
@@ -15669,6 +15925,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohnHarvard_Signature.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mariano_Luis_de_Urquijo_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mariano_Luis_de_Urquijo_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 641,
+        "src": "/assets/img/2026-10-01/3800-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1102,
+        "src": "/assets/img/2026-10-01/3800-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1102,
+    "credit": {
+      "artist": "Guillermo Ducker",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMariano_Luis_de_Urquijo_(Museo_del_Prado).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Marino_constitution_1600.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16511,6 +16790,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANathan-hale-cityhall.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Norditalien_und_Mittelitalien_1799.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Norditalien_und_Mittelitalien_1799.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 500,
+        "src": "/assets/img/2026-10-01/3800-1-640.webp"
+      },
+      {
+        "width": 649,
+        "height": 746,
+        "src": "/assets/img/2026-10-01/3800-1-649.webp"
+      }
+    ],
+    "width": 649,
+    "height": 746,
+    "credit": {
+      "artist": "Adolphus William Ward",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorditalien_und_Mittelitalien_1799.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20975,6 +21277,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATumu_Crisis.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/1891_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1891_Stanford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 481,
+        "src": "/assets/img/2026-10-01/3801-1-640.webp"
+      },
+      {
+        "width": 901,
+        "height": 677,
+        "src": "/assets/img/2026-10-01/3801-1-901.webp"
+      }
+    ],
+    "width": 901,
+    "height": 677,
+    "credit": {
+      "artist": "Lange, O. V.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1891_Stanford.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f2/BanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg": {
