@@ -3113,6 +3113,24 @@
     "height": 584,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Treason_Site_Historic_Marker.jpg/3840px-Treason_Site_Historic_Marker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Treason_Site_Historic_Marker.jpg/3840px-Treason_Site_Historic_Marker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 428,
+        "src": "/assets/img/2026-10-02/3809-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 736,
+        "src": "/assets/img/2026-10-02/3809-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 736,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3685,6 +3703,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAkiva.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/05/Ayyubid_expansion_1174-1193.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ayyubid_expansion_1174-1193.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 461,
+        "src": "/assets/img/2026-10-02/3806-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 793,
+        "src": "/assets/img/2026-10-02/3806-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 793,
+    "credit": {
+      "artist": "naturalearthdata.com, offered to the Public Domain per Terms of Use Drawing: पाटलिपुत्र (talk)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAyyubid_expansion_1174-1193.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/05/Innozenz3.jpg": {
@@ -4478,6 +4519,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMichael_iii.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palmer_cup_left_attendants_%28British_Museum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Palmer_cup_left_attendants_%28British_Museum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 805,
+        "src": "/assets/img/2026-10-02/3806-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1383,
+        "src": "/assets/img/2026-10-02/3806-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1383,
+    "credit": {
+      "artist": "13th century painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APalmer_cup_left_attendants_(British_Museum).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Peter_the_Hermit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5969,6 +6033,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGabriel_Bethlen.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/George_Engleheart_-_Major_Andr%C3%A9_-_B1974.2.33_-_Yale_Center_for_British_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/George_Engleheart_-_Major_Andr%C3%A9_-_B1974.2.33_-_Yale_Center_for_British_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 882,
+        "src": "/assets/img/2026-10-02/3809-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1516,
+        "src": "/assets/img/2026-10-02/3809-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1516,
+    "credit": {
+      "artist": "George Engleheart",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Engleheart_-_Major_Andr%C3%A9_-_B1974.2.33_-_Yale_Center_for_British_Art.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Ivan-Pavlov08.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ivan-Pavlov08.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6292,6 +6379,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARelay_1_antenna_USA.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Saladin_in_Egypt_Conquest.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Saladin_in_Egypt_Conquest.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 513,
+        "src": "/assets/img/2026-10-02/3806-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 882,
+        "src": "/assets/img/2026-10-02/3806-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 882,
+    "credit": {
+      "artist": "abattenb (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaladin_in_Egypt_Conquest.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/25/Declaration_of_Sentiments_table.jpg": {
@@ -12293,6 +12403,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Pettie_Puritan_Roundhead.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Korovin_kazan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Korovin_kazan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 719,
+        "src": "/assets/img/2026-10-02/3810-1-640.webp"
+      },
+      {
+        "width": 1009,
+        "height": 1134,
+        "src": "/assets/img/2026-10-02/3810-1-1009.webp"
+      }
+    ],
+    "width": 1009,
+    "height": 1134,
+    "credit": {
+      "artist": "Pyotr Korovin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKorovin_kazan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/76/Package_of_Lutera_Birth_Control_Pills.jpg": {
@@ -18345,6 +18478,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Nij%C5%8D.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Joshua_Hett_Smith_House_from_The_Picturesque_Hudson_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Joshua_Hett_Smith_House_from_The_Picturesque_Hudson_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 404,
+        "src": "/assets/img/2026-10-02/3809-2-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 404,
+    "credit": {
+      "artist": "Clifton Johnson, photographer.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJoshua_Hett_Smith_House_from_The_Picturesque_Hudson_1915.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cd/Medal_issued_during_the_reign_of_Louis_XVI%3B_%22The_National_Assembly_Abolishes_Feudalism%22%2C_dated_4_August_1789.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Medal_issued_during_the_reign_of_Louis_XVI%3B_%22The_National_Assembly_Abolishes_Feudalism%22%2C_dated_4_August_1789.jpg",
     "sources": [
@@ -21745,6 +21896,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreekfire-madridskylitzes1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kazan_1552.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kazan_1552.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 501,
+        "src": "/assets/img/2026-10-02/3810-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 862,
+        "src": "/assets/img/2026-10-02/3810-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 862,
+    "credit": {
+      "artist": "Любослов Езыкин",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKazan_1552.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f7/NH_state_emblem.jpg": {
