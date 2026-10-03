@@ -2969,6 +2969,24 @@
     "height": 546,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Camp_des_Pictes_%2893%29.JPG/3840px-Camp_des_Pictes_%2893%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Camp_des_Pictes_%2893%29.JPG/3840px-Camp_des_Pictes_%2893%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 525,
+        "height": 786,
+        "src": "/assets/img/2026-10-03/3815-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1648,
+        "src": "/assets/img/2026-10-03/3815-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1648,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Anonym_Entsatz_Wien_1683.jpg/3840px-Anonym_Entsatz_Wien_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3165,6 +3183,24 @@
     ],
     "width": 1100,
     "height": 1650,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Beleg_en_ontzet_van_Leiden_in_1574.jpg/3840px-Beleg_en_ontzet_van_Leiden_in_1574.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Beleg_en_ontzet_van_Leiden_in_1574.jpg/3840px-Beleg_en_ontzet_van_Leiden_in_1574.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 834,
+        "src": "/assets/img/2026-10-03/3819-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1434,
+        "src": "/assets/img/2026-10-03/3819-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1434,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/John_Paul_Jones2.jpg/3840px-John_Paul_Jones2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -7441,6 +7477,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALieutenant_General_Freyberg_gazes_over_the_parapet.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Phil3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Phil3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 419,
+        "src": "/assets/img/2026-10-03/3817-1-640.webp"
+      },
+      {
+        "width": 761,
+        "height": 498,
+        "src": "/assets/img/2026-10-03/3817-1-761.webp"
+      }
+    ],
+    "width": 761,
+    "height": 498,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APhil3.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/Treaty_of_Guadalupe_Hidalgo.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Treaty_of_Guadalupe_Hidalgo.jpg",
     "sources": [
@@ -8406,6 +8465,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFirst_passenger_railway_1830.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/FtIndependence2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/FtIndependence2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-03/3816-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-03/3816-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Midnightdreary",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFtIndependence2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12139,6 +12221,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1910Ford-T.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Berkeley_Plantation%2C_Shrine_marking_1st_Thanksgiving_in_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Berkeley_Plantation%2C_Shrine_marking_1st_Thanksgiving_in_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-03/3818-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-03/3818-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Joe Orbin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABerkeley_Plantation%2C_Shrine_marking_1st_Thanksgiving_in_America.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/74/Casa_di_dante_01.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Casa_di_dante_01.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12674,6 +12779,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Indianapolis_(CA-35)_underway_in_1939.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aquilifer_romain_Arverniales_2012-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aquilifer_romain_Arverniales_2012-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 1054,
+        "src": "/assets/img/2026-10-03/3815-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2208,
+        "src": "/assets/img/2026-10-03/3815-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2208,
+    "credit": {
+      "artist": "Elliott Sadourny",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAquilifer_romain_Arverniales_2012-2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7a/Botha_gouvernment_1910.jpg": {
@@ -14039,6 +14167,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJpj-corsair.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Phil2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Phil2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 413,
+        "src": "/assets/img/2026-10-03/3817-0-640.webp"
+      },
+      {
+        "width": 771,
+        "height": 498,
+        "src": "/assets/img/2026-10-03/3817-0-771.webp"
+      }
+    ],
+    "width": 771,
+    "height": 498,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APhil2.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg",
     "sources": [
@@ -14676,6 +14827,29 @@
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADolores_hidalgo.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 900,
+        "src": "/assets/img/2026-10-03/3816-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1547,
+        "src": "/assets/img/2026-10-03/3816-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1547,
+    "credit": {
+      "artist": "Unknown authorUnknown author; Restored by Yann Forget and Adam Cuerden",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
@@ -16193,6 +16367,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-10-03/3815-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-10-03/3815-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": "Lionel Royer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Maison_natale_de_Margaret_Thatcher%2C_Grantham.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Maison_natale_de_Margaret_Thatcher%2C_Grantham.JPG",
     "sources": [
@@ -16406,6 +16603,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APourbus%2C_Frans_II_workshop_-_Philipp_III_of_Spain_-_The_Phoebus_Foundation.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wampanoag2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wampanoag2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 476,
+        "src": "/assets/img/2026-10-03/3818-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 819,
+        "src": "/assets/img/2026-10-03/3818-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 819,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWampanoag2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mariner_4_Launch_Preparations.jpeg": {
@@ -17910,6 +18130,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAntoine_III_de_Gramont_-_Basque_Museum_in_Bayonne.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 482,
+        "src": "/assets/img/2026-10-03/3818-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 828,
+        "src": "/assets/img/2026-10-03/3818-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 828,
+    "credit": {
+      "artist": "Jennie Augusta Brownscombe",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Western_front_1918_allied.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Western_front_1918_allied.jpg",
     "sources": [
@@ -17990,6 +18233,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalianofIbelin1490.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/Edgar_Allan_Poe_Birthplace_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Edgar_Allan_Poe_Birthplace_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-03/3816-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-03/3816-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Swampyank at en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdgar_Allan_Poe_Birthplace_Boston.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/King_John_from_De_Rege_Johanne.jpg": {
@@ -19161,6 +19427,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 415,
+        "src": "/assets/img/2026-10-03/3819-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 714,
+        "src": "/assets/img/2026-10-03/3819-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 714,
+    "credit": {
+      "artist": "Otto van Veen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVeen01.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_France_Infobox.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Battle_of_France_Infobox.png",
     "sources": [
@@ -19791,6 +20080,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACardano_-_De_propria_vita%2C_1821_-_698063_F.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/De_aankomst_der_Geuzen_met_Boisot_op_de_Vliet_te_Leiden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/De_aankomst_der_Geuzen_met_Boisot_op_de_Vliet_te_Leiden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 399,
+        "src": "/assets/img/2026-10-03/3819-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 686,
+        "src": "/assets/img/2026-10-03/3819-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 686,
+    "credit": {
+      "artist": "JOHAN BERNARD WITTKAMP",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADe_aankomst_der_Geuzen_met_Boisot_op_de_Vliet_te_Leiden.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
