@@ -3041,6 +3041,24 @@
     "height": 734,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/3840px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/3840px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-10-04/3824-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 790,
+        "src": "/assets/img/2026-10-04/3824-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 790,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3329,6 +3347,24 @@
     "height": 697,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ming_Iron_Hat_%2810129288656%29.jpg/3840px-Ming_Iron_Hat_%2810129288656%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ming_Iron_Hat_%2810129288656%29.jpg/3840px-Ming_Iron_Hat_%2810129288656%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-10-04/3825-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-10-04/3825-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/3840px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3524,6 +3560,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABermudo_III.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/02/Bonaparte_13_vend%C3%A9miaire_Saint_Roch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bonaparte_13_vend%C3%A9miaire_Saint_Roch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 395,
+        "src": "/assets/img/2026-10-04/3827-1-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 563,
+        "src": "/assets/img/2026-10-04/3827-1-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 563,
+    "credit": {
+      "artist": "Jebulon for scan. Dessin de Yan' Dargent, gravure de V.Trouvé.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABonaparte_13_vend%C3%A9miaire_Saint_Roch.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Henry_the_Navigator1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6220,6 +6279,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHayohko.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/Interview_with_Mehemet_Ali_in_his_Palace_at_Alexandria%2C_by_David_Roberts_and_Louis_Hague.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Interview_with_Mehemet_Ali_in_his_Palace_at_Alexandria%2C_by_David_Roberts_and_Louis_Hague.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 449,
+        "src": "/assets/img/2026-10-04/3824-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 772,
+        "src": "/assets/img/2026-10-04/3824-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 772,
+    "credit": {
+      "artist": "David Roberts / Louis Haghe",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInterview_with_Mehemet_Ali_in_his_Palace_at_Alexandria%2C_by_David_Roberts_and_Louis_Hague.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/21/Treasury_department_official_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Treasury_department_official_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6533,6 +6615,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMongolArcher.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/27/Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 395,
+        "src": "/assets/img/2026-10-04/3827-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 679,
+        "src": "/assets/img/2026-10-04/3827-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 679,
+    "credit": {
+      "artist": "Charles Monnet",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg": {
@@ -8396,6 +8501,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_(%D0%BB%D0%B5%D1%82%D0%BE_1981).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bahnspur_sputnik_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bahnspur_sputnik_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 508,
+        "src": "/assets/img/2026-10-04/3823-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 635,
+        "src": "/assets/img/2026-10-04/3823-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 635,
+    "credit": {
+      "artist": "Sternwarte Rodewisch, Rützengrüner Straße 41A, 08228 Rodewisch",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABahnspur_sputnik_1.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3e/Negroes_Being_Driven_South_By_the_Rebel_Officers_%28November_1862%29%2C_by_Harper%27s_Weekly.jpg": {
@@ -10574,6 +10702,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARock_climbing_practice_wall.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sputnik_1_Arming_Key.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sputnik_1_Arming_Key.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 498,
+        "src": "/assets/img/2026-10-04/3823-0-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 498,
+    "credit": {
+      "artist": "Soyuz235",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASputnik_1_Arming_Key.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17191,6 +17337,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZonaro_GatesofConst.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b7/Red_Turban.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Red_Turban.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 453,
+        "src": "/assets/img/2026-10-04/3825-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 778,
+        "src": "/assets/img/2026-10-04/3825-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 778,
+    "credit": {
+      "artist": "SY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARed_Turban.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasilia_aerea_estadio_nacional.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasilia_aerea_estadio_nacional.jpg",
     "sources": [
@@ -17928,6 +18097,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASoldat_Franc%C3%A8s_al_Saar.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c2/1967_CPA_3496.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1967_CPA_3496.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 798,
+        "src": "/assets/img/2026-10-04/3823-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1371,
+        "src": "/assets/img/2026-10-04/3823-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1371,
+    "credit": {
+      "artist": "Почта СССР. Номер ЦФА 3496",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1967_CPA_3496.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c2/Birch_bayh.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Birch_bayh.jpg",
     "sources": [
@@ -18215,6 +18407,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGodwin_Alabi-Isama1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gribeauval_guns_of_Bonaparte_in_the_Paris_insurrection_5_october_1795.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gribeauval_guns_of_Bonaparte_in_the_Paris_insurrection_5_october_1795.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 374,
+        "src": "/assets/img/2026-10-04/3827-2-640.webp"
+      },
+      {
+        "width": 749,
+        "height": 438,
+        "src": "/assets/img/2026-10-04/3827-2-749.webp"
+      }
+    ],
+    "width": 749,
+    "height": 438,
+    "credit": {
+      "artist": "Felician Myrbach",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGribeauval_guns_of_Bonaparte_in_the_Paris_insurrection_5_october_1795.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/BalianofIbelin1490.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20640,6 +20855,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASSCentralAmerica.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yuan_Iron_Helmet_%289872873454%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yuan_Iron_Helmet_%289872873454%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-10-04/3825-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-10-04/3825-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": {
+      "artist": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYuan_Iron_Helmet_(9872873454).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/%E6%B8%85%E4%BA%BA%E7%94%BB%E7%9A%87%E5%A4%AA%E6%9E%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4_2418_x_3564.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%E6%B8%85%E4%BA%BA%E7%94%BB%E7%9A%87%E5%A4%AA%E6%9E%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4_2418_x_3564.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20996,6 +21234,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKaiserreich_Russland_1822.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Navarino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Navarino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 405,
+        "src": "/assets/img/2026-10-04/3824-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 696,
+        "src": "/assets/img/2026-10-04/3824-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 696,
+    "credit": {
+      "artist": "Ambroise Louis Garneray",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANavarino.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
