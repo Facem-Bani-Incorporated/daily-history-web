@@ -4818,6 +4818,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJudgeJMHarlan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Langres_-_Denis_Diderot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Langres_-_Denis_Diderot.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1229,
+        "src": "/assets/img/2026-10-05/3835-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2112,
+        "src": "/assets/img/2026-10-05/3835-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2112,
+    "credit": {
+      "artist": "photography by Christophe.Finot",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALangres_-_Denis_Diderot.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/Solomon_Islands_Campaign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Solomon_Islands_Campaign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4921,6 +4944,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMale_royal_figure%2C_12-13th_century%2C_from_Iran.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Ohio_quarter%2C_reverse_side%2C_2002.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ohio_quarter%2C_reverse_side%2C_2002.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 636,
+        "src": "/assets/img/2026-10-05/3832-1-640.webp"
+      },
+      {
+        "width": 942,
+        "height": 936,
+        "src": "/assets/img/2026-10-05/3832-1-942.webp"
+      }
+    ],
+    "width": 942,
+    "height": 936,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOhio_quarter%2C_reverse_side%2C_2002.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5573,6 +5619,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Calvin_-_Young.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Louis_Lumiere_with_microscope_and_test_tubes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Louis_Lumiere_with_microscope_and_test_tubes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 918,
+        "src": "/assets/img/2026-10-05/3836-0-640.webp"
+      },
+      {
+        "width": 697,
+        "height": 1000,
+        "src": "/assets/img/2026-10-05/3836-0-697.webp"
+      }
+    ],
+    "width": 697,
+    "height": 1000,
+    "credit": {
+      "artist": "Not credited; presumably a Frères Lumière photo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Lumiere_with_microscope_and_test_tubes.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg",
     "sources": [
@@ -6103,6 +6172,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABell_X-1A_in_flight.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Dr._Robert_Goddard_at_Clark_University_-_GPN-2002-000130.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Dr._Robert_Goddard_at_Clark_University_-_GPN-2002-000130.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 487,
+        "src": "/assets/img/2026-10-05/3834-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 837,
+        "src": "/assets/img/2026-10-05/3834-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 837,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADr._Robert_Goddard_at_Clark_University_-_GPN-2002-000130.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Gabriel_Bethlen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8572,6 +8664,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChagaiatomictests.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 839,
+        "src": "/assets/img/2026-10-05/3834-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1442,
+        "src": "/assets/img/2026-10-05/3834-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1442,
+    "credit": {
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADr._Robert_H._Goddard_-_GPN-2002-000131.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3f/First_passenger_railway_1830.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/First_passenger_railway_1830.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9256,6 +9371,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_body_of_Leo_V_is_dragged_to_the_Hippodrome_through_the_Skyla_Gate.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/1905_Wright_Flyer_Kill_Devil_Hills.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/1905_Wright_Flyer_Kill_Devil_Hills.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 415,
+        "src": "/assets/img/2026-10-05/3832-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 714,
+        "src": "/assets/img/2026-10-05/3832-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 714,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1905_Wright_Flyer_Kill_Devil_Hills.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Apple_IIc_with_monitor.jpg": {
@@ -11728,6 +11866,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AColonne_Vimont.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 812,
+        "src": "/assets/img/2026-10-05/3833-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1395,
+        "src": "/assets/img/2026-10-05/3833-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1395,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADeclaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11887,6 +12048,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Nautilus_SSN571.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6f/MarchWomenVersailles5-6october1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MarchWomenVersailles5-6october1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 417,
+        "src": "/assets/img/2026-10-05/3833-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 717,
+        "src": "/assets/img/2026-10-05/3833-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 717,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarchWomenVersailles5-6october1789.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg": {
@@ -14178,6 +14362,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMussolini_mezzobusto.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 694,
+        "src": "/assets/img/2026-10-05/3833-2-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1192,
+        "src": "/assets/img/2026-10-05/3833-2-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1192,
+    "credit": {
+      "artist": "Carolus at Dutch Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABed_Lodewijk_XIV.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8b/Guillaume_Amontons_demonstrates_his_optical_telegraph.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16797,6 +17004,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMariner_4_Launch_Preparations.jpeg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/N%C2%B0_9_de_la_place_dans_le_centre_ville_de_Langres.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/N%C2%B0_9_de_la_place_dans_le_centre_ville_de_Langres.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 409,
+        "src": "/assets/img/2026-10-05/3835-1-640.webp"
+      },
+      {
+        "width": 832,
+        "height": 532,
+        "src": "/assets/img/2026-10-05/3835-1-832.webp"
+      }
+    ],
+    "width": 832,
+    "height": 532,
+    "credit": {
+      "artist": "Librairie-Papeterie Paul Mongni, éditeur à Langres",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AN%C2%B0_9_de_la_place_dans_le_centre_ville_de_Langres.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17639,6 +17869,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABerlin_Wall_at_the_Reagan_Library.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Louis_Lumi%C3%A8re_%28examining_film%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Louis_Lumi%C3%A8re_%28examining_film%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 431,
+        "src": "/assets/img/2026-10-05/3836-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 741,
+        "src": "/assets/img/2026-10-05/3836-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 741,
+    "credit": {
+      "artist": "Wide World Photos/ Archival by La Presse",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Lumi%C3%A8re_(examining_film)_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marines_Leaving_Guadalcanal%2C_circa_1942_-_36548845402.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marines_Leaving_Guadalcanal%2C_circa_1942_-_36548845402.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18384,6 +18637,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABOB_01_Apr_29_1991_0744Z.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dr._Goddard_and_a_1918_version_of_Bazooka.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dr._Goddard_and_a_1918_version_of_Bazooka.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 493,
+        "src": "/assets/img/2026-10-05/3834-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 848,
+        "src": "/assets/img/2026-10-05/3834-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 848,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADr._Goddard_and_a_1918_version_of_Bazooka.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c5/Godwin_Alabi-Isama1.jpg": {
@@ -21415,6 +21691,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/1905_Wright_Flyer_III_%28flight_46%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/1905_Wright_Flyer_III_%28flight_46%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 257,
+        "src": "/assets/img/2026-10-05/3832-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 443,
+        "src": "/assets/img/2026-10-05/3832-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 443,
+    "credit": {
+      "artist": "Wilbur Wright",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1905_Wright_Flyer_III_(flight_46).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bargello_-_Kapelle_Fresko_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -22776,6 +23075,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D0%9A%D0%BE%D0%BD%D0%B5%D1%86_%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BE%D1%8F.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 799,
+        "src": "/assets/img/2026-10-05/3835-0-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 1248,
+        "src": "/assets/img/2026-10-05/3835-0-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 1248,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADenis_Diderot_by_Louis-Michel_van_Loo.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/Der_St%C3%A4nker.png": {
