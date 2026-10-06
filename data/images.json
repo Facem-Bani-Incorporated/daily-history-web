@@ -2951,6 +2951,24 @@
     "height": 1350,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/BattleOfFortsClintonAndMontgomery1777.jpg/3840px-BattleOfFortsClintonAndMontgomery1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/BattleOfFortsClintonAndMontgomery1777.jpg/3840px-BattleOfFortsClintonAndMontgomery1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 343,
+        "src": "/assets/img/2026-10-06/3843-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 589,
+        "src": "/assets/img/2026-10-06/3843-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 589,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3059,6 +3077,24 @@
     "height": 790,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Z%C3%A1mek_Buchlovice_%28Buchlowitz%29.jpg/3840px-Z%C3%A1mek_Buchlovice_%28Buchlowitz%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Z%C3%A1mek_Buchlovice_%28Buchlowitz%29.jpg/3840px-Z%C3%A1mek_Buchlovice_%28Buchlowitz%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 347,
+        "src": "/assets/img/2026-10-06/3839-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 598,
+        "src": "/assets/img/2026-10-06/3839-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 598,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3075,6 +3111,24 @@
     ],
     "width": 1100,
     "height": 825,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bosnia-Herzegovina_and_Sanjak_of_Novibazar.JPG/3840px-Bosnia-Herzegovina_and_Sanjak_of_Novibazar.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bosnia-Herzegovina_and_Sanjak_of_Novibazar.JPG/3840px-Bosnia-Herzegovina_and_Sanjak_of_Novibazar.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 525,
+        "height": 479,
+        "src": "/assets/img/2026-10-06/3839-1-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 824,
+        "src": "/assets/img/2026-10-06/3839-1-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 824,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -5286,6 +5340,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHope_Diamond.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/HudsonValley1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/HudsonValley1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 295,
+        "height": 1205,
+        "src": "/assets/img/2026-10-06/3843-2-360.webp"
+      },
+      {
+        "width": 360,
+        "height": 1470,
+        "src": "/assets/img/2026-10-06/3843-2-360.webp"
+      }
+    ],
+    "width": 360,
+    "height": 1470,
+    "credit": {
+      "artist": "Louis Brion de la Tour",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHudsonValley1777.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg",
     "sources": [
@@ -5343,6 +5420,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Cameo_of_France-removebg.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Petit_Journal_Balkan_Crisis_%281908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 929,
+        "src": "/assets/img/2026-10-06/3839-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1309,
+        "src": "/assets/img/2026-10-06/3839-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1309,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALe_Petit_Journal_Balkan_Crisis_(1908).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/17/Congress_of_Vienna.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7628,6 +7728,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_David_Starr_Jordan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/WestuinghouseSteamAndAirBrakes_USP144006.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/WestuinghouseSteamAndAirBrakes_USP144006.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 538,
+        "src": "/assets/img/2026-10-06/3841-2-640.webp"
+      },
+      {
+        "width": 754,
+        "height": 634,
+        "src": "/assets/img/2026-10-06/3841-2-754.webp"
+      }
+    ],
+    "width": 754,
+    "height": 634,
+    "credit": {
+      "artist": "USP144006",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWestuinghouseSteamAndAirBrakes_USP144006.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/1099_Siege_of_Jerusalem.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/1099_Siege_of_Jerusalem.jpg",
     "sources": [
@@ -8094,6 +8217,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFolio_from_the_Jalandhar_recension_of_the_Goindwal_Pothi.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/38/Punch_Anti-Irish_propaganda_%281882%29_Irish_Frankenstein.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Punch_Anti-Irish_propaganda_%281882%29_Irish_Frankenstein.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 492,
+        "height": 661,
+        "src": "/assets/img/2026-10-06/3842-2-600.webp"
+      },
+      {
+        "width": 600,
+        "height": 806,
+        "src": "/assets/img/2026-10-06/3842-2-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 806,
+    "credit": {
+      "artist": "John Tenniel",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APunch_Anti-Irish_propaganda_(1882)_Irish_Frankenstein.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/38/Wilbur_Wright-crop.jpg": {
@@ -10166,6 +10312,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille_Yorktown.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Charles_Stewart_Parnell_-_Brady-Handy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Charles_Stewart_Parnell_-_Brady-Handy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 803,
+        "src": "/assets/img/2026-10-06/3842-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1381,
+        "src": "/assets/img/2026-10-06/3842-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1381,
+    "credit": {
+      "artist": "Mathew Benjamin Brady / Levin Corbin Handy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Stewart_Parnell_-_Brady-Handy.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/55/Elizabeth_Cady_Stanton_and_Susan_B_Anthony.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Elizabeth_Cady_Stanton_and_Susan_B_Anthony.jpg",
     "sources": [
@@ -10476,6 +10645,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThomas_Cavendish.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5b/George_Westinghouse_1884.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/George_Westinghouse_1884.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 840,
+        "src": "/assets/img/2026-10-06/3841-0-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 1313,
+        "src": "/assets/img/2026-10-06/3841-0-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 1313,
+    "credit": {
+      "artist": "unknown (Life time: subject died before 1914)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Westinghouse_1884.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Giuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12687,6 +12879,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConjoined_X-ray.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/M._Parnell_-_DPLA_-_f0008d2e844056344bca19d702be39ed_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/M._Parnell_-_DPLA_-_f0008d2e844056344bca19d702be39ed_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 531,
+        "height": 800,
+        "src": "/assets/img/2026-10-06/3842-1-531.webp"
+      }
+    ],
+    "width": 531,
+    "height": 800,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM._Parnell_-_DPLA_-_f0008d2e844056344bca19d702be39ed_(page_1).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/75/President_Ronald_Reagan_and_Nancy_Reagan_During_His_Trip_to_West_Berlin_and_His_Remarks_at_The_Berlin_Wall%2C_Brandenburg_Gate_with_Eberhard_Diepgen_-_DPLA_-_1fab90c4bd51284803dceaa594c2caa4.jpg": {
@@ -19611,6 +19821,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFamily-of-Henry-VII.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/George_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/George_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 396,
+        "height": 439,
+        "src": "/assets/img/2026-10-06/3843-1-396.webp"
+      }
+    ],
+    "width": 396,
+    "height": 439,
+    "credit": {
+      "artist": "Buttre, John Chester, 1821-1893: engraver, Ames, Ezra, 1768-1836: artist.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Clinton.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg",
     "sources": [
@@ -21817,6 +22045,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWreck_of_the_Central_America.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/eb/George_Westinghouse_in_1864%2C_at_age_17.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/George_Westinghouse_in_1864%2C_at_age_17.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1149,
+        "src": "/assets/img/2026-10-06/3841-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1975,
+        "src": "/assets/img/2026-10-06/3841-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1975,
+    "credit": {
+      "artist": "Francis E. Leupp",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Westinghouse_in_1864%2C_at_age_17.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Elizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg": {
