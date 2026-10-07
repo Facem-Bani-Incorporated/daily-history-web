@@ -3149,6 +3149,24 @@
     "height": 1200,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Khalili_Collection_Islamic_Art_av_964.jpg/3840px-Khalili_Collection_Islamic_Art_av_964.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Khalili_Collection_Islamic_Art_av_964.jpg/3840px-Khalili_Collection_Islamic_Art_av_964.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 326,
+        "src": "/assets/img/2026-10-07/3848-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 561,
+        "src": "/assets/img/2026-10-07/3848-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 561,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Ping_Yang.jpg/3840px-Battle_of_Ping_Yang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -5363,6 +5381,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHudsonValley1777.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Meister_der_Chronik_des_Konzils_von_Konstanz_001-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Meister_der_Chronik_des_Konzils_von_Konstanz_001-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 555,
+        "src": "/assets/img/2026-10-07/3851-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 953,
+        "src": "/assets/img/2026-10-07/3851-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 953,
+    "credit": {
+      "artist": "Meister der Chronik des Konzils von Konstanz",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMeister_der_Chronik_des_Konzils_von_Konstanz_001-cropped.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Benito_Mussolini_%283x4_close_cropped%29.jpg",
     "sources": [
@@ -5850,6 +5891,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_(3x4_close_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Liten_askenasisk_sjofar_5380.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Liten_askenasisk_sjofar_5380.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 445,
+        "src": "/assets/img/2026-10-07/3847-1-640.webp"
+      },
+      {
+        "width": 841,
+        "height": 585,
+        "src": "/assets/img/2026-10-07/3847-1-841.webp"
+      }
+    ],
+    "width": 841,
+    "height": 585,
+    "credit": {
+      "artist": null,
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALiten_askenasisk_sjofar_5380.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6807,6 +6871,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMongolArcher.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/27/Albert_and_Elizabeth.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Albert_and_Elizabeth.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 688,
+        "src": "/assets/img/2026-10-07/3851-2-640.webp"
+      },
+      {
+        "width": 658,
+        "height": 1041,
+        "src": "/assets/img/2026-10-07/3851-2-658.webp"
+      }
+    ],
+    "width": 658,
+    "height": 1041,
+    "credit": {
+      "artist": "304König_Albrecht_II.jpg: UnknownUnknown derivative work: Surtsicna",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlbert_and_Elizabeth.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/27/Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11418,6 +11505,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalabar_1968.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/62/Elisabeth_of_Luxemburg_-_Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Elisabeth_of_Luxemburg_-_Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 287,
+        "height": 516,
+        "src": "/assets/img/2026-10-07/3851-0-287.webp"
+      }
+    ],
+    "width": 287,
+    "height": 516,
+    "credit": {
+      "artist": "Meister der Chronik des Konzils von Konstanz",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElisabeth_of_Luxemburg_-_Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11534,6 +11639,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APippinImperialChronicleCorpusChristiCollegeMS373Fol14.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/64/Uppsala_University_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Uppsala_University_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 408,
+        "src": "/assets/img/2026-10-07/3850-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 701,
+        "src": "/assets/img/2026-10-07/3850-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 701,
+    "credit": {
+      "artist": "ScanianDragon",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUppsala_University_2023.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/65/Marcel_Bezen%C3%A7on_%281980%29.jpg": {
@@ -12968,6 +13096,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACabral_family_coat_of_arms.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Creation_of_Light_Detail_2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Creation_of_Light_Detail_2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 513,
+        "height": 370,
+        "src": "/assets/img/2026-10-07/3847-2-513.webp"
+      }
+    ],
+    "width": 513,
+    "height": 370,
+    "credit": {
+      "artist": "Vanished user at en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACreation_of_Light_Detail_2.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/76/Hoftenwalle.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hoftenwalle.JPG",
     "sources": [
@@ -13204,6 +13350,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis-Auguste_de_France%2C_duc_de_Berry.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/78/Gold_dinar_of_al-Qaim%2C_AH_322-334.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gold_dinar_of_al-Qaim%2C_AH_322-334.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 300,
+        "height": 145,
+        "src": "/assets/img/2026-10-07/3848-1-300.webp"
+      }
+    ],
+    "width": 300,
+    "height": 145,
+    "credit": {
+      "artist": "10th-century mintmasters",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_dinar_of_al-Qaim%2C_AH_322-334.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/78/Istanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakka%C5%9F_Osman.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14019,6 +14183,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AProtests_in_Lom%C3%A9%2C_Togo%2C_18_octobre_2017_04.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/Uppsala_Gustavianum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Uppsala_Gustavianum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-10-07/3850-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-07/3850-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "No machine-readable author provided. Jungpionier assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUppsala_Gustavianum.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/81/Battle_of_Nicopolis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/81/Battle_of_Nicopolis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14232,6 +14419,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMercury_3_-_Patch.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/Portrait_of_Ezzelino_III_da_Romano_%28by_Cristofano_dell%27Altissimo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/Portrait_of_Ezzelino_III_da_Romano_%28by_Cristofano_dell%27Altissimo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 856,
+        "src": "/assets/img/2026-10-07/3849-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1472,
+        "src": "/assets/img/2026-10-07/3849-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1472,
+    "credit": {
+      "artist": "Cristofano dell'Altissimo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Ezzelino_III_da_Romano_(by_Cristofano_dell'Altissimo).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/83/Pueblo01.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14462,6 +14672,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/Gold_dinar_of_al-Mansur%2C_al-Mansuriya%2C_AH_338.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gold_dinar_of_al-Mansur%2C_al-Mansuriya%2C_AH_338.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 314,
+        "src": "/assets/img/2026-10-07/3848-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 392,
+        "src": "/assets/img/2026-10-07/3848-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 392,
+    "credit": {
+      "artist": "Original: Unknown, 10th-century mint-master. Uploader: Constantine Plakidas",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_dinar_of_al-Mansur%2C_al-Mansuriya%2C_AH_338.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/89/Coronation_Henry4_England_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16930,6 +17163,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jewish_calendar%2C_showing_Adar_II_between_1927_and_1948.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jewish_calendar%2C_showing_Adar_II_between_1927_and_1948.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 558,
+        "src": "/assets/img/2026-10-07/3847-0-640.webp"
+      },
+      {
+        "width": 734,
+        "height": 640,
+        "src": "/assets/img/2026-10-07/3847-0-734.webp"
+      }
+    ],
+    "width": 734,
+    "height": 640,
+    "credit": {
+      "artist": "Onceinawhile",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJewish_calendar%2C_showing_Adar_II_between_1927_and_1948.jpeg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18458,6 +18714,29 @@
       "license": "GFDL 1.2",
       "licenseUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAerospatiale-British_Aircraft_Corporation_Concorde%2C_British_Airways_JP71120.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Anders-Celsius.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Anders-Celsius.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-10-07/3850-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-07/3850-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Olof Arenius",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAnders-Celsius.jpeg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c1/Edmund_Hillary_and_Tenzing_Norgay.jpg": {
