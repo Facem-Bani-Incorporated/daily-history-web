@@ -4775,6 +4775,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFan_Zhongyan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gaule_et_pays_voisins_de_768_%C3%A0_771%2C_Auguste_Longnon_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gaule_et_pays_voisins_de_768_%C3%A0_771%2C_Auguste_Longnon_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 512,
+        "src": "/assets/img/2026-10-09/3868-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 880,
+        "src": "/assets/img/2026-10-09/3868-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 880,
+    "credit": {
+      "artist": "Auguste Longnon",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGaule_et_pays_voisins_de_768_%C3%A0_771%2C_Auguste_Longnon_1907.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png",
     "sources": [
@@ -5806,6 +5829,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Lumiere_with_microscope_and_test_tubes.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/Wuchangmilitary9star.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wuchangmilitary9star.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 483,
+        "height": 487,
+        "src": "/assets/img/2026-10-09/3865-1-483.webp"
+      }
+    ],
+    "width": 483,
+    "height": 487,
+    "credit": {
+      "artist": "1911 Wuchang uprising military flag designers",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWuchangmilitary9star.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Concentration_camp_dachau_aerial_view.jpg",
     "sources": [
@@ -5845,6 +5886,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoughton_Hall_01.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1a/Memorial_for_the_Union_Postale_Universelle_in_Bern.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Memorial_for_the_Union_Postale_Universelle_in_Bern.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-09/3866-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-09/3866-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Paradise Chronicle",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMemorial_for_the_Union_Postale_Universelle_in_Bern.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1a/Statue_of_Deified_Empress_Livia_-_Altes_Museum_-_Joy_of_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6451,6 +6515,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIvan-Pavlov08.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Kepler%27s_Supernova_Remnant-_A_Star%27s_Death_Comes_to_Life_%282941498208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kepler%27s_Supernova_Remnant-_A_Star%27s_Death_Comes_to_Life_%282941498208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-10-09/3867-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-10-09/3867-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "Smithsonian Institution from United States",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKepler's_Supernova_Remnant-_A_Star's_Death_Comes_to_Life_(2941498208).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Mongol_secret_weapon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7656,6 +7743,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEurope_before_Operation_Barbarossa%2C_1941_(in_German).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/30/Hubei_Military_Government.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hubei_Military_Government.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 380,
+        "src": "/assets/img/2026-10-09/3865-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 653,
+        "src": "/assets/img/2026-10-09/3865-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 653,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHubei_Military_Government.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/30/Replica_Rocket_and_coach.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Replica_Rocket_and_coach.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8851,6 +8961,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrench_Religious_Wars_Timeline.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kepler_Drawing_of_SN_1604.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kepler_Drawing_of_SN_1604.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 326,
+        "height": 495,
+        "src": "/assets/img/2026-10-09/3867-1-480.webp"
+      },
+      {
+        "width": 480,
+        "height": 729,
+        "src": "/assets/img/2026-10-09/3867-1-480.webp"
+      }
+    ],
+    "width": 480,
+    "height": 729,
+    "credit": {
+      "artist": "Johannes Kepler",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKepler_Drawing_of_SN_1604.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg",
     "sources": [
@@ -9376,6 +9509,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Lakota_Wars_(1854-1890)._The_battlefields_and_the_Lakota_treaty_territory_of_1851_(circa.).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_Postal_Union_stamp_10c_1974_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_Postal_Union_stamp_10c_1974_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 514,
+        "height": 802,
+        "src": "/assets/img/2026-10-09/3866-2-627.webp"
+      },
+      {
+        "width": 627,
+        "height": 978,
+        "src": "/assets/img/2026-10-09/3866-2-627.webp"
+      }
+    ],
+    "width": 627,
+    "height": 978,
+    "credit": {
+      "artist": "USPOD",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUniversal_Postal_Union_stamp_10c_1974_issue.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14825,6 +14981,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/88/Denier_sous_Carloman_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Denier_sous_Carloman_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 315,
+        "src": "/assets/img/2026-10-09/3868-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 542,
+        "src": "/assets/img/2026-10-09/3868-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 542,
+    "credit": {
+      "artist": "cgb.fr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADenier_sous_Carloman_Ier.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/88/Facial_Chronicle_-_b.16%2C_p._462_-_Great_standing_on_the_Ugra.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Facial_Chronicle_-_b.16%2C_p._462_-_Great_standing_on_the_Ugra.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14933,6 +15112,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFalaise_Chateau_Guillaume_Conquerant_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Georg_Barl%C3%B6sius_Heinrich_von_Stephan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Georg_Barl%C3%B6sius_Heinrich_von_Stephan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 450,
+        "height": 680,
+        "src": "/assets/img/2026-10-09/3866-1-450.webp"
+      }
+    ],
+    "width": 450,
+    "height": 680,
+    "credit": {
+      "artist": "Georg Barlösius",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorg_Barl%C3%B6sius_Heinrich_von_Stephan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Marcel-roswell-debris_0.jpg": {
@@ -20425,6 +20622,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADe_slag_aan_de_Boyne_(Ierland)_tussen_Jacobus_II_en_Willem_III%2C_12_juli_1690_Rijksmuseum_SK-A-605.jpeg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-10-09/3867-0-640.webp"
+      },
+      {
+        "width": 750,
+        "height": 750,
+        "src": "/assets/img/2026-10-09/3867-0-750.webp"
+      }
+    ],
+    "width": 750,
+    "height": 750,
+    "credit": {
+      "artist": "NASA/ESA/JHU/R.Sankrit &amp; W.Blair",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKeplers_supernova.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -23201,6 +23421,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJimCrowCar2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Revolutionary_soldiers_prepare_to_attack_Hankow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Revolutionary_soldiers_prepare_to_attack_Hankow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 379,
+        "src": "/assets/img/2026-10-09/3865-2-640.webp"
+      },
+      {
+        "width": 950,
+        "height": 563,
+        "src": "/assets/img/2026-10-09/3865-2-950.webp"
+      }
+    ],
+    "width": 950,
+    "height": 563,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARevolutionary_soldiers_prepare_to_attack_Hankow.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f4/AWMB02113_HandleyPage_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
