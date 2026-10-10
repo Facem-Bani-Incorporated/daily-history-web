@@ -4629,6 +4629,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A2016_Malakka%2C_Stadhuys_(09).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 322,
+        "src": "/assets/img/2026-10-10/3874-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 554,
+        "src": "/assets/img/2026-10-10/3874-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 554,
+    "credit": {
+      "artist": "Persian Painter Abbas Al-Musavi.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABrooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_cropped.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Commonwealth_Unite_1653_692157.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Commonwealth_Unite_1653_692157.jpg",
     "sources": [
@@ -4645,6 +4668,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACommonwealth_Unite_1653_692157.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germanicus_Aureus.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Germanicus_Aureus.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 250,
+        "height": 247,
+        "src": "/assets/img/2026-10-10/3875-0-250.webp"
+      }
+    ],
+    "width": 250,
+    "height": 247,
+    "credit": {
+      "artist": "Caligula",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGermanicus_Aureus.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Harold-III-Coin.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5829,6 +5870,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis_Lumiere_with_microscope_and_test_tubes.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/RomaAraPacis_ProcessioneSudParticolare.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/RomaAraPacis_ProcessioneSudParticolare.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 370,
+        "src": "/assets/img/2026-10-10/3875-1-640.webp"
+      },
+      {
+        "width": 752,
+        "height": 435,
+        "src": "/assets/img/2026-10-10/3875-1-752.webp"
+      }
+    ],
+    "width": 752,
+    "height": 435,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARomaAraPacis_ProcessioneSudParticolare.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/19/Wuchangmilitary9star.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Wuchangmilitary9star.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6400,6 +6464,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorth_Pacific_Subtropical_Convergence_Zone.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/20/Age_of_Caliphs.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Age_of_Caliphs.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 325,
+        "src": "/assets/img/2026-10-10/3873-2-640.webp"
+      },
+      {
+        "width": 684,
+        "height": 347,
+        "src": "/assets/img/2026-10-10/3873-2-684.webp"
+      }
+    ],
+    "width": 684,
+    "height": 347,
+    "credit": {
+      "artist": "United States of America federal government",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAge_of_Caliphs.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/20/Bell_X-1A_in_flight.jpg": {
@@ -9488,6 +9575,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoragolla_Walauwa%2C_Atthanagalla%2C_Sri_Lanka.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 430,
+        "height": 600,
+        "src": "/assets/img/2026-10-10/3873-1-430.webp"
+      }
+    ],
+    "width": 430,
+    "height": 600,
+    "credit": {
+      "artist": "Julius Schnorr von Carolsfeld",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Saracen_Army_outside_Paris%2C_730-32_AD.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Lakota_Wars_%281854-1890%29._The_battlefields_and_the_Lakota_treaty_territory_of_1851_%28circa.%29.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Lakota_Wars_%281854-1890%29._The_battlefields_and_the_Lakota_treaty_territory_of_1851_%28circa.%29.png",
     "sources": [
@@ -10161,6 +10266,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEverest_kalapatthar_crop.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4b/Great_Hurricane_%281780%29_areas_affected.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Great_Hurricane_%281780%29_areas_affected.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 394,
+        "height": 286,
+        "src": "/assets/img/2026-10-10/3876-0-394.webp"
+      }
+    ],
+    "width": 394,
+    "height": 286,
+    "credit": {
+      "artist": "from en:Image:LocationLesserAntilles.png",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_Hurricane_(1780)_areas_affected.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/4b/Laser_DSC09088.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Laser_DSC09088.JPG",
     "sources": [
@@ -10430,6 +10553,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 455,
+        "src": "/assets/img/2026-10-10/3877-1-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 455,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATasmanroutes.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15587,6 +15728,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlooding_after_1991_cyclone.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Albert_Koch_Varusschlacht_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Albert_Koch_Varusschlacht_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 896,
+        "src": "/assets/img/2026-10-10/3875-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1540,
+        "src": "/assets/img/2026-10-10/3875-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1540,
+    "credit": {
+      "artist": "Otto Albert Koch",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOtto_Albert_Koch_Varusschlacht_1909.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/Three_Mamelukes_with_lances_on_horseback.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Three_Mamelukes_with_lances_on_horseback.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17365,6 +17529,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVienna_Allied_sectors_(1945-1955).png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Arab-Sasanian_coin_issued_by_Yazid_I_ibn_Mu%27awiya_in_the_year_of_the_Battle_of_Karbala.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Arab-Sasanian_coin_issued_by_Yazid_I_ibn_Mu%27awiya_in_the_year_of_the_Battle_of_Karbala.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 318,
+        "src": "/assets/img/2026-10-10/3874-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 397,
+        "src": "/assets/img/2026-10-10/3874-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 397,
+    "credit": {
+      "artist": "User:LouisAragon (uploader)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArab-Sasanian_coin_issued_by_Yazid_I_ibn_Mu'awiya_in_the_year_of_the_Battle_of_Karbala.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/Constans_II_tremissis_81089.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Constans_II_tremissis_81089.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18448,6 +18635,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARed_Turban.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b8/Abel_Tasman_Tasmania_1642_SLNSW_FL3174899.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Abel_Tasman_Tasmania_1642_SLNSW_FL3174899.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 397,
+        "src": "/assets/img/2026-10-10/3877-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 682,
+        "src": "/assets/img/2026-10-10/3877-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 682,
+    "credit": {
+      "artist": "Hessel Gerritsz",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbel_Tasman_Tasmania_1642_SLNSW_FL3174899.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brasilia_aerea_estadio_nacional.jpg": {
@@ -20906,6 +21116,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGalileo_galilei%2C_telescopi_del_1609-10_ca..JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Great_hurricane_of_1780_Sint_Eustatius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Great_hurricane_of_1780_Sint_Eustatius.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 477,
+        "src": "/assets/img/2026-10-10/3876-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 820,
+        "src": "/assets/img/2026-10-10/3876-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 820,
+    "credit": {
+      "artist": "Walter Hellebrand",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreat_hurricane_of_1780_Sint_Eustatius.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_Birthplace_2.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Benjamin_Franklin_Birthplace_2.JPG",
     "sources": [
@@ -22372,6 +22605,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoralia_in_Job_MS_dragonslayer.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 526,
+        "src": "/assets/img/2026-10-10/3873-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 905,
+        "src": "/assets/img/2026-10-10/3873-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 905,
+    "credit": {
+      "artist": "Charles de Steuben",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASteuben_-_Bataille_de_Poitiers.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_VI-Isabeau_de_Bavi%C3%A8re.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Charles_VI-Isabeau_de_Bavi%C3%A8re.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -22457,6 +22713,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANavarino.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_shrine_of_Imam_Hussain_in_Karbala.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_shrine_of_Imam_Hussain_in_Karbala.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1138,
+        "src": "/assets/img/2026-10-10/3874-2-640.webp"
+      },
+      {
+        "width": 675,
+        "height": 1200,
+        "src": "/assets/img/2026-10-10/3874-2-675.webp"
+      }
+    ],
+    "width": 675,
+    "height": 1200,
+    "credit": {
+      "artist": "Bahr Alwatifi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_shrine_of_Imam_Hussain_in_Karbala.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dachau_Death_Train.jpeg": {
@@ -23132,6 +23411,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWimbledon_Championship_1877.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abel_Tasman_Navigateur_en_Australie_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abel_Tasman_Navigateur_en_Australie_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 641,
+        "src": "/assets/img/2026-10-10/3877-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1101,
+        "src": "/assets/img/2026-10-10/3877-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1101,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbel_Tasman_Navigateur_en_Australie_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f0/John_Everett_Millais_%281829-1896%29_-_The_Boyhood_of_Raleigh_-_N01691_-_National_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
