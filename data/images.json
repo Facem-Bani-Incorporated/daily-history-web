@@ -3041,6 +3041,24 @@
     "height": 728,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Buddha_Hall_105.JPG/3840px-Buddha_Hall_105.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Buddha_Hall_105.JPG/3840px-Buddha_Hall_105.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-11/3882-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-11/3882-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3957,6 +3975,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APacific_War_Japanese_Advances.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/06/Battle_of_Valcour_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Battle_of_Valcour_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 419,
+        "src": "/assets/img/2026-10-11/3883-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 719,
+        "src": "/assets/img/2026-10-11/3883-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 719,
+    "credit": {
+      "artist": "V. Zveg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Valcour_Island.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5243,6 +5284,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Mandela.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/Guy_Carleton.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Guy_Carleton.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-10-11/3883-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-11/3883-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Baron H. de Dirckinck Holmfeldt (1835-1912)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGuy_Carleton.webp"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/13/Peter_II_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Peter_II_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6113,6 +6177,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpire1481.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 735,
+        "src": "/assets/img/2026-10-11/3882-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1263,
+        "src": "/assets/img/2026-10-11/3882-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1263,
+    "credit": {
+      "artist": "Duc (pixiduc) from Paris, France.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThich_Nhat_Hanh_12_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6849,6 +6936,24 @@
         "width": 531,
         "height": 351,
         "src": "/assets/img/2026-06-05/1297-2-531.webp"
+      }
+    ],
+    "width": 531,
+    "height": 351,
+    "credit": {
+      "artist": "FAK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFoto_van_oorlog.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/Foto_van_oorlog.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Foto_van_oorlog.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 531,
+        "height": 351,
+        "src": "/assets/img/2026-10-11/3881-2-531.webp"
       }
     ],
     "width": 531,
@@ -8171,6 +8276,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreaty_of_Guadalupe_Hidalgo.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/William_Heysham_Overend_-_The_attack_on_the_court_house_St_Thomas_in_the_East_Jamaica%2C_1865_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/William_Heysham_Overend_-_The_attack_on_the_court_house_St_Thomas_in_the_East_Jamaica%2C_1865_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-10-11/3884-0-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 667,
+        "src": "/assets/img/2026-10-11/3884-0-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 667,
+    "credit": {
+      "artist": "William Heysham Overend",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_Heysham_Overend_-_The_attack_on_the_court_house_St_Thomas_in_the_East_Jamaica%2C_1865_(1).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11031,6 +11159,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASfdrake42.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/The_Jamaica_Insurrection.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/The_Jamaica_Insurrection.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 431,
+        "src": "/assets/img/2026-10-11/3884-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 740,
+        "src": "/assets/img/2026-10-11/3884-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 740,
+    "credit": {
+      "artist": "Author John Cassell Publisher Cassell Petter &amp; Galpin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Jamaica_Insurrection.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg",
     "sources": [
@@ -11933,6 +12084,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalabar_1968.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/62/ChamplainValley1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/ChamplainValley1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 430,
+        "height": 1347,
+        "src": "/assets/img/2026-10-11/3883-2-632.webp"
+      },
+      {
+        "width": 632,
+        "height": 1980,
+        "src": "/assets/img/2026-10-11/3883-2-632.webp"
+      }
+    ],
+    "width": 632,
+    "height": 1980,
+    "credit": {
+      "artist": "Louis Brion de la Tour",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChamplainValley1777.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/62/Elisabeth_of_Luxemburg_-_Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -13225,6 +13399,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARaleigh's_first_pipe_in_England.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Wexford_Opera_House_rises_above_the_old_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wexford_Opera_House_rises_above_the_old_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 584,
+        "src": "/assets/img/2026-10-11/3885-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1003,
+        "src": "/assets/img/2026-10-11/3885-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1003,
+    "credit": {
+      "artist": "Sinn Féin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWexford_Opera_House_rises_above_the_old_skyline.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/73/AlbertMathieuFavierPlanOfCoachServiceThroughtTheChanneltunnel.png": {
@@ -14950,6 +15147,29 @@
         "width": 1100,
         "height": 1141,
         "src": "/assets/img/2026-06-05/1297-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1141,
+    "credit": {
+      "artist": "The British Army and The Illustrated London News",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASecond_Boer_War_Collage.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 664,
+        "src": "/assets/img/2026-10-11/3881-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1141,
+        "src": "/assets/img/2026-10-11/3881-0-1100.webp"
       }
     ],
     "width": 1100,
@@ -17447,6 +17667,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChannel_Tunnel_1856_idea_from_Gamond_1a.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Colonel_Fyfe_and_Maroons%2C_Oversize_2009-0016E.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Colonel_Fyfe_and_Maroons%2C_Oversize_2009-0016E.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1147,
+        "src": "/assets/img/2026-10-11/3884-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1971,
+        "src": "/assets/img/2026-10-11/3884-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1971,
+    "credit": {
+      "artist": "Unrecorded",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AColonel_Fyfe_and_Maroons%2C_Oversize_2009-0016E.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ab/INTELSAT_I_%28Early_Bird%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/INTELSAT_I_%28Early_Bird%29.jpg",
     "sources": [
@@ -17650,6 +17893,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStrategic_Situation_of_Western_Europe_1815.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Chan_Khong_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Chan_Khong_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 576,
+        "height": 634,
+        "src": "/assets/img/2026-10-11/3882-2-576.webp"
+      }
+    ],
+    "width": 576,
+    "height": 634,
+    "credit": {
+      "artist": "Geoff Livingston",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChan_Khong_cropped.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ad/Denier_sous_Louis_II_dit_le_B%C3%A8gue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -26637,6 +26898,19 @@
         "width": 352,
         "height": 944,
         "src": "/assets/img/2026-06-05/1297-1-352.webp"
+      }
+    ],
+    "width": 352,
+    "height": 944,
+    "credit": null
+  },
+  "https://upload.wikimedia.org/wikipedia/en/5/53/Alexander_Duncan_Turnbull_1901%2C_Boer_War.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/5/53/Alexander_Duncan_Turnbull_1901%2C_Boer_War.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 352,
+        "height": 944,
+        "src": "/assets/img/2026-10-11/3881-1-352.webp"
       }
     ],
     "width": 352,
