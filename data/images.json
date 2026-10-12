@@ -3329,6 +3329,24 @@
     "height": 937,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/3840px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/3840px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 774,
+        "src": "/assets/img/2026-10-12/3890-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1331,
+        "src": "/assets/img/2026-10-12/3890-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1331,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/London_Police_protection_236.jpg/3840px-London_Police_protection_236.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/London_Police_protection_236.jpg/3840px-London_Police_protection_236.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4535,6 +4553,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALarge_explosion_aboard_USS_Lexington_(CV-2)%2C_8_May_1942_(80-G-16651).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Theodore_Roosevelt_1907_Portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Theodore_Roosevelt_1907_Portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-10-12/3893-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-12/3893-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Harris &amp; Ewing, photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATheodore_Roosevelt_1907_Portrait_(3x4_close_cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0c/Wpdms_battleoflakeerie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -8127,6 +8168,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Henry_V_cropped.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/32/Gamsbaerte_2194.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gamsbaerte_2194.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 422,
+        "src": "/assets/img/2026-10-12/3892-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 726,
+        "src": "/assets/img/2026-10-12/3892-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 726,
+    "credit": {
+      "artist": "Harald Bischoff",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGamsbaerte_2194.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/M._S._Subbulakshmi_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11072,6 +11136,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAduC_132_Pierre_Vergniaud_(P.V.%2C_1758-1793).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 845,
+        "src": "/assets/img/2026-10-12/3891-0-640.webp"
+      },
+      {
+        "width": 920,
+        "height": 1480,
+        "src": "/assets/img/2026-10-12/3891-0-920.webp"
+      }
+    ],
+    "width": 920,
+    "height": 1480,
+    "credit": {
+      "artist": "Surenae",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACyrus_II_(The_Great)_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Emancipation_Proclamation.PNG",
     "sources": [
@@ -12127,6 +12214,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElisabeth_of_Luxemburg_-_Meister_der_Chronik_des_Konzils_von_Konstanz_001.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/62/Monsieur_and_Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_%281771_-_1839%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Monsieur_and_Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_%281771_-_1839%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 532,
+        "src": "/assets/img/2026-10-12/3894-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 915,
+        "src": "/assets/img/2026-10-12/3894-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 915,
+    "credit": {
+      "artist": "Christoph Haller von Hallerstein, (1771 - 1839)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMonsieur_and_Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_(1771_-_1839).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12632,6 +12742,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_II_King_of_Bohemia_Holy_Roman_Emperor.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 797,
+        "src": "/assets/img/2026-10-12/3893-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1370,
+        "src": "/assets/img/2026-10-12/3893-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1370,
+    "credit": {
+      "artist": "Adam Cuerden",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATheodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(2).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6a/1945-08-01JapWW2BattlefrontAtlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -13716,6 +13849,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D0%96%D1%83%D1%83%D0%B1%D0%B8%D1%87%D0%B8%D0%B3.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/76/Ascension_de_Madame_Garnerin%2C_le_28_mars_1802_v2_Lib_of_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ascension_de_Madame_Garnerin%2C_le_28_mars_1802_v2_Lib_of_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 437,
+        "src": "/assets/img/2026-10-12/3894-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 751,
+        "src": "/assets/img/2026-10-12/3894-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 751,
+    "credit": {
+      "artist": "Unknown - first published in 1870s, up to 140 years ago.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAscension_de_Madame_Garnerin%2C_le_28_mars_1802_v2_Lib_of_Congress.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/76/Cabral_family_coat_of_arms.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15902,6 +16058,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Adam_Pferderennen_Oktoberfest_1823.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Adam_Pferderennen_Oktoberfest_1823.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 436,
+        "src": "/assets/img/2026-10-12/3892-0-640.webp"
+      },
+      {
+        "width": 660,
+        "height": 450,
+        "src": "/assets/img/2026-10-12/3892-0-660.webp"
+      }
+    ],
+    "width": 660,
+    "height": 450,
+    "credit": {
+      "artist": "Heinrich Adam",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAdam_Pferderennen_Oktoberfest_1823.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Britain_Stronger_in_Europe_campaigners%2C_Southgate%2C_London%2C_11_June_2016_01.jpg",
     "sources": [
@@ -17831,6 +18010,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohnHarvard_Signature.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_%281771_-_1839%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_%281771_-_1839%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 539,
+        "height": 704,
+        "src": "/assets/img/2026-10-12/3894-0-539.webp"
+      }
+    ],
+    "width": 539,
+    "height": 704,
+    "credit": {
+      "artist": "Christoph Haller von Hallerstein",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMadame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_(1771_-_1839)_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mariano_Luis_de_Urquijo_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mariano_Luis_de_Urquijo_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18811,6 +19008,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/I_am_Cyrus%2C_Achaemenid_King_-_Pasargady01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/I_am_Cyrus%2C_Achaemenid_King_-_Pasargady01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 292,
+        "src": "/assets/img/2026-10-12/3891-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 502,
+        "src": "/assets/img/2026-10-12/3891-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 502,
+    "credit": {
+      "artist": "Truth Seeker (fawiki); Dmk121;",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AI_am_Cyrus%2C_Achaemenid_King_-_Pasargady01.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nathan-hale-cityhall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nathan-hale-cityhall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19157,6 +19377,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMississippi_KKK_Conspiracy_Murders_June_21_1964_Parties_To_The_Conspiracy.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bb/Theodore_Roosevelt_at_Age_11.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Theodore_Roosevelt_at_Age_11.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 344,
+        "height": 400,
+        "src": "/assets/img/2026-10-12/3893-2-344.webp"
+      }
+    ],
+    "width": 344,
+    "height": 400,
+    "credit": {
+      "artist": "Roosevelt family",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATheodore_Roosevelt_at_Age_11.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/2000_NH_Proof.png": {
@@ -23922,6 +24160,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1939_German_Diplomatic_passport_used_in_the_USSR.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Carl_Kricheldorf_Portrait_eines_M%C3%A4dchens_in_Tracht.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Carl_Kricheldorf_Portrait_eines_M%C3%A4dchens_in_Tracht.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 850,
+        "src": "/assets/img/2026-10-12/3892-1-640.webp"
+      },
+      {
+        "width": 771,
+        "height": 1024,
+        "src": "/assets/img/2026-10-12/3892-1-771.webp"
+      }
+    ],
+    "width": 771,
+    "height": 1024,
+    "credit": {
+      "artist": "Carl Kricheldorf",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarl_Kricheldorf_Portrait_eines_M%C3%A4dchens_in_Tracht.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fireofmoscow.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Fireofmoscow.jpg",
     "sources": [
@@ -24071,6 +24332,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1812_War_Declaration.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cyrus_stele_in_Pasagardae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cyrus_stele_in_Pasagardae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 568,
+        "src": "/assets/img/2026-10-12/3891-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 976,
+        "src": "/assets/img/2026-10-12/3891-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 976,
+    "credit": {
+      "artist": "Wright, John Henry, 1852-1908 Photograph: Pentocelo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACyrus_stele_in_Pasagardae.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f5/Damascus-Bab_Kisan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
