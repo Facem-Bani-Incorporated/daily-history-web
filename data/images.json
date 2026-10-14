@@ -3113,6 +3113,42 @@
     "height": 825,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG/3840px-GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG/3840px-GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-14/3909-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-14/3909-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Eisenhower_House_1.jpg/3840px-Eisenhower_House_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Eisenhower_House_1.jpg/3840px-Eisenhower_House_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-10-14/3912-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-10-14/3912-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/3840px-Arundel_Russian_Bell_6.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3799,6 +3835,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABonaparte_13_vend%C3%A9miaire_Saint_Roch.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 836,
+        "src": "/assets/img/2026-10-14/3912-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1437,
+        "src": "/assets/img/2026-10-14/3912-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1437,
+    "credit": {
+      "artist": "White House",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_(cropped)(3).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/02/Henry_the_Navigator1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -5041,6 +5100,29 @@
         "width": 800,
         "height": 471,
         "src": "/assets/img/2026-07-03/2162-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 471,
+    "credit": {
+      "artist": "Kyranks",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Eastman_Signature.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/George_Eastman_Signature.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 377,
+        "src": "/assets/img/2026-10-14/3909-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 471,
+        "src": "/assets/img/2026-10-14/3909-1-800.webp"
       }
     ],
     "width": 800,
@@ -6439,6 +6521,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeeuwenhoek_Eschenholz.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1c/Napoleon.Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Napoleon.Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 448,
+        "src": "/assets/img/2026-10-14/3910-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 770,
+        "src": "/assets/img/2026-10-14/3910-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 770,
+    "credit": {
+      "artist": "JoJan - artwork by Vernet and Swebach",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANapoleon.Jena.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vianden%2C_panneau_SEO_%28103%29.jpg": {
@@ -10062,6 +10167,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMecanismo_de_Higgs_PH.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Pevensey_Castle_aerial_alt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pevensey_Castle_aerial_alt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 297,
+        "src": "/assets/img/2026-10-14/3908-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 512,
+        "src": "/assets/img/2026-10-14/3908-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 512,
+    "credit": {
+      "artist": "Pevensey_Castle_aerial_view.jpg: Lieven Smits derivative work: Hchc2009 (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APevensey_Castle_aerial_alt.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/44/Tang_Xuanzong_signature_%28huaya%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tang_Xuanzong_signature_%28huaya%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11674,6 +11802,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AA_group_of_German_prisoners_captured_during_the_fight_at_Semakh_on_the_Sea_of_Galilee._1918.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Battle_Flat_-_geograph.org.uk_-_285158.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Battle_Flat_-_geograph.org.uk_-_285158.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 479,
+        "src": "/assets/img/2026-10-14/3908-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 479,
+    "credit": {
+      "artist": "DS Pugh",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_Flat_-_geograph.org.uk_-_285158.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christine_de_Pisan_and_Queen_Isabeau_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christine_de_Pisan_and_Queen_Isabeau_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12160,6 +12306,29 @@
         "width": 1100,
         "height": 1479,
         "src": "/assets/img/2026-07-03/2162-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1479,
+    "credit": {
+      "artist": "Published by B. C. Forbes Publishing Company, New York, 1917",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Eastman_7.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/60/George_Eastman_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/George_Eastman_7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 860,
+        "src": "/assets/img/2026-10-14/3909-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1479,
+        "src": "/assets/img/2026-10-14/3909-0-1100.webp"
       }
     ],
     "width": 1100,
@@ -19574,6 +19743,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A14_Princes_Gate_Photo_47.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 558,
+        "src": "/assets/img/2026-10-14/3908-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 958,
+        "src": "/assets/img/2026-10-14/3908-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 958,
+    "credit": {
+      "artist": "Myrabella",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABayeux_Tapestry_scene57_Harold_death.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hungary_at_the_End_of_16th_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hungary_at_the_End_of_16th_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20245,6 +20437,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACapture_of_Den_Briel_1572.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c2/Oakwood_Hall_2010.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Oakwood_Hall_2010.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-14/3911-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-14/3911-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Chemical Engineer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOakwood_Hall_2010.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_Mumtaz_Mahal_on_Ivory_%28cropped%29.jpg": {
@@ -21301,6 +21516,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_departement.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 876,
+        "src": "/assets/img/2026-10-14/3912-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1505,
+        "src": "/assets/img/2026-10-14/3912-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1505,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYearbook_portrait_of_Dwight_David_Eisenhower_(1890%E2%80%931969)_at_West_Point_in_1915.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d0/18510831_prospectus_of_%22New-York_Daily_Times%22_%28The_New_York_Times%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/18510831_prospectus_of_%22New-York_Daily_Times%22_%28The_New_York_Times%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -21478,6 +21716,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Clinton.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Battle_of_Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Battle_of_Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 918,
+        "src": "/assets/img/2026-10-14/3910-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1579,
+        "src": "/assets/img/2026-10-14/3910-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1579,
+    "credit": {
+      "artist": "Édouard Detaille",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Jena.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg": {
