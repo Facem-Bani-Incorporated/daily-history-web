@@ -5763,6 +5763,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHudsonValley1777.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Jacques-%C3%89tienne_Montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jacques-%C3%89tienne_Montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 597,
+        "height": 800,
+        "src": "/assets/img/2026-10-15/3918-1-597.webp"
+      }
+    ],
+    "width": 597,
+    "height": 800,
+    "credit": {
+      "artist": "Unidentified painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-%C3%89tienne_Montgolfier.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/15/Meister_der_Chronik_des_Konzils_von_Konstanz_001-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Meister_der_Chronik_des_Konzils_von_Konstanz_001-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -7357,6 +7375,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaladin_in_Egypt_Conquest.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Suleiman_the_Magnificent_by_Dell%27Altissimo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Suleiman_the_Magnificent_by_Dell%27Altissimo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 818,
+        "src": "/assets/img/2026-10-15/3919-1-640.webp"
+      },
+      {
+        "width": 801,
+        "height": 1024,
+        "src": "/assets/img/2026-10-15/3919-1-801.webp"
+      }
+    ],
+    "width": 801,
+    "height": 1024,
+    "credit": {
+      "artist": "Cristofano dell'Altissimo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASuleiman_the_Magnificent_by_Dell'Altissimo.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/25/Declaration_of_Sentiments_table.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Declaration_of_Sentiments_table.jpg",
     "sources": [
@@ -7716,6 +7757,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAttlee%2C_Truman_and_Stalin_at_Potsdam.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Reforma_Gregoriana_del_Calendario_Juliano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Reforma_Gregoriana_del_Calendario_Juliano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 762,
+        "src": "/assets/img/2026-10-15/3916-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1596,
+        "src": "/assets/img/2026-10-15/3916-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1596,
+    "credit": {
+      "artist": "Aloysius Lilius",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AReforma_Gregoriana_del_Calendario_Juliano.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_Hope_Diamond_-_SIA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10671,6 +10735,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASize_comparison_of_iPhone_5C_5S_4S.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Viena_1529.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Viena_1529.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 597,
+        "src": "/assets/img/2026-10-15/3919-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1025,
+        "src": "/assets/img/2026-10-15/3919-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1025,
+    "credit": {
+      "artist": "Niclas Meldeman",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AViena_1529.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/4a/ISS-02_Soyuz_TM-32_Taxi_crewmembers.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/ISS-02_Soyuz_TM-32_Taxi_crewmembers.jpg",
     "sources": [
@@ -11024,6 +11111,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1067,
+        "src": "/assets/img/2026-10-15/3917-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1835,
+        "src": "/assets/img/2026-10-15/3917-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1835,
+    "credit": {
+      "artist": "Jacques-Louis David",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11191,6 +11301,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGNM_-_Gotische_Fibeln.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/Joseph-montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Joseph-montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 634,
+        "height": 800,
+        "src": "/assets/img/2026-10-15/3918-0-634.webp"
+      }
+    ],
+    "width": 634,
+    "height": 800,
+    "credit": {
+      "artist": "Unidentified painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJoseph-montgolfier.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/53/Queen_Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12630,6 +12758,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe_portrait.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/William_Hogarth_028.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/William_Hogarth_028.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 508,
+        "src": "/assets/img/2026-10-15/3916-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 873,
+        "src": "/assets/img/2026-10-15/3916-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 873,
+    "credit": {
+      "artist": "William Hogarth",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_Hogarth_028.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/64/Hartwell_Carver_1847_Pacific_Railroad_Proposal_Title_Page.jpg": {
@@ -14144,6 +14295,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConjoined_X-ray.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/Les_fr%C3%A8res_Montgolfier%2C_PA02761.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Les_fr%C3%A8res_Montgolfier%2C_PA02761.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 809,
+        "src": "/assets/img/2026-10-15/3918-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1391,
+        "src": "/assets/img/2026-10-15/3918-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1391,
+    "credit": {
+      "artist": "Montgolfier, Jacques Etienne (1745-1799) (depicted)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALes_fr%C3%A8res_Montgolfier%2C_PA02761.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/75/M._Parnell_-_DPLA_-_f0008d2e844056344bca19d702be39ed_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15965,6 +16139,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJourney_of_Confucius.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Titian_-_Portrait_of_Charles_V_Seated_-_WGA22964.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Titian_-_Portrait_of_Charles_V_Seated_-_WGA22964.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1084,
+        "src": "/assets/img/2026-10-15/3920-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1863,
+        "src": "/assets/img/2026-10-15/3920-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1863,
+    "credit": {
+      "artist": "Attributed to Titian",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATitian_-_Portrait_of_Charles_V_Seated_-_WGA22964.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8a/Falaise_Chateau_Guillaume_Conquerant_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17862,6 +18059,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarlo_Buonaparte.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Carlo_Buonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Carlo_Buonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 829,
+        "src": "/assets/img/2026-10-15/3917-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1426,
+        "src": "/assets/img/2026-10-15/3917-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1426,
+    "credit": {
+      "artist": "Attributed to Anton Raphael Mengs",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarlo_Buonaparte.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg",
     "sources": [
@@ -17914,6 +18134,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARegio_X.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a5/Skelett_im_Anatomischen_Museum_Basel_-_4675.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Skelett_im_Anatomischen_Museum_Basel_-_4675.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 638,
+        "height": 1798,
+        "src": "/assets/img/2026-10-15/3920-1-638.webp"
+      }
+    ],
+    "width": 638,
+    "height": 1798,
+    "credit": {
+      "artist": "Amada44",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASkelett_im_Anatomischen_Museum_Basel_-_4675.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Charles_Maurice_de_Talleyrand-P%C3%A9rigord_by_Fran%C3%A7ois_G%C3%A9rard%2C_1808.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -24547,6 +24785,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThree_Fellows_of_the_Royal_Society_offering_the_presidency_o_Wellcome_L0022806.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Almanacka_1753.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Almanacka_1753.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 461,
+        "height": 547,
+        "src": "/assets/img/2026-10-15/3916-2-461.webp"
+      }
+    ],
+    "width": 461,
+    "height": 547,
+    "credit": {
+      "artist": "Deryni",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlmanacka_1753.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -24831,6 +25087,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Henri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 913,
+        "src": "/assets/img/2026-10-15/3917-2-640.webp"
+      },
+      {
+        "width": 841,
+        "height": 1200,
+        "src": "/assets/img/2026-10-15/3917-2-841.webp"
+      }
+    ],
+    "width": 841,
+    "height": 1200,
+    "credit": {
+      "artist": "Henri Félix Emmanuel Philippoteaux",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f5/1812_War_Declaration.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1812_War_Declaration.jpg",
     "sources": [
@@ -25056,6 +25335,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_%C3%81lvares_Cabral.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 607,
+        "src": "/assets/img/2026-10-15/3919-0-640.webp"
+      },
+      {
+        "width": 725,
+        "height": 1012,
+        "src": "/assets/img/2026-10-15/3919-0-884.webp"
+      }
+    ],
+    "width": 725,
+    "height": 1012,
+    "credit": {
+      "artist": "Bartel Beham",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASiegeofvienna1529.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Staatsvertragsunterschriften.jpg",
     "sources": [
@@ -25146,6 +25448,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKazan_1552.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Man_dressed_in_Black_by_Calcar_%28Hermitage%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Man_dressed_in_Black_by_Calcar_%28Hermitage%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 792,
+        "src": "/assets/img/2026-10-15/3920-0-640.webp"
+      },
+      {
+        "width": 873,
+        "height": 1080,
+        "src": "/assets/img/2026-10-15/3920-0-873.webp"
+      }
+    ],
+    "width": 873,
+    "height": 1080,
+    "credit": {
+      "artist": "Jan van Calcar",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMan_dressed_in_Black_by_Calcar_(Hermitage).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f7/NH_state_emblem.jpg": {
