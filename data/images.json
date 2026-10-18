@@ -7119,6 +7119,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUS_equipped_Chinese_Army_in_India_marching.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/Alexius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Alexius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 550,
+        "height": 950,
+        "src": "/assets/img/2026-10-18/3944-1-550.webp"
+      }
+    ],
+    "width": 550,
+    "height": 950,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlexius_I.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/21/Casa_do_Infante_%28Porto%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Casa_do_Infante_%28Porto%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9092,6 +9110,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMassacre_of_the_Vaudois_of_Merindol.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/37/Ashingdon_Hilltop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ashingdon_Hilltop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-10-18/3943-0-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 427,
+    "credit": {
+      "artist": "David Kemp",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAshingdon_Hilltop.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/37/Germania_Enobarbo_e_Tiberio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/37/Germania_Enobarbo_e_Tiberio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10699,6 +10735,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AApple_IIc_with_monitor.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Erdbeben_Basel_Jauslin.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Erdbeben_Basel_Jauslin.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 482,
+        "src": "/assets/img/2026-10-18/3946-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 828,
+        "src": "/assets/img/2026-10-18/3946-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 828,
+    "credit": {
+      "artist": "Karl Jauslin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AErdbeben_Basel_Jauslin.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Manuscript_copy_of_Guru_Granth_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Manuscript_copy_of_Guru_Granth_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10825,6 +10884,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APedro_Men%C3%A9ndez_de_Avil%C3%A9s._Escultura%2C_Avil%C3%A9s.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Portraits_of_Famous_Men_-_Zhu_Xi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Portraits_of_Famous_Men_-_Zhu_Xi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 931,
+        "src": "/assets/img/2026-10-18/3945-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1601,
+        "src": "/assets/img/2026-10-18/3945-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1601,
+    "credit": {
+      "artist": "Unknown Chinese artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortraits_of_Famous_Men_-_Zhu_Xi.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Prince_Metternich_by_Lawrence.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10999,6 +11081,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMiracle_of_the_Sun.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4b/Robert_Guiscard.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Robert_Guiscard.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 250,
+        "height": 263,
+        "src": "/assets/img/2026-10-18/3944-0-250.webp"
+      }
+    ],
+    "width": 250,
+    "height": 263,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARobert_Guiscard.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4b/Samuel_Finley_Breese_Morse_-_Samuel_F._B._Morse_Self-Portrait_-_Google_Art_Project.jpg": {
@@ -11247,6 +11347,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrayer_in_Cairo_1865.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%94%AF%E4%B8%80%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%94%AF%E4%B8%80%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 720,
+        "src": "/assets/img/2026-10-18/3945-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1238,
+        "src": "/assets/img/2026-10-18/3945-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1238,
+    "credit": {
+      "artist": "向史公哲曰",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E5%94%AF%E4%B8%80%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg": {
@@ -13684,6 +13807,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrist_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 417,
+        "src": "/assets/img/2026-10-18/3942-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 717,
+        "src": "/assets/img/2026-10-18/3942-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 717,
+    "credit": {
+      "artist": "Gerd Eichmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChurch_of_the_Holy_Sepulchre_by_Gerd_Eichmann_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/First_iPhone_Macworld_2007_DSCF1286.agr.jpg": {
@@ -20431,6 +20577,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATheodore_Roosevelt_at_Age_11.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E5%BB%B6%E5%AE%BE%E9%A6%86.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%E5%BB%B6%E5%AE%BE%E9%A6%86.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 452,
+        "src": "/assets/img/2026-10-18/3945-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 777,
+        "src": "/assets/img/2026-10-18/3945-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 777,
+    "credit": {
+      "artist": "Gisling",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E5%BB%B6%E5%AE%BE%E9%A6%86.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/2000_NH_Proof.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/2000_NH_Proof.png",
     "sources": [
@@ -23204,6 +23373,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALechfeld1457.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rotunda%2C_Adomanan_de_locis_santis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rotunda%2C_Adomanan_de_locis_santis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 436,
+        "src": "/assets/img/2026-10-18/3942-2-640.webp"
+      },
+      {
+        "width": 720,
+        "height": 491,
+        "src": "/assets/img/2026-10-18/3942-2-720.webp"
+      }
+    ],
+    "width": 720,
+    "height": 491,
+    "credit": {
+      "artist": "Talmoryair",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARotunda%2C_Adomanan_de_locis_santis.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/dd/USCapitol1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/USCapitol1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -24049,6 +24241,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConjoined_twins%2C_War_Remnants_Museum_%E3%82%B7%E3%83%A3%E3%83%A0%E5%8F%8C%E7%94%9F%E5%85%90_S0010001.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Erdbebenkreuz.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Erdbebenkreuz.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 240,
+        "height": 320,
+        "src": "/assets/img/2026-10-18/3946-1-240.webp"
+      }
+    ],
+    "width": 240,
+    "height": 320,
+    "credit": {
+      "artist": "The original uploader was Rynacher at German Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AErdbebenkreuz.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lusitania%27s_bow_before_launch.jpg": {
