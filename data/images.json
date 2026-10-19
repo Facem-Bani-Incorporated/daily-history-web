@@ -8097,6 +8097,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIllumination_of_Henry_IV_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Sittow_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Sittow_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 857,
+        "src": "/assets/img/2026-10-19/3953-0-640.webp"
+      },
+      {
+        "width": 1079,
+        "height": 1445,
+        "src": "/assets/img/2026-10-19/3953-0-1079.webp"
+      }
+    ],
+    "width": 1079,
+    "height": 1445,
+    "credit": {
+      "artist": "Michael Sittow",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMichel_Sittow_004.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tabula_hungariae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tabula_hungariae.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8704,6 +8727,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1099_Siege_of_Jerusalem.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Columbian_Issue_1893-5c.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Columbian_Issue_1893-5c.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 444,
+        "src": "/assets/img/2026-10-19/3953-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 763,
+        "src": "/assets/img/2026-10-19/3953-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 763,
+    "credit": {
+      "artist": "US Post Office",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AColumbian_Issue_1893-5c.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/Lieutenant_General_Freyberg_gazes_over_the_parapet.jpg": {
@@ -16361,6 +16407,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMuslim_troops_leaving_Narbonne_to_Pepin_le_Bref_in_759.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/87/Pennsylvania_Gazette_%28May_9%2C_1754%29%2C_page_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pennsylvania_Gazette_%28May_9%2C_1754%29%2C_page_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 804,
+        "src": "/assets/img/2026-10-19/3952-1-640.webp"
+      },
+      {
+        "width": 640,
+        "height": 980,
+        "src": "/assets/img/2026-10-19/3952-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 980,
+    "credit": {
+      "artist": "Benjamin Franklin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APennsylvania_Gazette_(May_9%2C_1754)%2C_page_1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/Plain_of_Marathon_with_Pine_Forest_and_Wetlands%2C_May_2015_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18016,6 +18085,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_(cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 461,
+        "src": "/assets/img/2026-10-19/3952-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 793,
+        "src": "/assets/img/2026-10-19/3952-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 793,
+    "credit": {
+      "artist": "Benjamin Franklin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_-_Join_or_Die.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9c/CH-53_landing_at_Defense_Attach%C3%A9_Office_compound%2C_Operation_Frequent_Wind.jpg": {
@@ -20623,6 +20715,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A2000_NH_Proof.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Benjamin_Franklin_statue_by_Ernst_Plassman_%281872%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Benjamin_Franklin_statue_by_Ernst_Plassman_%281872%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 836,
+        "src": "/assets/img/2026-10-19/3952-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1437,
+        "src": "/assets/img/2026-10-19/3952-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1437,
+    "credit": {
+      "artist": "Beyond My Ken",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenjamin_Franklin_statue_by_Ernst_Plassman_(1872).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/Berlin_Wall_at_the_Reagan_Library.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Berlin_Wall_at_the_Reagan_Library.jpg",
     "sources": [
@@ -20887,6 +21002,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattleofSluys.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Foruak.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Foruak.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 357,
+        "src": "/assets/img/2026-10-19/3953-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 613,
+        "src": "/assets/img/2026-10-19/3953-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 613,
+    "credit": {
+      "artist": "Vázquez de Mendieta, \"Besamanos\"",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AForuak.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bf/IrishConfederacySignatures8May1593.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -25108,6 +25246,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHope_Diamond_Closeup.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 809,
+        "src": "/assets/img/2026-10-19/3950-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1391,
+        "src": "/assets/img/2026-10-19/3950-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1391,
+    "credit": {
+      "artist": "Hugo Erfurth",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMax_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ee/Very_friendly_MPS_officers_in_London.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
