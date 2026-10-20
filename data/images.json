@@ -2879,6 +2879,24 @@
     "height": 731,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg/3840px-Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg/3840px-Carpenters%27_Hall%2C_Philadelphia%2C_U.S.%2C_May_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 441,
+        "src": "/assets/img/2026-10-20/3960-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 758,
+        "src": "/assets/img/2026-10-20/3960-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 758,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4855,6 +4873,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoscow_State_University_Tunguska_event_2014-01_1389528710.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sch%C3%A4del_Hingerichteter_Hamburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sch%C3%A4del_Hingerichteter_Hamburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1344,
+        "src": "/assets/img/2026-10-20/3961-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2310,
+        "src": "/assets/img/2026-10-20/3961-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2310,
+    "credit": {
+      "artist": "Finanzer / Michail Jungierek (talk · contribs)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASch%C3%A4del_Hingerichteter_Hamburg.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stono_Rebellion_site_-_Jan_23_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stono_Rebellion_site_-_Jan_23_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -5868,6 +5909,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Lindbergh_1925.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Gent%2C_Sint-Baafskathedraal_blazoen_Fernandez_Alvarez_de_Toledo_B_STB_433_194.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gent%2C_Sint-Baafskathedraal_blazoen_Fernandez_Alvarez_de_Toledo_B_STB_433_194.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 609,
+        "height": 1000,
+        "src": "/assets/img/2026-10-20/3962-2-609.webp"
+      }
+    ],
+    "width": 609,
+    "height": 1000,
+    "credit": {
+      "artist": "www.pmrmaeyaert.com",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGent%2C_Sint-Baafskathedraal_blazoen_Fernandez_Alvarez_de_Toledo_B_STB_433_194.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Great_Cameo_of_France-removebg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Great_Cameo_of_France-removebg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6001,6 +6060,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInter-grav.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/17/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 851,
+        "src": "/assets/img/2026-10-20/3958-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1463,
+        "src": "/assets/img/2026-10-20/3958-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1463,
+    "credit": {
+      "artist": "Rembrandt Peale",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOfficial_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale%2C_1800)_(3x4_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/2ndBattleOfTheMarne.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/2ndBattleOfTheMarne.jpg",
     "sources": [
@@ -6017,6 +6099,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A2ndBattleOfTheMarne.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Articles_of_Association.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Articles_of_Association.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 792,
+        "src": "/assets/img/2026-10-20/3960-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1361,
+        "src": "/assets/img/2026-10-20/3960-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1361,
+    "credit": {
+      "artist": "First Continental Congress",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArticles_of_Association.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Elizabeth_Bourchier_Cromwell.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6438,6 +6543,29 @@
         "width": 810,
         "height": 1073,
         "src": "/assets/img/2026-06-18/1712-2-810.webp"
+      }
+    ],
+    "width": 810,
+    "height": 1073,
+    "credit": {
+      "artist": "Jacques-Louis David",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_(3x4_close_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 848,
+        "src": "/assets/img/2026-10-20/3958-2-640.webp"
+      },
+      {
+        "width": 810,
+        "height": 1073,
+        "src": "/assets/img/2026-10-20/3958-2-810.webp"
       }
     ],
     "width": 810,
@@ -7460,6 +7588,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaladin_in_Egypt_Conquest.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Signatur_Fernando_%C3%81lvarez_de_Toledo%2C_Herzog_von_Alba.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Signatur_Fernando_%C3%81lvarez_de_Toledo%2C_Herzog_von_Alba.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 234,
+        "height": 103,
+        "src": "/assets/img/2026-10-20/3962-1-234.webp"
+      }
+    ],
+    "width": 234,
+    "height": 103,
+    "credit": {
+      "artist": "Fernando_Álvarez_de_Toledo,_Herzog_von_Alba",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASignatur_Fernando_%C3%81lvarez_de_Toledo%2C_Herzog_von_Alba.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/24/Suleiman_the_Magnificent_by_Dell%27Altissimo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11963,6 +12109,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouisiana_Purchase.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/57/Louisiana_Purchase.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Louisiana_Purchase.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 450,
+        "src": "/assets/img/2026-10-20/3958-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 773,
+        "src": "/assets/img/2026-10-20/3958-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 773,
+    "credit": {
+      "artist": "William Morris",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouisiana_Purchase.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/Sfdrake42.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sfdrake42.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13740,6 +13909,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALucius-III.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Portrait_of_Charles_III_of_Habsburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Portrait_of_Charles_III_of_Habsburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 409,
+        "height": 600,
+        "src": "/assets/img/2026-10-20/3959-2-409.webp"
+      }
+    ],
+    "width": 409,
+    "height": 600,
+    "credit": {
+      "artist": "Francesco Solimena",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Charles_III_of_Habsburg.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14239,6 +14426,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Suzaku.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/71/Johann_Gottfried_Auerbach_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Johann_Gottfried_Auerbach_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 982,
+        "src": "/assets/img/2026-10-20/3959-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1687,
+        "src": "/assets/img/2026-10-20/3959-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1687,
+    "credit": {
+      "artist": "Johann Gottfried Auerbach",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohann_Gottfried_Auerbach_004.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/71/Seal_of_the_United_States_Department_of_the_Treasury_%281789-1968%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15730,6 +15940,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStilicho.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 793,
+        "src": "/assets/img/2026-10-20/3962-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1364,
+        "src": "/assets/img/2026-10-20/3962-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1364,
+    "credit": {
+      "artist": "Attributed to Willem Key",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWillem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7f/Akivakever.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17698,6 +17931,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/Future_Emperor_Charles_VI%2C_Austrian_School%2C_late_17th_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Future_Emperor_Charles_VI%2C_Austrian_School%2C_late_17th_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 776,
+        "src": "/assets/img/2026-10-20/3959-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1335,
+        "src": "/assets/img/2026-10-20/3959-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1335,
+    "credit": {
+      "artist": "anonymous / Unidentified painter",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFuture_Emperor_Charles_VI%2C_Austrian_School%2C_late_17th_Century.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/JohnStone.jpg",
     "sources": [
@@ -18433,6 +18689,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAduC_196_Lac%C3%A9p%C3%A8de_(B.G%2CE._de_Laville%2C_comte_de%2C_1756-1825).JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Articles.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Articles.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 647,
+        "src": "/assets/img/2026-10-20/3960-0-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 910,
+        "src": "/assets/img/2026-10-20/3960-0-900.webp"
+      }
+    ],
+    "width": 900,
+    "height": 910,
+    "credit": {
+      "artist": "First Continental Congress",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArticles.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a2/Battle_of_Japan_Sea_%28Route_of_Baltic_Fleet%29_NT.PNG": {
@@ -22677,6 +22956,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Clinton.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kunz_von_der_Rosen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kunz_von_der_Rosen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 300,
+        "height": 395,
+        "src": "/assets/img/2026-10-20/3961-2-300.webp"
+      }
+    ],
+    "width": 300,
+    "height": 395,
+    "credit": {
+      "artist": "Daniel Hopfer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKunz_von_der_Rosen.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Battle_of_Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Battle_of_Jena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26026,6 +26323,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APillpacketopen.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rekonstruierter_Schaedel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Rekonstruierter_Schaedel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 863,
+        "src": "/assets/img/2026-10-20/3961-0-640.webp"
+      },
+      {
+        "width": 880,
+        "height": 1186,
+        "src": "/assets/img/2026-10-20/3961-0-880.webp"
+      }
+    ],
+    "width": 880,
+    "height": 1186,
+    "credit": {
+      "artist": "Élisabeth Daynès",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARekonstruierter_Schaedel.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Alexander_I_of_Russia_by_G.Dawe_%281826%2C_Peterhof%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
