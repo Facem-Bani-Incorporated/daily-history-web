@@ -2915,6 +2915,24 @@
     "height": 1466,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Home_of_Warren_G._Harding_2011.jpg/3840px-Home_of_Warren_G._Harding_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Home_of_Warren_G._Harding_2011.jpg/3840px-Home_of_Warren_G._Harding_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 443,
+        "src": "/assets/img/2026-10-21/3970-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 763,
+        "src": "/assets/img/2026-10-21/3970-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 763,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -2985,6 +3003,24 @@
     ],
     "width": 1100,
     "height": 1350,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Battle_of_Sekigahara_folding_screen.jpg/3840px-Battle_of_Sekigahara_folding_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Battle_of_Sekigahara_folding_screen.jpg/3840px-Battle_of_Sekigahara_folding_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 158,
+        "src": "/assets/img/2026-10-21/3967-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 272,
+        "src": "/assets/img/2026-10-21/3967-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 272,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/BattleOfFortsClintonAndMontgomery1777.jpg/3840px-BattleOfFortsClintonAndMontgomery1777.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -3075,6 +3111,24 @@
     ],
     "width": 1100,
     "height": 655,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg/3840px-Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg/3840px-Warren_G._Harding_1920s_portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 854,
+        "src": "/assets/img/2026-10-21/3970-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1468,
+        "src": "/assets/img/2026-10-21/3970-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1468,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/The_Two-faced_Whirlpool_Galaxy.jpg/3840px-The_Two-faced_Whirlpool_Galaxy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -12352,6 +12406,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille_de_Yorktown_by_Auguste_Couder.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Florence_Nightingale_-_Project_Gutenberg_13103.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Florence_Nightingale_-_Project_Gutenberg_13103.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 302,
+        "height": 391,
+        "src": "/assets/img/2026-10-21/3966-2-302.webp"
+      }
+    ],
+    "width": 302,
+    "height": 391,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlorence_Nightingale_-_Project_Gutenberg_13103.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/George_Westinghouse_1884.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/George_Westinghouse_1884.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12773,6 +12845,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASputnik_1_Arming_Key.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5d/Warren_G._Harding%2C_official_picture_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Warren_G._Harding%2C_official_picture_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 851,
+        "src": "/assets/img/2026-10-21/3970-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1463,
+        "src": "/assets/img/2026-10-21/3970-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1463,
+    "credit": {
+      "artist": "National Photo Company Collection",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWarren_G._Harding%2C_official_picture_(3x4_close_cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -13226,6 +13321,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMonsieur_and_Madame_Garnerin%2C_by_Christoph_Haller_von_Hallerstein%2C_(1771_-_1839).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/62/Portland_Cement_Bags.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Portland_Cement_Bags.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 484,
+        "src": "/assets/img/2026-10-21/3968-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 833,
+        "src": "/assets/img/2026-10-21/3968-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 833,
+    "credit": {
+      "artist": "KVDP",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortland_Cement_Bags.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18023,6 +18141,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronation_of_Emperor_Michael_III.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/99/BlueCircleSouthernCementBerrimaNSW.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/BlueCircleSouthernCementBerrimaNSW.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-21/3968-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-21/3968-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "AYArktos",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABlueCircleSouthernCementBerrimaNSW.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/Gamal-002.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gamal-002.jpg",
     "sources": [
@@ -18627,6 +18768,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArolsen_Klebeband_02_227.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sekigaharascreen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sekigaharascreen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 301,
+        "src": "/assets/img/2026-10-21/3967-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 518,
+        "src": "/assets/img/2026-10-21/3967-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 518,
+    "credit": {
+      "artist": "User LordAmeth on en.wikipediaCollection of The Town of Sekigahara Archive of History and Cultural Anthropology",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASekigaharascreen.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valdivia_after_earthquake%2C_1960.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valdivia_after_earthquake%2C_1960.jpg",
     "sources": [
@@ -18712,6 +18876,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArticles.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Embley_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Embley_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 576,
+        "height": 432,
+        "src": "/assets/img/2026-10-21/3966-1-576.webp"
+      }
+    ],
+    "width": 576,
+    "height": 432,
+    "credit": {
+      "artist": "Dmartin@ukonline.co.uk at English Wikipedia",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmbley_Park.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a2/Battle_of_Japan_Sea_%28Route_of_Baltic_Fleet%29_NT.PNG": {
@@ -19372,6 +19554,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AColonel_Fyfe_and_Maroons%2C_Oversize_2009-0016E.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 890,
+        "src": "/assets/img/2026-10-21/3966-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1529,
+        "src": "/assets/img/2026-10-21/3966-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1529,
+    "credit": {
+      "artist": "Henry Hering (1814-1893)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlorence_Nightingale_(H_Hering_NPG_x82368).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ab/INTELSAT_I_%28Early_Bird%29.jpg": {
@@ -20575,6 +20780,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorditalien_und_Mittelitalien_1799.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Site_of_Matsudaira_Tadayoshi_and_Ii_Naomasa%27s_Positions.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Site_of_Matsudaira_Tadayoshi_and_Ii_Naomasa%27s_Positions.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-21/3967-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-21/3967-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "立花左近",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASite_of_Matsudaira_Tadayoshi_and_Ii_Naomasa's_Positions.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Zonaro_GatesofConst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -22138,6 +22366,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMariner_4_1304_1964novembemariner4.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c9/Joseph_Aspdin_plaque_7_Sep_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Joseph_Aspdin_plaque_7_Sep_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 575,
+        "src": "/assets/img/2026-10-21/3968-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 987,
+        "src": "/assets/img/2026-10-21/3968-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 987,
+    "credit": {
+      "artist": "Chemical Engineer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJoseph_Aspdin_plaque_7_Sep_2017.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/ca/1966-08_1966%E5%B9%B4%E6%A8%AA%E6%89%AB%E4%B8%80%E5%88%87%E7%89%9B%E9%AC%BC%E8%9B%87%E7%A5%9E.jpg": {
@@ -27277,6 +27528,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALinlithgow_Palace_NW_03.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/PeoplesCrusadeMassacre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/PeoplesCrusadeMassacre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 763,
+        "src": "/assets/img/2026-10-21/3969-0-640.webp"
+      },
+      {
+        "width": 858,
+        "height": 1247,
+        "src": "/assets/img/2026-10-21/3969-0-858.webp"
+      }
+    ],
+    "width": 858,
+    "height": 1247,
+    "credit": {
+      "artist": "Jean Colombe",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeoplesCrusadeMassacre.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Spitfire_and_He_111_during_Battle_of_Britain_1940.jpg": {
