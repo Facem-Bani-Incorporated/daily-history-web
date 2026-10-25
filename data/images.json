@@ -24212,6 +24212,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ac_dirkhartogplate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ac_dirkhartogplate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-25/3999-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-25/3999-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Adam Carr at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAc_dirkhartogplate.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
