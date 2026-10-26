@@ -23199,6 +23199,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGalileo.arp.300pix.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Georgiy_Nosar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Georgiy_Nosar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 500,
+        "height": 670,
+        "src": "/assets/img/2026-10-26/4002-0-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 670,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorgiy_Nosar.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nathan_Mayer_Rothschild_British_banker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nathan_Mayer_Rothschild_British_banker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
