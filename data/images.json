@@ -2897,6 +2897,24 @@
     "height": 758,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2014-09-15_16-14-55_lion-belfort.jpg/3840px-2014-09-15_16-14-55_lion-belfort.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2014-09-15_16-14-55_lion-belfort.jpg/3840px-2014-09-15_16-14-55_lion-belfort.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 383,
+        "src": "/assets/img/2026-10-28/4016-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 658,
+        "src": "/assets/img/2026-10-28/4016-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 658,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg/1280px-Elsa_Schiaparelli%2C_tailleur_1938-39_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3491,6 +3509,24 @@
     "height": 1149,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/La_Vision_de_Constantin_%28phbw15_0208%29.jpg/3840px-La_Vision_de_Constantin_%28phbw15_0208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/La_Vision_de_Constantin_%28phbw15_0208%29.jpg/3840px-La_Vision_de_Constantin_%28phbw15_0208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 504,
+        "src": "/assets/img/2026-10-28/4015-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 867,
+        "src": "/assets/img/2026-10-28/4015-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 867,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/3840px-Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3507,6 +3543,24 @@
     ],
     "width": 1100,
     "height": 1650,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg/3840px-Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg/3840px-Sabrosa-_Casa_de_Fern%C3%A3o_Magalh%C3%A3es.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-10-28/4014-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 734,
+        "src": "/assets/img/2026-10-28/4014-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 734,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Beleg_en_ontzet_van_Leiden_in_1574.jpg/3840px-Beleg_en_ontzet_van_Leiden_in_1574.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -11122,6 +11176,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANo.1_Locomotion_at_the_Greatest_Gathering%2C_Derby_2025.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/Temple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 481,
+        "src": "/assets/img/2026-10-28/4017-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 828,
+        "src": "/assets/img/2026-10-28/4017-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 828,
+    "credit": {
+      "artist": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Heaven_-_Hall_of_Prayer_for_Good_Harvests_01_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/46/Benjamin_Franklin_Birthplace.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Benjamin_Franklin_Birthplace.jpg",
     "sources": [
@@ -13989,6 +14066,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUppsala_University_2023.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/65/Constantine_Eyes_Raised_to_Heaven.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Constantine_Eyes_Raised_to_Heaven.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 599,
+        "src": "/assets/img/2026-10-28/4015-2-640.webp"
+      },
+      {
+        "width": 659,
+        "height": 617,
+        "src": "/assets/img/2026-10-28/4015-2-659.webp"
+      }
+    ],
+    "width": 659,
+    "height": 617,
+    "credit": {
+      "artist": "IGNnick",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConstantine_Eyes_Raised_to_Heaven.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/65/Marcel_Bezen%C3%A7on_%281980%29.jpg": {
@@ -17464,6 +17564,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronation_Henry4_England_02.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 981,
+        "src": "/assets/img/2026-10-28/4016-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1686,
+        "src": "/assets/img/2026-10-28/4016-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1686,
+    "credit": {
+      "artist": "AskALotl",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFront_view_of_Statue_of_Liberty_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/89/Journey_of_Confucius.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Journey_of_Confucius.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19792,6 +19915,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Maurice_de_Talleyrand-P%C3%A9rigord_by_Fran%C3%A7ois_G%C3%A9rard%2C_1808.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Constantine_multiple_CdM_Beistegui_233.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Constantine_multiple_CdM_Beistegui_233.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-10-28/4015-1-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 1000,
+        "src": "/assets/img/2026-10-28/4015-1-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 1000,
+    "credit": {
+      "artist": "Marie-Lan Nguyen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConstantine_multiple_CdM_Beistegui_233.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shah_Jahan_and_Mumtaz_Mahal.jpg": {
@@ -24463,6 +24609,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAc_dirkhartogplate.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/Peking_Grosse_Mauer-20071019-RM-114506.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Peking_Grosse_Mauer-20071019-RM-114506.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-28/4017-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-28/4017-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Reinhold Möller Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeking_Grosse_Mauer-20071019-RM-114506.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Veen01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -24763,6 +24932,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJFK_speech_Ich_bin_ein_berliner_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Longevity_Hill_of_the_Summer_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-10-28/4017-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 731,
+        "src": "/assets/img/2026-10-28/4017-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 731,
+    "credit": {
+      "artist": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALongevity_Hill_of_the_Summer_Palace.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Richard_M._Nixon_posing_with_his_Cabinet_-_NARA_-_194437.jpg": {
@@ -26932,6 +27124,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Berlin_1945-a.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Disc_Sol_BM_GR1899.12-1.2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Disc_Sol_BM_GR1899.12-1.2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 609,
+        "src": "/assets/img/2026-10-28/4016-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1047,
+        "src": "/assets/img/2026-10-28/4016-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1047,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADisc_Sol_BM_GR1899.12-1.2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Harvard_House_Stratford_%285665088336%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
