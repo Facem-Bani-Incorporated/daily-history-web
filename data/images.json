@@ -13164,6 +13164,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADJIA_Trading_Volume.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Enthauptung_Konradins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Enthauptung_Konradins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 504,
+        "src": "/assets/img/2026-10-29/4021-2-640.webp"
+      },
+      {
+        "width": 976,
+        "height": 768,
+        "src": "/assets/img/2026-10-29/4021-2-976.webp"
+      }
+    ],
+    "width": 976,
+    "height": 768,
+    "credit": {
+      "artist": "Chronica des Giovanni Villani",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEnthauptung_Konradins.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/James_II_%281685%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/James_II_%281685%29.jpg",
     "sources": [
@@ -15465,6 +15488,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarriet_Tubman_Reward_Notice_1849.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/73/KingdomKongo1711.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/KingdomKongo1711.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 447,
+        "src": "/assets/img/2026-10-29/4022-0-640.webp"
+      },
+      {
+        "width": 774,
+        "height": 540,
+        "src": "/assets/img/2026-10-29/4022-0-774.webp"
+      }
+    ],
+    "width": 774,
+    "height": 540,
+    "credit": {
+      "artist": null,
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKingdomKongo1711.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/73/Panama-Canal_1880.JPG": {
@@ -25320,6 +25366,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Meiji_by_Takahashi_Yuichi.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Konradin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Konradin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 757,
+        "src": "/assets/img/2026-10-29/4021-1-640.webp"
+      },
+      {
+        "width": 814,
+        "height": 1174,
+        "src": "/assets/img/2026-10-29/4021-1-993.webp"
+      }
+    ],
+    "width": 814,
+    "height": 1174,
+    "credit": {
+      "artist": "UnknownUnknown",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKonradin.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/de/Savonarola_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Savonarola_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26848,6 +26917,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Westinghouse_in_1864%2C_at_age_17.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Corradino_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Corradino_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-10-29/4021-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-10-29/4021-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Maurizio Rea. Original uploader was Maurizio rea at it.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACorradino_Statue.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Elizabeth_Cady_Stanton_before_the_Senate_Committee_on_Privileges_and_Elections_cph.3b08655.jpg": {
