@@ -3419,6 +3419,24 @@
     "height": 781,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Repin_17October.jpg/3840px-Repin_17October.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Repin_17October.jpg/3840px-Repin_17October.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 347,
+        "src": "/assets/img/2026-10-30/4031-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 596,
+        "src": "/assets/img/2026-10-30/4031-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 596,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_Scotland_Yard_sign.jpg/3840px-New_Scotland_Yard_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_Scotland_Yard_sign.jpg/3840px-New_Scotland_Yard_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -5805,6 +5823,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Mandela.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Confessions_of_Nat_Turner_%28title_page%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/The_Confessions_of_Nat_Turner_%28title_page%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1052,
+        "src": "/assets/img/2026-10-30/4028-1-640.webp"
+      },
+      {
+        "width": 650,
+        "height": 1068,
+        "src": "/assets/img/2026-10-30/4028-1-650.webp"
+      }
+    ],
+    "width": 650,
+    "height": 1068,
+    "credit": {
+      "artist": "not stated",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Confessions_of_Nat_Turner_(title_page).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/13/Guy_Carleton.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Guy_Carleton.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -6430,6 +6471,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALouis8.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Matrimonio_de_Sim%C3%B3n_Bol%C3%ADvar_by_Tito_Salas%2C_1921.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Matrimonio_de_Sim%C3%B3n_Bol%C3%ADvar_by_Tito_Salas%2C_1921.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-30/4029-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-30/4029-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Tito Salas, photography by Santy cardenas",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMatrimonio_de_Sim%C3%B3n_Bol%C3%ADvar_by_Tito_Salas%2C_1921.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Mohammad_adil-Muslims_Invasion_of_Syria.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9613,6 +9677,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrinity_Site_Obelisk_National_Historic_Landmark.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/Arthur_Scherbius_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Arthur_Scherbius_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 315,
+        "height": 383,
+        "src": "/assets/img/2026-10-30/4027-0-315.webp"
+      }
+    ],
+    "width": 315,
+    "height": 383,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArthur_Scherbius_1.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/36/Declaration_of_State_of_Israel_1948.jpg": {
@@ -14181,6 +14263,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMohammad_adil_rais-siege_of_damascus.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Sim%C3%B3n_Bol%C3%ADvar%2C_1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sim%C3%B3n_Bol%C3%ADvar%2C_1800.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 220,
+        "height": 275,
+        "src": "/assets/img/2026-10-30/4029-0-220.webp"
+      }
+    ],
+    "width": 220,
+    "height": 275,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASim%C3%B3n_Bol%C3%ADvar%2C_1800.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/BerlinerBlockadeLuftwege.png": {
@@ -19418,6 +19518,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMars-express-volcanoes-sm.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abigail_Adams.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abigail_Adams.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 843,
+        "src": "/assets/img/2026-10-30/4030-2-640.webp"
+      },
+      {
+        "width": 711,
+        "height": 936,
+        "src": "/assets/img/2026-10-30/4030-2-711.webp"
+      }
+    ],
+    "width": 711,
+    "height": 936,
+    "credit": {
+      "artist": "Benjamin Blyth",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbigail_Adams.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Predappio_house.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Predappio_house.JPG",
     "sources": [
@@ -19554,6 +19677,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASekigaharascreen.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sim%C3%B3n_Bol%C3%ADvar%2C_1804.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sim%C3%B3n_Bol%C3%ADvar%2C_1804.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 220,
+        "height": 281,
+        "src": "/assets/img/2026-10-30/4029-1-220.webp"
+      }
+    ],
+    "width": 220,
+    "height": 281,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASim%C3%B3n_Bol%C3%ADvar%2C_1804.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9f/Valdivia_after_earthquake%2C_1960.jpg": {
@@ -21207,6 +21348,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARussell_square_ambulances.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Scherbius-1928-patent.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Scherbius-1928-patent.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 405,
+        "src": "/assets/img/2026-10-30/4027-1-640.webp"
+      },
+      {
+        "width": 641,
+        "height": 406,
+        "src": "/assets/img/2026-10-30/4027-1-641.webp"
+      }
+    ],
+    "width": 641,
+    "height": 406,
+    "credit": {
+      "artist": "Arthur Scherbius (died 1929).",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScherbius-1928-patent.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b4/100th_Regiment_of_Foot_c1812-1814.jpg": {
@@ -24133,6 +24297,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarines_and_King_Kong_on_Saipan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nat_Turner_captured.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nat_Turner_captured.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 504,
+        "src": "/assets/img/2026-10-30/4028-0-640.webp"
+      },
+      {
+        "width": 750,
+        "height": 720,
+        "src": "/assets/img/2026-10-30/4028-0-750.webp"
+      }
+    ],
+    "width": 750,
+    "height": 720,
+    "credit": {
+      "artist": "William Henry Shelton (1840–1932)[1][4]",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANat_Turner_captured.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d0/Partitions_of_Poland.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Partitions_of_Poland.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26681,6 +26868,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_(1542-87)_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/John_Adams_birthplace%2C_Quincy%2C_Massachusetts.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/John_Adams_birthplace%2C_Quincy%2C_Massachusetts.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-30/4030-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-30/4030-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Daderot at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Adams_birthplace%2C_Quincy%2C_Massachusetts.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/Piper_%28west%29.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Piper_%28west%29.png",
     "sources": [
@@ -28860,6 +29070,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADomiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 777,
+        "src": "/assets/img/2026-10-30/4030-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1334,
+        "src": "/assets/img/2026-10-30/4030-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1334,
+    "credit": {
+      "artist": "Gilbert Stuart",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -30816,6 +31049,24 @@
     ],
     "width": 600,
     "height": 453,
+    "credit": null
+  },
+  "https://upload.wikimedia.org/wikipedia/en/2/27/Enigma_by_Arthur_Scherbius_in_ETZ_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/2/27/Enigma_by_Arthur_Scherbius_in_ETZ_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 1001,
+        "src": "/assets/img/2026-10-30/4027-2-640.webp"
+      },
+      {
+        "width": 670,
+        "height": 1277,
+        "src": "/assets/img/2026-10-30/4027-2-670.webp"
+      }
+    ],
+    "width": 670,
+    "height": 1277,
     "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/en/2/27/Piper_Alpha_oil_rig_fire.jpg": {
