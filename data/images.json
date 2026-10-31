@@ -6542,6 +6542,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APeers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_(c.1320-1330)%2C_f.40_-_BL_Add_MS_47682.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/19/BeershebaSerai00138v.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/BeershebaSerai00138v.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 434,
+        "src": "/assets/img/2026-10-31/4037-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 745,
+        "src": "/assets/img/2026-10-31/4037-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 745,
+    "credit": {
+      "artist": "Photograph Album by American Colony (Jerusalem) Photo Department Photographers J.D. Whiting, L. Larsson, G.E. Matson,",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABeershebaSerai00138v.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/19/French_soldiers_on_Maginot_Line.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/French_soldiers_on_Maginot_Line.jpg",
     "sources": [
@@ -10132,6 +10155,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeor_tamro_aandersen.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 621,
+        "src": "/assets/img/2026-10-31/4035-0-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1068,
+        "src": "/assets/img/2026-10-31/4035-0-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1068,
+    "credit": {
+      "artist": "Martin Luther",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALuther_95_Thesen.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3a/Retrato_de_Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Retrato_de_Manuel_de_la_Pe%C3%B1a_y_Pe%C3%B1a.jpg",
     "sources": [
@@ -10879,6 +10925,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABarend_van_Orley_-_Portrait_of_Charles_V_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/British_infantry_march_through_the_desert_1917_IWM_photoQ_057764.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/British_infantry_march_through_the_desert_1917_IWM_photoQ_057764.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 373,
+        "src": "/assets/img/2026-10-31/4037-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 641,
+        "src": "/assets/img/2026-10-31/4037-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 641,
+    "credit": {
+      "artist": "Byrne, Stanley Cesnola. British Official War Photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABritish_infantry_march_through_the_desert_1917_IWM_photoQ_057764.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bundesarchiv_Bild_183-H0603-0036-001%2C_Moskau%2C_Ulbricht_und_Breshnew.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11593,6 +11662,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrinity_Test_Site.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Beersheba_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beersheba_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 620,
+        "height": 332,
+        "src": "/assets/img/2026-10-31/4037-0-620.webp"
+      }
+    ],
+    "width": 620,
+    "height": 332,
+    "credit": {
+      "artist": "AWM Credit reads: Lent by Brigadier General Wilson, CMG.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABeersheba_1917.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Codlin%27s_the_friend.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Codlin%27s_the_friend.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11939,6 +12026,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1798-balloon-henri.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4c/Iturbide.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Iturbide.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 248,
+        "height": 286,
+        "src": "/assets/img/2026-10-31/4039-1-248.webp"
+      }
+    ],
+    "width": 248,
+    "height": 286,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIturbide.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4c/Landing_of_Henry_Hudson%2C_1609%2C_at_Verplanck_Point%2C_New_York%2C_by_Robert_Walter_Weir.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -21373,6 +21478,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScherbius-1928-patent.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tetzel_Kasten.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tetzel_Kasten.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 767,
+        "src": "/assets/img/2026-10-31/4035-2-640.webp"
+      },
+      {
+        "width": 855,
+        "height": 1024,
+        "src": "/assets/img/2026-10-31/4035-2-855.webp"
+      }
+    ],
+    "width": 855,
+    "height": 1024,
+    "credit": {
+      "artist": "EnergyTurn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATetzel_Kasten.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b4/100th_Regiment_of_Foot_c1812-1814.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/100th_Regiment_of_Foot_c1812-1814.jpg",
     "sources": [
@@ -22159,6 +22287,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A14_Princes_Gate_Photo_47.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agustin_I_of_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agustin_I_of_Mexico.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 931,
+        "src": "/assets/img/2026-10-31/4039-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1600,
+        "src": "/assets/img/2026-10-31/4039-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1600,
+    "credit": {
+      "artist": "Primitivo Miranda",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAgustin_I_of_Mexico.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -25952,6 +26103,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1807%2C_Friedland.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abrazo_de_Acatempan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abrazo_de_Acatempan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-10-31/4039-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-10-31/4039-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Román Sagredo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbrazo_de_Acatempan.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bow-knot_sweater_Schiaparelli.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29091,6 +29265,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Indulgence_selling_from_On_Aplas_von_Rom.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Indulgence_selling_from_On_Aplas_von_Rom.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 527,
+        "src": "/assets/img/2026-10-31/4035-1-640.webp"
+      },
+      {
+        "width": 690,
+        "height": 836,
+        "src": "/assets/img/2026-10-31/4035-1-690.webp"
+      }
+    ],
+    "width": 690,
+    "height": 836,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIndulgence_selling_from_On_Aplas_von_Rom.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/ff/Linlithgow_Palace_NW_03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
