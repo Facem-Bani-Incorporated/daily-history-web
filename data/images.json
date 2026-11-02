@@ -5030,6 +5030,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALarge_explosion_aboard_USS_Lexington_(CV-2)%2C_8_May_1942_(80-G-16651).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0c/Plymouth_Colony_seal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Plymouth_Colony_seal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 434,
+        "src": "/assets/img/2026-11-02/4055-0-640.webp"
+      },
+      {
+        "width": 688,
+        "height": 686,
+        "src": "/assets/img/2026-11-02/4055-0-688.webp"
+      }
+    ],
+    "width": 688,
+    "height": 686,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlymouth_Colony_seal.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0c/Theodore_Roosevelt_1907_Portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Theodore_Roosevelt_1907_Portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9879,6 +9902,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMassacre_of_the_Vaudois_of_Merindol.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/Scrooby_village_addison.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Scrooby_village_addison.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 497,
+        "height": 249,
+        "src": "/assets/img/2026-11-02/4055-2-497.webp"
+      }
+    ],
+    "width": 497,
+    "height": 249,
+    "credit": {
+      "artist": "Welchman Bros./Albert Addison",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScrooby_village_addison.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/37/Ashingdon_Hilltop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15925,6 +15966,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACasa_di_dante_01.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/Isles_of_Scilly_NASA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Isles_of_Scilly_NASA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-02/4053-1-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 750,
+        "src": "/assets/img/2026-11-02/4053-1-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 750,
+    "credit": {
+      "artist": "ISS Crew Earth Observations experiment and the Image Science &amp; Analysis Laboratory, Johnson Space Center",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsles_of_Scilly_NASA.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19272,6 +19336,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoronation_of_Emperor_Michael_III.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/98/Perso-Islamic_world_998_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Perso-Islamic_world_998_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 537,
+        "src": "/assets/img/2026-11-02/4056-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 923,
+        "src": "/assets/img/2026-11-02/4056-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 923,
+    "credit": {
+      "artist": "Beylarbey",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APerso-Islamic_world_998_AD.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/99/BlueCircleSouthernCementBerrimaNSW.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/BlueCircleSouthernCementBerrimaNSW.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20291,6 +20378,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMandela_e_Evelyn_1944.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/MannheimTilly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/MannheimTilly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 425,
+        "src": "/assets/img/2026-11-02/4057-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 731,
+        "src": "/assets/img/2026-11-02/4057-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 731,
+    "credit": {
+      "artist": "Peter Isselburg; Uploaded by: --Immanuel Giel 10:46, 31 January 2006 (UTC)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMannheimTilly.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Guardian_of_Scotland_Great_Seal_after_the_death_of_King_Alexander_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -22583,6 +22693,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAgustin_I_of_Mexico.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mahmud_ibn_Sebuktegin_attacks_the_fortress_of_Zarang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mahmud_ibn_Sebuktegin_attacks_the_fortress_of_Zarang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 328,
+        "src": "/assets/img/2026-11-02/4056-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 563,
+        "src": "/assets/img/2026-11-02/4056-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 563,
+    "credit": {
+      "artist": "by Rashid al-Din (707 AH, 1307 AD)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMahmud_ibn_Sebuktegin_attacks_the_fortress_of_Zarang.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -24852,6 +24985,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAssinatura_do_Santos_Dumont_2.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Edward_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Edward_Winslow.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 412,
+        "height": 500,
+        "src": "/assets/img/2026-11-02/4055-1-412.webp"
+      }
+    ],
+    "width": 412,
+    "height": 500,
+    "credit": {
+      "artist": "School of Robert Walker",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdward_Winslow.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Family-of-Henry-VII.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -25218,6 +25369,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASierra_leone%2C_sapi%2C_olifante%2C_1490-1510_ca.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell_1650-1707.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sir_Cloudesley_Shovell_1650-1707.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 791,
+        "src": "/assets/img/2026-11-02/4053-0-640.webp"
+      },
+      {
+        "width": 1036,
+        "height": 1280,
+        "src": "/assets/img/2026-11-02/4053-0-1036.webp"
+      }
+    ],
+    "width": 1036,
+    "height": 1280,
+    "credit": {
+      "artist": "Michael Dahl",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_Cloudesley_Shovell_1650-1707.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg",
     "sources": [
@@ -25285,6 +25459,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAc_dirkhartogplate.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cloudesleyshovellmemorial.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Cloudesleyshovellmemorial.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 525,
+        "src": "/assets/img/2026-11-02/4053-2-640.webp"
+      },
+      {
+        "width": 935,
+        "height": 767,
+        "src": "/assets/img/2026-11-02/4053-2-935.webp"
+      }
+    ],
+    "width": 935,
+    "height": 767,
+    "credit": {
+      "artist": "Op._Deo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACloudesleyshovellmemorial.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d6/Peking_Grosse_Mauer-20071019-RM-114506.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -28492,6 +28689,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenri_F%C3%A9lix_Emmanuel_Philippoteaux_-_Portrait_of_Napoleon_Bonaparte.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Horace_Vere_-_Horatius_Veer_%281565-1635%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Sir_Horace_Vere_-_Horatius_Veer_%281565-1635%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 818,
+        "src": "/assets/img/2026-11-02/4057-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1407,
+        "src": "/assets/img/2026-11-02/4057-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1407,
+    "credit": {
+      "artist": "Workshop of Michiel Jansz. van Mierevelt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_Horace_Vere_-_Horatius_Veer_(1565-1635).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f5/1812_War_Declaration.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1812_War_Declaration.jpg",
     "sources": [
@@ -29063,6 +29283,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADeclaration_of_Independence_(1819)%2C_by_John_Trumbull.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fighting_between_Mahmud_of_Ghazni_and_Abu_%27Ali_Simjuri.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Fighting_between_Mahmud_of_Ghazni_and_Abu_%27Ali_Simjuri.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 372,
+        "src": "/assets/img/2026-11-02/4056-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 639,
+        "src": "/assets/img/2026-11-02/4056-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 639,
+    "credit": {
+      "artist": "Rashid-al-Din Hamadani",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFighting_between_Mahmud_of_Ghazni_and_Abu_'Ali_Simjuri.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Margaret_Thatcher_%281983%29.jpg": {
