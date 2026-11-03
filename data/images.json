@@ -4209,6 +4209,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANihon_Kenpo01.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/03/Rathaus_Bremen_15111918.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Rathaus_Bremen_15111918.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 418,
+        "src": "/assets/img/2026-11-03/4063-2-640.webp"
+      },
+      {
+        "width": 741,
+        "height": 484,
+        "src": "/assets/img/2026-11-03/4063-2-741.webp"
+      }
+    ],
+    "width": 741,
+    "height": 484,
+    "credit": {
+      "artist": "Barth",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARathaus_Bremen_15111918.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/04/Castello_d%27Albertis-DSCF5494.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Castello_d%27Albertis-DSCF5494.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4583,6 +4606,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKapaleeswarar_Temple%2C_Mylapore%2C_Chennai.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/07/LeCommandantMarchand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/LeCommandantMarchand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 925,
+        "src": "/assets/img/2026-11-03/4065-2-640.webp"
+      },
+      {
+        "width": 974,
+        "height": 1408,
+        "src": "/assets/img/2026-11-03/4065-2-974.webp"
+      }
+    ],
+    "width": 974,
+    "height": 1408,
+    "credit": {
+      "artist": null,
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeCommandantMarchand.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/07/Srebrenica_massacre_memorial_gravestones_2009_1.jpg": {
@@ -12038,6 +12084,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AISS-02_Soyuz_TM-32_Taxi_crewmembers.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_Embera0605.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_Embera0605.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-11-03/4062-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-11-03/4062-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": "Yves Picq http://veton.picq.fr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APanama_Embera0605.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/4b/Everest_kalapatthar_crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Everest_kalapatthar_crop.jpg",
     "sources": [
@@ -14478,6 +14547,24 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarcel_Bezen%C3%A7on_(1980).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/66/Balboa_s%C3%BCdsee.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Balboa_s%C3%BCdsee.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 420,
+        "height": 616,
+        "src": "/assets/img/2026-11-03/4062-1-420.webp"
+      }
+    ],
+    "width": 420,
+    "height": 616,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalboa_s%C3%BCdsee.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/66/Enola_Gay_%28plane%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18196,6 +18283,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANapoleon_i_Poniatowski_Lipsk.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8a/Prelude_to_the_Battle_of_Vyazma_1812.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Prelude_to_the_Battle_of_Vyazma_1812.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-11-03/4066-2-640.webp"
+      },
+      {
+        "width": 1057,
+        "height": 758,
+        "src": "/assets/img/2026-11-03/4066-2-1057.webp"
+      }
+    ],
+    "width": 1057,
+    "height": 758,
+    "credit": {
+      "artist": "Edward Foord",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrelude_to_the_Battle_of_Vyazma_1812.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18851,6 +18961,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAzerbazkanBiruni.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/Battle_vyazma.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Battle_vyazma.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 403,
+        "src": "/assets/img/2026-11-03/4066-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 693,
+        "src": "/assets/img/2026-11-03/4066-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 693,
+    "credit": {
+      "artist": "Peter von Hess",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_vyazma.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/92/C-54_landing_at_Tempelhof.jpg": {
@@ -20178,6 +20311,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Japan_Sea_(Route_of_Baltic_Fleet)_NT.PNG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Erich_Ludendorff_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Erich_Ludendorff_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 342,
+        "height": 480,
+        "src": "/assets/img/2026-11-03/4063-0-342.webp"
+      }
+    ],
+    "width": 342,
+    "height": 480,
+    "credit": {
+      "artist": "Unknown photographer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AErich_Ludendorff_1918.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Guru_Granth_Sahib_Nishan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sri_Guru_Granth_Sahib_Nishan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20222,6 +20373,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHD.30.507_(10444069294).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Napoleon%27s_Retreat_from_Moscow_18_October_through_5_December_1812.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Napoleon%27s_Retreat_from_Moscow_18_October_through_5_December_1812.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 498,
+        "src": "/assets/img/2026-11-03/4066-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 857,
+        "src": "/assets/img/2026-11-03/4066-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 857,
+    "credit": {
+      "artist": "United States Military Academy at West Point, Napoleonic Wars maps",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANapoleon's_Retreat_from_Moscow_18_October_through_5_December_1812.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pierre_Franque_-_Bataille_de_Lens_-_1648.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -21261,6 +21435,52 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMonogramm_Friedrichs_des_III..png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ad/New_Caledonia_in_Darien.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/New_Caledonia_in_Darien.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 784,
+        "src": "/assets/img/2026-11-03/4062-2-640.webp"
+      },
+      {
+        "width": 972,
+        "height": 1191,
+        "src": "/assets/img/2026-11-03/4062-2-972.webp"
+      }
+    ],
+    "width": 972,
+    "height": 1191,
+    "credit": {
+      "artist": "H.G. Moll",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANew_Caledonia_in_Darien.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-J0908-0600-002%2C_Novemberrevolution%2C_Matrosenaufstand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-J0908-0600-002%2C_Novemberrevolution%2C_Matrosenaufstand.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 475,
+        "src": "/assets/img/2026-11-03/4063-1-640.webp"
+      },
+      {
+        "width": 798,
+        "height": 592,
+        "src": "/assets/img/2026-11-03/4063-1-798.webp"
+      }
+    ],
+    "width": 798,
+    "height": 592,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-J0908-0600-002%2C_Novemberrevolution%2C_Matrosenaufstand.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg": {
@@ -23947,6 +24167,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAmelia_Earhart_birthplace_from_NE_1.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fashoda_Egyptian_fort_ruins_%281898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fashoda_Egyptian_fort_ruins_%281898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 402,
+        "src": "/assets/img/2026-11-03/4065-1-640.webp"
+      },
+      {
+        "width": 822,
+        "height": 516,
+        "src": "/assets/img/2026-11-03/4065-1-822.webp"
+      }
+    ],
+    "width": 822,
+    "height": 516,
+    "credit": {
+      "artist": "Unknown, 1898",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFashoda_Egyptian_fort_ruins_(1898).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hong_Taiji.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -27902,6 +28145,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Punch_Rhodes_Colossus.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Punch_Rhodes_Colossus.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 680,
+        "src": "/assets/img/2026-11-03/4065-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1169,
+        "src": "/assets/img/2026-11-03/4065-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1169,
+    "credit": {
+      "artist": "Edward Linley Sambourne",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APunch_Rhodes_Colossus.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Robert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
