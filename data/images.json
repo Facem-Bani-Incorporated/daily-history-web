@@ -6570,6 +6570,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHenry_ford_1919.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Kennington_station_building.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kennington_station_building.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-04/4073-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-04/4073-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Sunil060902",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKennington_station_building.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Louis8.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Louis8.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8110,6 +8133,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARosetta_Stone.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 335,
+        "height": 443,
+        "src": "/assets/img/2026-11-04/4069-0-335.webp"
+      }
+    ],
+    "width": 335,
+    "height": 443,
+    "credit": {
+      "artist": "Chicago Daily News, Inc., photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoward_carter.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8282,6 +8323,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGustave_dore_crusades_the_discovery_of_the_true_cross.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/25/Plaque_on_Monument_to_James_Henry_Greathead.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plaque_on_Monument_to_James_Henry_Greathead.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 629,
+        "src": "/assets/img/2026-11-04/4073-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1082,
+        "src": "/assets/img/2026-11-04/4073-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1082,
+    "credit": {
+      "artist": "Denis Barber",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlaque_on_Monument_to_James_Henry_Greathead.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/25/Revocation_of_the_Edict_of_Nantes.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10572,6 +10636,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarald_Hardraades_saga-Pil_i_strupen-W._Wetlesen.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bust_of_Sir_James_Y._Simpson_at_the_Royal_College_of_Physicians_of_Edinburgh%2C_Scotland.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bust_of_Sir_James_Y._Simpson_at_the_Royal_College_of_Physicians_of_Edinburgh%2C_Scotland.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-11-04/4071-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-11-04/4071-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABust_of_Sir_James_Y._Simpson_at_the_Royal_College_of_Physicians_of_Edinburgh%2C_Scotland.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/Descubrimiento_del_R%C3%ADo_de_la_Plata.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Descubrimiento_del_R%C3%ADo_de_la_Plata.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10933,6 +11020,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A137_DeKoven_Street_1871.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/40/Egypt.KV62.01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Egypt.KV62.01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-04/4069-2-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 480,
+    "credit": {
+      "artist": null,
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEgypt.KV62.01.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/40/Emperor_Kammu_large.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12588,6 +12693,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/50/Ruth_Handler_1961_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ruth_Handler_1961_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 804,
+        "src": "/assets/img/2026-11-04/4072-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1381,
+        "src": "/assets/img/2026-11-04/4072-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1381,
+    "credit": {
+      "artist": "Originally published by the Los Angeles Times. Photographer unknown. Restored by Adam Cuerden",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARuth_Handler_1961_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tasmanroutes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13433,6 +13561,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGiuseppe_e_Anita_Garibaldi_trovano_rifugio_a_San_Marino.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Norman_Macbeth_-_Sir_James_Young_Simpson._Royal_College_of_Physicians_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Norman_Macbeth_-_Sir_James_Young_Simpson._Royal_College_of_Physicians_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 955,
+        "src": "/assets/img/2026-11-04/4071-1-640.webp"
+      },
+      {
+        "width": 804,
+        "height": 1200,
+        "src": "/assets/img/2026-11-04/4071-1-804.webp"
+      }
+    ],
+    "width": 804,
+    "height": 1200,
+    "credit": {
+      "artist": "Norman Macbeth",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANorman_Macbeth_-_Sir_James_Young_Simpson._Royal_College_of_Physicians_of_Edinburgh.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5b/Roman_empire_395.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -19147,6 +19298,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADeath_warrant_of_Charles_I.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/94/Howard_Carter_signature.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Howard_Carter_signature.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 208,
+        "src": "/assets/img/2026-11-04/4069-1-640.webp"
+      },
+      {
+        "width": 1027,
+        "height": 334,
+        "src": "/assets/img/2026-11-04/4069-1-1027.webp"
+      }
+    ],
+    "width": 1027,
+    "height": 334,
+    "credit": {
+      "artist": "Howard Carter, (died 1939)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoward_Carter_signature.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -24824,6 +24998,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Pyongyang_by_Mizuno_To.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/ce/Electric_railway_train.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Electric_railway_train.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 266,
+        "src": "/assets/img/2026-11-04/4073-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 457,
+        "src": "/assets/img/2026-11-04/4073-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 457,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElectric_railway_train.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/ce/Peace_of_Basel.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Peace_of_Basel.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29467,6 +29664,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADante_and_beatrice.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/Simpson_James_Young_signature_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Simpson_James_Young_signature_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 414,
+        "height": 562,
+        "src": "/assets/img/2026-11-04/4071-0-414.webp"
+      }
+    ],
+    "width": 414,
+    "height": 562,
+    "credit": {
+      "artist": "Unidentified photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASimpson_James_Young_signature_picture.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tang_Emperor_Taizong.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
