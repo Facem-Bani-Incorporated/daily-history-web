@@ -3203,6 +3203,24 @@
     "height": 741,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/B_reactor_exterior_2018.jpeg/3840px-B_reactor_exterior_2018.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/B_reactor_exterior_2018.jpeg/3840px-B_reactor_exterior_2018.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-06/4088-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-06/4088-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Stanford_Family.jpg/3840px-Statue_of_Stanford_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Stanford_Family.jpg/3840px-Statue_of_Stanford_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3701,6 +3719,24 @@
         "width": 1100,
         "height": 825,
         "src": "/assets/img/2026-09-22/3733-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20131203_Istanbul_118.jpg/3840px-20131203_Istanbul_118.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/20131203_Istanbul_118.jpg/3840px-20131203_Istanbul_118.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-06/4089-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-06/4089-1-1100.webp"
       }
     ],
     "width": 1100,
@@ -4652,6 +4688,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASrebrenica_massacre_memorial_gravestones_2009_1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/08/Abraham_Lincoln_by_Alexander_Hesler%2C_1860-restored_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Abraham_Lincoln_by_Alexander_Hesler%2C_1860-restored_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 638,
+        "height": 851,
+        "src": "/assets/img/2026-11-06/4087-0-638.webp"
+      }
+    ],
+    "width": 638,
+    "height": 851,
+    "credit": {
+      "artist": "Alexander Hesler",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbraham_Lincoln_by_Alexander_Hesler%2C_1860-restored_(3x4_cropped).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/08/Bonifatius_Comes_Africae_422-431CE.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10444,6 +10498,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeor_tamro_aandersen.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3a/John_Bell_%28Restored%29_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/John_Bell_%28Restored%29_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-06/4087-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-11-06/4087-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Original Photo by Mathew Brady. Edited by Kosobay.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Bell_(Restored)_(3x4_cropped).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11089,6 +11166,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A137_DeKoven_Street_1871.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/40/Cannikin_shot_cavity.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Cannikin_shot_cavity.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 442,
+        "src": "/assets/img/2026-11-06/4090-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 760,
+        "src": "/assets/img/2026-11-06/4090-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 760,
+    "credit": {
+      "artist": "Atomic Energy Commission, Nevada Operations Office",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACannikin_shot_cavity.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/40/Egypt.KV62.01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -12576,6 +12676,29 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Emperor_Kanmu.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tarikhuna_bi-uslub_qasasi-The_Conspiracy_to_kill_Umar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tarikhuna_bi-uslub_qasasi-The_Conspiracy_to_kill_Umar.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 624,
+        "src": "/assets/img/2026-11-06/4089-2-640.webp"
+      },
+      {
+        "width": 763,
+        "height": 1094,
+        "src": "/assets/img/2026-11-06/4089-2-930.webp"
+      }
+    ],
+    "width": 763,
+    "height": 1094,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATarikhuna_bi-uslub_qasasi-The_Conspiracy_to_kill_Umar.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ulm_campaign_-_French_strategic_envelopment%2C_26_September-9_October_1805.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15570,6 +15693,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIntel_4004_on_Busicom_calculator_circuit_board.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mckinley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mckinley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 794,
+        "src": "/assets/img/2026-11-06/4091-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1364,
+        "src": "/assets/img/2026-11-06/4091-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1364,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMckinley.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/Prehistoric_pottery_shards%2C_Sierra_Leone.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Prehistoric_pottery_shards%2C_Sierra_Leone.jpg",
     "sources": [
@@ -17064,6 +17210,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABotha_gouvernment_1910.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mckinley_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mckinley_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-06/4091-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-11-06/4091-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMckinley_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nasser_and_Naguib%2C_1954.jpg": {
@@ -20222,6 +20391,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFerdinand_Magellan.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hagia_Sopia_6163502494_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hagia_Sopia_6163502494_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 667,
+        "src": "/assets/img/2026-11-06/4089-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1146,
+        "src": "/assets/img/2026-11-06/4089-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1146,
+    "credit": {
+      "artist": "William Neuheisel from DC, US [cropped by Fazoffic]",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHagia_Sopia_6163502494_(cropped)_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kenya_bombing_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -25919,6 +26111,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d4/WilliamJBryan1902_3x4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/WilliamJBryan1902_3x4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 464,
+        "height": 619,
+        "src": "/assets/img/2026-11-06/4091-1-464.webp"
+      }
+    ],
+    "width": 464,
+    "height": 619,
+    "credit": {
+      "artist": "James E. Purdy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliamJBryan1902_3x4.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Confucius%2C_fresco_from_a_Western_Han_tomb_of_Dongping_County%2C_Shandong_province%2C_China.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -27761,6 +27971,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AErdbebenkreuz.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 502,
+        "src": "/assets/img/2026-11-06/4088-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 862,
+        "src": "/assets/img/2026-11-06/4088-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 862,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHanford_B_Reactor.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lusitania%27s_bow_before_launch.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lusitania%27s_bow_before_launch.jpg",
     "sources": [
@@ -29193,6 +29426,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hanford_Reach_National_Monument.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hanford_Reach_National_Monument.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 676,
+        "src": "/assets/img/2026-11-06/4088-1-640.webp"
+      },
+      {
+        "width": 830,
+        "height": 877,
+        "src": "/assets/img/2026-11-06/4088-1-830.webp"
+      }
+    ],
+    "width": 830,
+    "height": 877,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHanford_Reach_National_Monument.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29927,6 +30183,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADante_and_beatrice.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f8/John_C_Breckinridge-04775-restored_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/John_C_Breckinridge-04775-restored_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 850,
+        "src": "/assets/img/2026-11-06/4087-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1461,
+        "src": "/assets/img/2026-11-06/4087-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1461,
+    "credit": {
+      "artist": "Mathew Benjamin Brady / Levin Corbin Handy",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_C_Breckinridge-04775-restored_(3x4_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f8/Simpson_James_Young_signature_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Simpson_James_Young_signature_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -30291,6 +30570,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%D0%9A%D0%BE%D0%BD%D0%B5%D1%86_%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BE%D1%8F.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 924,
+        "src": "/assets/img/2026-11-06/4090-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1589,
+        "src": "/assets/img/2026-11-06/4090-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1589,
+    "credit": {
+      "artist": "United States Atomic Energy Commission",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1971-CANNIKIN-2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
