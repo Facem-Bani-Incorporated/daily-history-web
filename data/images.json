@@ -3383,6 +3383,24 @@
     "height": 824,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/3840px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/3840px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 929,
+        "src": "/assets/img/2026-11-07/4100-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1596,
+        "src": "/assets/img/2026-11-07/4100-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1596,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Maryland_Campaign_1862.pdf/page1-960px-Maryland_Campaign_1862.pdf.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3473,6 +3491,24 @@
     "height": 731,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cheng_Ho_Fleet.JPG/3840px-Cheng_Ho_Fleet.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cheng_Ho_Fleet.JPG/3840px-Cheng_Ho_Fleet.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-07/4100-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-11-07/4100-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_view_of_the_White_House.jpg/3840px-Aerial_view_of_the_White_House.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_view_of_the_White_House.jpg/3840px-Aerial_view_of_the_White_House.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3507,6 +3543,24 @@
     ],
     "width": 1100,
     "height": 584,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD_%2819687188164%29.jpg/3840px-%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD_%2819687188164%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD_%2819687188164%29.jpg/3840px-%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD_%2819687188164%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 432,
+        "src": "/assets/img/2026-11-07/4100-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 743,
+        "src": "/assets/img/2026-11-07/4100-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 743,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Treason_Site_Historic_Marker.jpg/3840px-Treason_Site_Historic_Marker.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -6601,6 +6655,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElizabeth_Bourchier_Cromwell.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Ensisheim.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ensisheim.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 524,
+        "src": "/assets/img/2026-11-07/4099-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 901,
+        "src": "/assets/img/2026-11-07/4099-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 901,
+    "credit": {
+      "artist": "H. Raab (User:Vesta)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEnsisheim.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg",
     "sources": [
@@ -8438,6 +8515,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Triangle_Hill_Chinese_Infantrymen.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/26/Ensisheim_meteorit_donnerstein_1_vss2007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ensisheim_meteorit_donnerstein_1_vss2007.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 450,
+        "src": "/assets/img/2026-11-07/4099-0-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 450,
+    "credit": {
+      "artist": "Konrad Andrä",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEnsisheim_meteorit_donnerstein_1_vss2007.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/26/MongolArcher.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/MongolArcher.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -9759,6 +9854,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_Heysham_Overend_-_The_attack_on_the_court_house_St_Thomas_in_the_East_Jamaica%2C_1865_(1).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 856,
+        "src": "/assets/img/2026-11-07/4098-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1472,
+        "src": "/assets/img/2026-11-07/4098-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1472,
+    "credit": {
+      "artist": "Workshop of Michiel Jansz. van Mierevelt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/34/DDFC.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15916,6 +16034,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1862_international_exhibition_01.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/70/Johnson_CoombeAbbey_HAGAM.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Johnson_CoombeAbbey_HAGAM.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 463,
+        "src": "/assets/img/2026-11-07/4098-2-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 723,
+        "src": "/assets/img/2026-11-07/4098-2-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 723,
+    "credit": {
+      "artist": "Maria Johnson",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohnson_CoombeAbbey_HAGAM.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/70/MK18538_Bannockburn.jpg": {
