@@ -3095,6 +3095,24 @@
     "height": 1481,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/3840px-Scoto_%28Duns_Scoto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/3840px-Scoto_%28Duns_Scoto%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 960,
+        "src": "/assets/img/2026-11-08/4107-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1650,
+        "src": "/assets/img/2026-11-08/4107-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1650,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Abbasid_Provinces_ca_788_improved.png/3840px-Abbasid_Provinces_ca_788_improved.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3345,6 +3363,24 @@
     ],
     "width": 1100,
     "height": 598,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Torcello%2C_santa_fosca%2C_esterno_01.jpg/3840px-Torcello%2C_santa_fosca%2C_esterno_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Torcello%2C_santa_fosca%2C_esterno_01.jpg/3840px-Torcello%2C_santa_fosca%2C_esterno_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 443,
+        "src": "/assets/img/2026-11-08/4105-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 762,
+        "src": "/assets/img/2026-11-08/4105-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 762,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Pavlov_House_Ryazan.JPG/3840px-Pavlov_House_Ryazan.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -4581,6 +4617,29 @@
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMithridates_VI_Louvre.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 754,
+        "src": "/assets/img/2026-11-08/4103-0-640.webp"
+      },
+      {
+        "width": 788,
+        "height": 928,
+        "src": "/assets/img/2026-11-08/4103-0-788.webp"
+      }
+    ],
+    "width": 788,
+    "height": 928,
+    "credit": {
+      "artist": "Unknown artistUnknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARetrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/06/RFK_Portrait_3x4_%28rotated%29.jpg": {
@@ -10570,6 +10629,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMiranda_justice_brennan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/39/Venezianische_Kolonien.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Venezianische_Kolonien.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 454,
+        "src": "/assets/img/2026-11-08/4105-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 780,
+        "src": "/assets/img/2026-11-08/4105-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 780,
+    "credit": {
+      "artist": "Maximilian Dörrbecker (Chumwa)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVenezianische_Kolonien.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danube_Crusade_and_Battle_of_Nicopolis_plan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Danube_Crusade_and_Battle_of_Nicopolis_plan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12934,6 +13016,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrayer_in_Cairo_1865.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/ScuttleFleetNHMDF.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ScuttleFleetNHMDF.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 365,
+        "src": "/assets/img/2026-11-08/4103-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 628,
+        "src": "/assets/img/2026-11-08/4103-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 628,
+    "credit": {
+      "artist": "AlejandroLinaresGarcia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScuttleFleetNHMDF.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%94%AF%E4%B8%80%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E5%94%AF%E4%B8%80%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13431,6 +13536,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanislaw_I_Leszczynski_of_Poland.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/56/Weiditz_Trachtenbuch_077_Hernan_Cort%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Weiditz_Trachtenbuch_077_Hernan_Cort%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 862,
+        "src": "/assets/img/2026-11-08/4103-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1482,
+        "src": "/assets/img/2026-11-08/4103-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1482,
+    "credit": {
+      "artist": "Christoph Weiditz the Elder",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWeiditz_Trachtenbuch_077_Hernan_Cort%C3%A9s.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/57/16126.d.1%2835%29-Japanese_troops_advance_on_Pyongyang_from_all_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14140,6 +14268,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASrebrenicaPotocari_Memorial_Stone.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Venezia_flotila.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Venezia_flotila.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 378,
+        "height": 230,
+        "src": "/assets/img/2026-11-08/4105-2-378.webp"
+      }
+    ],
+    "width": 378,
+    "height": 230,
+    "credit": {
+      "artist": "anonymous cca 1330",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVenezia_flotila.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boris_Yeltsin_%283x4_close_cropped%29.jpg": {
@@ -23152,6 +23298,29 @@
       "license": "CC BY 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACanal_de_Suez.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/Duns_Scotus_plaque_University_Church_Oxford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Duns_Scotus_plaque_University_Church_Oxford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-08/4107-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-08/4107-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Kaihsu Tai",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADuns_Scotus_plaque_University_Church_Oxford.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Elias_Howe%2C_commemorative_stamp%2C_5c_1940_issue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
