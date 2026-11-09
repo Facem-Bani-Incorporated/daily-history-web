@@ -3275,6 +3275,24 @@
     "height": 825,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Firing_upon_the_Russian_Men-of-War_in_Amur_River.jpg/3840px-Firing_upon_the_Russian_Men-of-War_in_Amur_River.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Firing_upon_the_Russian_Men-of-War_in_Amur_River.jpg/3840px-Firing_upon_the_Russian_Men-of-War_in_Amur_River.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 385,
+        "src": "/assets/img/2026-11-09/4116-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 662,
+        "src": "/assets/img/2026-11-09/4116-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 662,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG/3840px-GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG/3840px-GeorgeEastmanBoyhoodHomeFrontViewOblique.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -5942,6 +5960,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOhio_quarter%2C_reverse_side%2C_2002.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/10/Stockholm_Bloodbath.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Stockholm_Bloodbath.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 414,
+        "src": "/assets/img/2026-11-09/4114-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 712,
+        "src": "/assets/img/2026-11-09/4114-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 712,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStockholm_Bloodbath.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/10/War_of_the_3rd_coalition.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9636,6 +9677,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInce_minare_sculpture_1.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Illustrated_Police_News_-_17_November_1888_-_Mary_Jane_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Illustrated_Police_News_-_17_November_1888_-_Mary_Jane_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 448,
+        "src": "/assets/img/2026-11-09/4113-2-640.webp"
+      },
+      {
+        "width": 644,
+        "height": 663,
+        "src": "/assets/img/2026-11-09/4113-2-644.webp"
+      }
+    ],
+    "width": 644,
+    "height": 663,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Illustrated_Police_News_-_17_November_1888_-_Mary_Jane_Kelly.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11832,6 +11896,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbraham_Lincoln_O-77_matte_collodion_print_(3x4_close_cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 682,
+        "src": "/assets/img/2026-11-09/4112-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1172,
+        "src": "/assets/img/2026-11-09/4112-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1172,
+    "credit": {
+      "artist": "François Bouchot",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/44/Mecanismo_de_Higgs_PH.png": {
@@ -14859,6 +14946,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADow_jones_daily_close_logged.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/Jack_the_Ripper_1888_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jack_the_Ripper_1888_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 248,
+        "height": 331,
+        "src": "/assets/img/2026-11-09/4113-1-248.webp"
+      }
+    ],
+    "width": 248,
+    "height": 331,
+    "credit": {
+      "artist": "R. Taylor (R. &amp; E. Taylor (Firm))",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJack_the_Ripper_1888_(3x4_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/61/Visigoths_sack_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Visigoths_sack_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17412,6 +17517,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGraph_of_largest_earthquakes_1906-2005.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Mary_Jane_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mary_Jane_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 700,
+        "src": "/assets/img/2026-11-09/4113-0-640.webp"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "src": "/assets/img/2026-11-09/4113-0-960.webp"
+      }
+    ],
+    "width": 960,
+    "height": 1280,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMary_Jane_Kelly.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/NaoVictoria.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/NaoVictoria.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19460,6 +19588,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMeeting_of_Henry_VIII_and_Maximilian.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Yoshifuji-utagawa-rr213.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Yoshifuji-utagawa-rr213.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 348,
+        "src": "/assets/img/2026-11-09/4115-0-640.webp"
+      },
+      {
+        "width": 998,
+        "height": 542,
+        "src": "/assets/img/2026-11-09/4115-0-998.webp"
+      }
+    ],
+    "width": 998,
+    "height": 542,
+    "credit": {
+      "artist": "Yoshitora Utagawa",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoshifuji-utagawa-rr213.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83%E5%AE%A3%E5%BA%9C%E9%8E%AE%E5%9C%9F%E6%9C%A8%E4%B9%8B%E8%AE%8A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19793,6 +19944,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEast_Numidia.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/93/Fabre_-_Lucien_Bonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fabre_-_Lucien_Bonaparte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 818,
+        "src": "/assets/img/2026-11-09/4112-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1406,
+        "src": "/assets/img/2026-11-09/4112-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1406,
+    "credit": {
+      "artist": "François-Xavier Fabre",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFabre_-_Lucien_Bonaparte.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/93/Isabela_karel6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -25081,6 +25255,24 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAmelia_Earhart_birthplace_from_NE_1.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Blodbadstavlan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Blodbadstavlan.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 514,
+        "height": 377,
+        "src": "/assets/img/2026-11-09/4114-0-514.webp"
+      }
+    ],
+    "width": 514,
+    "height": 377,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABlodbadstavlan.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fashoda_Egyptian_fort_ruins_%281898%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
