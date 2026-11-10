@@ -3077,6 +3077,24 @@
     "height": 589,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Stanley_Persepolis_graffiti.JPG/3840px-Stanley_Persepolis_graffiti.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Stanley_Persepolis_graffiti.JPG/3840px-Stanley_Persepolis_graffiti.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-11-10/4120-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-11-10/4120-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/AbrahamWhippleColorPortrait.jpg/3840px-AbrahamWhippleColorPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/AbrahamWhippleColorPortrait.jpg/3840px-AbrahamWhippleColorPortrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3575,6 +3593,24 @@
         "width": 1100,
         "height": 733,
         "src": "/assets/img/2026-10-13/3900-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Marine-31st.jpg/3840px-Marine-31st.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Marine-31st.jpg/3840px-Marine-31st.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-11-10/4122-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-11-10/4122-0-1100.webp"
       }
     ],
     "width": 1100,
@@ -6581,6 +6617,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALe_Petit_Journal_Balkan_Crisis_(1908).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Portrait_of_Discoverer_of_Livingstone_%284671166%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Portrait_of_Discoverer_of_Livingstone_%284671166%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 862,
+        "src": "/assets/img/2026-11-10/4120-1-640.webp"
+      },
+      {
+        "width": 1044,
+        "height": 1406,
+        "src": "/assets/img/2026-11-10/4120-1-1044.webp"
+      }
+    ],
+    "width": 1044,
+    "height": 1406,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Discoverer_of_Livingstone_(4671166).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/17/Adamstrumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Adamstrumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8195,6 +8254,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreasury_department_official_1907.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/USS_Tarawa_operations.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/USS_Tarawa_operations.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 457,
+        "src": "/assets/img/2026-11-10/4122-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 786,
+        "src": "/assets/img/2026-11-10/4122-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 786,
+    "credit": {
+      "artist": "U.S. Navy photo by Photographer's Mate 3rd Class Taylor Goode.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Tarawa_operations.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -8736,6 +8818,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFederico_III.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/27/Fouch%C3%A9%2C_Joseph.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Fouch%C3%A9%2C_Joseph.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 524,
+        "src": "/assets/img/2026-11-10/4124-2-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 524,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFouch%C3%A9%2C_Joseph.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/27/Harald_Hardrada_saga_ancestry.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -10204,6 +10304,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APhilip_Sheridan_Statue.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_First_Leader_of_Marines%2C_Maj._Samuel_Nicholas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_First_Leader_of_Marines%2C_Maj._Samuel_Nicholas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 901,
+        "src": "/assets/img/2026-11-10/4122-2-640.webp"
+      },
+      {
+        "width": 737,
+        "height": 1037,
+        "src": "/assets/img/2026-11-10/4122-2-737.webp"
+      }
+    ],
+    "width": 737,
+    "height": 1037,
+    "credit": {
+      "artist": "I Marine Expeditionary Force",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_First_Leader_of_Marines%2C_Maj._Samuel_Nicholas.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/35/Sarajevo_trial%2C_accused.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sarajevo_trial%2C_accused.jpg",
     "sources": [
@@ -10499,6 +10622,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APunch_Anti-Irish_propaganda_(1882)_Irish_Frankenstein.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/38/Wagenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wagenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 412,
+        "src": "/assets/img/2026-11-10/4123-1-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 580,
+        "src": "/assets/img/2026-11-10/4123-1-900.webp"
+      }
+    ],
+    "width": 900,
+    "height": 580,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWagenburg.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/38/Wilbur_Wright-crop.jpg": {
@@ -16172,6 +16318,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Nautilus_SSN571.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6f/Battle_of_Varna_1444.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Battle_of_Varna_1444.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 395,
+        "src": "/assets/img/2026-11-10/4123-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 679,
+        "src": "/assets/img/2026-11-10/4123-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 679,
+    "credit": {
+      "artist": "Jan Matejko",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Varna_1444.PNG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/MarchWomenVersailles5-6october1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/MarchWomenVersailles5-6october1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18798,6 +18967,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_B_McClellan_-_retouched%2C_cropped.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/Hans_and_Margarethe_Luther%2C_by_Lucas_Cranach_the_Elder.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hans_and_Margarethe_Luther%2C_by_Lucas_Cranach_the_Elder.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 337,
+        "src": "/assets/img/2026-11-10/4121-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 580,
+        "src": "/assets/img/2026-11-10/4121-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 580,
+    "credit": {
+      "artist": "Lucas Cranach the Elder",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHans_and_Margarethe_Luther%2C_by_Lucas_Cranach_the_Elder.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/86/Pitcairn_Autogiro_NASA_GPN-2000-001990.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pitcairn_Autogiro_NASA_GPN-2000-001990.jpg",
     "sources": [
@@ -19317,6 +19509,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStrategic_Situation_of_Europe_1805.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8b/Temple_of_Reason_Strasbourg_1793-1794.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Temple_of_Reason_Strasbourg_1793-1794.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 728,
+        "src": "/assets/img/2026-11-10/4124-0-640.webp"
+      },
+      {
+        "width": 756,
+        "height": 1266,
+        "src": "/assets/img/2026-11-10/4124-0-756.webp"
+      }
+    ],
+    "width": 756,
+    "height": 1266,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Reason_Strasbourg_1793-1794.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chrysler_Imperial_car-1955.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chrysler_Imperial_car-1955.JPG",
     "sources": [
@@ -19703,6 +19918,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlooding_after_1991_cyclone.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1013,
+        "src": "/assets/img/2026-11-10/4121-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1741,
+        "src": "/assets/img/2026-11-10/4121-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1741,
+    "credit": {
+      "artist": "Lucas Cranach the Elder",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_(Veste_Coburg).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Albert_Koch_Varusschlacht_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Albert_Koch_Varusschlacht_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19834,6 +20072,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_III%2C_when_Prince_of_Orange_-_Wissing_1685.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/Antoine-Fran%C3%A7ois_Momoro.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Antoine-Fran%C3%A7ois_Momoro.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 740,
+        "src": "/assets/img/2026-11-10/4124-1-640.webp"
+      },
+      {
+        "width": 818,
+        "height": 946,
+        "src": "/assets/img/2026-11-10/4124-1-818.webp"
+      }
+    ],
+    "width": 818,
+    "height": 946,
+    "credit": {
+      "artist": "Peronard, graveur",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAntoine-Fran%C3%A7ois_Momoro.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/92/AzerbazkanBiruni.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20987,6 +21248,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMars-express-volcanoes-sm.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/No-nb_bldsa_1c051_Henry_Morton_Stanley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/No-nb_bldsa_1c051_Henry_Morton_Stanley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 909,
+        "src": "/assets/img/2026-11-10/4120-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1563,
+        "src": "/assets/img/2026-11-10/4120-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1563,
+    "credit": {
+      "artist": "Creator:J. Russel &amp; Sons",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANo-nb_bldsa_1c051_Henry_Morton_Stanley.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abigail_Adams.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abigail_Adams.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -21471,6 +21755,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AView_of_Port_Arthur_and_Imperial_Russian_Leaders.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Battle_of_Varna.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Battle_of_Varna.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 620,
+        "src": "/assets/img/2026-11-10/4123-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1066,
+        "src": "/assets/img/2026-11-10/4123-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1066,
+    "credit": {
+      "artist": "Kandi",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Varna.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a4/Carlo_Buonaparte.jpg": {
@@ -24370,6 +24677,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUS4750A_Sewing_Machine.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/be/Augustinerkloster_Erfurt_19-05-2011_DSCF6253.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Augustinerkloster_Erfurt_19-05-2011_DSCF6253.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 477,
+        "src": "/assets/img/2026-11-10/4121-2-640.webp"
+      },
+      {
+        "width": 900,
+        "height": 671,
+        "src": "/assets/img/2026-11-10/4121-2-900.webp"
+      }
+    ],
+    "width": 900,
+    "height": 671,
+    "credit": {
+      "artist": "Martina Nolte",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAugustinerkloster_Erfurt_19-05-2011_DSCF6253.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/be/FieldOfGettysburg1863.PNG": {
