@@ -5384,6 +5384,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1944-07-15GerWW2BattlefrontAtlas.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gottfried_Wilhelm_Leibniz_c1700.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gottfried_Wilhelm_Leibniz_c1700.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 775,
+        "src": "/assets/img/2026-11-11/4130-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1332,
+        "src": "/assets/img/2026-11-11/4130-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1332,
+    "credit": {
+      "artist": "Johann Friedrich Wentzel",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGottfried_Wilhelm_Leibniz_c1700.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lawn_Tennis_Court_1874.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lawn_Tennis_Court_1874.jpg",
     "sources": [
@@ -6382,6 +6405,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATreatyOfGuadalupeHidalgoCover.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Tycho-supernova-xray.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tycho-supernova-xray.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 640,
+        "src": "/assets/img/2026-11-11/4131-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1100,
+        "src": "/assets/img/2026-11-11/4131-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1100,
+    "credit": {
+      "artist": "NASA/CXC/Rutgers/J.Warren &amp; J.Hughes et al.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATycho-supernova-xray.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/15/Father_Miguel_Hidalgo_y_Costilla%2C_Statue_in_Atotonilco%2C_Mexico.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9498,6 +9544,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_defeat_of_Hemu%2C_Akbarnama.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armisticetrain_%28slight_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armisticetrain_%28slight_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 504,
+        "height": 673,
+        "src": "/assets/img/2026-11-11/4129-0-504.webp"
+      }
+    ],
+    "width": 504,
+    "height": 673,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArmisticetrain_(slight_crop).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gerolamo_Cardano_%28colour%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gerolamo_Cardano_%28colour%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12165,6 +12229,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAnglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_(Granard_portrait)_-004_(cropped).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/45/LeipzigLeibniz.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/45/LeipzigLeibniz.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1502,
+        "src": "/assets/img/2026-11-11/4130-0-640.webp"
+      },
+      {
+        "width": 1056,
+        "height": 2478,
+        "src": "/assets/img/2026-11-11/4130-0-1056.webp"
+      }
+    ],
+    "width": 1056,
+    "height": 2478,
+    "credit": {
+      "artist": "Jwaller",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeipzigLeibniz.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/45/Marcus_Gheeraerts_the_Younger_Elizabeth_I_Trinity_College_Cambridge.jpg": {
@@ -15092,6 +15179,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADow_jones_daily_close_logged.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/61/HaymarketRiot-Harpers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/HaymarketRiot-Harpers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 444,
+        "src": "/assets/img/2026-11-11/4132-0-640.webp"
+      },
+      {
+        "width": 964,
+        "height": 669,
+        "src": "/assets/img/2026-11-11/4132-0-964.webp"
+      }
+    ],
+    "width": 964,
+    "height": 669,
+    "credit": {
+      "artist": "Thure de Thulstrup",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHaymarketRiot-Harpers.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/61/Jack_the_Ripper_1888_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jack_the_Ripper_1888_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -15318,6 +15428,52 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElias_Howe_portrait.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/Mayflower_Compact_Bradford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mayflower_Compact_Bradford.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 778,
+        "src": "/assets/img/2026-11-11/4133-1-640.webp"
+      },
+      {
+        "width": 841,
+        "height": 1504,
+        "src": "/assets/img/2026-11-11/4133-1-841.webp"
+      }
+    ],
+    "width": 841,
+    "height": 1504,
+    "credit": {
+      "artist": "William Bradford (1590-1657)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMayflower_Compact_Bradford.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 451,
+        "src": "/assets/img/2026-11-11/4133-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 775,
+        "src": "/assets/img/2026-11-11/4133-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 775,
+    "credit": {
+      "artist": "Jean Leon Gerome Ferris",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Mayflower_Compact_1620_cph.3g07155.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/63/William_Hogarth_028.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -19619,6 +19775,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APhil2.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tycho_Cas_SN1572.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tycho_Cas_SN1572.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 807,
+        "src": "/assets/img/2026-11-11/4131-1-640.webp"
+      },
+      {
+        "width": 1015,
+        "height": 1280,
+        "src": "/assets/img/2026-11-11/4131-1-1015.webp"
+      }
+    ],
+    "width": 1015,
+    "height": 1280,
+    "credit": {
+      "artist": "Tycho Brahe",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATycho_Cas_SN1572.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg",
     "sources": [
@@ -20182,6 +20361,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_B_Selden_driving_automobile_in_1905.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/Leibnitzrechenmaschine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Leibnitzrechenmaschine.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-11/4130-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-11/4130-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "User:Kolossos",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeibnitzrechenmaschine.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/93/East_Numidia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -27350,6 +27552,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHelicopter_evacuation_of_Saigon_atop_22_Gia_Long_Street.webp"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d9/MayflowerCompactBasrelief.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/MayflowerCompactBasrelief.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 428,
+        "src": "/assets/img/2026-11-11/4133-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 736,
+        "src": "/assets/img/2026-11-11/4133-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 736,
+    "credit": {
+      "artist": "Peter Whitlock",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMayflowerCompactBasrelief.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -28002,6 +28227,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalixtus_II.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/Haymarket_Flier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Haymarket_Flier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 923,
+        "src": "/assets/img/2026-11-11/4132-2-640.webp"
+      },
+      {
+        "width": 710,
+        "height": 1024,
+        "src": "/assets/img/2026-11-11/4132-2-710.webp"
+      }
+    ],
+    "width": 710,
+    "height": 1024,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHaymarket_Flier.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -28271,6 +28519,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOpening_day_of_the_Nixon_impeachment_inquiry.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tycho_Light_Curve.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tycho_Light_Curve.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 547,
+        "src": "/assets/img/2026-11-11/4131-2-640.webp"
+      },
+      {
+        "width": 966,
+        "height": 826,
+        "src": "/assets/img/2026-11-11/4131-2-966.webp"
+      }
+    ],
+    "width": 966,
+    "height": 826,
+    "credit": {
+      "artist": "Quaoar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATycho_Light_Curve.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e0/Zacarias_Moussaoui.jpg": {
@@ -29555,6 +29826,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGeorge_Westinghouse_in_1864%2C_at_age_17.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/eb/Haymarketnewspaper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Haymarketnewspaper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 926,
+        "src": "/assets/img/2026-11-11/4132-1-640.webp"
+      },
+      {
+        "width": 708,
+        "height": 1024,
+        "src": "/assets/img/2026-11-11/4132-1-708.webp"
+      }
+    ],
+    "width": 708,
+    "height": 1024,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHaymarketnewspaper.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ec/Corradino_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Corradino_Statue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29806,6 +30100,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMax_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 410,
+        "src": "/assets/img/2026-11-11/4129-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 858,
+        "src": "/assets/img/2026-11-11/4129-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 858,
+    "credit": {
+      "artist": "David McLellan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ee/Very_friendly_MPS_officers_in_London.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -31159,6 +31476,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFighting_between_Mahmud_of_Ghazni_and_Abu_'Ali_Simjuri.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hindenburg%2C_Kaiser%2C_Ludendorff_HD-SN-99-02150.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hindenburg%2C_Kaiser%2C_Ludendorff_HD-SN-99-02150.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 443,
+        "src": "/assets/img/2026-11-11/4129-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 761,
+        "src": "/assets/img/2026-11-11/4129-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 761,
+    "credit": {
+      "artist": "Robert Sennecke",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHindenburg%2C_Kaiser%2C_Ludendorff_HD-SN-99-02150.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f9/Margaret_Thatcher_%281983%29.jpg": {
