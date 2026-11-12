@@ -14572,6 +14572,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJames_II_(1685).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leon_Trotsky_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leon_Trotsky_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 850,
+        "src": "/assets/img/2026-11-12/4137-1-640.webp"
+      },
+      {
+        "width": 685,
+        "height": 910,
+        "src": "/assets/img/2026-11-12/4137-1-685.webp"
+      }
+    ],
+    "width": 685,
+    "height": 910,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeon_Trotsky_(3x4_close_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5c/SrebrenicaPotocari_Memorial_Stone.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/SrebrenicaPotocari_Memorial_Stone.jpg",
     "sources": [
@@ -15865,6 +15888,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlcockandbrown_mail.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Balkanskata_voina_Photobox.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Balkanskata_voina_Photobox.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 526,
+        "src": "/assets/img/2026-11-12/4141-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 904,
+        "src": "/assets/img/2026-11-12/4141-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 904,
+    "credit": {
+      "artist": "Avidius (talk)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalkanskata_voina_Photobox.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/68/BevanMP.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/BevanMP.jpg",
     "sources": [
@@ -16408,6 +16454,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrehistoric_pottery_shards%2C_Sierra_Leone.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Robert_Falcon_Scott_-_Outlands.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Robert_Falcon_Scott_-_Outlands.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 481,
+        "src": "/assets/img/2026-11-12/4138-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 827,
+        "src": "/assets/img/2026-11-12/4138-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 827,
+    "credit": {
+      "artist": "Mibmit",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARobert_Falcon_Scott_-_Outlands.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chicago-fire2.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16996,6 +17065,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARaleigh's_first_pipe_in_England.jpeg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Scott_of_the_Antarctic_%28bw%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 850,
+        "src": "/assets/img/2026-11-12/4138-0-640.webp"
+      },
+      {
+        "width": 967,
+        "height": 1284,
+        "src": "/assets/img/2026-11-12/4138-0-967.webp"
+      }
+    ],
+    "width": 967,
+    "height": 1284,
+    "credit": {
+      "artist": "Henry Maull (1829–1914) and John Fox (1832–1907)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScott_of_the_Antarctic_(bw)_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/72/Wexford_Opera_House_rises_above_the_old_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -19077,6 +19169,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABoris_Yeltsin_(3x4_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/Bulgarian_soldiers_of_the_Balkan_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bulgarian_soldiers_of_the_Balkan_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 818,
+        "src": "/assets/img/2026-11-12/4141-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1406,
+        "src": "/assets/img/2026-11-12/4141-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1406,
+    "credit": {
+      "artist": "Georges Scott",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABulgarian_soldiers_of_the_Balkan_Wars.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/86/Cooks_Karte_von_Neufundland.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cooks_Karte_von_Neufundland.jpg",
     "sources": [
@@ -19305,6 +19420,29 @@
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGold_dinar_of_al-Mansur%2C_al-Mansuriya%2C_AH_338.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/89/Amir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Amir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 904,
+        "src": "/assets/img/2026-11-12/4139-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1552,
+        "src": "/assets/img/2026-11-12/4139-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1552,
+    "credit": {
+      "artist": "Frank A. Martin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAmir_Abdur_Rahman_Khan_of_Afghanistan-cropped.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/89/Coronation_Henry4_England_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20706,6 +20844,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APlan_of_the_Battle_of_Yorktown_1875.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/96/The_guest_house_and_its_gardens_Wellcome_L0025010.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_guest_house_and_its_gardens_Wellcome_L0025010.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 483,
+        "src": "/assets/img/2026-11-12/4139-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 831,
+        "src": "/assets/img/2026-11-12/4139-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 831,
+    "credit": {
+      "artist": null,
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_guest_house_and_its_gardens_Wellcome_L0025010.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Tribal_Council_Building%2C_Isleta_Pueblo_NM.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -24950,6 +25111,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANissan_Atlas_F22_001.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/be/Robert_Falcon_Scott_aged_13.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Robert_Falcon_Scott_aged_13.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 478,
+        "height": 753,
+        "src": "/assets/img/2026-11-12/4138-1-478.webp"
+      }
+    ],
+    "width": 478,
+    "height": 753,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARobert_Falcon_Scott_aged_13.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26616,6 +26795,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn-smith-in-europe.webp"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-12/4137-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1466,
+        "src": "/assets/img/2026-11-12/4137-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1466,
+    "credit": {
+      "artist": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeon_Trotsky_1918_(3x4_rotated_cropped_b).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/cf/Soca_Kobarid.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -29120,6 +29322,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALusitania's_bow_before_launch.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pudge_heffelfinger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pudge_heffelfinger.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 233,
+        "height": 318,
+        "src": "/assets/img/2026-11-12/4140-0-233.webp"
+      }
+    ],
+    "width": 233,
+    "height": 318,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APudge_heffelfinger.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e5/Richard_Nixon_presidential_portrait_crop.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Richard_Nixon_presidential_portrait_crop.jpg",
     "sources": [
@@ -29386,6 +29606,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_VI-Isabeau_de_Bavi%C3%A8re.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Greek_Artillery_Balkans.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Greek_Artillery_Balkans.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 409,
+        "src": "/assets/img/2026-11-12/4141-2-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 409,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreek_Artillery_Balkans.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e8/Iena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Iena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29609,6 +29847,29 @@
       "license": "CC BY 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APiper_(west).png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 493,
+        "src": "/assets/img/2026-11-12/4139-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 847,
+        "src": "/assets/img/2026-11-12/4139-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 847,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AShuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Geographer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -31811,6 +32072,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADer_St%C3%A4nker.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leo_Trotsky_1888_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Leo_Trotsky_1888_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 366,
+        "height": 626,
+        "src": "/assets/img/2026-11-12/4137-2-366.webp"
+      }
+    ],
+    "width": 366,
+    "height": 626,
+    "credit": {
+      "artist": "Unidentified photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeo_Trotsky_1888_Portrait_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fc/Les_ballons_sortis_pendant_le_Siege_de_Paris%2C_1870-1871.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
