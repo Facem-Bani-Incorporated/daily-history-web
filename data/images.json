@@ -6338,6 +6338,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJames_Gosling_2008.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/14/Johann_Eck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Johann_Eck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 601,
+        "src": "/assets/img/2026-11-13/4148-2-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1033,
+        "src": "/assets/img/2026-11-13/4148-2-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1033,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohann_Eck.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/14/Legislative_Assembly_Medal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Legislative_Assembly_Medal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12026,6 +12049,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUniversal_Postal_Union_stamp_10c_1974_issue.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/42/William_II_of_England_in_miniature.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/William_II_of_England_in_miniature.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 278,
+        "height": 397,
+        "src": "/assets/img/2026-11-13/4147-2-278.webp"
+      }
+    ],
+    "width": 278,
+    "height": 397,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AWilliam_II_of_England_in_miniature.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16410,6 +16451,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIntel_4004_on_Busicom_calculator_circuit_board.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malcolm%27s_Cross%2C_Broomhouse_Hill%2C_Alnwick%2C_Northumberland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malcolm%27s_Cross%2C_Broomhouse_Hill%2C_Alnwick%2C_Northumberland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 435,
+        "src": "/assets/img/2026-11-13/4146-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 748,
+        "src": "/assets/img/2026-11-13/4146-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 748,
+    "credit": {
+      "artist": "Kim Traynor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMalcolm's_Cross%2C_Broomhouse_Hill%2C_Alnwick%2C_Northumberland.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mckinley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mckinley.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17364,6 +17428,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUmayyad_Caliphate._temp._Mu'awiya_I_ibn_Abi_Sufyan._AH_41-60_AD_661-680.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/75/7_Nicolo_di_Pietro._1413-15._The_Saint_Augustine_Taken_to_School_by_Saint_Monica._Pinacoteca%2C_Vatican..jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/7_Nicolo_di_Pietro._1413-15._The_Saint_Augustine_Taken_to_School_by_Saint_Monica._Pinacoteca%2C_Vatican..jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 951,
+        "src": "/assets/img/2026-11-13/4145-1-640.webp"
+      },
+      {
+        "width": 935,
+        "height": 1390,
+        "src": "/assets/img/2026-11-13/4145-1-935.webp"
+      }
+    ],
+    "width": 935,
+    "height": 1390,
+    "credit": {
+      "artist": "Niccolò di Pietro",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A7_Nicolo_di_Pietro._1413-15._The_Saint_Augustine_Taken_to_School_by_Saint_Monica._Pinacoteca%2C_Vatican..jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/75/Conjoined_X-ray.jpg": {
@@ -22189,6 +22276,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACarlo_Buonaparte.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Johannes-Eck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Johannes-Eck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 726,
+        "src": "/assets/img/2026-11-13/4148-0-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 1035,
+        "src": "/assets/img/2026-11-13/4148-0-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 1035,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohannes-Eck.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg",
     "sources": [
@@ -25523,6 +25633,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACapture_of_Den_Briel_1572.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gerard_Seghers_%28attr%29_-_The_Four_Doctors_of_the_Western_Church%2C_Saint_Augustine_of_Hippo_%28354%E2%80%93430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gerard_Seghers_%28attr%29_-_The_Four_Doctors_of_the_Western_Church%2C_Saint_Augustine_of_Hippo_%28354%E2%80%93430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 514,
+        "src": "/assets/img/2026-11-13/4145-2-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 803,
+        "src": "/assets/img/2026-11-13/4145-2-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 803,
+    "credit": {
+      "artist": "Attributed to Gerard Seghers",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGerard_Seghers_(attr)_-_The_Four_Doctors_of_the_Western_Church%2C_Saint_Augustine_of_Hippo_(354%E2%80%93430).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gunpowder_Plot_conspirators.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gunpowder_Plot_conspirators.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -28066,6 +28199,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArthurCatherine.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Malcolm3Canmore.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Malcolm3Canmore.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 502,
+        "src": "/assets/img/2026-11-13/4147-0-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 502,
+    "credit": {
+      "artist": "Alexander Bannermann",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMalcolm3Canmore.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29171,6 +29322,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmancipation_Proclamation_WDL2714.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malcum_Camnoir.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Malcum_Camnoir.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 565,
+        "height": 797,
+        "src": "/assets/img/2026-11-13/4147-1-565.webp"
+      }
+    ],
+    "width": 565,
+    "height": 797,
+    "credit": {
+      "artist": "Forman Armorial (produced for Mary, Queen of Scots)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMalcum_Camnoir.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e4/SSCentralAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/SSCentralAmerica.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29872,6 +30041,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AShuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e9/Signatur_Johannes_Eck.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Signatur_Johannes_Eck.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 168,
+        "height": 62,
+        "src": "/assets/img/2026-11-13/4148-1-168.webp"
+      }
+    ],
+    "width": 168,
+    "height": 62,
+    "credit": {
+      "artist": "Johannes_Eck",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASignatur_Johannes_Eck.PNG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Geographer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Geographer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -30039,6 +30226,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APatrick_henry.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 817,
+        "src": "/assets/img/2026-11-13/4145-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1404,
+        "src": "/assets/img/2026-11-13/4145-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1404,
+    "credit": {
+      "artist": "Philippe de Champaigne",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaint_Augustine_by_Philippe_de_Champaigne.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wreck_of_the_Central_America.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
