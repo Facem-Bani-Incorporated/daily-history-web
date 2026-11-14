@@ -3077,6 +3077,24 @@
     "height": 589,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg/3840px-Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg/3840px-Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-14/4153-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-11-14/4153-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Stanley_Persepolis_graffiti.JPG/3840px-Stanley_Persepolis_graffiti.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Stanley_Persepolis_graffiti.JPG/3840px-Stanley_Persepolis_graffiti.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3255,6 +3273,24 @@
     ],
     "width": 1100,
     "height": 825,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Staartster_boven_Alkmaar%2C_1681%2C_RP-T-00-341.jpg/3840px-Staartster_boven_Alkmaar%2C_1681%2C_RP-T-00-341.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Staartster_boven_Alkmaar%2C_1681%2C_RP-T-00-341.jpg/3840px-Staartster_boven_Alkmaar%2C_1681%2C_RP-T-00-341.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 420,
+        "src": "/assets/img/2026-11-14/4157-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 722,
+        "src": "/assets/img/2026-11-14/4157-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 722,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Stanford_Family.jpg/3840px-Statue_of_Stanford_Family.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -3543,6 +3579,24 @@
     ],
     "width": 1100,
     "height": 596,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/3840px-Song_Taizu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/3840px-Song_Taizu.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 718,
+        "src": "/assets/img/2026-11-14/4155-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1235,
+        "src": "/assets/img/2026-11-14/4155-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1235,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_Scotland_Yard_sign.jpg/3840px-New_Scotland_Yard_sign.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -8346,6 +8400,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Tarawa_operations.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/22/468_NEW-YORK_CITY_ASYLUM_FOR_THE_INSANE_%28WOMAN%29_BLACKWELL%27S_ISLAND.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/468_NEW-YORK_CITY_ASYLUM_FOR_THE_INSANE_%28WOMAN%29_BLACKWELL%27S_ISLAND.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 335,
+        "src": "/assets/img/2026-11-14/4156-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 576,
+        "src": "/assets/img/2026-11-14/4156-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 576,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A468_NEW-YORK_CITY_ASYLUM_FOR_THE_INSANE_(WOMAN)_BLACKWELL'S_ISLAND.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/HMS_Beagle_by_Conrad_Martens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -10565,6 +10642,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMassacre_of_the_Vaudois_of_Merindol.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Moby-Dick_FE_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1051,
+        "src": "/assets/img/2026-11-14/4154-0-640.webp"
+      },
+      {
+        "width": 840,
+        "height": 1380,
+        "src": "/assets/img/2026-11-14/4154-0-840.webp"
+      }
+    ],
+    "width": 840,
+    "height": 1380,
+    "credit": {
+      "artist": "The original uploader was Chick Bowen at English Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoby-Dick_FE_title_page.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/36/Scrooby_village_addison.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Scrooby_village_addison.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12699,6 +12799,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrinity_Test_Site.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 580,
+        "src": "/assets/img/2026-11-14/4153-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1202,
+        "src": "/assets/img/2026-11-14/4153-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1202,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/49/Beersheba_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beersheba_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12894,6 +13017,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AViena_1529.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4a/Emperor_Taizu_play_Cuju.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Emperor_Taizu_play_Cuju.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 578,
+        "height": 460,
+        "src": "/assets/img/2026-11-14/4155-2-578.webp"
+      }
+    ],
+    "width": 578,
+    "height": 460,
+    "credit": {
+      "artist": "Qian Xuan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Taizu_play_Cuju.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4a/ISS-02_Soyuz_TM-32_Taxi_crewmembers.jpg": {
@@ -13533,6 +13674,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKing_Charles_II_by_John_Michael_Wright_or_studio.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/51/Lieve_Verschuier_-_Staartster_%28komeet%29_boven_Rotterdam_-_11028-A-B_-_Museum_Rotterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lieve_Verschuier_-_Staartster_%28komeet%29_boven_Rotterdam_-_11028-A-B_-_Museum_Rotterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 505,
+        "src": "/assets/img/2026-11-14/4157-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 869,
+        "src": "/assets/img/2026-11-14/4157-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 869,
+    "credit": {
+      "artist": "Lieve Verschuier",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALieve_Verschuier_-_Staartster_(komeet)_boven_Rotterdam_-_11028-A-B_-_Museum_Rotterdam.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/52/Battle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Battle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg",
     "sources": [
@@ -13572,6 +13736,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABendixen_Ansgar.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/Nellie_Bly_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Nellie_Bly_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 965,
+        "src": "/assets/img/2026-11-14/4156-0-640.webp"
+      },
+      {
+        "width": 926,
+        "height": 1396,
+        "src": "/assets/img/2026-11-14/4156-0-926.webp"
+      }
+    ],
+    "width": 926,
+    "height": 1396,
+    "credit": {
+      "artist": "H. J. Myers, photographer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANellie_Bly_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/52/Scots_Wha_Hae_-_geograph.org.uk_-_1278254.jpg": {
@@ -16607,6 +16794,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Nautilus_SSN571.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zhao_Kuangyin_is_proclaimed_emperor.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Zhao_Kuangyin_is_proclaimed_emperor.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 774,
+        "src": "/assets/img/2026-11-14/4155-1-640.webp"
+      },
+      {
+        "width": 893,
+        "height": 1080,
+        "src": "/assets/img/2026-11-14/4155-1-893.webp"
+      }
+    ],
+    "width": 893,
+    "height": 1080,
+    "credit": {
+      "artist": "Henry Charles Seppings Wright",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZhao_Kuangyin_is_proclaimed_emperor.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/Battle_of_Varna_1444.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Battle_of_Varna_1444.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16628,6 +16838,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Varna_1444.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6f/Comet_Kirch_from_Rotterdam_on_1680-12-29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Comet_Kirch_from_Rotterdam_on_1680-12-29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 360,
+        "src": "/assets/img/2026-11-14/4157-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 619,
+        "src": "/assets/img/2026-11-14/4157-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 619,
+    "credit": {
+      "artist": "Morn",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AComet_Kirch_from_Rotterdam_on_1680-12-29.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6f/MarchWomenVersailles5-6october1789.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18303,6 +18536,42 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AManchuria_1945-A.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moby_Dick_p510_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moby_Dick_p510_illustration.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 620,
+        "height": 972,
+        "src": "/assets/img/2026-11-14/4154-1-620.webp"
+      }
+    ],
+    "width": 620,
+    "height": 972,
+    "credit": {
+      "artist": "Augustus Burnham Shute",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoby_Dick_p510_illustration.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coin_olympias_mus_theski.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coin_olympias_mus_theski.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 676,
+        "src": "/assets/img/2026-11-14/4153-1-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 676,
+    "credit": {
+      "artist": "Fotogeniss",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACoin_olympias_mus_theski.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7c/Galveston_Juneteenth_Parade_and_Celebration_6-19-25_-_103.jpg": {
@@ -31780,6 +32049,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANuremberg_chronicles_-_Male_Siamese_twins_(CCXVIIr).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f7/Queequeg.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Queequeg.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1058,
+        "src": "/assets/img/2026-11-14/4154-2-640.webp"
+      },
+      {
+        "width": 651,
+        "height": 1076,
+        "src": "/assets/img/2026-11-14/4154-2-651.webp"
+      }
+    ],
+    "width": 651,
+    "height": 1076,
+    "credit": {
+      "artist": "I. W. Taber",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AQueequeg.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dante_and_beatrice.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dante_and_beatrice.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -31993,6 +32285,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMargaret_Thatcher_(1983).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nellie_Bly3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nellie_Bly3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 838,
+        "src": "/assets/img/2026-11-14/4156-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1440,
+        "src": "/assets/img/2026-11-14/4156-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1440,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANellie_Bly3.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/fa/Annie_Taylor_helped_to_shore.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
