@@ -2969,6 +2969,24 @@
     "height": 1648,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Pensionary_Johan_de_Witt.jpg/3840px-Grand_Pensionary_Johan_de_Witt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Pensionary_Johan_de_Witt.jpg/3840px-Grand_Pensionary_Johan_de_Witt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 825,
+        "src": "/assets/img/2026-11-15/4162-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1417,
+        "src": "/assets/img/2026-11-15/4162-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1417,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/3840px-1925_Ford_Model_T_touring.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -6236,6 +6254,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APatay.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/11/Teufelsbr%C3%BCcke01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Teufelsbr%C3%BCcke01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-15/4165-1-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 750,
+        "src": "/assets/img/2026-11-15/4165-1-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 750,
+    "credit": {
+      "artist": "de:Benutzer:Markus Schweiß",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATeufelsbr%C3%BCcke01.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg",
     "sources": [
@@ -9161,6 +9202,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAttlee%2C_Truman_and_Stalin_at_Potsdam.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Barbara_M%C3%BCller_and_Johannes_Kepler.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Barbara_M%C3%BCller_and_Johannes_Kepler.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-11-15/4164-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-11-15/4164-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": {
+      "artist": "James A. Connor",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABarbara_M%C3%BCller_and_Johannes_Kepler.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2a/Reforma_Gregoriana_del_Calendario_Juliano.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17594,6 +17658,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsles_of_Scilly_NASA.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 919,
+        "src": "/assets/img/2026-11-15/4164-0-640.webp"
+      },
+      {
+        "width": 836,
+        "height": 1200,
+        "src": "/assets/img/2026-11-15/4164-0-836.webp"
+      }
+    ],
+    "width": 836,
+    "height": 1200,
+    "credit": {
+      "artist": "August Köhler [1]",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJKepler.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/John_Herschel00.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -18183,6 +18270,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIstanbul%2C_Topkapi_Palace_Museum_MS_Hazine_1563_fol._47v_Suleyman_I_by_Nakka%C5%9F_Osman.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 787,
+        "src": "/assets/img/2026-11-15/4162-0-640.webp"
+      },
+      {
+        "width": 1000,
+        "height": 1229,
+        "src": "/assets/img/2026-11-15/4162-0-1000.webp"
+      }
+    ],
+    "width": 1000,
+    "height": 1229,
+    "credit": {
+      "artist": "Godfrey Kneller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKing_William_III_of_England%2C_(1650-1702).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/BattleofMaritsa1371.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18825,6 +18935,29 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A16_Princes_Gate.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Inca-espa%C3%B1oles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Inca-espa%C3%B1oles.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-15/4163-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-15/4163-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Scarton (talk · contribs)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AInca-espa%C3%B1oles.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20476,6 +20609,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMeeting_of_Henry_VIII_and_Maximilian.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vicente_salvador_gomez-san_alberto.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vicente_salvador_gomez-san_alberto.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 605,
+        "height": 800,
+        "src": "/assets/img/2026-11-15/4166-0-605.webp"
+      }
+    ],
+    "width": 605,
+    "height": 800,
+    "credit": {
+      "artist": "Vicente Salvador Gómez",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVicente_salvador_gomez-san_alberto.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8f/Yoshifuji-utagawa-rr213.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Yoshifuji-utagawa-rr213.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -21085,6 +21236,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/95/Kepler-Geburtshaus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kepler-Geburtshaus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1486,
+        "src": "/assets/img/2026-11-15/4164-1-640.webp"
+      },
+      {
+        "width": 683,
+        "height": 1586,
+        "src": "/assets/img/2026-11-15/4164-1-683.webp"
+      }
+    ],
+    "width": 683,
+    "height": 1586,
+    "credit": {
+      "artist": "MarkusHagenlocher at German Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKepler-Geburtshaus.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/96/Assassinat_de_Jean_sans_Peur.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -22568,6 +22742,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohannes-Eck.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Los_13_de_la_Isla_del_Gallo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Los_13_de_la_Isla_del_Gallo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 413,
+        "src": "/assets/img/2026-11-15/4163-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 709,
+        "src": "/assets/img/2026-11-15/4163-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 709,
+    "credit": {
+      "artist": "Juan Lepiani",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALos_13_de_la_Isla_del_Gallo.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandela_e_Evelyn_1944.jpg",
     "sources": [
@@ -23983,6 +24180,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATraianus_Glyptothek_Munich_72.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b3/1550_illustration_for_the_1393_Sempacherbrief.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1550_illustration_for_the_1393_Sempacherbrief.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 287,
+        "height": 410,
+        "src": "/assets/img/2026-11-15/4165-0-287.webp"
+      }
+    ],
+    "width": 287,
+    "height": 410,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1550_illustration_for_the_1393_Sempacherbrief.jpeg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Marie_Antoinette_and_her_Children_by_%C3%89lisabeth_Vig%C3%A9e-Lebrun.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -25240,6 +25455,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABerlin_Wall_at_the_Reagan_Library.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_davids_de_heem-fleurs_avec_portrait_guillaume_III_d%27Orange.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jan_davids_de_heem-fleurs_avec_portrait_guillaume_III_d%27Orange.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 783,
+        "src": "/assets/img/2026-11-15/4162-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1346,
+        "src": "/assets/img/2026-11-15/4162-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1346,
+    "credit": {
+      "artist": "Jan Davidsz. de Heem / Johannes van der Meer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJan_davids_de_heem-fleurs_avec_portrait_guillaume_III_d'Orange.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/bc/Louis_Lumi%C3%A8re_%28examining_film%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -31001,6 +31239,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarvard_House_Stratford_(5665088336).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 456,
+        "src": "/assets/img/2026-11-15/4163-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 783,
+        "src": "/assets/img/2026-11-15/4163-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 783,
+    "credit": {
+      "artist": "Juan Lepiani",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALa_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Nasser_observing_Aswan_Dam_construction.jpg": {
