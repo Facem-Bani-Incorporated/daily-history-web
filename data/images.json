@@ -8308,6 +8308,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACasa_do_Infante_(Porto).JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/21/Clun_Castle_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Clun_Castle_02.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-11-17/4173-1-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 426,
+    "credit": {
+      "artist": "Philip Halling",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AClun_Castle_02.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/21/David_Cameron_official.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/David_Cameron_official.jpg",
     "sources": [
@@ -9765,6 +9783,24 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGirolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2f/Haughmond_Abbey_ruins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Haughmond_Abbey_ruins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-17/4173-2-640.webp"
+      }
+    ],
+    "width": 640,
+    "height": 480,
+    "credit": {
+      "artist": "Keith Havercroft",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHaughmond_Abbey_ruins.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/2f/Phelpsmill_ottertailcounty.jpg": {
@@ -12313,6 +12349,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAbraham_Lincoln_O-77_matte_collodion_print_(3x4_close_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/44/Andlau_Abbatiale170.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Andlau_Abbatiale170.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 562,
+        "src": "/assets/img/2026-11-17/4172-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1177,
+        "src": "/assets/img/2026-11-17/4172-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1177,
+    "credit": {
+      "artist": "© Ralph Hammann - Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAndlau_Abbatiale170.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12664,6 +12723,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABritish_39th_Siege_Battery_RGA_Somme_1916.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Frankfurt_Am_Main-Urkunden-Kaiser-08821202.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/Frankfurt_Am_Main-Urkunden-Kaiser-08821202.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 501,
+        "src": "/assets/img/2026-11-17/4172-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 862,
+        "src": "/assets/img/2026-11-17/4172-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 862,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrankfurt_Am_Main-Urkunden-Kaiser-08821202.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/47/Jethro_Tull_%28agr%C3%B3nomo%29.jpg": {
@@ -21031,6 +21113,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALeibnitzrechenmaschine.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/92/Naturales_4.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Naturales_4.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 522,
+        "height": 725,
+        "src": "/assets/img/2026-11-17/4171-0-522.webp"
+      }
+    ],
+    "width": 522,
+    "height": 725,
+    "credit": {
+      "artist": "Boxer Codex",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANaturales_4.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/93/East_Numidia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/East_Numidia.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -21236,6 +21336,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/95/Iranun_pirate.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Iranun_pirate.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1055,
+        "src": "/assets/img/2026-11-17/4171-2-640.webp"
+      },
+      {
+        "width": 798,
+        "height": 1315,
+        "src": "/assets/img/2026-11-17/4171-2-798.webp"
+      }
+    ],
+    "width": 798,
+    "height": 1315,
+    "credit": {
+      "artist": "Frank Marryat",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIranun_pirate.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/95/Kepler-Geburtshaus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -25288,6 +25411,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABayeux_Tapestry_scene57_Harold_death.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/bb/Emperor_Jomei.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Emperor_Jomei.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 961,
+        "src": "/assets/img/2026-11-17/4174-0-640.webp"
+      },
+      {
+        "width": 832,
+        "height": 1249,
+        "src": "/assets/img/2026-11-17/4174-0-832.webp"
+      }
+    ],
+    "width": 832,
+    "height": 1249,
+    "credit": {
+      "artist": "明治天皇聖徳奉讃会",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEmperor_Jomei.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/bb/Harvey%2C_Prince_of_Wales_and_Duke_of_York_Wellcome_M0016114_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Harvey%2C_Prince_of_Wales_and_Duke_of_York_Wellcome_M0016114_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26012,6 +26158,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGhazan's_feast.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Isabela_spol.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Isabela_spol.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 491,
+        "src": "/assets/img/2026-11-17/4173-0-640.webp"
+      },
+      {
+        "width": 932,
+        "height": 715,
+        "src": "/assets/img/2026-11-17/4173-0-932.webp"
+      }
+    ],
+    "width": 932,
+    "height": 715,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsabela_spol.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -26363,6 +26532,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAntoine_III_de_Gramont_-_Basque_Museum_in_Bayonne.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mausoleum_of_Emperor_Jomei.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Mausoleum_of_Emperor_Jomei.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-17/4174-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-17/4174-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Takanuka",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMausoleum_of_Emperor_Jomei.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -27962,6 +28154,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKeplers_supernova.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sulu_archipelago.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Sulu_archipelago.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 411,
+        "src": "/assets/img/2026-11-17/4171-1-640.webp"
+      },
+      {
+        "width": 798,
+        "height": 512,
+        "src": "/assets/img/2026-11-17/4171-1-798.webp"
+      }
+    ],
+    "width": 798,
+    "height": 512,
+    "credit": {
+      "artist": "Kleomarlo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASulu_archipelago.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -30986,6 +31201,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARobert_Walpole%2C_1st_Earl_of_Orford_by_Arthur_Pond.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sceau_de_Charles_le_gros.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sceau_de_Charles_le_gros.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 302,
+        "height": 291,
+        "src": "/assets/img/2026-11-17/4172-0-302.webp"
+      }
+    ],
+    "width": 302,
+    "height": 291,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASceau_de_Charles_le_gros.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/ed/South_Africa_topo_continent.png": {
