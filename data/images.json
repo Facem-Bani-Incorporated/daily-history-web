@@ -2969,6 +2969,24 @@
     "height": 1648,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/3840px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/3840px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 426,
+        "src": "/assets/img/2026-11-18/4181-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 732,
+        "src": "/assets/img/2026-11-18/4181-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 732,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Pensionary_Johan_de_Witt.jpg/3840px-Grand_Pensionary_Johan_de_Witt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Pensionary_Johan_de_Witt.jpg/3840px-Grand_Pensionary_Johan_de_Witt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3581,6 +3599,24 @@
     "height": 781,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/3840px-PonteSantAngeloRom.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/3840px-PonteSantAngeloRom.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 427,
+        "src": "/assets/img/2026-11-18/4181-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 733,
+        "src": "/assets/img/2026-11-18/4181-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 733,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Repin_17October.jpg/3840px-Repin_17October.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Repin_17October.jpg/3840px-Repin_17October.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4065,6 +4101,24 @@
     ],
     "width": 1100,
     "height": 834,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 334,
+        "src": "/assets/img/2026-11-18/4181-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 574,
+        "src": "/assets/img/2026-11-18/4181-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 574,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ming_Iron_Hat_%2810129288656%29.jpg/3840px-Ming_Iron_Hat_%2810129288656%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -8651,6 +8705,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARosetta_Stone.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/24/Allegheny_Observatory_%288098380656%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Allegheny_Observatory_%288098380656%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1070,
+        "src": "/assets/img/2026-11-18/4180-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1839,
+        "src": "/assets/img/2026-11-18/4180-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1839,
+    "credit": {
+      "artist": "Shane Simmons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAllegheny_Observatory_(8098380656).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/24/Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -12902,6 +12979,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AErdbeben_Basel_Jauslin.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Ladd_Observatory_Standard_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ladd_Observatory_Standard_Time.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 984,
+        "src": "/assets/img/2026-11-18/4180-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1691,
+        "src": "/assets/img/2026-11-18/4180-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1691,
+    "credit": {
+      "artist": "Ladd Observatory",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALadd_Observatory_Standard_Time.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Manuscript_copy_of_Guru_Granth_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -22635,6 +22735,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASri_Guru_Granth_Sahib_Nishan.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vertieres.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vertieres.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 566,
+        "height": 382,
+        "src": "/assets/img/2026-11-18/4179-0-566.webp"
+      }
+    ],
+    "width": 566,
+    "height": 382,
+    "credit": {
+      "artist": "Kitanago",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVertieres.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -23027,6 +23145,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConstantine_multiple_CdM_Beistegui_233.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a6/Gutthiuda.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Gutthiuda.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 438,
+        "src": "/assets/img/2026-11-18/4182-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 547,
+        "src": "/assets/img/2026-11-18/4182-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 547,
+    "credit": {
+      "artist": "Fakirbakir",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGutthiuda.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shah_Jahan_and_Mumtaz_Mahal.jpg": {
@@ -30080,6 +30221,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASSCentralAmerica.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e4/Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422_-_Group.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Visigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422_-_Group.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 523,
+        "src": "/assets/img/2026-11-18/4182-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 899,
+        "src": "/assets/img/2026-11-18/4182-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 899,
+    "credit": {
+      "artist": "Anonymous (Visigothic)Unknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVisigothic_-_Pair_of_Eagle_Fibula_-_Walters_54421%2C_54422_-_Group.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yuan_Iron_Helmet_%289872873454%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Yuan_Iron_Helmet_%289872873454%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -31807,6 +31971,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABanTheSovietsCoalitionPressReleaseAndPetition10_1983.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f2/Corona_de_%2829049230050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Corona_de_%2829049230050%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1334,
+        "src": "/assets/img/2026-11-18/4182-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 2293,
+        "src": "/assets/img/2026-11-18/4182-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 2293,
+    "credit": {
+      "artist": "Ángel M. Felicísimo from Mérida, España",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACorona_de_(29049230050).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hanford_Reach_National_Monument.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
