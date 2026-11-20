@@ -3455,6 +3455,24 @@
     "height": 734,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Salona_-_amphitheatre_-_panorama.jpg/3840px-Salona_-_amphitheatre_-_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Salona_-_amphitheatre_-_panorama.jpg/3840px-Salona_-_amphitheatre_-_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 229,
+        "src": "/assets/img/2026-11-20/4195-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 395,
+        "src": "/assets/img/2026-11-20/4195-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 395,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/3840px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/3840px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4620,6 +4638,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEarl_Warren.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/Montemartini_-_Carino_1030439.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Montemartini_-_Carino_1030439.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 912,
+        "src": "/assets/img/2026-11-20/4195-2-640.webp"
+      },
+      {
+        "width": 947,
+        "height": 1349,
+        "src": "/assets/img/2026-11-20/4195-2-947.webp"
+      }
+    ],
+    "width": 947,
+    "height": 1349,
+    "credit": {
+      "artist": "Lalupa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMontemartini_-_Carino_1030439.JPG"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/04/Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Roswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg",
     "sources": [
@@ -5301,6 +5342,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_the_Nile.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-20/4199-0-640.webp"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "src": "/assets/img/2026-11-20/4199-0-768.webp"
+      }
+    ],
+    "width": 768,
+    "height": 1024,
+    "credit": {
+      "artist": "Antônio Parreiras",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAnt%C3%B4nio_Parreiras_-_Zumbi_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0b/Augustus_Bevilacqua_Glyptothek_Munich_317.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -7552,6 +7616,29 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrysler_World_Headquarters_and_Technology_Center_(51378087937).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Essex_photo_03_b.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Essex_photo_03_b.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 493,
+        "src": "/assets/img/2026-11-20/4197-0-640.webp"
+      },
+      {
+        "width": 700,
+        "height": 539,
+        "src": "/assets/img/2026-11-20/4197-0-700.webp"
+      }
+    ],
+    "width": 700,
+    "height": 539,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEssex_photo_03_b.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg": {
@@ -15146,6 +15233,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVenezia_flotila.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zumbidospalmares.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Zumbidospalmares.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 778,
+        "src": "/assets/img/2026-11-20/4199-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1337,
+        "src": "/assets/img/2026-11-20/4199-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1337,
+    "credit": {
+      "artist": "Elza Fiúza/ABr",
+      "license": "CC BY 3.0 br",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AZumbidospalmares.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boris_Yeltsin_%283x4_close_cropped%29.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boris_Yeltsin_%283x4_close_cropped%29.jpg",
     "sources": [
@@ -19996,6 +20106,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABulgarian_soldiers_of_the_Balkan_Wars.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/C%C3%B4te_Sud_Morbihan_-_Baie_de_Quiberon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/C%C3%B4te_Sud_Morbihan_-_Baie_de_Quiberon.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 418,
+        "height": 452,
+        "src": "/assets/img/2026-11-20/4198-0-418.webp"
+      }
+    ],
+    "width": 418,
+    "height": 452,
+    "credit": {
+      "artist": "This image has been made by GwenofGwened and released under the licenses stated below. You are free to use it for any pu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AC%C3%B4te_Sud_Morbihan_-_Baie_de_Quiberon.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/86/Cooks_Karte_von_Neufundland.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cooks_Karte_von_Neufundland.jpg",
     "sources": [
@@ -20738,6 +20866,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATycho_Cas_SN1572.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8d/Monumento_a_Zumbi_dos_Palmares_%2814897941949%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Monumento_a_Zumbi_dos_Palmares_%2814897941949%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 429,
+        "src": "/assets/img/2026-11-20/4199-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 736,
+        "src": "/assets/img/2026-11-20/4199-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 736,
+    "credit": {
+      "artist": "Cícero R. C. Omena",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMonumento_a_Zumbi_dos_Palmares_(14897941949).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8d/Suez_Canal%2C_Port_Said_-_ISS_2.jpg": {
@@ -22305,6 +22456,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9c/Battle_of_Trenton_by_Charles_McBarron.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Battle_of_Trenton_by_Charles_McBarron.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 466,
+        "src": "/assets/img/2026-11-20/4196-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 802,
+        "src": "/assets/img/2026-11-20/4196-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 802,
+    "credit": {
+      "artist": "Published by U.S. Government Printing Office; painting by Hugh Charles McBarron, Jr. (1902-1992)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Trenton_by_Charles_McBarron.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Benjamin_Franklin_-_Join_or_Die.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -22884,6 +23058,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVertieres.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/a/a3/Essex_Sinking.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Essex_Sinking.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 400,
+        "height": 400,
+        "src": "/assets/img/2026-11-20/4197-1-400.webp"
+      }
+    ],
+    "width": 400,
+    "height": 400,
+    "credit": {
+      "artist": "User:Wikid77",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEssex_Sinking.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/a/a3/HD.30.507_%2810444069294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -24554,6 +24746,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AN%C2%B0_9_de_la_place_dans_le_centre_ville_de_Langres.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Battle_of_Quiberon_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Battle_of_Quiberon_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 371,
+        "src": "/assets/img/2026-11-20/4198-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 637,
+        "src": "/assets/img/2026-11-20/4198-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 637,
+    "credit": {
+      "artist": "Dominic Serres",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Battle_of_Quiberon_Bay.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Traianus_Glyptothek_Munich_72.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -25087,6 +25302,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGuo_Zhongshu_-_Summer_Palace_of_Emperor_Ming_Huang_-_Google_Art_Project.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b5/Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 853,
+        "src": "/assets/img/2026-11-20/4195-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1467,
+        "src": "/assets/img/2026-11-20/4195-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1467,
+    "credit": {
+      "artist": "Dosseman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIstanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_Palace_of_Art_and_Industry%2C_exhibition_of_1862%3B_the_inte_Wellcome_V0013592.jpg": {
@@ -27095,6 +27333,29 @@
       "license": "Copyrighted free use",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALocation_of_the_Ryukyu_Islands.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/OwenChase.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/OwenChase.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1012,
+        "src": "/assets/img/2026-11-20/4197-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1739,
+        "src": "/assets/img/2026-11-20/4197-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1739,
+    "credit": {
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOwenChase.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c7/Amelia_Earhart_birthplace_from_NE_1.JPG": {
@@ -31605,6 +31866,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASceau_de_Charles_le_gros.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bataille-Cardinaux.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bataille-Cardinaux.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 533,
+        "src": "/assets/img/2026-11-20/4198-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 916,
+        "src": "/assets/img/2026-11-20/4198-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 916,
+    "credit": {
+      "artist": "Richard Wright",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABataille-Cardinaux.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/e/ed/South_Africa_topo_continent.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/South_Africa_topo_continent.png",
     "sources": [
@@ -32104,6 +32388,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlmanacka_1753.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Battle_of_Guilford_Courthouse_15_March_1781.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Battle_of_Guilford_Courthouse_15_March_1781.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 459,
+        "src": "/assets/img/2026-11-20/4196-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 789,
+        "src": "/assets/img/2026-11-20/4196-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 789,
+    "credit": {
+      "artist": "H. Charles McBarron, The original uploader was Oldwildbill at English Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Guilford_Courthouse_15_March_1781.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
