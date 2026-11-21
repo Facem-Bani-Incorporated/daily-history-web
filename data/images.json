@@ -3095,6 +3095,24 @@
     "height": 1350,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/3840px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/3840px-Albert_Einstein_Head_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 792,
+        "src": "/assets/img/2026-11-21/4204-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1361,
+        "src": "/assets/img/2026-11-21/4204-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1361,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Battle_of_Sekigahara_folding_screen.jpg/3840px-Battle_of_Sekigahara_folding_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Battle_of_Sekigahara_folding_screen.jpg/3840px-Battle_of_Sekigahara_folding_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -5810,6 +5828,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarold-III-Coin.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 864,
+        "src": "/assets/img/2026-11-21/4208-0-640.webp"
+      },
+      {
+        "width": 736,
+        "height": 994,
+        "src": "/assets/img/2026-11-21/4208-0-736.webp"
+      }
+    ],
+    "width": 736,
+    "height": 994,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMichael_Collins.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/0e/Michael_iii.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9266,6 +9307,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Ferdinand_II%2C_Holy_Roman_Emperor_(Kunsthistorisches_Museum%2C_Wien).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/28/Edison%27s_Menlo_Park_Lab.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Edison%27s_Menlo_Park_Lab.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 422,
+        "src": "/assets/img/2026-11-21/4205-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 726,
+        "src": "/assets/img/2026-11-21/4205-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 726,
+    "credit": {
+      "artist": "Credit Line: Public domain, courtesy AIP Emilio Segrè Visual Archives, Physics Today Collection",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdison's_Menlo_Park_Lab.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/28/Jethro_Tull_seed_drill_%281762%29.png": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jethro_Tull_seed_drill_%281762%29.png",
     "sources": [
@@ -10410,6 +10474,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1099_Siege_of_Jerusalem.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/33/Albert_Einstein_1921_by_F_Schmutzer_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Albert_Einstein_1921_by_F_Schmutzer_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 847,
+        "src": "/assets/img/2026-11-21/4204-1-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 1059,
+        "src": "/assets/img/2026-11-21/4204-1-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 1059,
+    "credit": {
+      "artist": "Ferdinand Schmutzer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlbert_Einstein_1921_by_F_Schmutzer_(3x4_close_cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/33/Columbian_Issue_1893-5c.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Columbian_Issue_1893-5c.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11229,6 +11316,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A1099_Ascalon.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/39/Albert_Einstein_age_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/39/Albert_Einstein_age_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1042,
+        "src": "/assets/img/2026-11-21/4204-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1791,
+        "src": "/assets/img/2026-11-21/4204-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1791,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlbert_Einstein_age_3.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/39/Ameliachild.jpg": {
@@ -14199,6 +14309,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATogoland.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/Young_Thomas_Edison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/Young_Thomas_Edison.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 772,
+        "src": "/assets/img/2026-11-21/4205-1-640.webp"
+      },
+      {
+        "width": 910,
+        "height": 1097,
+        "src": "/assets/img/2026-11-21/4205-1-910.webp"
+      }
+    ],
+    "width": 910,
+    "height": 1097,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AYoung_Thomas_Edison.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/53/EinzugdesGesandten_AdriaenPauw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/EinzugdesGesandten_AdriaenPauw.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -16360,6 +16493,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASim%C3%B3n_Bol%C3%ADvar%2C_1800.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Ballon_de_Jacques_Charles_1783.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ballon_de_Jacques_Charles_1783.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 417,
+        "src": "/assets/img/2026-11-21/4207-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 717,
+        "src": "/assets/img/2026-11-21/4207-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 717,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABallon_de_Jacques_Charles_1783.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/BerlinerBlockadeLuftwege.png": {
@@ -22625,6 +22781,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACopyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_(NBY_21340).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/Early_flight_02562u_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Early_flight_02562u_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 435,
+        "height": 636,
+        "src": "/assets/img/2026-11-21/4207-2-640.webp"
+      },
+      {
+        "width": 661,
+        "height": 967,
+        "src": "/assets/img/2026-11-21/4207-2-972.webp"
+      }
+    ],
+    "width": 661,
+    "height": 967,
+    "credit": {
+      "artist": "Created/published: Paris : Romanet &amp; Cie., imp. edit.,",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEarly_flight_02562u_(4).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9d/Houghton_Inc_6316.10_%28A%29_-_Girolamo_Savonarola%2C_1496_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Houghton_Inc_6316.10_%28A%29_-_Girolamo_Savonarola%2C_1496_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -22692,6 +22871,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANo-nb_bldsa_1c051_Henry_Morton_Stanley.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 819,
+        "src": "/assets/img/2026-11-21/4205-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1408,
+        "src": "/assets/img/2026-11-21/4205-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1408,
+    "credit": {
+      "artist": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThomas_Edison2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abigail_Adams.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -27358,6 +27560,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOwenChase.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pilatre_de_Rozier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 470,
+        "height": 685,
+        "src": "/assets/img/2026-11-21/4207-0-573.webp"
+      },
+      {
+        "width": 573,
+        "height": 835,
+        "src": "/assets/img/2026-11-21/4207-0-573.webp"
+      }
+    ],
+    "width": 573,
+    "height": 835,
+    "credit": {
+      "artist": "André Pujos",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APilatre_de_Rozier.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c7/Amelia_Earhart_birthplace_from_NE_1.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Amelia_Earhart_birthplace_from_NE_1.JPG",
     "sources": [
@@ -27438,6 +27663,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHong_Taiji.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Military_%286393759933%29_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Military_%286393759933%29_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 475,
+        "src": "/assets/img/2026-11-21/4208-2-640.webp"
+      },
+      {
+        "width": 827,
+        "height": 614,
+        "src": "/assets/img/2026-11-21/4208-2-827.webp"
+      }
+    ],
+    "width": 827,
+    "height": 614,
+    "credit": {
+      "artist": "National Library of Ireland on The Commons",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMilitary_(6393759933)_(retouched).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg": {
@@ -29147,6 +29395,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_France_Infobox.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cairo_gang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cairo_gang.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 477,
+        "src": "/assets/img/2026-11-21/4208-1-640.webp"
+      },
+      {
+        "width": 932,
+        "height": 695,
+        "src": "/assets/img/2026-11-21/4208-1-932.webp"
+      }
+    ],
+    "width": 932,
+    "height": 695,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACairo_gang.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galileo_galilei%2C_telescopi_del_1609-10_ca..JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
