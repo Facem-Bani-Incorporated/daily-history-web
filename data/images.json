@@ -3149,6 +3149,24 @@
     "height": 589,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bull_%28illustration%29._%28FindID_65882%29.jpg/3840px-Bull_%28illustration%29._%28FindID_65882%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bull_%28illustration%29._%28FindID_65882%29.jpg/3840px-Bull_%28illustration%29._%28FindID_65882%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 310,
+        "src": "/assets/img/2026-11-22/4211-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 533,
+        "src": "/assets/img/2026-11-22/4211-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 533,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg/3840px-Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg/3840px-Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4654,6 +4672,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEarl_Warren.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederick_is_born_in_Jesi.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederick_is_born_in_Jesi.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 259,
+        "height": 251,
+        "src": "/assets/img/2026-11-22/4213-1-259.webp"
+      }
+    ],
+    "width": 259,
+    "height": 251,
+    "credit": {
+      "artist": "Sibeaster",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrederick_is_born_in_Jesi.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/04/Montemartini_-_Carino_1030439.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -6498,6 +6534,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_Confessions_of_Nat_Turner_(title_page).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/13/%C5%9Eehzade_Ahmed_I.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/%C5%9Eehzade_Ahmed_I.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 377,
+        "height": 625,
+        "src": "/assets/img/2026-11-22/4214-2-377.webp"
+      }
+    ],
+    "width": 377,
+    "height": 625,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%C5%9Eehzade_Ahmed_I.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/13/Guy_Carleton.webp?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -9619,6 +9673,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOttomanEmpireMain.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2b/Portrait_of_Sultan_Ahmet_I_%28r._1603%E2%80%9317%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Portrait_of_Sultan_Ahmet_I_%28r._1603%E2%80%9317%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1067,
+        "src": "/assets/img/2026-11-22/4214-0-640.webp"
+      },
+      {
+        "width": 918,
+        "height": 1530,
+        "src": "/assets/img/2026-11-22/4214-0-918.webp"
+      }
+    ],
+    "width": 918,
+    "height": 1530,
+    "credit": {
+      "artist": "17th century artist",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Sultan_Ahmet_I_(r._1603%E2%80%9317)_(cropped).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -11689,6 +11766,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMemorial_to_John_Etty_(18373251064).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 396,
+        "height": 374,
+        "src": "/assets/img/2026-11-22/4212-0-396.webp"
+      }
+    ],
+    "width": 396,
+    "height": 374,
+    "credit": {
+      "artist": "CNG Coins",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASolidus_of_Maurice_(transitional_issue).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3b/Warren_Court_1953.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Warren_Court_1953.jpg",
     "sources": [
@@ -12091,6 +12186,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFtIndependence2.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3f/Konstancie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Konstancie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 476,
+        "src": "/assets/img/2026-11-22/4213-2-640.webp"
+      },
+      {
+        "width": 672,
+        "height": 500,
+        "src": "/assets/img/2026-11-22/4213-2-672.webp"
+      }
+    ],
+    "width": 672,
+    "height": 500,
+    "credit": {
+      "artist": "Petr z Ebula",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKonstancie.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/3/3f/Romulus_Augustulus_and_Odoacer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -16495,6 +16613,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASim%C3%B3n_Bol%C3%ADvar%2C_1800.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Arolsen_Klebeband_02_323.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Arolsen_Klebeband_02_323.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 694,
+        "src": "/assets/img/2026-11-22/4214-1-640.webp"
+      },
+      {
+        "width": 748,
+        "height": 988,
+        "src": "/assets/img/2026-11-22/4214-1-1100.webp"
+      }
+    ],
+    "width": 748,
+    "height": 988,
+    "credit": {
+      "artist": "Jakob von Sandrart",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AArolsen_Klebeband_02_323.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/Ballon_de_Jacques_Charles_1783.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ballon_de_Jacques_Charles_1783.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20124,6 +20265,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APueblo01.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/84/Hayton_of_Corycus_before_Pope_Clement_V.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Hayton_of_Corycus_before_Pope_Clement_V.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 622,
+        "src": "/assets/img/2026-11-22/4211-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1069,
+        "src": "/assets/img/2026-11-22/4211-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1069,
+    "credit": {
+      "artist": "Maître du Couronnement de la Vierge",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHayton_of_Corycus_before_Pope_Clement_V.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -22152,6 +22316,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AEdgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/97/Follis_Maurice_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Follis_Maurice_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 326,
+        "src": "/assets/img/2026-11-22/4212-2-640.webp"
+      },
+      {
+        "width": 800,
+        "height": 408,
+        "src": "/assets/img/2026-11-22/4212-2-800.webp"
+      }
+    ],
+    "width": 800,
+    "height": 408,
+    "credit": {
+      "artist": "CoinID=106882",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFollis_Maurice_Constantinople.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/97/Future_Emperor_Charles_VI%2C_Austrian_School%2C_late_17th_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -29658,6 +29845,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALuoyang_2006_7-29.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 403,
+        "height": 556,
+        "src": "/assets/img/2026-11-22/4213-0-593.webp"
+      },
+      {
+        "width": 593,
+        "height": 818,
+        "src": "/assets/img/2026-11-22/4213-0-593.webp"
+      }
+    ],
+    "width": 593,
+    "height": 818,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFrederick_II_and_eagle.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jennie_Churchill_with_her_sons.jpg",
     "sources": [
@@ -30193,6 +30403,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACalixtus_II.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/df/Girdle_with_Coins_and_Medallions_MET_dp30688_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Girdle_with_Coins_and_Medallions_MET_dp30688_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 643,
+        "src": "/assets/img/2026-11-22/4212-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1106,
+        "src": "/assets/img/2026-11-22/4212-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1106,
+    "credit": {
+      "artist": null,
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGirdle_with_Coins_and_Medallions_MET_dp30688_(cropped).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/df/Haymarket_Flier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -32682,6 +32915,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Guilford_Courthouse_15_March_1781.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Clemente_V_cappellone_degli_Spagnoli.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Clemente_V_cappellone_degli_Spagnoli.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 827,
+        "src": "/assets/img/2026-11-22/4211-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1422,
+        "src": "/assets/img/2026-11-22/4211-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1422,
+    "credit": {
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AClemente_V_cappellone_degli_Spagnoli.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f1/Tumu_Crisis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
