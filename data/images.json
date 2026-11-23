@@ -4175,6 +4175,24 @@
     "height": 834,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sugar_cane_knife%2C_1800s%2C_Danish_West_Indies.jpg/3840px-Sugar_cane_knife%2C_1800s%2C_Danish_West_Indies.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sugar_cane_knife%2C_1800s%2C_Danish_West_Indies.jpg/3840px-Sugar_cane_knife%2C_1800s%2C_Danish_West_Indies.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 811,
+        "src": "/assets/img/2026-11-23/4222-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1395,
+        "src": "/assets/img/2026-11-23/4222-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1395,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4887,6 +4905,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Valcour_Island.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/06/Formella_15%2C_il_carro_di_Tespi_%28Theatrica%29%2C_nino_pisano%2C_1334-1336.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Formella_15%2C_il_carro_di_Tespi_%28Theatrica%29%2C_nino_pisano%2C_1334-1336.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 722,
+        "src": "/assets/img/2026-11-23/4219-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1240,
+        "src": "/assets/img/2026-11-23/4219-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1240,
+    "credit": {
+      "artist": "sailko",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFormella_15%2C_il_carro_di_Tespi_(Theatrica)%2C_nino_pisano%2C_1334-1336.JPG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -14519,6 +14560,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGNM_-_Gotische_Fibeln.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/53/JamesIEngland_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/JamesIEngland_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 787,
+        "src": "/assets/img/2026-11-23/4218-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1352,
+        "src": "/assets/img/2026-11-23/4218-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1352,
+    "credit": {
+      "artist": "Attributed to John de Critz",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJamesIEngland_(cropped_2).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/53/Joseph-montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Joseph-montgolfier.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17112,6 +17176,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_(cropped)-34-(brightness).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_West_Indian_Atlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_West_Indian_Atlas.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 490,
+        "src": "/assets/img/2026-11-23/4222-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 841,
+        "src": "/assets/img/2026-11-23/4222-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 841,
+    "credit": {
+      "artist": "London:Printed for Robt. Sayer &amp; John Bennett, Map and Print sellers No. 53 in Fleet Street, as the Act directs.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AThe_West_Indian_Atlas.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/6b/General_Motors_Company_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/General_Motors_Company_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -19107,6 +19194,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMary_Jane_Kelly.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/79/Mary%C2%B4s_Fancy%2C_Saint_Croix.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mary%C2%B4s_Fancy%2C_Saint_Croix.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 370,
+        "src": "/assets/img/2026-11-23/4222-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 637,
+        "src": "/assets/img/2026-11-23/4222-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 637,
+    "credit": {
+      "artist": "Fritz Melbye",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMary%C2%B4s_Fancy%2C_Saint_Croix.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/79/NaoVictoria.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -23014,6 +23124,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoughton_Inc_6316.10_(A)_-_Girolamo_Savonarola%2C_1496_-_cropped.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_James_I_of_England_and_VI_of_Scotland_by_Arnold_van_Brounckhorst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_James_I_of_England_and_VI_of_Scotland_by_Arnold_van_Brounckhorst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1046,
+        "src": "/assets/img/2026-11-23/4218-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1798,
+        "src": "/assets/img/2026-11-23/4218-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1798,
+    "credit": {
+      "artist": "Attributed to Rowland Lockey",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKing_James_I_of_England_and_VI_of_Scotland_by_Arnold_van_Brounckhorst.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mars-express-volcanoes-sm.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mars-express-volcanoes-sm.jpg",
     "sources": [
@@ -25849,6 +25982,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANathan-hale-cityhall.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b6/NK282%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/NK282%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 234,
+        "src": "/assets/img/2026-11-23/4219-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 402,
+        "src": "/assets/img/2026-11-23/4219-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 402,
+    "credit": {
+      "artist": "Furius",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ANK282(2).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/b/b6/Norditalien_und_Mittelitalien_1799.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Norditalien_und_Mittelitalien_1799.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -27875,6 +28031,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMilitary_(6393759933)_(retouched).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c8/Capture_de_S%C3%A9ville_par_Ferdinand_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Capture_de_S%C3%A9ville_par_Ferdinand_III.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 567,
+        "height": 269,
+        "src": "/assets/img/2026-11-23/4220-0-567.webp"
+      }
+    ],
+    "width": 567,
+    "height": 269,
+    "credit": {
+      "artist": "Francisco Pacheco",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACapture_de_S%C3%A9ville_par_Ferdinand_III.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg",
     "sources": [
@@ -29843,6 +30017,24 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALuoyang_2006_7-29.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Mary_Stuart_James.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mary_Stuart_James.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 600,
+        "height": 453,
+        "src": "/assets/img/2026-11-23/4218-2-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 453,
+    "credit": {
+      "artist": "Cornelis Peter Urban",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMary_Stuart_James.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
