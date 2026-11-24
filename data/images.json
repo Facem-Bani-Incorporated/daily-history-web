@@ -2951,6 +2951,24 @@
     "height": 763,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/3840px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/3840px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 398,
+        "src": "/assets/img/2026-11-24/4227-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 685,
+        "src": "/assets/img/2026-11-24/4227-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 685,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/3840px-St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4246,6 +4264,24 @@
     "width": 1100,
     "height": 792,
     "credit": null
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/00/Bethena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bethena.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 455,
+        "height": 600,
+        "src": "/assets/img/2026-11-24/4229-2-455.webp"
+      }
+    ],
+    "width": 455,
+    "height": 600,
+    "credit": {
+      "artist": "Unknown - cover of Scott Joplin Rag",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABethena.jpg"
+    }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Brooklyn_Bridge_Manhattan.jpg",
@@ -9860,6 +9896,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIllumination_of_Henry_IV_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/2/2d/During_the_battle_of_Indus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/During_the_battle_of_Indus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 492,
+        "height": 686,
+        "src": "/assets/img/2026-11-24/4226-2-600.webp"
+      },
+      {
+        "width": 600,
+        "height": 837,
+        "src": "/assets/img/2026-11-24/4226-2-600.webp"
+      }
+    ],
+    "width": 600,
+    "height": 837,
+    "credit": {
+      "artist": "Mas'ud b. Osmani Kuhistani",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADuring_the_battle_of_Indus.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Sittow_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Michel_Sittow_004.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14422,6 +14481,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScots_Wha_Hae_-_geograph.org.uk_-_1278254.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Asia_non_political%2C_with_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Asia_non_political%2C_with_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 592,
+        "src": "/assets/img/2026-11-24/4226-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1018,
+        "src": "/assets/img/2026-11-24/4226-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1018,
+    "credit": {
+      "artist": "DEMIS Mapserver, पाटलिपुत्र (talk)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASouth_Asia_non_political%2C_with_rivers.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/5/52/StLouisRiver_JayCooke.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/StLouisRiver_JayCooke.JPG",
     "sources": [
@@ -14750,6 +14832,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AElizabeth_Cady_Stanton_and_Susan_B_Anthony.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/5/55/Scott_Joplin_House.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Scott_Joplin_House.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-24/4229-1-640.webp"
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "src": "/assets/img/2026-11-24/4229-1-1024.webp"
+      }
+    ],
+    "width": 1024,
+    "height": 768,
+    "credit": {
+      "artist": "Kevin Saff",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScott_Joplin_House.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/5/55/Stanislaw_I_Leszczynski_of_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -15991,6 +16096,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Churubusco3_(cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/60/C_croisade4_flotte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/C_croisade4_flotte.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 385,
+        "height": 457,
+        "src": "/assets/img/2026-11-24/4227-1-385.webp"
+      }
+    ],
+    "width": 385,
+    "height": 457,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AC_croisade4_flotte.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/60/George_Eastman_7.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/George_Eastman_7.jpg",
     "sources": [
@@ -17005,6 +17128,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARetrato_de_Vasco_Nu%C3%B1ez_de_Balboa_(1475-1517)_-_An%C3%B3nimo.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/68/Scott_Joplin_in_1912.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scott_Joplin_in_1912.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 550,
+        "height": 710,
+        "src": "/assets/img/2026-11-24/4229-0-550.webp"
+      }
+    ],
+    "width": 550,
+    "height": 710,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScott_Joplin_in_1912.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/68/Stamp_of_USSR_1634g.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20398,6 +20539,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHayton_of_Corycus_before_Pope_Clement_V.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/84/Jalal_al-Din_Khwarazm-Shah_crossing_the_rapid_Indus_river%2C_escaping_Chinggis_Khan_and_his_army.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jalal_al-Din_Khwarazm-Shah_crossing_the_rapid_Indus_river%2C_escaping_Chinggis_Khan_and_his_army.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 994,
+        "src": "/assets/img/2026-11-24/4226-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1708,
+        "src": "/assets/img/2026-11-24/4226-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1708,
+    "credit": {
+      "artist": "Banwarí Khúrd, Dharm Dás",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJalal_al-Din_Khwarazm-Shah_crossing_the_rapid_Indus_river%2C_escaping_Chinggis_Khan_and_his_army.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20552,6 +20716,29 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AC%C3%B4te_Sud_Morbihan_-_Baie_de_Quiberon.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/86/Charles_Darwin_seated.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Charles_Darwin_seated.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 904,
+        "src": "/assets/img/2026-11-24/4225-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1553,
+        "src": "/assets/img/2026-11-24/4225-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1553,
+    "credit": {
+      "artist": "Henry Maull (1829–1914) and John Fox (1832–1907) (Maull &amp; Fox)[1]",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_Darwin_seated.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/86/Cooks_Karte_von_Neufundland.jpg": {
@@ -24823,6 +25010,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-J0908-0600-002%2C_Novemberrevolution%2C_Matrosenaufstand.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 483,
+        "src": "/assets/img/2026-11-24/4225-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 830,
+        "src": "/assets/img/2026-11-24/4225-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 830,
+    "credit": {
+      "artist": "John Gould (14.Sep.1804 - 3.Feb.1881)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ADarwin's_finches_by_Gould.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg",
     "sources": [
@@ -27660,6 +27870,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMausoleum_of_Emperor_Jomei.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pallucchini_Tintoretto_590_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pallucchini_Tintoretto_590_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 325,
+        "src": "/assets/img/2026-11-24/4227-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 559,
+        "src": "/assets/img/2026-11-24/4227-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 559,
+    "credit": {
+      "artist": "Jacopo Tintoretto",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APallucchini_Tintoretto_590_1.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Thanksgiving_at_Plymouth%2C_1925%2C_Brownscombe.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -28610,6 +28843,29 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOperation_Barbarossa_collage.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Origin_of_Species_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Origin_of_Species_title_page.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1027,
+        "src": "/assets/img/2026-11-24/4225-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1766,
+        "src": "/assets/img/2026-11-24/4225-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1766,
+    "credit": {
+      "artist": "John Murray, Publisher",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AOrigin_of_Species_title_page.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/cd/USS_Cogswell_%28DD-651%29_underway_in_1945.jpg": {
