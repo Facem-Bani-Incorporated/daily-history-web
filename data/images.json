@@ -3869,6 +3869,24 @@
     "height": 736,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Banff_from_Sulphur_Mountain_2020.jpg/3840px-Banff_from_Sulphur_Mountain_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Banff_from_Sulphur_Mountain_2020.jpg/3840px-Banff_from_Sulphur_Mountain_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 423,
+        "src": "/assets/img/2026-11-25/4238-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 728,
+        "src": "/assets/img/2026-11-25/4238-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 728,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/1583_portrait_of_Sir_Francis_Drake.jpg/3840px-1583_portrait_of_Sir_Francis_Drake.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -4664,6 +4682,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARathaus_Bremen_15111918.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/0/03/Sir_Charles_Hanbury_Williams_by_John_Giles_Eccardt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sir_Charles_Hanbury_Williams_by_John_Giles_Eccardt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 836,
+        "src": "/assets/img/2026-11-25/4236-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1437,
+        "src": "/assets/img/2026-11-25/4236-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1437,
+    "credit": {
+      "artist": "John Giles Eccardt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASir_Charles_Hanbury_Williams_by_John_Giles_Eccardt.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/0/04/Castello_d%27Albertis-DSCF5494.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Castello_d%27Albertis-DSCF5494.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -4790,6 +4831,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoswell_Daily_Record._July_8%2C_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/0/04/Schlacht_von_Montgisard_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Schlacht_von_Montgisard_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 355,
+        "src": "/assets/img/2026-11-25/4235-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 611,
+        "src": "/assets/img/2026-11-25/4235-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 611,
+    "credit": {
+      "artist": "Charles-Philippe Larivière",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASchlacht_von_Montgisard_2.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/0/05/Akiva.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -11966,6 +12030,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHarald_Hardraades_saga-Pil_i_strupen-W._Wetlesen.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Afonso_de_Albuquerque_%28Sloane%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Afonso_de_Albuquerque_%28Sloane%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 275,
+        "height": 500,
+        "src": "/assets/img/2026-11-25/4237-1-275.webp"
+      }
+    ],
+    "width": 275,
+    "height": 500,
+    "credit": {
+      "artist": "Pedro Barretto de Resende",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAfonso_de_Albuquerque_(Sloane).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bust_of_Sir_James_Y._Simpson_at_the_Royal_College_of_Physicians_of_Edinburgh%2C_Scotland.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bust_of_Sir_James_Y._Simpson_at_the_Royal_College_of_Physicians_of_Edinburgh%2C_Scotland.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -14149,6 +14231,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABattle_of_Stamford_Bridge%2C_full.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fran%C3%A7ais_5594%2C_fol._176v_bas.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Fran%C3%A7ais_5594%2C_fol._176v_bas.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 391,
+        "src": "/assets/img/2026-11-25/4235-1-640.webp"
+      },
+      {
+        "width": 803,
+        "height": 490,
+        "src": "/assets/img/2026-11-25/4235-1-803.webp"
+      }
+    ],
+    "width": 803,
+    "height": 490,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFran%C3%A7ais_5594%2C_fol._176v_bas.jpeg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/4f/KZDachau1945.jpg": {
@@ -17397,6 +17502,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Charles_III_of_Habsburg.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Stanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 915,
+        "src": "/assets/img/2026-11-25/4236-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1573,
+        "src": "/assets/img/2026-11-25/4236-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1573,
+    "credit": {
+      "artist": "Marcello Bacciarelli",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -21214,6 +21342,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APrelude_to_the_Battle_of_Vyazma_1812.png"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8b/AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/AMH-6577-KB_Bird%27s_eye_view_of_the_city_of_Goa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 448,
+        "src": "/assets/img/2026-11-25/4237-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 770,
+        "src": "/assets/img/2026-11-25/4237-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 770,
+    "credit": {
+      "artist": "Jan Huyghen van Linschoten / Cornelis Claesz",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAMH-6577-KB_Bird's_eye_view_of_the_city_of_Goa.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bed_Lodewijk_XIV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -21396,6 +21547,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChrysler_Imperial_car-1955.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Codice_Casanatense_Turkmens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Codice_Casanatense_Turkmens.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 466,
+        "src": "/assets/img/2026-11-25/4237-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 801,
+        "src": "/assets/img/2026-11-25/4237-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 801,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACodice_Casanatense_Turkmens.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/8c/Greek_Muawiya_inscription_of_Hammat_Gader%2C_663_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -28026,6 +28200,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGribeauval_guns_of_Bonaparte_in_the_Paris_insurrection_5_october_1795.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-25/4238-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-25/4238-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Gorgo",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMoraine_Lake_17092005.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/BalianofIbelin1490.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/BalianofIbelin1490.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -30833,6 +31030,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASecret_Destination_(6233259813).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/de/Stanis%C5%82aw_Poniatowski.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Stanis%C5%82aw_Poniatowski.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 444,
+        "height": 539,
+        "src": "/assets/img/2026-11-25/4236-1-444.webp"
+      }
+    ],
+    "width": 444,
+    "height": 539,
+    "credit": {
+      "artist": "Stanislas Niedermann",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanis%C5%82aw_Poniatowski.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/df/Calixtus_II.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -33918,6 +34133,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAlexander_I_of_Russia_by_G.Dawe_(1826%2C_Peterhof).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Consolation-Lake-Szmurlo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Consolation-Lake-Szmurlo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 974,
+        "src": "/assets/img/2026-11-25/4238-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1675,
+        "src": "/assets/img/2026-11-25/4238-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1675,
+    "credit": {
+      "artist": "Chuck Szmurlo",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConsolation-Lake-Szmurlo.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ferdinand_de_Lesseps_by_Nadar.jpg": {
@@ -37183,6 +37421,19 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATrapped_underground.jpg"
     }
+  },
+  "https://upload.wikimedia.org/wikipedia/en/a/a6/Kelmscott_Press_White_Ship.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/en/a/a6/Kelmscott_Press_White_Ship.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 261,
+        "height": 380,
+        "src": "/assets/img/2026-11-25/4234-1-261.webp"
+      }
+    ],
+    "width": 261,
+    "height": 380,
+    "credit": null
   },
   "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
