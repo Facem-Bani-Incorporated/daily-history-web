@@ -3293,6 +3293,19 @@
     "height": 700,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Busta_Karel_IV.jpg/500px-Busta_Karel_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Busta_Karel_IV.jpg/500px-Busta_Karel_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 500,
+        "height": 528,
+        "src": "/assets/img/2026-11-26/4243-2-500.webp"
+      }
+    ],
+    "width": 500,
+    "height": 528,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Camp_des_Pictes_%2893%29.JPG/3840px-Camp_des_Pictes_%2893%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Camp_des_Pictes_%2893%29.JPG/3840px-Camp_des_Pictes_%2893%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -3651,6 +3664,24 @@
     ],
     "width": 960,
     "height": 1200,
+    "credit": null
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Casa_Vlad_Dracul_din_Sighisoara4.JPG/3840px-Casa_Vlad_Dracul_din_Sighisoara4.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Casa_Vlad_Dracul_din_Sighisoara4.JPG/3840px-Casa_Vlad_Dracul_din_Sighisoara4.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-26/4241-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-26/4241-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
     "credit": null
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Khalili_Collection_Islamic_Art_av_964.jpg/3840px-Khalili_Collection_Islamic_Art_av_964.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
@@ -7053,6 +7084,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABenito_Mussolini_(3x4_close_cropped).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_IV-John_Ocko_votive_picture-fragment.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_IV-John_Ocko_votive_picture-fragment.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 781,
+        "src": "/assets/img/2026-11-26/4243-0-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 1342,
+        "src": "/assets/img/2026-11-26/4243-0-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 1342,
+    "credit": {
+      "artist": "Circle of Theodoric of Prague",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACharles_IV-John_Ocko_votive_picture-fragment.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_Lindbergh_1925.JPG": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Charles_Lindbergh_1925.JPG",
     "sources": [
@@ -8916,6 +8970,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALafayette_Bunnell_1880.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/2/23/%E5%8D%97%E5%AE%8B%E7%96%86%E5%9F%9F%E5%9B%BE%EF%BC%88%E7%AE%80%EF%BC%89.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E5%8D%97%E5%AE%8B%E7%96%86%E5%9F%9F%E5%9B%BE%EF%BC%88%E7%AE%80%EF%BC%89.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 439,
+        "src": "/assets/img/2026-11-26/4244-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 755,
+        "src": "/assets/img/2026-11-26/4244-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 755,
+    "credit": {
+      "artist": "玖巧仔",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3A%E5%8D%97%E5%AE%8B%E7%96%86%E5%9F%9F%E5%9B%BE%EF%BC%88%E7%AE%80%EF%BC%89.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/2/23/Chernyakhov.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17033,6 +17110,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHalve_Maen_front.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/6/67/Jurchen_woodblock_print.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jurchen_woodblock_print.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 268,
+        "height": 410,
+        "src": "/assets/img/2026-11-26/4244-2-268.webp"
+      }
+    ],
+    "width": 268,
+    "height": 410,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJurchen_woodblock_print.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/6/67/Licinius_gold_multiple_CdM_Beistegui_232.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Licinius_gold_multiple_CdM_Beistegui_232.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -17525,6 +17620,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AStanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vlad_Dracul.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Vlad_Dracul.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 201,
+        "height": 229,
+        "src": "/assets/img/2026-11-26/4241-1-201.webp"
+      }
+    ],
+    "width": 201,
+    "height": 229,
+    "credit": {
+      "artist": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVlad_Dracul.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6c/Baptism_of_Virginia_Dare.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -18435,6 +18548,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohn_Jay_(Gilbert_Stuart_portrait).jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/7/72/Karte_B%C3%B6hmen_unter_Karl_IV.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Karte_B%C3%B6hmen_unter_Karl_IV.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 638,
+        "src": "/assets/img/2026-11-26/4243-1-640.webp"
+      },
+      {
+        "width": 823,
+        "height": 821,
+        "src": "/assets/img/2026-11-26/4243-1-823.webp"
+      }
+    ],
+    "width": 823,
+    "height": 821,
+    "credit": {
+      "artist": "Maximilian Dörrbecker (Chumwa)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKarte_B%C3%B6hmen_unter_Karl_IV.png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/7/72/Raleigh%27s_first_pipe_in_England.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -20360,6 +20496,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AProtests_in_Lom%C3%A9%2C_Togo%2C_18_octobre_2017_04.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/8/80/Songrivership3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Songrivership3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-26/4244-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-26/4244-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Zeng Gongliang, uploaded by Liang Jieming",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASongrivership3.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/8/80/Uppsala_Gustavianum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Uppsala_Gustavianum.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -20578,6 +20737,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AChristiansBeforeSaladin.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/8/83/IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 792,
+        "src": "/assets/img/2026-11-26/4240-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1361,
+        "src": "/assets/img/2026-11-26/4240-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1361,
+    "credit": {
+      "artist": "anonymous",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIsabellaofCastile03.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/8/83/Mercury_3_-_Patch.png": {
@@ -22488,6 +22670,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoward_Carter_signature.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/9/94/Madrigal_de_las_Altas_Torres_casa_natal_Isabel_la_Catolica_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Madrigal_de_las_Altas_Torres_casa_natal_Isabel_la_Catolica_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 480,
+        "src": "/assets/img/2026-11-26/4240-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 825,
+        "src": "/assets/img/2026-11-26/4240-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 825,
+    "credit": {
+      "artist": "Cruccone",
+      "license": "CC BY-SA 3.0 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMadrigal_de_las_Altas_Torres_casa_natal_Isabel_la_Catolica_01.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/9/94/PSM_V57_D097_Hms_beagle_in_the_straits_of_magellan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -27558,6 +27763,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKarol_Wojtyla-1st_comunnion.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 807,
+        "src": "/assets/img/2026-11-26/4241-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1386,
+        "src": "/assets/img/2026-11-26/4241-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1386,
+    "credit": {
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AVlad_%C5%A2epe%C5%9F%2C_the_Impaler%2C_Prince_of_Wallachia_(1456-1462)_(died_1477).jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aerospatiale-British_Aircraft_Corporation_Concorde%2C_British_Airways_JP71120.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Aerospatiale-British_Aircraft_Corporation_Concorde%2C_British_Airways_JP71120.jpg",
     "sources": [
@@ -30685,6 +30913,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMalcolm3Canmore.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Palacio_Trstamara_Arevalo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Palacio_Trstamara_Arevalo.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 443,
+        "src": "/assets/img/2026-11-26/4240-2-640.webp"
+      },
+      {
+        "width": 840,
+        "height": 582,
+        "src": "/assets/img/2026-11-26/4240-2-840.webp"
+      }
+    ],
+    "width": 840,
+    "height": 582,
+    "credit": {
+      "artist": "Castespaña",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APalacio_Trstamara_Arevalo.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
