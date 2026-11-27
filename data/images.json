@@ -4260,6 +4260,24 @@
     "height": 1395,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/3840px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/3840px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 1013,
+        "src": "/assets/img/2026-11-27/4251-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1742,
+        "src": "/assets/img/2026-11-27/4251-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1742,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/3840px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -12877,6 +12895,24 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AHoragolla_Walauwa%2C_Atthanagalla%2C_Sri_Lanka.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 276,
+        "height": 625,
+        "src": "/assets/img/2026-11-27/4249-0-276.webp"
+      }
+    ],
+    "width": 276,
+    "height": 625,
+    "credit": {
+      "artist": "Pethrus (talk)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASaint_Remy_baptise_Clovis_d%C3%A9tail.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -13635,6 +13671,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AManuscript_copy_of_Guru_Granth_Sahib.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Song_Jin_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Song_Jin_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 446,
+        "src": "/assets/img/2026-11-27/4253-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 767,
+        "src": "/assets/img/2026-11-27/4253-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 767,
+    "credit": {
+      "artist": "SY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASong_Jin_Wars.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/4/48/Trinity_Test_Site.jpg": {
@@ -24785,6 +24844,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AUSS_Indianapolis_(CA-35)_underway_at_sea_on_27_September_1939_(80-G-425615).jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/aa/Conquests_of_Clovis.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Conquests_of_Clovis.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 566,
+        "src": "/assets/img/2026-11-27/4249-1-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 973,
+        "src": "/assets/img/2026-11-27/4249-1-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 973,
+    "credit": {
+      "artist": "Altaileopard",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AConquests_of_Clovis.png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fordsidevalve.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fordsidevalve.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -25527,6 +25609,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMaison_natale_de_Margaret_Thatcher%2C_Grantham.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/a/ae/MongolHuntersSong.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/MongolHuntersSong.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 507,
+        "src": "/assets/img/2026-11-27/4253-2-640.webp"
+      },
+      {
+        "width": 844,
+        "height": 669,
+        "src": "/assets/img/2026-11-27/4253-2-844.webp"
+      }
+    ],
+    "width": 844,
+    "height": 669,
+    "credit": {
+      "artist": "Hu Gui",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMongolHuntersSong.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/a/af/Dragonrouge2.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dragonrouge2.jpg",
     "sources": [
@@ -26262,6 +26367,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Girolamo_Savonarola_1524.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Richard.Strauss.1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Richard.Strauss.1894.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 334,
+        "height": 478,
+        "src": "/assets/img/2026-11-27/4252-0-334.webp"
+      }
+    ],
+    "width": 334,
+    "height": 478,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARichard.Strauss.1894.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wesiory.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -28469,6 +28592,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ABalianofIbelin1490.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/COMMODUS-RIC_III_633-78001797_DE_GERMANIS.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/COMMODUS-RIC_III_633-78001797_DE_GERMANIS.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 310,
+        "src": "/assets/img/2026-11-27/4251-2-640.webp"
+      },
+      {
+        "width": 749,
+        "height": 363,
+        "src": "/assets/img/2026-11-27/4251-2-749.webp"
+      }
+    ],
+    "width": 749,
+    "height": 363,
+    "credit": {
+      "artist": "CNG",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ACOMMODUS-RIC_III_633-78001797_DE_GERMANIS.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/Edgar_Allan_Poe_Birthplace_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Edgar_Allan_Poe_Birthplace_Boston.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -28536,6 +28682,29 @@
       "license": "Copyrighted free use",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ALocation_of_the_Ryukyu_Islands.JPG"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c6/Marcus_Aurelius_und_Commodus_-_M%C3%BCnzkabinett%2C_Berlin_-_5483205.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Marcus_Aurelius_und_Commodus_-_M%C3%BCnzkabinett%2C_Berlin_-_5483205.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 304,
+        "src": "/assets/img/2026-11-27/4251-1-640.webp"
+      },
+      {
+        "width": 991,
+        "height": 470,
+        "src": "/assets/img/2026-11-27/4251-1-991.webp"
+      }
+    ],
+    "width": 991,
+    "height": 470,
+    "credit": {
+      "artist": "Reinhard Saczewski",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMarcus_Aurelius_und_Commodus_-_M%C3%BCnzkabinett%2C_Berlin_-_5483205.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/c6/OwenChase.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -30590,6 +30759,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ATracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/da/Ary_Scheffer_-_Bataille_de_Tolbiac_496.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ary_Scheffer_-_Bataille_de_Tolbiac_496.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 571,
+        "src": "/assets/img/2026-11-27/4249-2-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 981,
+        "src": "/assets/img/2026-11-27/4249-2-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 981,
+    "credit": {
+      "artist": "Ary Scheffer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AAry_Scheffer_-_Bataille_de_Tolbiac_496.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/da/Battle_of_Lake_Erie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Battle_of_Lake_Erie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -32494,6 +32686,24 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AIJA_Type_95_Ha-Go_Manchuria_model_rear-side_view.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 556,
+        "height": 537,
+        "src": "/assets/img/2026-11-27/4253-0-556.webp"
+      }
+    ],
+    "width": 556,
+    "height": 537,
+    "credit": {
+      "artist": "Ian Kiu",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJin_Dynasty_1141_(no_borders).png"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/e/e7/Moralia_in_Job_MS_dragonslayer.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
