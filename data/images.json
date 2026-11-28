@@ -3293,6 +3293,24 @@
     "height": 700,
     "credit": null
   },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Standards_of_Genghis_Khan.png/3840px-Standards_of_Genghis_Khan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Standards_of_Genghis_Khan.png/3840px-Standards_of_Genghis_Khan.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "sources": [
+      {
+        "width": 640,
+        "height": 869,
+        "src": "/assets/img/2026-11-28/4259-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1493,
+        "src": "/assets/img/2026-11-28/4259-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1493,
+    "credit": null
+  },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Busta_Karel_IV.jpg/500px-Busta_Karel_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail": {
     "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Busta_Karel_IV.jpg/500px-Busta_Karel_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "sources": [
@@ -7599,6 +7617,29 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AScuola_veneta%2C_busto_di_papa_giulio_II_della_rovere%2C_1503-13_ca.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/1/18/Skanderbeginottomancourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Skanderbeginottomancourt.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 386,
+        "src": "/assets/img/2026-11-28/4261-2-640.webp"
+      },
+      {
+        "width": 683,
+        "height": 502,
+        "src": "/assets/img/2026-11-28/4261-2-683.webp"
+      }
+    ],
+    "width": 683,
+    "height": 502,
+    "credit": {
+      "artist": "Christoph Amberger",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASkanderbeginottomancourt.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/1/19/BeershebaSerai00138v.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -17551,6 +17592,29 @@
       "license": "Public domain",
       "licenseUrl": null,
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AM51Sketch.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Society_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Royal_Society_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 487,
+        "src": "/assets/img/2026-11-28/4258-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 837,
+        "src": "/assets/img/2026-11-28/4258-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 837,
+    "credit": {
+      "artist": "Tom Morris",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoyal_Society_entrance.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -28280,6 +28344,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AGreen_Laser.jpg"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/c/c3/JohnEvelyn1687.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/JohnEvelyn1687.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 696,
+        "src": "/assets/img/2026-11-28/4258-1-640.webp"
+      },
+      {
+        "width": 868,
+        "height": 944,
+        "src": "/assets/img/2026-11-28/4258-1-868.webp"
+      }
+    ],
+    "width": 868,
+    "height": 944,
+    "credit": {
+      "artist": "Godfrey Kneller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AJohnEvelyn1687.jpg"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/c/c3/OttomanEmpire1566.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/OttomanEmpire1566.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "sources": [
@@ -29099,6 +29186,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AFlavian_family_tree.png"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kur_Ulug_Ulus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kur_Ulug_Ulus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 385,
+        "height": 264,
+        "src": "/assets/img/2026-11-28/4259-1-385.webp"
+      }
+    ],
+    "width": 385,
+    "height": 264,
+    "credit": {
+      "artist": "Beshogur",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AKur_Ulug_Ulus.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kuruc_labanc_%C3%B6sszecsap%C3%A1s.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -30145,6 +30250,29 @@
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APapal.bull.JPG"
     }
   },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Portrait_of_Skanderbeg_%281466%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Portrait_of_Skanderbeg_%281466%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 640,
+        "height": 661,
+        "src": "/assets/img/2026-11-28/4261-0-640.webp"
+      },
+      {
+        "width": 1100,
+        "height": 1136,
+        "src": "/assets/img/2026-11-28/4261-0-1100.webp"
+      }
+    ],
+    "width": 1100,
+    "height": 1136,
+    "credit": {
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3APortrait_of_Skanderbeg_(1466).png"
+    }
+  },
   "https://upload.wikimedia.org/wikipedia/commons/d/d2/Taking_of_Jerusalem_by_the_Crusaders%2C_15th_July_1099.jpg": {
     "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Taking_of_Jerusalem_by_the_Crusaders%2C_15th_July_1099.jpg",
     "sources": [
@@ -30734,6 +30862,24 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3AMayflowerCompactBasrelief.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/d/d9/RoyalSocMace20040420.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RoyalSocMace20040420.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 616,
+        "height": 199,
+        "src": "/assets/img/2026-11-28/4258-2-616.webp"
+      }
+    ],
+    "width": 616,
+    "height": 199,
+    "credit": {
+      "artist": "The original uploader was Kaihsu at English Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARoyalSocMace20040420.jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
@@ -34571,6 +34717,29 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ARekonstruierter_Schaedel.jpg"
+    }
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Skanderbeg_and_other_students_in_Enderun_receiving_military_training_%2881764557%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Skanderbeg_and_other_students_in_Enderun_receiving_military_training_%2881764557%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "sources": [
+      {
+        "width": 525,
+        "height": 378,
+        "src": "/assets/img/2026-11-28/4261-1-640.webp"
+      },
+      {
+        "width": 902,
+        "height": 649,
+        "src": "/assets/img/2026-11-28/4261-1-1100.webp"
+      }
+    ],
+    "width": 902,
+    "height": 649,
+    "credit": {
+      "artist": "Philipp Lonicer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "descriptionUrl": "https://commons.wikimedia.org/wiki/File%3ASkanderbeg_and_other_students_in_Enderun_receiving_military_training_(81764557).jpg"
     }
   },
   "https://upload.wikimedia.org/wikipedia/commons/f/f6/Alexander_I_of_Russia_by_G.Dawe_%281826%2C_Peterhof%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled": {
